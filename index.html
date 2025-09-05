@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Hello World</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>我的第一个 JavaScript 页面</h1>
+    <p id="greeting">欢迎访问！</p>
+    
+    <button onclick="showAlert()">点击我弹窗</button>
+    <button onclick="updateGreeting()">更改问候语</button>
+    
+    <script>
+        // 简单的Hello World功能
+        function showAlert() {
+            alert("Hello, World!"); // 使用alert函数弹出对话框[1,4](@ref)
+        }
+        
+        function updateGreeting() {
+            document.getElementById("greeting").innerText = "Hello, World! 欢迎学习JavaScript!"; // 操作DOM元素[3](@ref)
+        }
+        
+        // 页面加载时在控制台输出消息
+        console.log("Hello, World! 页面已加载完成"); // 使用console.log输出到控制台[3,4](@ref)
+    </script>
+</body>
+</html>
