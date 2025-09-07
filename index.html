@@ -3,51 +3,484 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaScript Hello World</title>
+    <title>语法题目卡片测试</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+        }
+
+        .header {
             text-align: center;
-            margin-top: 50px;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: #333;
-        }
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            margin: 10px;
-            cursor: pointer;
-            background-color: #4CAF50;
             color: white;
-            border: none;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .progress-bar {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 25px;
+            height: 10px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            background: #4CAF50;
+            height: 100%;
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+        .progress-text {
+            color: white;
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            text-align: center;
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .question {
+            font-size: 1.8rem;
+            color: #333;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+
+        .answer-section {
+            display: none;
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border-left: 4px solid #007bff;
+        }
+
+        .answer-section.show {
+            display: block;
+        }
+
+        .translation {
+            font-size: 1.4rem;
+            color: #007bff;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .knowledge-point {
+            font-size: 1.1rem;
+            color: #666;
+            background: #e9ecef;
+            padding: 10px;
             border-radius: 5px;
         }
-        button:hover {
-            background-color: #45a049;
+
+        .buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .btn {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 25px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-width: 120px;
+        }
+
+        .btn-mastered {
+            background: #4CAF50;
+            color: white;
+        }
+
+        .btn-mastered:hover {
+            background: #45a049;
+            transform: translateY(-2px);
+        }
+
+        .btn-unclear {
+            background: #ff9800;
+            color: white;
+        }
+
+        .btn-unclear:hover {
+            background: #e68900;
+            transform: translateY(-2px);
+        }
+
+        .btn-forgot {
+            background: #f44336;
+            color: white;
+        }
+
+        .btn-forgot:hover {
+            background: #da190b;
+            transform: translateY(-2px);
+        }
+
+        .btn-next {
+            background: #2196F3;
+            color: white;
+            display: none;
+        }
+
+        .btn-next:hover {
+            background: #1976D2;
+            transform: translateY(-2px);
+        }
+
+        .btn-next.show {
+            display: inline-block;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+            color: white;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .start-screen {
+            text-align: center;
+            color: white;
+        }
+
+        .start-btn {
+            background: #4CAF50;
+            color: white;
+            padding: 20px 40px;
+            font-size: 1.3rem;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            margin-top: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .start-btn:hover {
+            background: #45a049;
+            transform: translateY(-3px);
+        }
+
+        .completion-screen {
+            text-align: center;
+            color: white;
+            display: none;
+        }
+
+        .completion-screen.show {
+            display: block;
+        }
+
+        .completion-title {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .completion-stats {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 30px;
+            margin: 30px 0;
+        }
+
+        .restart-btn {
+            background: #2196F3;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.1rem;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .restart-btn:hover {
+            background: #1976D2;
+            transform: translateY(-2px);
+        }
+
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                min-height: 300px;
+            }
+            
+            .question {
+                font-size: 1.4rem;
+            }
+            
+            .buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .btn {
+                width: 100%;
+                max-width: 200px;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>我的第一个 JavaScript 页面</h1>
-    <p id="greeting">欢迎访问！</p>
-    
-    <button onclick="showAlert()">点击我弹窗</button>
-    <button onclick="updateGreeting()">更改问候语</button>
-    
+    <div class="container">
+        <div class="header">
+            <h1>语法题目卡片测试</h1>
+            <p>每天20分钟，坚持3年，成就非凡人生</p>
+        </div>
+
+        <!-- 开始屏幕 -->
+        <div class="start-screen" id="startScreen">
+            <h2>准备开始测试</h2>
+            <p>每次测试包含20个题目</p>
+            <p>根据你的掌握程度选择：掌握、模糊、忘记</p>
+            <button class="start-btn" onclick="startTest()">开始测试</button>
+        </div>
+
+        <!-- 测试屏幕 -->
+        <div id="testScreen" style="display: none;">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-text" id="progressText">题目 1 / 20</div>
+            
+            <div class="card">
+                <div class="question" id="questionText"></div>
+                
+                <div class="answer-section" id="answerSection">
+                    <div class="translation" id="translationText"></div>
+                    <div class="knowledge-point" id="knowledgePointText"></div>
+                </div>
+                
+                <div class="buttons">
+                    <button class="btn btn-mastered" onclick="selectAnswer('mastered')">掌握</button>
+                    <button class="btn btn-unclear" onclick="selectAnswer('unclear')">模糊</button>
+                    <button class="btn btn-forgot" onclick="selectAnswer('forgot')">忘记</button>
+                    <button class="btn btn-next" id="nextBtn" onclick="nextQuestion()">下一题</button>
+                </div>
+            </div>
+            
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="masteredCount">0</div>
+                    <div class="stat-label">掌握</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="unclearCount">0</div>
+                    <div class="stat-label">模糊</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="forgotCount">0</div>
+                    <div class="stat-label">忘记</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 完成屏幕 -->
+        <div class="completion-screen" id="completionScreen">
+            <div class="completion-title">测试完成！</div>
+            <div class="completion-stats">
+                <h3>本次测试结果</h3>
+                <p>掌握：<span id="finalMastered">0</span> 题</p>
+                <p>模糊：<span id="finalUnclear">0</span> 题</p>
+                <p>忘记：<span id="finalForgot">0</span> 题</p>
+                <p>总题数：20 题</p>
+            </div>
+            <button class="restart-btn" onclick="restartTest()">重新开始</button>
+        </div>
+    </div>
+
     <script>
-        // 简单的Hello World功能
-        function showAlert() {
-            alert("Hello, World!"); // 使用alert函数弹出对话框[1,4](@ref)
+        // 题目数据
+        let questions = [];
+        let currentQuestionIndex = 0;
+        let testQuestions = [];
+        let stats = {
+            mastered: 0,
+            unclear: 0,
+            forgot: 0
+        };
+
+        // 加载题目数据
+        async function loadQuestions() {
+            try {
+                const response = await fetch('questions_data.json');
+                questions = await response.json();
+                console.log(`加载了 ${questions.length} 个题目`);
+            } catch (error) {
+                console.error('加载题目数据失败:', error);
+                // 如果无法加载JSON文件，使用示例数据
+                questions = [
+                    {
+                        question: "一个感到无聊的人",
+                        translation: "a bored man",
+                        knowledge_point: "形容词"
+                    },
+                    {
+                        question: "令人厌烦的人",
+                        translation: "a boring man",
+                        knowledge_point: "形容词"
+                    },
+                    {
+                        question: "她没有被逗笑",
+                        translation: "She was not amused",
+                        knowledge_point: "形容词"
+                    }
+                ];
+            }
         }
-        
-        function updateGreeting() {
-            document.getElementById("greeting").innerText = "Hello, World! 欢迎学习JavaScript!"; // 操作DOM元素[3](@ref)
+
+        // 开始测试
+        function startTest() {
+            // 随机选择20个题目
+            testQuestions = getRandomQuestions(20);
+            currentQuestionIndex = 0;
+            stats = { mastered: 0, unclear: 0, forgot: 0 };
+            
+            document.getElementById('startScreen').style.display = 'none';
+            document.getElementById('testScreen').style.display = 'block';
+            document.getElementById('completionScreen').classList.remove('show');
+            
+            showQuestion();
+            updateStats();
         }
-        
-        // 页面加载时在控制台输出消息
-        console.log("Hello, World! 页面已加载完成"); // 使用console.log输出到控制台[3,4](@ref)
+
+        // 获取随机题目
+        function getRandomQuestions(count) {
+            const shuffled = [...questions].sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, count);
+        }
+
+        // 显示当前题目
+        function showQuestion() {
+            const question = testQuestions[currentQuestionIndex];
+            document.getElementById('questionText').textContent = question.question;
+            document.getElementById('translationText').textContent = question.translation;
+            document.getElementById('knowledgePointText').textContent = question.knowledge_point;
+            
+            // 隐藏答案区域
+            document.getElementById('answerSection').classList.remove('show');
+            document.getElementById('nextBtn').classList.remove('show');
+            
+            // 更新进度
+            updateProgress();
+        }
+
+        // 选择答案
+        function selectAnswer(type) {
+            stats[type]++;
+            updateStats();
+            
+            if (type === 'mastered') {
+                // 掌握直接进入下一题
+                nextQuestion();
+            } else {
+                // 模糊或忘记显示答案
+                document.getElementById('answerSection').classList.add('show');
+                document.getElementById('nextBtn').classList.add('show');
+            }
+        }
+
+        // 下一题
+        function nextQuestion() {
+            currentQuestionIndex++;
+            
+            if (currentQuestionIndex >= testQuestions.length) {
+                // 测试完成
+                showCompletion();
+            } else {
+                showQuestion();
+            }
+        }
+
+        // 显示完成屏幕
+        function showCompletion() {
+            document.getElementById('testScreen').style.display = 'none';
+            document.getElementById('completionScreen').classList.add('show');
+            
+            document.getElementById('finalMastered').textContent = stats.mastered;
+            document.getElementById('finalUnclear').textContent = stats.unclear;
+            document.getElementById('finalForgot').textContent = stats.forgot;
+        }
+
+        // 重新开始测试
+        function restartTest() {
+            document.getElementById('completionScreen').classList.remove('show');
+            document.getElementById('startScreen').style.display = 'block';
+        }
+
+        // 更新进度
+        function updateProgress() {
+            const progress = ((currentQuestionIndex + 1) / testQuestions.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+            document.getElementById('progressText').textContent = `题目 ${currentQuestionIndex + 1} / ${testQuestions.length}`;
+        }
+
+        // 更新统计
+        function updateStats() {
+            document.getElementById('masteredCount').textContent = stats.mastered;
+            document.getElementById('unclearCount').textContent = stats.unclear;
+            document.getElementById('forgotCount').textContent = stats.forgot;
+        }
+
+        // 页面加载完成后初始化
+        window.addEventListener('load', loadQuestions);
     </script>
 </body>
 </html>
