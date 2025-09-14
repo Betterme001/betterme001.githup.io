@@ -52,12 +52,6 @@
             transition: width 0.3s ease;
         }
 
-        .progress-text {
-            color: white;
-            text-align: center;
-            margin-bottom: 20px;
-            font-size: 1.1rem;
-        }
 
         .card {
             background: white;
@@ -65,13 +59,15 @@
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
             padding: 40px;
             text-align: center;
-            min-height: 400px;
+            height: 80vh;
             display: flex;
             flex-direction: column;
             justify-content: center;
             transition: transform 0.3s ease;
             position: relative;
+            overflow: hidden;
         }
+
 
         .card:hover {
             transform: translateY(-5px);
@@ -132,13 +128,14 @@
         .mastery-score {
             font-size: 0.9rem;
             color: #4CAF50;
-            margin-top: 5px;
+            margin-top: -5px;
+            margin-bottom: 15px;
             font-weight: bold;
         }
 
         .answer-section {
             display: none;
-            margin-top: 30px;
+            margin-top: 20px;
             padding: 20px;
             background: #f8f9fa;
             border-radius: 10px;
@@ -157,19 +154,20 @@
 
         .knowledge-point {
             font-size: 1.1rem;
-            color: #666;
+            color: #000;
             background: #e9ecef;
             padding: 10px;
             border-radius: 5px;
             white-space: pre-wrap;
             word-wrap: break-word;
-            max-height: none;
-            overflow: visible;
+            max-height: 300px;
+            overflow-y: auto;
             text-align: left;
         }
 
         .buttons {
             display: flex;
+            flex-direction: row;
             gap: 15px;
             justify-content: center;
             margin-top: 30px;
@@ -177,11 +175,13 @@
 
         /* 固定答案/计时器区域，避免高度抖动 */
         .answer-container {
-            min-height: 120px;
+            flex: 1;
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
+            justify-content: flex-start;
+            overflow-y: auto;
+            margin-top: -10px;
         }
 
         .btn {
@@ -246,26 +246,6 @@
             display: none;
         }
 
-        .stats {
-            display: flex;
-            justify-content: space-around;
-            margin-top: 20px;
-            color: white;
-        }
-
-        .stat-item {
-            text-align: center;
-        }
-
-        .stat-number {
-            font-size: 1.5rem;
-            font-weight: bold;
-        }
-
-        .stat-label {
-            font-size: 0.9rem;
-            opacity: 0.8;
-        }
 
         .start-screen {
             text-align: center;
@@ -366,6 +346,26 @@
             font-size: 1.1rem;
         }
 
+        .time-info {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+            text-align: center;
+        }
+
+        .time-stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .time-item {
+            margin: 5px 10px;
+            font-size: 1rem;
+            color: #e0e0e0;
+        }
+
         .library-screen {
             display: none;
             text-align: left;
@@ -394,20 +394,10 @@
             border-radius: 10px;
             padding: 15px;
             margin: 10px 0;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
         }
 
         .library-question {
             font-size: 1.1rem;
-            flex: 1;
-            margin-right: 15px;
-        }
-
-        .library-translation {
-            color: #4CAF50;
-            font-weight: bold;
         }
 
         .back-btn {
@@ -491,7 +481,7 @@
         @media (max-width: 600px) {
             .card {
                 padding: 20px;
-                min-height: 300px;
+                height: 85vh;
             }
             
             .question {
@@ -499,13 +489,17 @@
             }
             
             .buttons {
-                flex-direction: column;
+                flex-direction: row;
+                flex-wrap: wrap;
                 align-items: center;
+                gap: 10px;
             }
             
             .btn {
-                width: 100%;
-                max-width: 200px;
+                flex: 1;
+                min-width: 80px;
+                padding: 12px 20px;
+                font-size: 1rem;
             }
         }
     </style>
@@ -522,7 +516,13 @@
             <div class="progress-info" id="progressInfo">
                 <div class="progress-item">测试进度：<span id="testProgress">0</span> / <span id="totalQuestions">0</span></div>
                 <div class="progress-item">复习进度：<span id="reviewProgress">0</span> / <span id="totalQuestions2">0</span></div>
-                <div class="progress-item">掌握程度：<span id="reviewedCount">0/0</span></div>
+                <div class="progress-item">掌握程度：<span id="reviewedCount">0</span> / <span id="totalReviewed">0</span></div>
+            </div>
+            <div class="time-info" id="timeInfo">
+                <div class="time-stats">
+                    <div class="time-item">今日学习：0分钟</div>
+                    <div class="time-item">今日题目：0 道</div>
+                </div>
             </div>
             <div class="management-buttons">
                 <button class="mgmt-btn review" onclick="startReview()">开始复习</button>
@@ -547,8 +547,6 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="progress-text" id="progressText">题目 1 / 20</div>
-            
             <div class="card">
                 <div class="overall-progress" id="overallProgressTop"></div>
                 <div class="question" id="questionText"></div>
@@ -577,20 +575,6 @@
                 </div>
             </div>
             
-            <div class="stats">
-                <div class="stat-item">
-                    <div class="stat-number" id="masteredCount">0</div>
-                    <div class="stat-label">掌握</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number" id="unclearCount">0</div>
-                    <div class="stat-label">模糊</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number" id="forgotCount">0</div>
-                    <div class="stat-label">忘记</div>
-                </div>
-            </div>
         </div>
 
         <!-- 完成屏幕 -->
@@ -645,18 +629,139 @@
             meta: {
                 globalProgressIndex: 0,     // 全局进展（下一题索引，0-based）
                 lastSessionDate: '',        // 上一次"每日首次启动"的日期
-                reviewProgress: 0           // 复习进度
+                reviewProgress: 0,          // 复习进度
+                totalStudyTime: 0,          // 总学习时间（秒）
+                todayStudyTime: 0,          // 今日学习时间（秒）
+                lastStudyDate: '',          // 最后学习日期
+                todayQuestionCount: 0,      // 今日学习题目数量
+                todayQuestionIds: []        // 今日学习过的题目ID列表
             }
         };
+        
+        // 时间统计变量
+        let sessionStartTime = null;
+        let sessionEndTime = null;
+        let questionStartTime = null;
+        let currentQuestionId = null;
+        let questionStudyTime = 0;
 
         function loadStore() {
             try {
                 const raw = localStorage.getItem(STORAGE_KEY);
                 if (raw) {
                     reviewStore = JSON.parse(raw);
+                    // 确保时间统计字段存在
+                    if (!reviewStore.meta.totalStudyTime) reviewStore.meta.totalStudyTime = 0;
+                    if (!reviewStore.meta.todayStudyTime) reviewStore.meta.todayStudyTime = 0;
+                    if (!reviewStore.meta.lastStudyDate) reviewStore.meta.lastStudyDate = '';
+                    if (!reviewStore.meta.todayQuestionCount) reviewStore.meta.todayQuestionCount = 0;
+                    if (!reviewStore.meta.todayQuestionIds) reviewStore.meta.todayQuestionIds = [];
                 }
             } catch (e) {
                 console.warn('读取本地数据失败:', e);
+            }
+        }
+        
+        // 时间统计函数
+        function startSessionTimer() {
+            sessionStartTime = new Date();
+            questionStartTime = new Date();
+            questionStudyTime = 0;
+        }
+        
+        // 开始题目计时
+        function startQuestionTimer(questionId) {
+            currentQuestionId = questionId;
+            questionStartTime = new Date();
+            questionStudyTime = 0;
+        }
+        
+        
+        // 添加题目学习时间
+        function addQuestionStudyTime(seconds) {
+            const today = new Date();
+            const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+            
+            if (reviewStore.meta.lastStudyDate !== todayStr) {
+                // 新的一天，重置今日学习时间
+                reviewStore.meta.todayStudyTime = seconds;
+                reviewStore.meta.lastStudyDate = todayStr;
+            } else {
+                // 同一天，累加学习时间
+                reviewStore.meta.todayStudyTime += seconds;
+            }
+            
+            // 更新总学习时间
+            reviewStore.meta.totalStudyTime += seconds;
+            
+            saveStore();
+            updateTimeDisplay();
+        }
+        
+        // 添加题目到今日学习统计
+        function addQuestionToTodayCount(questionId) {
+            const today = new Date();
+            const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+            
+            if (reviewStore.meta.lastStudyDate !== todayStr) {
+                // 新的一天，重置今日题目统计
+                reviewStore.meta.todayQuestionCount = 0;
+                reviewStore.meta.todayQuestionIds = [];
+                reviewStore.meta.lastStudyDate = todayStr;
+            }
+            
+            // 如果题目ID不在今日列表中，则添加
+            if (!reviewStore.meta.todayQuestionIds.includes(questionId)) {
+                reviewStore.meta.todayQuestionIds.push(questionId);
+                reviewStore.meta.todayQuestionCount = reviewStore.meta.todayQuestionIds.length;
+                saveStore();
+                updateTimeDisplay();
+            }
+        }
+        
+        // 记录题目学习（翻动卡片时立即记录）
+        function recordQuestionStudy(questionId) {
+            // 记录题目数量（去重）
+            addQuestionToTodayCount(questionId);
+            
+            // 记录学习时间（固定1秒，表示翻动了卡片）
+            addQuestionStudyTime(1);
+            
+            console.log(`翻动卡片记录：题目 ${questionId}，学习时间 +1秒`);
+        }
+        
+        function endSessionTimer() {
+            if (sessionStartTime) {
+                sessionEndTime = new Date();
+                console.log('会话结束，题目计时已按每道最多2分钟计算');
+            }
+        }
+        
+        // 格式化时间为分钟格式（向下取整）
+        function formatTime(seconds) {
+            const minutes = Math.floor(seconds / 60); // 向下取整
+            
+            if (minutes === 0) {
+                return `0分钟`;
+            } else {
+                return `${minutes}分钟`;
+            }
+        }
+
+        function updateTimeDisplay() {
+            const todayTime = reviewStore.meta.todayStudyTime || 0;
+            const todayQuestions = reviewStore.meta.todayQuestionCount || 0;
+            // 总时间仍然记录，但不显示在界面上
+            
+            // 在管理界面显示时间统计
+            const timeInfo = document.getElementById('timeInfo');
+            if (timeInfo) {
+                timeInfo.innerHTML = `
+                    <div class="time-stats">
+                        <div class="time-item">今日学习：${formatTime(todayTime)}</div>
+                        <div class="time-item">今日题目：${todayQuestions} 道</div>
+                    </div>
+                `;
             }
         }
 
@@ -704,6 +809,9 @@
 
         // 开始测试
         function startTest() {
+            // 启动会话计时器
+            startSessionTimer();
+            
             // 检查是否需要先进行复习模式
             const today = new Date();
             const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
@@ -731,7 +839,6 @@
             document.getElementById('completionScreen').classList.remove('show');
             
             // 更新标题显示复习模式
-            document.getElementById('progressText').textContent = `复习模式 ${currentQuestionIndex + 1} / ${testQuestions.length}`;
             
             showQuestion();
             updateStats();
@@ -822,6 +929,13 @@
             document.getElementById('questionText').textContent = question.question;
             document.getElementById('translationText').textContent = question.translation;
             document.getElementById('knowledgePointText').textContent = question.knowledge_point;
+            
+            // 开始题目计时
+            const questionId = `${question.question.substring(0, 20)}...`; // 使用题目前20个字符作为ID
+            startQuestionTimer(questionId);
+            
+            // 立即记录学习时间和题目数量（翻动卡片时）
+            recordQuestionStudy(questionId);
             // 显示整体进度：当前题在题库中的序号/总数
             const total = questions.length;
             // 计算当前题在题库中的绝对序号
@@ -855,31 +969,37 @@
 
             // 启动4秒倒计时，结束显示答案
             startTimer();
+            
+            // 直接跳转到页面最底部，不显示滚动过程
+            setTimeout(() => {
+                window.scrollTo(0, document.body.scrollHeight);
+            }, 100);
         }
 
         function reserveAnswerSpace() {
             const container = document.querySelector('.answer-container');
             const section = document.getElementById('answerSection');
             if (!container || !section) return;
-            // 重置高度
-            container.style.height = '';
-            // 临时显示以测量真实高度
-            const prevDisplay = section.style.display;
-            const prevVisibility = section.style.visibility;
-            section.style.display = 'block';
-            section.style.visibility = 'hidden';
-            const height = section.offsetHeight;
-            // 还原
-            section.style.display = '';
-            section.style.visibility = '';
-            // 设定固定高度，至少120px，但允许内容超出
-            const reserved = Math.max(120, height);
-            container.style.height = reserved + 'px';
+            // 由于卡片高度固定，答案容器会自动适应
             container.style.overflow = 'visible';
         }
 
         // 选择答案
         function selectAnswer(type) {
+            // 结束当前题目计时（但不再重复记录，因为翻动卡片时已记录）
+            if (currentQuestionId && questionStartTime) {
+                const questionDuration = new Date() - questionStartTime;
+                const studyTime = Math.min(questionDuration, 2 * 60 * 1000); // 最多2分钟
+                const minStudyTime = Math.max(studyTime, 1000); // 最少1秒
+                const additionalTime = Math.round(minStudyTime / 1000); // 转换为秒
+                
+                // 只记录额外的学习时间（减去翻动卡片时已记录的1秒）
+                if (additionalTime > 1) {
+                    addQuestionStudyTime(additionalTime - 1);
+                    console.log(`选择答案额外时间：${additionalTime - 1}秒`);
+                }
+            }
+            
             stats[type]++;
             updateStats();
             stopTimer();
@@ -1007,6 +1127,11 @@
 
         // 显示完成屏幕
         function showCompletion() {
+            // 结束会话计时器
+            endSessionTimer();
+            // 更新显示
+            updateTimeDisplay();
+            
             document.getElementById('testScreen').style.display = 'none';
             document.getElementById('completionScreen').classList.add('show');
             
@@ -1017,6 +1142,10 @@
 
         // 重新开始测试
         function restartTest() {
+            // 停止会话计时器
+            endSessionTimer();
+            // 更新显示
+            updateTimeDisplay();
             document.getElementById('completionScreen').classList.remove('show');
             document.getElementById('startScreen').style.display = 'block';
         }
@@ -1043,18 +1172,11 @@
             const progress = ((currentQuestionIndex + 1) / testQuestions.length) * 100;
             document.getElementById('progressFill').style.width = progress + '%';
             
-            if (isReviewMode) {
-                document.getElementById('progressText').textContent = `复习模式 ${currentQuestionIndex + 1} / ${testQuestions.length}`;
-            } else {
-            document.getElementById('progressText').textContent = `题目 ${currentQuestionIndex + 1} / ${testQuestions.length}`;
-            }
         }
 
-        // 更新统计
+        // 更新统计（已移除统计显示）
         function updateStats() {
-            document.getElementById('masteredCount').textContent = stats.mastered;
-            document.getElementById('unclearCount').textContent = stats.unclear;
-            document.getElementById('forgotCount').textContent = stats.forgot;
+            // 统计功能已移除，保留函数以避免错误
         }
 
         // 显示管理界面
@@ -1066,6 +1188,7 @@
             document.getElementById('libraryScreen').classList.remove('show');
             
             updateProgressDisplay();
+            updateTimeDisplay();
         }
 
         // 更新进度显示
@@ -1102,11 +1225,15 @@
                     }
                 }
             }
-            document.getElementById('reviewedCount').textContent = `${masteredHighCount}/${testProgress}`;
+            document.getElementById('reviewedCount').textContent = masteredHighCount;
+            document.getElementById('totalReviewed').textContent = testProgress;
         }
 
         // 开始复习
         function startReview() {
+            // 启动会话计时器
+            startSessionTimer();
+            
             // 如果复习进度为0，设置为当前测试进度
             if (reviewStore.meta.reviewProgress === 0) {
                 reviewStore.meta.reviewProgress = reviewStore.meta.globalProgressIndex || 0;
@@ -1146,7 +1273,6 @@
             document.getElementById('completionScreen').classList.remove('show');
             
             // 更新标题显示复习模式
-            document.getElementById('progressText').textContent = `复习模式 ${currentQuestionIndex + 1} / ${testQuestions.length}`;
             
             showQuestion();
             updateStats();
@@ -1214,11 +1340,11 @@
                 item.innerHTML = `
                     <div class="library-question">
                         <div style="font-size: 1.2rem; font-weight: bold; margin-bottom: 8px;">${index + 1}. ${q.question}</div>
-                        <div style="font-size: 1.1rem; color: #4CAF50; margin-bottom: 8px;">${q.translation}</div>
-                        <div style="font-size: 1rem; color: #666;">${q.knowledge_point}</div>
-                    </div>
-                    <div class="library-stats">
-                        掌握度: ${mastery}% | 掌握: ${m} | 模糊: ${u} | 忘记: ${f}
+                        <div style="font-size: 1.1rem; color: #007bff; margin-bottom: 8px;">${q.translation}</div>
+                        <div style="font-size: 1rem; color: #666; margin-bottom: 8px;">${q.knowledge_point}</div>
+                        <div style="font-size: 0.9rem; color: #888; margin-top: 8px;">
+                            掌握度: ${mastery}% | 掌握: ${m} | 模糊: ${u} | 忘记: ${f}
+                        </div>
                     </div>
                 `;
                 
@@ -1228,6 +1354,10 @@
 
         // 返回管理界面
         function backToManagement() {
+            // 停止会话计时器
+            endSessionTimer();
+            // 更新显示
+            updateTimeDisplay();
             showManagementScreen();
         }
 
@@ -1236,6 +1366,7 @@
             // 先加载本地存储，再等待题目加载完成，最后再展示管理界面
             loadStore();
             await loadQuestions();
+            updateTimeDisplay();
             showManagementScreen();
         });
     </script>
