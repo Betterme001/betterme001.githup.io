@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>复习功能调试</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="management-screen">
+            <div class="header">
+                <h1>复习功能调试</h1>
+                <p>调试复习启动问题</p>
+            </div>
+            <div class="management-buttons">
+                <button class="mgmt-btn review" onclick="testReview()">测试复习</button>
+                <button class="mgmt-btn test" onclick="checkFunctions()">检查函数</button>
+            </div>
+            <div id="debugInfo" style="margin-top: 20px; padding: 20px; background: #f0f0f0; border-radius: 10px;">
+                <h3>调试信息：</h3>
+                <div id="debugOutput"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="models/storage.js"></script>
+    <script src="services/times.js"></script>
+    <script src="models/questions.js"></script>
+    <script src="controllers/progressShow.js"></script>
+    <script src="views/uiManager.js"></script>
+    <script src="controllers/test.js"></script>
+    <script src="controllers/review.js"></script>
+    <script src="controllers/app.js"></script>
+
+    <script>
+        function checkFunctions() {
+            const debugOutput = document.getElementById('debugOutput');
+            let info = '';
+            
+            info += 'CONFIG: ' + (typeof CONFIG !== 'undefined' ? '✓' : '✗') + '<br>';
+            info += 'window.reviewStore: ' + (typeof window.reviewStore !== 'undefined' ? '✓' : '✗') + '<br>';
+            info += 'window.questions: ' + (typeof window.questions !== 'undefined' ? '✓' : '✓ (' + (window.questions ? window.questions.length : 0) + ' 题目)' : '✗') + '<br>';
+            info += 'window.getQuestionKey: ' + (typeof window.getQuestionKey !== 'undefined' ? '✓' : '✗') + '<br>';
+            info += 'window.calculateMastery: ' + (typeof window.calculateMastery !== 'undefined' ? '✓' : '✗') + '<br>';
+            info += 'window.showQuestion: ' + (typeof window.showQuestion !== 'undefined' ? '✓' : '✗') + '<br>';
+            info += 'window.startReview: ' + (typeof window.startReview !== 'undefined' ? '✓' : '✗') + '<br>';
+            
+            if (window.reviewStore && window.reviewStore.meta) {
+                info += 'reviewStore.meta: ✓<br>';
+                info += 'globalProgressIndex: ' + (window.reviewStore.meta.globalProgressIndex || 0) + '<br>';
+                info += 'reviewProgress: ' + (window.reviewStore.meta.reviewProgress || 0) + '<br>';
+            } else {
+                info += 'reviewStore.meta: ✗<br>';
+            }
+            
+            debugOutput.innerHTML = info;
+        }
+        
+        function testReview() {
+            try {
+                console.log('开始测试复习功能...');
+                if (typeof window.startReview === 'function') {
+                    window.startReview();
+                } else {
+                    alert('startReview 函数未定义');
+                }
+            } catch (e) {
+                console.error('测试复习失败:', e);
+                alert('测试复习失败: ' + e.message);
+            }
+        }
+        
+        // 页面加载完成后自动检查
+        window.addEventListener('load', function() {
+            setTimeout(checkFunctions, 1000);
+        });
+    </script>
+</body>
+</html>

@@ -3,23 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>语法题目复习系统</title>
+    <title>语法题目复习系统 - 调试版</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
     <div class="container">
         <!-- 管理界面 -->
         <div class="management-screen" id="managementScreen">
-        <div class="header">
+            <div class="header">
                 <h1>语法题目复习系统</h1>
-            <p>每天20分钟，坚持3年，成就非凡人生</p>
-            <div style="margin-top:8px;">
-                <select id="bankSelect" onchange="switchBank(this.value)" style="padding:6px 10px; border-radius:6px;">
-                    <option value="default">默认题库</option>
-                    <option value="test2" selected>测试题库2(含加粗)</option>
-                </select>
+                <p>每天20分钟，坚持3年，成就非凡人生</p>
             </div>
-        </div>
             <div class="progress-info" id="progressInfo">
                 <div class="progress-item">测试进度：<span id="testProgress">0</span> / <span id="totalQuestions">0</span></div>
                 <div class="progress-item">复习进度：<span id="reviewProgress">0</span> / <span id="totalQuestions2">0</span></div>
@@ -43,15 +37,14 @@
                 <button class="mgmt-btn review" onclick="startReview()">开始复习</button>
                 <button class="mgmt-btn test" onclick="startTest()">开始测试</button>
                 <button class="mgmt-btn library" onclick="showQuestionBank()">展示题库</button>
-                <button class="mgmt-btn stats" onclick="showStatsScreen()">学习统计</button>
+                <button class="mgmt-btn stats" onclick="toggleHistoryStats()">学习统计</button>
             </div>
         </div>
 
         <!-- 测试屏幕 -->
         <div id="testScreen" style="display: none;">
-            <div style="display: flex; justify-content: space-between; align-items:center; margin-bottom: 10px;">
+            <div style="display: flex; justify-content: flex-start; margin-bottom: 10px;">
                 <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-                <button class="icon-back" id="favBtn" aria-label="收藏" title="收藏/取消收藏当前题目" onclick="toggleFavorite()">★</button>
             </div>
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
@@ -63,6 +56,9 @@
                 <div class="mastery-score" id="masteryScoreText"></div>
                 
                 <div class="answer-container">
+                <div class="answer-section" id="answerSection">
+                    <div class="translation" id="translationText"></div>
+                    </div>
                     <div class="timer" id="timer">
                         <svg viewBox="0 0 40 40">
                             <!-- 使用 r=17, stroke-width=6，避免被裁剪 -->
@@ -70,12 +66,8 @@
                             <circle class="timer-circle-progress" cx="20" cy="20" r="17"></circle>
                         </svg>
                     </div>
-                    <div class="answer-section" id="answerSection">
-                        <div class="translation" id="translationText"></div>
-                        <!-- 知识点在翻译与按钮之间展示 -->
-                        <div class="knowledge-below" id="knowledgeBelow"></div>
-                    </div>
                 </div>
+                <div class="knowledge-below" id="knowledgeBelow"></div>
                 
                 <div class="buttons">
                     <button class="btn btn-mastered" id="masteredBtn" onclick="selectAnswer('mastered')">掌握</button>
@@ -97,44 +89,69 @@
 
         <!-- 题库展示屏幕 -->
         <div class="library-screen" id="libraryScreen">
-            <div style="display:flex; justify-content: space-between; align-items:center; padding:8px;">
-                <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-                <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px;">
-                    <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 只看收藏
-                </label>
-            </div>
+            <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
             <div class="library-list" id="libraryList">
                 <!-- 题库内容将在这里动态生成 -->
             </div>
         </div>
-
-        <!-- 学习统计屏幕 -->
-        <div class="library-screen" id="statsScreen" style="display: none;">
-            <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-            <div class="library-list" id="statsList">
-                <!-- 学习统计将在这里动态生成 -->
-            </div>
-        </div>
     </div>
 
-    <!-- 配置层 -->
-    <script src="config.js"></script>
+    <!-- 逐步加载JavaScript文件进行调试 -->
+    <script>
+        console.log('开始加载JavaScript文件...');
+    </script>
     
-    <!-- 模型层 -->
-    <script src="models/storage.js"></script>
-    <script src="models/questions.js"></script>
+    <script src="config.js" onerror="console.error('config.js 加载失败')" onload="console.log('config.js 加载成功')"></script>
     
-    <!-- 服务层 -->
-    <script src="services/times.js"></script>
+    <script>
+        console.log('config.js 加载完成，检查CONFIG对象:', typeof CONFIG);
+    </script>
     
-    <!-- 视图层 -->
-    <script src="views/uiManager.js"></script>
+    <script src="models/storage.js" onerror="console.error('storage.js 加载失败')" onload="console.log('storage.js 加载成功')"></script>
     
-    <!-- 控制器层 -->
-    <script src="controllers/progressShow.js"></script>
-    <script src="controllers/test.js"></script>
-    <script src="controllers/bankManager.js"></script>
-    <script src="controllers/app.js"></script>
-
+    <script>
+        console.log('storage.js 加载完成，检查loadStore函数:', typeof window.loadStore);
+    </script>
+    
+    <script src="services/times.js" onerror="console.error('times.js 加载失败')" onload="console.log('times.js 加载成功')"></script>
+    
+    <script>
+        console.log('times.js 加载完成，检查updateTimeDisplay函数:', typeof window.updateTimeDisplay);
+    </script>
+    
+    <script src="models/questions.js" onerror="console.error('questions.js 加载失败')" onload="console.log('questions.js 加载成功')"></script>
+    
+    <script>
+        console.log('questions.js 加载完成，检查loadQuestions函数:', typeof window.loadQuestions);
+    </script>
+    
+    <script src="controllers/progressShow.js" onerror="console.error('progressShow.js 加载失败')" onload="console.log('progressShow.js 加载成功')"></script>
+    
+    <script>
+        console.log('progressShow.js 加载完成');
+    </script>
+    
+    <script src="views/uiManager.js" onerror="console.error('uiManager.js 加载失败')" onload="console.log('uiManager.js 加载成功')"></script>
+    
+    <script>
+        console.log('uiManager.js 加载完成，检查showManagementScreen函数:', typeof window.showManagementScreen);
+    </script>
+    
+    <script src="controllers/testAndReview.js" onerror="console.error('testAndReview.js 加载失败')" onload="console.log('testAndReview.js 加载成功')"></script>
+    
+    <script>
+        console.log('testAndReview.js 加载完成');
+    </script>
+    
+    <script src="controllers/app.js" onerror="console.error('app.js 加载失败')" onload="console.log('app.js 加载成功')"></script>
+    
+    <script>
+        console.log('所有JavaScript文件加载完成');
+        console.log('最终检查:');
+        console.log('- loadStore:', typeof window.loadStore);
+        console.log('- loadQuestions:', typeof window.loadQuestions);
+        console.log('- updateTimeDisplay:', typeof window.updateTimeDisplay);
+        console.log('- showManagementScreen:', typeof window.showManagementScreen);
+    </script>
 </body>
 </html>

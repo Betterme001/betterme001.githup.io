@@ -1,0 +1,662 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body { height: 100%; }
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* 默认垂直居中 */
+    padding: 20px;
+}
+
+/* 题库界面顶对齐，去掉顶部内边距 */
+body.top-align {
+    display: block;           /* 取消居中布局 */
+    align-items: initial;
+    justify-content: initial;
+    padding: 0;               /* 去掉全局内边距 */
+}
+
+/* 题库模式下，页面背景改为柔和护眼绿色，遮蔽渐变底色 */
+body.library-mode {
+    background: #f0f8f0 !important; /* 柔和护眼绿色 */
+}
+
+/* 顶对齐时，容器不再限制宽度且取消外边距 */
+body.top-align .container {
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.header h1 {
+    font-size: 2.8rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+
+.header h1::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: -10px;
+    right: -10px;
+    bottom: -5px;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+    border-radius: 15px;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+.header p {
+    font-size: 1rem;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    height: 10px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+.progress-fill {
+    background: #4CAF50;
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+
+.card {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    padding: 40px;
+    text-align: center;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: transform 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* 4秒倒计时圆圈 */
+.timer {
+    width: 48px;
+    height: 48px;
+    margin: 12px auto 0;
+}
+.timer svg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+}
+.timer-circle-bg {
+    fill: none;
+    stroke: rgba(0,0,0,0.1);
+    stroke-width: 6;
+}
+.timer-circle-progress {
+    fill: none;
+    stroke: #FFC107;
+    stroke-width: 6;
+    stroke-linecap: round;
+    /* 2 * Math.PI * 17 ≈ 106.81 → 107 */
+    stroke-dasharray: 107;
+    stroke-dashoffset: 107;
+}
+.timer.animate .timer-circle-progress {
+    animation: timerProgress 4s linear forwards;
+}
+@keyframes timerProgress {
+    to { stroke-dashoffset: 0; }
+}
+
+.question {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.overall-progress {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.review-count {
+    font-size: 0.95rem;
+    color: #888;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.mastery-score {
+    font-size: 0.9rem;
+    color: #4CAF50;
+    margin-top: -5px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.answer-section {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+.answer-section.show {
+    display: block;
+}
+
+.translation {
+    font-size: 1.6rem;
+    color: #007bff;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+
+.knowledge-point {
+    font-size: 1.1rem;
+    color: #000;
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 300px;
+    overflow-y: auto;
+    text-align: left;
+}
+
+/* 卡片下方知识点展示容器 */
+.knowledge-below {
+    margin-top: 14px;
+    text-align: center;
+    color: #111;
+    font-size: 1.2rem;
+    background: rgba(255,255,255,0.9);
+    border-radius: 8px;
+    padding: 10px 12px;
+    display: none; /* 默认隐藏，揭示答案时显示 */
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.knowledge-below.show { display: block !important; }
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/* 固定答案/计时器区域，避免高度抖动 */
+.answer-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* 居中显示定时器或答案区 */
+    overflow-y: auto;
+    margin-top: -10px;
+}
+
+.btn {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 120px;
+}
+
+.btn-mastered {
+    background: #4CAF50;
+    color: white;
+}
+
+.btn-mastered:hover {
+    background: #45a049;
+    transform: translateY(-2px);
+}
+
+.btn-unclear {
+    background: #ff9800;
+    color: white;
+}
+
+.btn-unclear:hover {
+    background: #e68900;
+    transform: translateY(-2px);
+}
+
+.btn-forgot {
+    background: #f44336;
+    color: white;
+}
+
+.btn-forgot:hover {
+    background: #da190b;
+    transform: translateY(-2px);
+}
+
+.btn-next {
+    background: #2196F3;
+    color: white;
+    display: none;
+}
+
+.btn-next:hover {
+    background: #1976D2;
+    transform: translateY(-2px);
+}
+
+.btn-next.show {
+    display: inline-block;
+}
+
+.btn-mastered.hide,
+.btn-unclear.hide,
+.btn-forgot.hide {
+    display: none;
+}
+
+
+.start-screen {
+    text-align: center;
+    color: white;
+}
+
+.start-btn {
+    background: #4CAF50;
+    color: white;
+    padding: 20px 40px;
+    font-size: 1.3rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 30px;
+    transition: all 0.3s ease;
+}
+
+.start-btn:hover {
+    background: #45a049;
+    transform: translateY(-3px);
+}
+
+.management-screen {
+    text-align: center;
+    color: white;
+    display: none;
+}
+
+/* 题库选择下拉框样式 */
+#bankSelect {
+    background: transparent;
+    color: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 0;
+    padding: 8px 12px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+#bankSelect:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateY(-1px);
+}
+
+#bankSelect:focus {
+    outline: none;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+#bankSelect option {
+    background: rgba(102, 126, 234, 0.9);
+    color: white;
+    padding: 8px;
+    border: none;
+}
+
+.management-screen.show {
+    display: block;
+}
+
+.management-title {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.management-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.mgmt-btn {
+    background: #2196F3;
+    color: white;
+    padding: 20px 30px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-height: 60px;
+}
+
+.mgmt-btn:hover {
+    background: #1976D2;
+    transform: translateY(-2px);
+}
+
+.mgmt-btn.review {
+    background: #FF9800;
+}
+
+.mgmt-btn.review:hover {
+    background: #F57C00;
+}
+
+.mgmt-btn.test {
+    background: #4CAF50;
+}
+
+.mgmt-btn.test:hover {
+    background: #45a049;
+}
+
+.mgmt-btn.library {
+    background: #9C27B0;
+}
+
+.mgmt-btn.library:hover {
+    background: #7B1FA2;
+}
+
+.progress-info {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.progress-item {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+
+.time-info {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.time-stats {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.time-item {
+    margin: 5px 10px;
+    font-size: 1rem;
+    color: #e0e0e0;
+}
+
+.library-screen {
+    display: none;
+    text-align: left;
+    color: #2d4a2d;            /* 深绿色文字，护眼绿色背景更清晰 */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0; /* 顶部完全贴边 */
+    z-index: 1000;
+    background: #f0f8f0;       /* 柔和护眼绿色背景 */
+}
+
+.library-screen.show { 
+    display: block; 
+}
+
+/* 题库顶部改为左上角返回箭头，无需占位标题区 */
+.library-header { display: none; }
+
+.library-list {
+    background: transparent;
+    border-radius: 0;
+    padding: 0 8px 8px 8px;
+    height: calc(100vh - 40px);
+    overflow-y: auto;
+}
+
+.library-item {
+    background: #e8f5e8;          /* 护眼绿色卡片背景 */
+    border: 1px solid #c8e6c8;    /* 稍深绿色边框以区分 */
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+    color: inherit;
+    box-shadow: 0 2px 4px rgba(74, 124, 89, 0.1); /* 淡绿色阴影 */
+    transition: all 0.3s ease;    /* 平滑过渡效果 */
+}
+
+.library-item:hover {
+    background: #ddf2dd;          /* 悬停时稍深的护眼绿色 */
+    border-color: #a8d5a8;        /* 悬停时边框颜色加深 */
+    box-shadow: 0 4px 8px rgba(74, 124, 89, 0.15); /* 悬停时阴影加深 */
+    transform: translateY(-1px);  /* 轻微上移效果 */
+}
+
+.library-question {
+    font-size: 1.1rem;
+    color: #333;             /* 主文字深色 */
+}
+
+.back-btn {
+    background: #f44336;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 20px 0;
+    transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+    background: #d32f2f;
+    transform: translateY(-2px);
+}
+
+/* 简洁的返回箭头按钮 */
+.icon-back {
+    background: rgba(255,255,255,0.9);
+    color: #333;
+    width: 36px;
+    height: 36px;
+    border: none;
+    border-radius: 18px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin: 8px 0;
+}
+.library-screen .icon-back { margin: 0; } /* 题库界面顶对齐，去掉默认外边距 */
+
+/* 复选框样式 - 护眼绿色主题 */
+#favOnlyToggle {
+    accent-color: #4a7c59; /* 护眼绿色复选框 */
+    transform: scale(1.1);
+}
+
+#favOnlyToggle + label {
+    color: #2d4a2d; /* 深绿色文字 */
+    font-weight: 500;
+}
+.icon-back:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+}
+
+.completion-screen {
+    text-align: center;
+    color: white;
+    display: none;
+}
+
+.completion-screen.show {
+    display: block;
+}
+
+.completion-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.completion-heading {
+    font-size: 1.2rem;
+    margin: 10px 0 8px 0;
+    color: #fff;
+    text-align: left;
+}
+
+.completion-stats {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px 0;
+}
+
+.completion-list {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 16px;
+    margin: 12px 0 0 0;
+    max-height: 40vh;
+    overflow-y: auto;
+    text-align: left;
+}
+
+.completion-item {
+    padding: 12px 14px;
+    margin: 10px 0;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+}
+
+.completion-item .q {
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 6px;
+}
+
+.completion-item .t {
+    color: #ffe082;
+}
+
+.restart-btn {
+    background: #2196F3;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+}
+
+.restart-btn:hover {
+    background: #1976D2;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+    .header h1 {
+        font-size: 2.2rem;
+        letter-spacing: 0.5px;
+        line-height: 1.2;
+    }
+    
+    .card {
+        padding: 20px;
+        height: 85vh;
+    }
+    
+    .question {
+        font-size: 1.4rem;
+    }
+    
+    .buttons {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px;
+    }
+    
+    .btn {
+        flex: 1;
+        min-width: 80px;
+        padding: 12px 20px;
+        font-size: 1rem;
+    }
+}

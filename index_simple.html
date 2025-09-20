@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>语法题目复习系统</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 管理界面 -->
+        <div class="management-screen" id="managementScreen">
+            <div class="header">
+                <h1>语法题目复习系统</h1>
+                <p>每天20分钟，坚持3年，成就非凡人生</p>
+            </div>
+            <div class="progress-info" id="progressInfo">
+                <div class="progress-item">测试进度：<span id="testProgress">5</span> / <span id="totalQuestions">10</span></div>
+                <div class="progress-item">复习进度：<span id="reviewProgress">3</span> / <span id="totalQuestions2">10</span></div>
+                <div class="progress-item">掌握程度：<span id="reviewedCount">8</span> / <span id="totalReviewed">10</span></div>
+            </div>
+            <div class="time-info" id="timeInfo">
+                <div class="time-stats">
+                    <div class="time-item">今日学习：25分钟</div>
+                    <div class="time-item">今日题目：15 道</div>
+                </div>
+            </div>
+            <div class="history-info" id="historyInfo" style="display: none;">
+                <div class="history-stats">
+                    <div class="history-item">历史学习数据</div>
+                    <div class="history-list" id="historyList">
+                        <!-- 历史数据将在这里动态显示 -->
+                    </div>
+                </div>
+            </div>
+            <div class="management-buttons">
+                <button class="mgmt-btn review" onclick="alert('开始复习')">开始复习</button>
+                <button class="mgmt-btn test" onclick="alert('开始测试')">开始测试</button>
+                <button class="mgmt-btn library" onclick="alert('展示题库')">展示题库</button>
+                <button class="mgmt-btn stats" onclick="alert('学习统计')">学习统计</button>
+            </div>
+        </div>
+
+        <!-- 测试屏幕 -->
+        <div id="testScreen" style="display: none;">
+            <div style="display: flex; justify-content: flex-start; margin-bottom: 10px;">
+                <button class="icon-back" aria-label="返回" onclick="alert('返回')">←</button>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill" style="width: 30%;"></div>
+            </div>
+            <div class="card">
+                <div class="overall-progress" id="overallProgressTop">第 3 题，共 10 题</div>
+                <div class="question" id="questionText">What is the correct form of the verb in this sentence?</div>
+                <div class="review-count" id="reviewCountText">复习次数：2</div>
+                <div class="mastery-score" id="masteryScoreText">掌握度：75%</div>
+                
+                <div class="answer-container">
+                    <div class="answer-section" id="answerSection">
+                        <div class="translation" id="translationText">这个句子中动词的正确形式是什么？</div>
+                    </div>
+                    <div class="timer" id="timer">
+                        <svg viewBox="0 0 40 40">
+                            <circle class="timer-circle-bg" cx="20" cy="20" r="17"></circle>
+                            <circle class="timer-circle-progress" cx="20" cy="20" r="17"></circle>
+                        </svg>
+                    </div>
+                </div>
+                <div class="knowledge-below" id="knowledgeBelow">知识点：一般现在时的用法</div>
+                
+                <div class="buttons">
+                    <button class="btn btn-mastered" id="masteredBtn" onclick="alert('掌握')">掌握</button>
+                    <button class="btn btn-unclear" id="unclearBtn" onclick="alert('模糊')">模糊</button>
+                    <button class="btn btn-forgot" id="forgotBtn" onclick="alert('忘记')">忘记</button>
+                    <button class="btn btn-next" id="nextBtn" onclick="alert('下一题')">下一题</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 完成屏幕 -->
+        <div class="completion-screen" id="completionScreen">
+            <div class="completion-title">测试完成！</div>
+            <div id="completionList" class="completion-list">
+                <div class="completion-item">
+                    <div class="q">Q: What is the correct form?</div>
+                    <div class="t">A: The correct form is...</div>
+                </div>
+            </div>
+            <button class="restart-btn" onclick="alert('返回管理界面')">返回管理界面</button>
+        </div>
+
+        <!-- 题库展示屏幕 -->
+        <div class="library-screen" id="libraryScreen">
+            <button class="icon-back" aria-label="返回" onclick="alert('返回')">←</button>
+            <div class="library-list" id="libraryList">
+                <div class="library-item">
+                    <div class="library-question">What is the correct form of the verb?</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
