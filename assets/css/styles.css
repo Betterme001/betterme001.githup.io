@@ -57,6 +57,83 @@ body.top-align .container {
     position: relative;
 }
 
+/* 标题进度颜色效果 */
+.header-title {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.header-text-white {
+    position: relative;
+    z-index: 1;
+    color: #ffffff;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    /* 添加文字渲染优化 */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+.header-text-lightgreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    color: #9de4a1;  
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 0%;
+    transition: width 0.3s ease;
+    white-space: nowrap;
+    /* 添加文字渲染优化，确保完全覆盖 */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    /* 使用更粗的字体权重确保完全覆盖 */
+    font-weight: 700;
+    /* 使用背景裁剪确保完全覆盖 */
+    background: #9de4a1; 
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* 添加微小的阴影来增强覆盖效果 */
+    text-shadow: 0 0 1px #9de4a1; 
+}
+
+.header-text-darkgreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    color: #14b31f;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 0%;
+    transition: width 0.3s ease;
+    white-space: nowrap;
+    /* 添加文字渲染优化，确保完全覆盖 */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    /* 使用更粗的字体权重确保完全覆盖 */
+    font-weight: 800;
+    /* 使用背景裁剪确保完全覆盖 */
+    background: #14b31f;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* 添加微小的阴影来增强覆盖效果 */
+    text-shadow: 0 0 1px #14b31f;
+}
+
 
 .header h1::before {
     content: '';
@@ -658,5 +735,56 @@ body.top-align .container {
         min-width: 80px;
         padding: 12px 20px;
         font-size: 1rem;
+    }
+    
+    /* 管理界面按钮响应式设计 */
+    .management-buttons {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+    
+    .mgmt-btn {
+        padding: 15px 20px;
+        font-size: 1rem;
+        min-height: 50px;
+        border-radius: 20px;
+    }
+    
+    .progress-info {
+        padding: 15px;
+        margin: 15px 0;
+    }
+    
+    .time-info {
+        padding: 15px;
+        margin: 15px 0;
+    }
+}
+
+/* 更小屏幕的响应式设计 */
+@media (max-width: 480px) {
+    .mgmt-btn {
+        padding: 12px 15px;
+        font-size: 0.9rem;
+        min-height: 45px;
+        border-radius: 15px;
+    }
+    
+    .management-buttons {
+        gap: 15px;
+    }
+    
+    .progress-info {
+        padding: 12px;
+        margin: 12px 0;
+    }
+    
+    .time-info {
+        padding: 12px;
+        margin: 12px 0;
+    }
+    
+    .progress-item, .time-item {
+        font-size: 0.9rem;
     }
 }

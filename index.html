@@ -11,7 +11,11 @@
         <!-- 管理界面 -->
         <div class="management-screen" id="managementScreen">
         <div class="header">
-                <h1>语法题目复习系统</h1>
+                <h1 class="header-title">
+                    <span class="header-text-white">语法题目复习系统</span>
+                    <span class="header-text-lightgreen" id="headerLightProgress">语法题目复习系统</span>
+                    <span class="header-text-darkgreen" id="headerDarkProgress">语法题目复习系统</span>
+                </h1>
             <p>每天20分钟，坚持3年，成就非凡人生</p>
             <div style="margin-top:8px;">
                 <select id="bankSelect" onchange="switchBank(this.value)" style="padding:6px 10px; border-radius:6px;">

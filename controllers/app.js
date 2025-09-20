@@ -22,6 +22,9 @@
             if (typeof window.updateTimeDisplay === 'function') {
                 window.updateTimeDisplay();
             }
+            if (typeof window.updateHeaderProgress === 'function') {
+                window.updateHeaderProgress(null);
+            }
             if (typeof window.showManagementScreen === 'function') {
                 window.showManagementScreen();
             }

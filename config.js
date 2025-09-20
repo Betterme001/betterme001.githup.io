@@ -20,13 +20,11 @@ const CONFIG = {
     
     // 存储配置（多题库隔离：方案A）
     STORAGE_KEY_PREFIX: 'grammar_review_multi', // localStorage 前缀
-    DEFAULT_BANK_ID: 'default',
+    DEFAULT_BANK_ID: 'grammarpoint1_order',
     BANKS: {
-        default: { name: '语法题库1-句子成分篇-顺序模式', url: 'assets/data/questions_data.json' },
+        grammarpoint1_order: { name: '语法题库1-句子成分篇-顺序模式', url: 'assets/data/grammarpoint_upperpart_order.json' },
         // 可追加更多题库：
-        // tenses: { name: '时态专项', url: 'assets/data/questions_tenses.json' }
-        test2: { name: '语法题库2-句子成分篇-倒叙模式', url: 'assets/data/test2.json' }
-
+        grammarpoint1_reverse: { name: '语法题库2-句子成分篇-倒叙模式', url: 'assets/data/grammarpoint_upperpart_reverse.json' }
     },
     
     // 界面配置
