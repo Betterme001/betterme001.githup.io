@@ -22,9 +22,17 @@ const CONFIG = {
     STORAGE_KEY_PREFIX: 'grammar_review_multi', // localStorage 前缀
     DEFAULT_BANK_ID: 'grammarpoint1_order',
     BANKS: {
-        grammarpoint1_order: { name: '语法题库1-句子成分篇-顺序模式', url: 'assets/data/grammarpoint_upperpart_order.json' },
+        grammarpoint1_order: { 
+            name: '语法题库1-句子成分篇-顺序模式', 
+            url: 'assets/data/grammarpoint_upperpart_order.json',
+            outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
+        },
         // 可追加更多题库：
-        grammarpoint1_reverse: { name: '语法题库2-句子成分篇-倒叙模式', url: 'assets/data/grammarpoint_upperpart_reverse.json' }
+        grammarpoint1_reverse: { 
+            name: '语法题库2-句子成分篇-倒叙模式', 
+            url: 'assets/data/grammarpoint_upperpart_reverse.json',
+            outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
+        }
     },
     
     // 界面配置

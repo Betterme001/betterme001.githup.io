@@ -788,3 +788,258 @@ body.top-align .container {
         font-size: 0.9rem;
     }
 }
+
+/* 语法盒子界面样式 */
+.outline-screen {
+    display: none;
+    text-align: left;
+    color: #2d4a2d;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    z-index: 1000;
+    background: #f0f8f0;
+}
+
+.outline-header {
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    background: #e8f5e8;
+    border-bottom: 2px solid #4a7c59;
+    position: sticky;
+    top: 0;
+    z-index: 1001;
+}
+
+.outline-header h2 {
+    margin: 0;
+    margin-left: 15px;
+    color: #2d4a2d;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.outline-content {
+    padding: 20px;
+    height: calc(100vh - 80px);
+    overflow-y: auto;
+    line-height: 1.6;
+}
+
+/* 语法盒子按钮样式 */
+.mgmt-btn.outline {
+    background: #FF5722;
+}
+
+.mgmt-btn.outline:hover {
+    background: #E64A19;
+}
+
+/* 大纲内容样式 - 支持marked.js渲染的markdown */
+.outline-content h1 {
+    color: #1b5e20;
+    font-size: 1.8rem;
+    margin: 20px 0 15px 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #4a7c59;
+    font-weight: 700;
+}
+
+.outline-content h2 {
+    color: #2e7d32;
+    font-size: 1.5rem;
+    margin: 18px 0 12px 0;
+    padding-left: 10px;
+    border-left: 4px solid #4a7c59;
+    font-weight: 600;
+}
+
+.outline-content h3 {
+    color: #388e3c;
+    font-size: 1.3rem;
+    margin: 15px 0 10px 0;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.outline-content h4 {
+    color: #4caf50;
+    font-size: 1.1rem;
+    margin: 12px 0 8px 0;
+    padding-left: 20px;
+    font-weight: 600;
+}
+
+.outline-content h5, .outline-content h6 {
+    color: #66bb6a;
+    font-size: 1rem;
+    margin: 10px 0 6px 0;
+    padding-left: 25px;
+    font-weight: 600;
+}
+
+/* 列表样式 - 支持嵌套 */
+.outline-content ul, .outline-content ol {
+    margin: 10px 0;
+    padding-left: 20px;
+    line-height: 1.6;
+}
+
+.outline-content ul ul, .outline-content ol ol, 
+.outline-content ul ol, .outline-content ol ul {
+    margin: 5px 0;
+    padding-left: 20px;
+}
+
+.outline-content li {
+    margin: 6px 0;
+    color: #2d4a2d;
+    line-height: 1.5;
+}
+
+/* 段落样式 */
+.outline-content p {
+    margin: 10px 0;
+    color: #2d4a2d;
+    line-height: 1.6;
+}
+
+/* 强调文本 */
+.outline-content strong, .outline-content b {
+    color: #1b5e20;
+    font-weight: 600;
+}
+
+.outline-content em, .outline-content i {
+    color: #2e7d32;
+    font-style: italic;
+}
+
+/* 代码样式 */
+.outline-content code {
+    background: #e8f5e8;
+    color: #1b5e20;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+}
+
+.outline-content pre {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px 0;
+    overflow-x: auto;
+}
+
+.outline-content pre code {
+    background: none;
+    padding: 0;
+    color: #333;
+}
+
+/* 引用块样式 */
+.outline-content blockquote {
+    border-left: 4px solid #4a7c59;
+    margin: 15px 0;
+    padding: 10px 20px;
+    background: #f8f9f8;
+    color: #2d4a2d;
+}
+
+/* 水平分割线 */
+.outline-content hr {
+    border: none;
+    height: 2px;
+    background: #4a7c59;
+    margin: 20px 0;
+}
+
+/* 表格样式 */
+.outline-content table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 15px 0;
+}
+
+.outline-content th, .outline-content td {
+    border: 1px solid #4a7c59;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+.outline-content th {
+    background: #e8f5e8;
+    color: #1b5e20;
+    font-weight: 600;
+}
+
+.outline-content tr:nth-child(even) {
+    background: #f8f9f8;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .outline-header {
+        padding: 12px 15px;
+    }
+    
+    .outline-header h2 {
+        font-size: 1.2rem;
+        margin-left: 10px;
+    }
+    
+    .outline-content {
+        padding: 15px;
+        height: calc(100vh - 70px);
+    }
+    
+    .outline-content h1 {
+        font-size: 1.5rem;
+        margin: 15px 0 12px 0;
+    }
+    
+    .outline-content h2 {
+        font-size: 1.3rem;
+        margin: 15px 0 10px 0;
+    }
+    
+    .outline-content h3 {
+        font-size: 1.1rem;
+        margin: 12px 0 8px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .outline-header {
+        padding: 10px 12px;
+    }
+    
+    .outline-header h2 {
+        font-size: 1.1rem;
+        margin-left: 8px;
+    }
+    
+    .outline-content {
+        padding: 12px;
+        height: calc(100vh - 65px);
+    }
+    
+    .outline-content h1 {
+        font-size: 1.3rem;
+    }
+    
+    .outline-content h2 {
+        font-size: 1.2rem;
+    }
+    
+    .outline-content h3 {
+        font-size: 1rem;
+    }
+}

@@ -138,6 +138,8 @@
         if (typeof window.updateTimeDisplay === 'function') window.updateTimeDisplay();
         var statsScreen = document.getElementById('statsScreen');
         if (statsScreen) statsScreen.style.display = 'none';
+        var outlineScreen = document.getElementById('outlineScreen');
+        if (outlineScreen) outlineScreen.style.display = 'none';
         window.showManagementScreen();
     };
 
@@ -164,6 +166,36 @@
         window.reviewStore.items[key] = entry;
         window.saveStore();
         window.showQuestionBank();
+    };
+
+    // 显示语法盒子界面
+    window.showOutlineScreen = function showOutlineScreen(content, bankName) {
+        // 隐藏管理界面
+        document.getElementById('managementScreen').style.display = 'none';
+        
+        // 显示语法盒子界面
+        const outlineScreen = document.getElementById('outlineScreen');
+        if (outlineScreen) {
+            outlineScreen.style.display = 'block';
+        }
+        
+        // 设置标题
+        const titleEl = document.getElementById('outlineTitle');
+        if (titleEl) {
+            titleEl.textContent = bankName ? `${bankName} - 语法大纲` : '语法大纲';
+        }
+        
+        // 渲染大纲内容
+        const contentEl = document.getElementById('outlineContent');
+        if (contentEl) {
+            // 使用解析函数处理markdown内容
+            const htmlContent = window.parseOutlineMarkdown ? 
+                window.parseOutlineMarkdown(content) : content;
+            contentEl.innerHTML = htmlContent;
+        }
+        
+        // 滚动到顶部
+        window.scrollTo(0, 0);
     };
 })();
 

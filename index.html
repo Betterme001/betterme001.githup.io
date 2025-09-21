@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>语法题目复习系统</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -46,6 +47,7 @@
             <div class="management-buttons">
                 <button class="mgmt-btn review" onclick="startReview()">开始复习</button>
                 <button class="mgmt-btn test" onclick="startTest()">开始测试</button>
+                <button class="mgmt-btn outline" onclick="showGrammarBox()">我的盒子</button>
                 <button class="mgmt-btn library" onclick="showQuestionBank()">展示题库</button>
                 <button class="mgmt-btn stats" onclick="showStatsScreen()">学习统计</button>
             </div>
@@ -119,6 +121,17 @@
                 <!-- 学习统计将在这里动态生成 -->
             </div>
         </div>
+
+        <!-- 语法盒子屏幕 -->
+        <div class="outline-screen" id="outlineScreen" style="display: none;">
+            <div class="outline-header">
+                <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
+                <h2 id="outlineTitle">语法大纲</h2>
+            </div>
+            <div class="outline-content" id="outlineContent">
+                <!-- 大纲内容将在这里动态加载 -->
+            </div>
+        </div>
     </div>
 
     <!-- 配置层 -->
@@ -138,6 +151,7 @@
     <script src="controllers/progressShow.js"></script>
     <script src="controllers/test.js"></script>
     <script src="controllers/bankManager.js"></script>
+    <script src="controllers/box_outline.js"></script>
     <script src="controllers/app.js"></script>
 
 </body>
