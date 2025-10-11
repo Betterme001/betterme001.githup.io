@@ -32,6 +32,11 @@ const CONFIG = {
             name: '语法题库2-句子成分篇-倒叙模式', 
             url: 'assets/data/grammarpoint_upperpart_reverse.json',
             outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
+        },
+        grammarpoint2_order: { 
+            name: '语法题库3-时态篇-顺序模式', 
+            url: 'assets/data/grammarpoint_lowerpart_order.json',
+            outline: 'assets/data/grammarpoint_lowerpart_box_outline.md'
         }
     },
     
