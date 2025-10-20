@@ -1,12 +1,12 @@
 1. 形容词：	
 
-   ing 情绪形容词，表示令人感觉的。。，
+   ing 情绪形容词，表示令人感觉的...
 
-   ed 情绪形容词，表示人笨手的感受，人对某事产生的感觉，感到。。的
+   ed 情绪形容词，表示人笨手的感受，人对某事产生的感觉，感到...的
 
 2. 名词
 
-   1. 八大金刚：限定词，形容词，（形容词短语，介词短语，分词短语），不定式(作定语），定语从句，同位语从句
+   1. 八大金刚：限定词，形容词，形容词短语，介词短语，分词短语，不定式，定语从句，同位语从句
    2. 名词的序：（名词的中心词顺序）: 左二右六
    3. 复合名词的数
       1. "名词—介词/副词/不定式等"构成的复合名词变成副数，主体名词变化
@@ -118,16 +118,16 @@
 
       3. 不定式作定语
 
-                1. 主谓关系: man/person 
-                   - He is the best man to do this.
-                2. 动宾关系: clothes/letter/kids/man: 
-                   - I have to take some clothes to change
-                3. 动状关系:way/time/reason
-                   - I have no time to go there. 
-                   - There is no reason to doubt his word.
-                4. 同位关系：
-                       1. chance/opportunity/dream/ability/plan//need：不定式与所修饰的名词指的是一回事。(不定式为解释前面名词具体内容）
-                       2. attempt/ability/promise/anxiety/decision：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。
+         1. 主谓关系: man/person 
+            - He is the best man to do this.
+         2. 动宾关系: clothes/letter/kids/man: 
+            - I have to take some clothes to change
+         3. 动状关系:way/time/reason
+            - I have no time to go there. 
+            - There is no reason to doubt his word.
+         4. 同位关系：
+            1. chance/opportunity/dream/ability/plan//need：不定式与所修饰的名词指的是一回事。(不定式为解释前面名词具体内容）
+            2. attempt/ability/promise/anxiety/decision：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。
 
       4. 不定式作状语
 

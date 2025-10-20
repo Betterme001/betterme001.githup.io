@@ -165,7 +165,7 @@
         window.showManagementScreen();
     };
 
-    // 计算并渲染题库顶部的label筛选按钮
+    // 计算并渲染题库底部的label筛选按钮
     window.renderLabelFilters = function renderLabelFilters() {
         const screen = document.getElementById('libraryScreen');
         if (!screen) return;
@@ -174,8 +174,8 @@
         if (!bar) {
             bar = document.createElement('div');
             bar.id = 'labelFilterBar';
-            // 插入到libraryScreen顶部
-            screen.insertBefore(bar, screen.firstChild);
+            // 插入到libraryScreen底部
+            screen.appendChild(bar);
         }
 
         // 计算label集合，并按首次出现顺序排序
@@ -206,7 +206,7 @@
         bar.innerHTML = '';
         const wrap = document.createElement('div');
         // 与页面一起滚动；多行显示，最多五行，超出部分在内部滚动
-        wrap.style.cssText = 'padding:4px 0;background:#fff;display:flex;flex-wrap:wrap;gap:4px;max-height:128px;overflow-y:auto;';
+        wrap.style.cssText = 'padding:8px 12px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;gap:4px;max-height:128px;overflow-y:auto;margin-top:auto;';
 
         // 全部按钮
         const allBtn = document.createElement('button');

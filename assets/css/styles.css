@@ -556,8 +556,14 @@ body.top-align .container {
     background: transparent;
     border-radius: 0;
     padding: 0 8px 8px 8px;
-    height: calc(100vh - 40px);
+    height: calc(100vh - 180px); /* 扩大高度，减少底部空间 */
     overflow-y: auto;
+}
+
+/* Label筛选按钮容器 */
+#labelFilterBar {
+    background: #f8f9fa;
+    border-top: 1px solid #e9ecef;
 }
 
 .library-item {

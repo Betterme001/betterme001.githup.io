@@ -3,13 +3,13 @@
     "question": "我不知道他是否来（过去将来）",
     "translation": "I didn't know if he would come",
     "knowledge_point": "\n- 过去将来时：站在过去看将来\n- 表示过去的将来",
-    "label": "时态-过去将来时"
+    "label": "时态-一般现在时"
   },
   {
     "question": "我小时候以为，我上大学之前得一直在老家",
     "translation": "When I was a child, I thought I would have been staying in my hometown before going to university",
     "knowledge_point": "\n- 过去将来完成进行时\n- 表示从过去的某个时间点看，将来某个时间之前一直进行的动作",
-    "label": "时态-过去将来完成进行时"
+    "label": "时态-一般现在时"
   },
   {
     "question": "我爱你",
@@ -33,7 +33,7 @@
     "question": "他当前在北京",
     "translation": "He is living in Beijing",
     "knowledge_point": "\n- 现在进行时：表示当前正在进行的动作\n- 与一般现在时的区别",
-    "label": "时态-现在进行时"
+    "label": "时态-一般现在时"
   },
   {
     "question": "知识就是力量",
@@ -81,7 +81,7 @@
     "question": "到目前为止，我每天做一百个俯卧撑。以后不一定每天还做100个",
     "translation": "I have been doing 100 push ups every day",
     "knowledge_point": "\n- 现在完成进行时：表示从过去开始一直持续到现在的动作\n- 强调持续的过程",
-    "label": "时态-现在完成进行时"
+    "label": "时态-一般现在时"
   },
   {
     "question": "男人永远不会改变，他们只是更加擅长保守秘密",
@@ -111,7 +111,7 @@
     "question": "你老公要来了（come/go是瞬时动词，来，走，如果用进行时，则表示将来）",
     "translation": "Your husband is coming",
     "knowledge_point": "\n- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
-    "label": "时态-现在进行时表将来"
+    "label": "时态-一般现在时"
   },
   {
     "question": "告诉我他什么时候回来",
@@ -189,19 +189,19 @@
     "question": "我已经在北京生活三年了",
     "translation": "I have lived in Beijing for three years",
     "knowledge_point": "\n- 现在完成时：表示从过去开始一直持续到现在的动作\n- 与一般过去时的区别",
-    "label": "时态-现在完成时"
+    "label": "时态-一般过去时"
   },
   {
     "question": "我在北京生活过",
     "translation": "I have lived in Beijing",
     "knowledge_point": "\n- 现在完成时：表示过去的动作对现在有影响\n- 有言外之意",
-    "label": "时态-现在完成时"
+    "label": "时态-一般过去时"
   },
   {
     "question": "对不起，我不认识你",
     "translation": "I am sorry, I don't know you",
     "knowledge_point": "\n- 一般现在时：表示现在的状态\n- 与过去时的区别",
-    "label": "时态-一般现在时"
+    "label": "时态-一般过去时"
   },
   {
     "question": "抱歉抱歉，我不知道你是他的朋友",
@@ -213,7 +213,7 @@
     "question": "不好意思，我不记得我说什么了（喝酒喝多了）",
     "translation": "Sorry, I forget what I said",
     "knowledge_point": "\n- 一般现在时：表示现在的状态\n- 与过去时的区别",
-    "label": "时态-一般现在时"
+    "label": "时态-一般过去时"
   },
   {
     "question": "A：你跟他说了吗？B：糟了，我给忘了",
@@ -297,19 +297,19 @@
     "question": "夏天快到了",
     "translation": "The summer is coming",
     "knowledge_point": "\n- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
-    "label": "时态-现在进行时表将来"
+    "label": "时态-一般将来时"
   },
   {
     "question": "我马上到",
     "translation": "I am coming",
     "knowledge_point": "\n- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
-    "label": "时态-现在进行时表将来"
+    "label": "时态-一般将来时"
   },
   {
     "question": "我和老张今晚见",
     "translation": "Me and old Zhang are meeting tonight",
     "knowledge_point": "\n- 进行时表将来：瞬间动词进行时表将来\n- meet是瞬间动词",
-    "label": "时态-现在进行时表将来"
+    "label": "时态-一般将来时"
   },
   {
     "question": "电影马上开始",
@@ -411,7 +411,7 @@
     "question": "他确实傻",
     "translation": "He is silly",
     "knowledge_point": "\n- 一般现在时：表示稳定的状态\n- 与进行时的区别",
-    "label": "时态-一般现在时"
+    "label": "时态-现在进行时"
   },
   {
     "question": "我做饭的时候把手切了",
@@ -429,7 +429,7 @@
     "question": "他不会来参加聚会了（不愿意来）",
     "translation": "He won't come to the party",
     "knowledge_point": "\n- 一般将来时：预测打算意愿\n- 表示不愿意",
-    "label": "时态-一般将来时"
+    "label": "时态-将来进行时"
   },
   {
     "question": "你打算怎么付呢",
@@ -447,7 +447,7 @@
     "question": "你什么时候还钱",
     "translation": "When will you pay back the money",
     "knowledge_point": "\n- 一般将来时：预测打算意愿\n- 普通语气",
-    "label": "时态-一般将来时"
+    "label": "时态-将来进行时"
   },
   {
     "question": "您什么时候准备还钱（很客气）",
@@ -459,7 +459,7 @@
     "question": "你打算怎么付呢（普通语气）",
     "translation": "How will you pay",
     "knowledge_point": "\n- 一般将来时：预测打算意愿\n- 普通语气",
-    "label": "时态-一般将来时"
+    "label": "时态-将来进行时"
   },
   {
     "question": "你打算怎么付（非常客气语气）",
@@ -483,7 +483,7 @@
     "question": "我去看你的时候，你已经走了",
     "translation": "You had left when I went to see you",
     "knowledge_point": "\n- 过去完成时：站在过去回首更遥远的过去\n- 表示过去的过去",
-    "label": "时态-过去完成时"
+    "label": "时态-现在完成时"
   },
   {
     "question": "我在北京住了10年了",
@@ -585,7 +585,7 @@
     "question": "一个工作人员询问你，问你单身吗？你回答说我结婚了",
     "translation": "I am married",
     "knowledge_point": "\n- 现在完成时和现在一般时的区别：完成时过去的动作与现在有关系，有言外之意，对现在有影响\n- 只是陈述事实",
-    "label": "时态-一般现在时"
+    "label": "时态-现在完成时"
   },
   {
     "question": "一个异性朋友邀请你出去玩，问你单身吗？你说我已经结婚了（不方便）",
@@ -603,7 +603,7 @@
     "question": ". 我在这工作过（只是表达那时候在这里工作）",
     "translation": "I worked here",
     "knowledge_point": "\n- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候在这里工作",
-    "label": "时态-一般过去时"
+    "label": "时态-现在完成时"
   },
   {
     "question": ". 我的笔丢了（笔现在没找到）",
@@ -615,7 +615,7 @@
     "question": ". 我的笔丢了（昨天把笔丢了，现在找不找到不知道）",
     "translation": "I lost my pen yesterday",
     "knowledge_point": "\n- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候的动作",
-    "label": "时态-一般过去时"
+    "label": "时态-现在完成时"
   },
   {
     "question": ". 谁开门了？（目前的门还开着呢）",
@@ -627,13 +627,13 @@
     "question": ". 谁开门了？（现在的门的状态是否开着不确定）",
     "translation": "Who opened the door",
     "knowledge_point": "\n- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候的动作",
-    "label": "时态-一般过去时"
+    "label": "时态-现在完成时"
   },
   {
     "question": ". 他三年前死了",
     "translation": "He died three years ago",
     "knowledge_point": "\n- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候的动作",
-    "label": "时态-一般过去时"
+    "label": "时态-现在完成时"
   },
   {
     "question": ". 他已经死了（所以我们很怀念他）",
@@ -681,7 +681,7 @@
     "question": ". 我学了5千个单词",
     "translation": "I have learnt 5 thousand words",
     "knowledge_point": "\n- 现在完成时&过去完成时的区别\n- 站在现在回首过去",
-    "label": "时态-现在完成时"
+    "label": "时态-过去完成时"
   },
   {
     "question": ". 到那时我已经学了5千个单词了",
@@ -747,19 +747,19 @@
     "question": ". 我已经读这本书一周了",
     "translation": "I have read this book for a week",
     "knowledge_point": "\n- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
-    "label": "时态-现在完成时"
+    "label": "时态-现在完成进行时"
   },
   {
     "question": ". 我读过这本书",
     "translation": "I have read this book",
     "knowledge_point": "\n- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
-    "label": "时态-现在完成时"
+    "label": "时态-现在完成进行时"
   },
   {
     "question": ". 我在这个工作3年了（现在也在这工作，\"以后\"要看上下文）",
     "translation": "I have worked here for 3 years",
     "knowledge_point": "\n- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
-    "label": "时态-现在完成时"
+    "label": "时态-现在完成进行时"
   },
   {
     "question": ". 我一直在这工作三年了（现在也在这工作，\"以后\"要看上下文），带有感情色彩，强调一直",
@@ -771,7 +771,7 @@
     "question": ". 我在这工作过（现在不在这工作了）",
     "translation": "I have worked here",
     "knowledge_point": "\n- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
-    "label": "时态-现在完成时"
+    "label": "时态-现在完成进行时"
   },
   {
     "question": ". 你最近干嘛了",
@@ -897,7 +897,7 @@
     "question": ". 我还没有和印度女孩交流过",
     "translation": "I have never dated with Indian girls",
     "knowledge_point": "\n- 现在完成时：表示过去的动作对现在有影响\n- 有言外之意",
-    "label": "时态-现在完成时"
+    "label": "时态-将来完成进行时"
   },
   {
     "question": ". 对现在的推测有哪些情态动词",
@@ -1023,7 +1023,7 @@
     "question": ". 你愿意嫁我吗",
     "translation": "Will you marry me",
     "knowledge_point": "\n- 本色：意愿\n- 表示意愿",
-    "label": "情态动词-will"
+    "label": "情态动词-would"
   },
   {
     "question": ". 当我年轻时，我会听着收音机，等待我最喜欢的歌",
@@ -1077,7 +1077,7 @@
     "question": ". 你在别处肯定被下药了（表示对过去的猜测）",
     "translation": "You must have been dosed with it elsewhere",
     "knowledge_point": "\n- 对过去的推测：must have done\n- 表示对过去的猜测",
-    "label": "情态动词-must"
+    "label": "情态动词-might"
   },
   {
     "question": ". 我觉得发生的每件事都是一个教训",
@@ -1131,372 +1131,372 @@
     "question": ". 看那些乌云。随时都可能开始下雨",
     "translation": "Look at those dark clouds. It is going to start raining at any minutes",
     "knowledge_point": "\n- be going to：有迹象表明会发生\n- 有迹象表明会发生",
-    "label": "时态-一般将来时"
+    "label": "情态动词-could"
   },
   {
     "question": ". 倒装两种形式",
     "translation": "完全倒装：谓语完全在主语的前面，御驾亲征；部分倒装：谓语不动，助动词/情态动词放在前面",
     "knowledge_point": "\n- 完全倒装：谓语完全在主语的前面\n- 部分倒装：谓语不动，助动词/情态动词放在前面",
-    "label": "倒装"
+    "label": "倒装-完全倒装和部分倒装"
   },
   {
     "question": ". 助动词有哪些",
     "translation": "be(am is are), do don't did didn't, have, haven't",
     "knowledge_point": "\n- be(am is are): Jim is crying\n- do don't did didn't\n- have, haven't",
-    "label": "倒装"
+    "label": "倒装-助动词"
   },
   {
     "question": ". 你老婆来了",
     "translation": "Here comes your wife",
     "knowledge_point": "\n- 以here,there,now, then的完全倒装\n- 完全倒装句型",
-    "label": "倒装"
+    "label": "倒装形式1-以here,there,now, then的完全倒装"
   },
   {
     "question": ". 咱们的飞机走了",
     "translation": "There goes our plane",
     "knowledge_point": "\n- 以here,there,now, then的完全倒装\n- 完全倒装句型",
-    "label": "倒装"
+    "label": "倒装形式1-以here,there,now, then的完全倒装"
   },
   {
     "question": ". 该你了，轮到你了",
     "translation": "Now comes your turn",
     "knowledge_point": "\n- 以here,there,now, then的完全倒装\n- 完全倒装句型",
-    "label": "倒装"
+    "label": "倒装形式1-以here,there,now, then的完全倒装"
   },
   {
     "question": ". A:他能说英语 B:我也能（表示肯定）",
     "translation": "A: He can speak English B: so can I",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示肯定",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". A:Jack去过英国 B:我也去过；夏洛克也去过",
     "translation": "A: Jack has been to UK B: so have I, so has Sherlock",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示肯定",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". A:她是一个会计 B:他也是；我也是",
     "translation": "A: She is an accountant B: So is he, so am I",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示肯定",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". A:他通过了考试 B:我也是",
     "translation": "A: He passed the exam B: So did I",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示肯定",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". 蜘蛛侠：我不能让他停止。美国队长：我也不能",
     "translation": "A: I couldn't stop him B: neither could I",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示否定",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". A:你不应该在这 B:你也不应该",
     "translation": "A: You shouldn't be here B: neither should you",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示否定",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". A:他能说英语 B：他确实能（表示附和，捧哏）",
     "translation": "A: He can speak English B: So he can",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示附和，捧哏",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". A:Jack去过英国 B:他确实去过（表示附和，捧哏）",
     "translation": "A: Jack has been to England B: So he has",
     "knowledge_point": "\n- so/nor/neither开头的回应短语\n- 表示附和，捧哏",
-    "label": "倒装"
+    "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
     "question": ". 祝你成功",
     "translation": "May you succeed",
     "knowledge_point": "\n- 表示祝愿\n- 祝愿句型",
-    "label": "倒装"
+    "label": "倒装形式3-表示祝愿"
   },
   {
     "question": ". 恭喜发财",
     "translation": "May you be prosperous",
     "knowledge_point": "\n- 表示祝愿\n- 祝愿句型",
-    "label": "倒装"
+    "label": "倒装形式3-表示祝愿"
   },
   {
     "question": ". 中华人民共和国万岁",
     "translation": "Long live the People's Republic of China",
     "knowledge_point": "\n- 表示祝愿\n- 祝愿句型",
-    "label": "倒装"
+    "label": "倒装形式3-表示祝愿"
   },
   {
     "question": ". 世界人民大团结万岁",
     "translation": "Long live the great union of the people of the world",
     "knowledge_point": "\n- 表示祝愿\n- 祝愿句型",
-    "label": "倒装"
+    "label": "倒装形式3-表示祝愿"
   },
   {
     "question": ". 友谊天长地久",
     "translation": "Long live the friendship",
     "knowledge_point": "\n- 表示祝愿\n- 祝愿句型",
-    "label": "倒装"
+    "label": "倒装形式3-表示祝愿"
   },
   {
     "question": ". 祝你长命百岁",
     "translation": "Long live you",
     "knowledge_point": "\n- 表示祝愿\n- 祝愿句型",
-    "label": "倒装"
+    "label": "倒装形式3-表示祝愿"
   },
   {
     "question": ". 一个勇敢的男孩，他是",
     "translation": "What a brave boy he is",
     "knowledge_point": "\n- 表示感叹\n- 感叹句型",
-    "label": "倒装"
+    "label": "倒装形式4-表示感叹"
   },
   {
     "question": ". 多么的勇敢，这个男孩",
     "translation": "How brave the boy is",
     "knowledge_point": "\n- 表示感叹\n- 感叹句型",
-    "label": "倒装"
+    "label": "倒装形式4-表示感叹"
   },
   {
     "question": ". 特指：可以识别的独特事物",
     "translation": "Specific: identifiable unique things",
     "knowledge_point": "\n- 修饰名词\n- 特指：可以识别的独特事物",
-    "label": "冠词-冠词用处"
+    "label": "冠词用处-修饰名词"
   },
   {
     "question": ". 泛指：无法统一确认的事情",
     "translation": "General: things that cannot be uniformly confirmed",
     "knowledge_point": "\n- 修饰名词\n- 泛指：无法统一确认的事情",
-    "label": "冠词-冠词用处"
+    "label": "冠词用处-修饰名词"
   },
   {
     "question": ". 当物体变成一个和他曾经不一样的物体，这种变化就是化学变化",
     "translation": "When matter changes to a substance different from what it was, the change is a chemical change",
     "knowledge_point": "\n- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词",
-    "label": "冠词-冠词用处"
+    "label": "冠词用处-判断后面有没有名词"
   },
   {
     "question": ". 起重机是通过操作一个杆子进行开关控制的",
     "translation": "The crane is contactor-controlled by operating a rod",
     "knowledge_point": "\n- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词",
-    "label": "冠词-冠词用处"
+    "label": "冠词用处-判断后面有没有名词"
   },
   {
     "question": ". 这是一个人造卫星",
     "translation": "This is a man-made satellite",
     "knowledge_point": "\n- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词",
-    "label": "冠词-冠词用处"
+    "label": "冠词用处-判断后面有没有名词"
   },
   {
     "question": ". 月亮/太阳/地球",
     "translation": "the moon/sun/earth",
     "knowledge_point": "\n- 定冠词the：独一无二\n- 表示独一无二的事物",
-    "label": "冠词-定冠词"
+    "label": "the-独一无二"
   },
   {
     "question": ". 世界/宇宙",
     "translation": "the world/universe",
     "knowledge_point": "\n- 定冠词the：独一无二\n- 表示独一无二的事物",
-    "label": "冠词-定冠词"
+    "label": "the-独一无二"
   },
   {
     "question": ". 撒哈拉沙漠",
     "translation": "the Sahara Desert",
     "knowledge_point": "\n- 定冠词the：独一无二\n- 表示独一无二的事物",
-    "label": "冠词-定冠词"
+    "label": "the-独一无二"
   },
   {
     "question": ". 长城",
     "translation": "The Great Wall",
     "knowledge_point": "\n- 定冠词the：独一无二\n- 表示独一无二的事物",
-    "label": "冠词-定冠词"
+    "label": "the-独一无二"
   },
   {
     "question": ". 中华人民共和国",
     "translation": "the People's Republic of China",
     "knowledge_point": "\n- 定冠词the：独一无二\n- 表示独一无二的事物",
-    "label": "冠词-定冠词"
+    "label": "the-独一无二"
   },
   {
     "question": ". 黄色座位留给老人、儿童、孕妇、病人和残疾人",
     "translation": "Yellow seats are reserved for Seniors, Children, Pregnant women, the Sick and the Disabled",
     "knowledge_point": "\n- the+adj表示一类人\n- 表示一类人",
-    "label": "冠词-定冠词"
+    "label": "the+adj-一类人"
   },
   {
     "question": ". 露西把苹果分成两半",
     "translation": "Lucy divided the apples into two halves",
     "knowledge_point": "\n- 可数名词前定冠词表示某个，或某些特定的人或事物\n- 表示特定的事物",
-    "label": "冠词-定冠词"
+    "label": "the+可数名词-特定事物"
   },
   {
     "question": ". 这是一只猴子",
     "translation": "This is a monkey",
     "knowledge_point": "\n- 表示\"一个\"的时候，a/an强调种类，类属而非数量\n- 强调种类，类属而非数量",
-    "label": "冠词-不定冠词"
+    "label": "a/an-强调种类"
   },
   {
     "question": ". 一拳超人",
     "translation": "One punch man",
     "knowledge_point": "\n- one更强调数量更强调\"一\"的概念\n- 强调数量",
-    "label": "冠词-不定冠词"
+    "label": "a/an-强调数量"
   },
   {
     "question": ". 我可以一下子把他打倒",
     "translation": "I can beat him down at one blow",
     "knowledge_point": "\n- one更强调数量更强调\"一\"的概念\n- 强调数量",
-    "label": "冠词-不定冠词"
+    "label": "a/an-强调数量"
   },
   {
     "question": ". 去上学/去学校（可以捡瓶子）",
     "translation": "go to school/go to the school",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 去看病/去医院（可能上班）",
     "translation": "go to hospital/go to the hospital",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 吃饭/在桌旁(可能学习)",
     "translation": "at table/at the table",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 去睡觉/去床上",
     "translation": "go to bed/go to the bed",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 住院/在医院（可能上班）",
     "translation": "in hospital/in the hospital",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 入狱/去监狱",
     "translation": "go to prison/go to the prison",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 在上学/在学校",
     "translation": "in school/in the school",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 在上课，在听课/在班级里地方",
     "translation": "in class/in the class",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 学生们在班级进行了一次劳动竞赛活动",
     "translation": "Students held a labour competition in the class",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 这个班男女生人数相等",
     "translation": "There is an equal number of boys and girls in the class",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 出海/去海边",
     "translation": "go to sea/go to the sea",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 茫然不知所措/在海边",
     "translation": "at sea/at the sea",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 执政，掌权/在办公室",
     "translation": "in office/in the office",
     "knowledge_point": "\n- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
     "question": ". 玻璃/一只玻璃杯/这只玻璃杯",
     "translation": "glass/a glass/the glass",
     "knowledge_point": "\n- 物质名词不用冠词，若用，则具体化\n- 抽象vs具体",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表抽象vs有冠词表具体"
   },
   {
     "question": ". 铁/熨斗/镣铐",
     "translation": "iron/an iron/irons",
     "knowledge_point": "\n- 物质名词不用冠词，若用，则具体化\n- 抽象vs具体",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-无冠词表抽象vs有冠词表具体"
   },
   {
     "question": ". 经验/一种经历",
     "translation": "experience/an experience",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 抽象vs具体",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 布朗（姓）/布朗一家(布朗夫妇)",
     "translation": "Brown/the Browns",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 个人vs家庭",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 红白花（杂色）",
     "translation": "the red and white flower",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 杂色",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 红花和白花",
     "translation": "the red and the white flower",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 两种颜色",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 没多少书(否定意味)",
     "translation": "few books",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 否定意味",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 少数几本书（虽指数量小，但含有肯定意味）",
     "translation": "a few books",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 肯定意味",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 我们中间的三个人",
     "translation": "three of us",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 部分",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 我们三个人（我们总共就三个人）",
     "translation": "the three of us",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 全部",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 毫无疑问",
     "translation": "out of question",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 毫无疑问",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   },
   {
     "question": ". 不可能的（常作表语）",
     "translation": "out of the question",
     "knowledge_point": "\n- 某些词或词组用或不用冠词，意思不同\n- 不可能的",
-    "label": "冠词-冠词区别"
+    "label": "冠词-冠词的有无区别-意义不同"
   }
 ]
