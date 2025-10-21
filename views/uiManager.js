@@ -97,7 +97,7 @@
                     <div style="font-size: 1.2rem; font-weight: bold; margin-bottom: 8px; color:#111; display:flex; justify-content:space-between; align-items:center;">
                         <span>${index + 1}. ${q.question}</span>
                         <div style="display:flex; align-items:center; gap:8px;">
-                            <span style="font-size: 0.9rem; color: #666; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">${mastery}%</span>
+                            <span style="font-size: 0.9rem; color: #666; background: #e8f5e8; padding: 2px 6px; border-radius: 4px;">${mastery}%</span>
                             <button data-key="${key}" class="icon-back" style="width:auto; padding:2px 6px; font-size:0.8rem;" onclick="toggleFavoriteFromLibrary('${key}')">${entry.favorited ? '★' : '☆'}</button>
                         </div>
                     </div>

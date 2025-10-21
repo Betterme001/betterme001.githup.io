@@ -224,12 +224,21 @@
             return;
         }
 
-        // 按周组织数据
+        // 按周组织数据，从第一天开始显示
         const weeks = [];
         let currentWeek = [];
         
         // 确保数据按日期排序
         const sortedDates = dates.sort((a, b) => a.localeCompare(b));
+        
+        // 找到第一个学习日期的星期几，用于对齐显示
+        const firstDate = new Date(sortedDates[0]);
+        const firstDayOfWeek = firstDate.getDay(); // 0=周日, 1=周一, ..., 6=周六
+        
+        // 在第一个学习日期之前添加空的天数，确保对齐
+        for (let i = 0; i < firstDayOfWeek; i++) {
+            currentWeek.push(null);
+        }
         
         sortedDates.forEach(date => {
             const d = new Date(date);
