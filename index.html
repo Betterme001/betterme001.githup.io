@@ -106,9 +106,12 @@
         <div class="library-screen" id="libraryScreen">
             <div style="display:flex; justify-content: space-between; align-items:center; padding:8px;">
                 <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-                <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px;">
-                    <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 只看收藏
-                </label>
+                <div style="display:flex; align-items:center; gap:12px;">
+                    <button id="sortByMasteryBtn" onclick="toggleSortByMastery()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer;">排序</button>
+                    <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px;">
+                        <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 只看收藏
+                    </label>
+                </div>
             </div>
             <div class="library-list" id="libraryList">
                 <!-- 题库内容将在这里动态生成 -->

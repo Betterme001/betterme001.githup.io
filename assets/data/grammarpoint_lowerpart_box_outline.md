@@ -41,6 +41,9 @@
             2. 表示按计划发生，或是时间表规定
                - The meeting starts at 5 pm.
                - The airplane takes off at 9 am.
+            3. be about to  (5 分钟内)
+               - The film is about to start
+               - The beverage you are about to enjoy is extremely hot. Be careful.
 
       2. 一般过去
 
@@ -82,17 +85,6 @@
                - The phone is ringing, I will get it 
                - There aren't any eggs left,I will buy some.
 
-         3. 进行时表将来
-            1. 瞬间动词 进行时表将来
-
-               - The summer is coming
-               - I am coming 
-            2. be about to  (5 分钟内)
-
-               - The film is about to start
-
-               - The beverage you are about enjoy is extremely hot. Be careful.
-
    3. 进行态
 
       1. 现在进行
@@ -105,6 +97,9 @@
          3. 系动词be 的进行时+形容词 表示*暂时出现*的某种*状态或品质*，含有讽刺、不满、厌烦等意
             - you are being foolish
             - I am being polite
+         4. 瞬间动词 进行时表将来
+            - The summer is coming
+            - I am coming 
       2. 过去进行
          1. 与一般过去时是好朋友（长动作用进行，短动作用过去）
             - I cut my finger when I was cooking

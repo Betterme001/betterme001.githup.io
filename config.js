@@ -14,6 +14,7 @@ const CONFIG = {
     TIMER_DURATION: 4000,                // 每个卡片等待时间（毫秒）
     MAX_QUESTION_STUDY_TIME: 60000,     // 每道题最大学习时间（毫秒）- 1分钟
     MIN_QUESTION_STUDY_TIME: 1000,       // 每道题最小学习时间（毫秒）- 1秒
+    REVIEW_BACK_RANGE: 20,               // 每天第一次复习时往回复习的题目数量
     
     // 掌握度配置
     MASTERY_THRESHOLD: 80,               // 掌握度阈值（百分比）

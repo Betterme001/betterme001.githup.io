@@ -87,11 +87,14 @@
         const meta = window.reviewStore.meta;
         const total = window.questions.length || 0;
         const globalProgress = meta.globalProgressIndex || 0;
-        const startIndex = Math.max(0, meta.reviewProgress || 0);
+        const reviewProgress = meta.reviewProgress || 0;
+        
+        // 确保复习进度不超过测试进度
+        const startIndex = Math.max(0, Math.min(reviewProgress, globalProgress));
         const endIndex = Math.min(globalProgress, total);
         
         const allCandidates = [];
-        console.log('复习扫描范围:', startIndex, '到', endIndex - 1);
+        console.log('复习扫描范围:', startIndex, '到', endIndex - 1, '(测试进度:', globalProgress, ', 复习进度:', reviewProgress, ')');
         
         // 从reviewProgress开始扫描
         for (let i = startIndex; i < endIndex; i++) {
@@ -428,9 +431,12 @@
                 const lastIndex = (window.questions || []).findIndex(q => q.question === lastQuestion.question);
                 
                 if (lastIndex !== -1) {
-                    window.reviewStore.meta.reviewProgress = lastIndex + 1;
+                    // 确保复习进度不超过测试进度
+                    const globalProgress = window.reviewStore.meta.globalProgressIndex || 0;
+                    const newReviewProgress = Math.min(lastIndex + 1, globalProgress);
+                    window.reviewStore.meta.reviewProgress = newReviewProgress;
                     window.saveStore();
-                    console.log('复习进度已更新，下次复习从位置', lastIndex + 1, '开始');
+                    console.log('复习进度已更新，下次复习从位置', newReviewProgress, '开始 (测试进度:', globalProgress, ')');
                 }
             }
         } else {

@@ -51,13 +51,35 @@
 
         const labelFilter = window.currentLabelFilter || null;
 
-        (window.questions || []).forEach((q, index) => {
-            if (labelFilter && (q.label || '').trim() !== labelFilter) return;
+        // 获取过滤后的题目列表
+        let filteredQuestions = (window.questions || []).filter(q => {
+            if (labelFilter && (q.label || '').trim() !== labelFilter) return false;
+            if (favOnly) {
+                const key = window.getQuestionKey ? window.getQuestionKey(q) : q.question;
+                const entry = (window.reviewStore && window.reviewStore.items && window.reviewStore.items[key]) || {};
+                if (!entry.favorited) return false;
+            }
+            return true;
+        });
+
+        // 如果启用按掌握度排序，则排序
+        if (window.sortByMastery) {
+            filteredQuestions.sort((a, b) => {
+                const keyA = window.getQuestionKey ? window.getQuestionKey(a) : a.question;
+                const keyB = window.getQuestionKey ? window.getQuestionKey(b) : b.question;
+                const entryA = (window.reviewStore && window.reviewStore.items && window.reviewStore.items[keyA]) || {};
+                const entryB = (window.reviewStore && window.reviewStore.items && window.reviewStore.items[keyB]) || {};
+                const masteryA = typeof window.calculateMastery === 'function' ? window.calculateMastery(entryA.history || []) : 0;
+                const masteryB = typeof window.calculateMastery === 'function' ? window.calculateMastery(entryB.history || []) : 0;
+                return masteryA - masteryB; // 升序排列，掌握度低的在前
+            });
+        }
+
+        filteredQuestions.forEach((q, index) => {
             const item = document.createElement('div');
             item.className = 'library-item';
             const key = window.getQuestionKey ? window.getQuestionKey(q) : (q.question || index);
             const entry = (window.reviewStore && window.reviewStore.items && window.reviewStore.items[key]) || {};
-            if (favOnly && !entry.favorited) return;
             const m = entry.masteredCount || 0;
             const u = entry.unclearCount || 0;
             const f = entry.forgotCount || 0;
@@ -72,13 +94,15 @@
             }
             item.innerHTML = `
                 <div class="library-question">
-                    <div style="font-size: 1.2rem; font-weight: bold; margin-bottom: 8px; color:#111;">${index + 1}. ${q.question}</div>
+                    <div style="font-size: 1.2rem; font-weight: bold; margin-bottom: 8px; color:#111; display:flex; justify-content:space-between; align-items:center;">
+                        <span>${index + 1}. ${q.question}</span>
+                        <div style="display:flex; align-items:center; gap:8px;">
+                            <span style="font-size: 0.9rem; color: #666; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">${mastery}%</span>
+                            <button data-key="${key}" class="icon-back" style="width:auto; padding:2px 6px; font-size:0.8rem;" onclick="toggleFavoriteFromLibrary('${key}')">${entry.favorited ? '★' : '☆'}</button>
+                        </div>
+                    </div>
                     <div style="font-size: 1.1rem; color: #1565c0; margin: 0 0 8px 0;">${transHtml}</div>
                     <div style="font-size: 1rem; color: #444; margin-bottom: 8px; white-space: pre-wrap; word-break: break-word;">${window.parseMarkdown(q.knowledge_point || '')}</div>
-                    <div style="font-size: 0.9rem; color: #666; margin-top: 8px; display:flex; justify-content:space-between; align-items:center;">
-                        <span>掌握度: ${mastery}% | 掌握: ${m} | 模糊: ${u} | 忘记: ${f}</span>
-                        <button data-key="${key}" class="icon-back" style="width:auto; padding:0 10px;" onclick="toggleFavoriteFromLibrary('${key}')">${entry.favorited ? '★ 已收藏' : '☆ 收藏'}</button>
-                    </div>
                 </div>`;
             libraryList.appendChild(item);
         });
@@ -165,6 +189,21 @@
         window.showManagementScreen();
     };
 
+    // 全局排序状态
+    window.sortByMastery = false;
+
+    // 切换按掌握度排序
+    window.toggleSortByMastery = function toggleSortByMastery() {
+        window.sortByMastery = !window.sortByMastery;
+        const btn = document.getElementById('sortByMasteryBtn');
+        if (btn) {
+            btn.textContent = window.sortByMastery ? '取消排序' : '排序';
+            btn.style.background = window.sortByMastery ? '#e3f2fd' : '#fff';
+        }
+        // 重新显示题库
+        window.showQuestionBank();
+    };
+
     // 计算并渲染题库底部的label筛选按钮
     window.renderLabelFilters = function renderLabelFilters() {
         const screen = document.getElementById('libraryScreen');
@@ -206,7 +245,7 @@
         bar.innerHTML = '';
         const wrap = document.createElement('div');
         // 与页面一起滚动；多行显示，最多五行，超出部分在内部滚动
-        wrap.style.cssText = 'padding:8px 12px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;gap:4px;max-height:128px;overflow-y:auto;margin-top:auto;';
+        wrap.style.cssText = 'padding:8px 12px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;gap:4px;max-height:192px;overflow-y:auto;margin-top:auto;';
 
         // 全部按钮
         const allBtn = document.createElement('button');
