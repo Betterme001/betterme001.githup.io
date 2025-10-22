@@ -245,7 +245,9 @@
         bar.innerHTML = '';
         const wrap = document.createElement('div');
         // 与页面一起滚动；多行显示，最多五行，超出部分在内部滚动
-        wrap.style.cssText = 'padding:8px 12px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;gap:4px;max-height:192px;overflow-y:auto;margin-top:auto;';
+        wrap.style.cssText = 'padding:8px 12px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;gap:4px;overflow-y:auto;margin-top:auto;';
+        // 高度由CSS控制，但确保滚动功能正常
+        wrap.style.maxHeight = 'inherit';
 
         // 全部按钮
         const allBtn = document.createElement('button');

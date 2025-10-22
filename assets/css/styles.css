@@ -179,10 +179,10 @@ body.top-align .container {
     height: 80vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     transition: transform 0.3s ease;
     position: relative;
-    overflow: hidden;
+    overflow-y: auto;
 }
 
 
@@ -543,10 +543,11 @@ body.top-align .container {
     padding: 0; /* 顶部完全贴边 */
     z-index: 1000;
     background: #f0f8f0;       /* 柔和护眼绿色背景 */
+    flex-direction: column;    /* 垂直布局 */
 }
 
 .library-screen.show { 
-    display: block; 
+    display: flex; 
 }
 
 /* 题库顶部改为左上角返回箭头，无需占位标题区 */
@@ -556,14 +557,23 @@ body.top-align .container {
     background: transparent;
     border-radius: 0;
     padding: 0 8px 8px 8px;
-    height: calc(100vh - 180px); /* 扩大高度，减少底部空间 */
+    flex: 1;                    /* 占据剩余空间 */
+    min-height: 0;              /* 允许flex子项缩小 */
     overflow-y: auto;
+}
+
+/* 顶部区域防止收缩 */
+.library-screen > div:first-child {
+    flex-shrink: 0;             /* 防止收缩 */
 }
 
 /* Label筛选按钮容器 */
 #labelFilterBar {
     background: #f8f9fa;
     border-top: 1px solid #e9ecef;
+    flex-shrink: 0;             /* 防止收缩 */
+    margin-top: auto;           /* 推到底部 */
+    max-height: 250px;          
 }
 
 .library-item {
