@@ -818,6 +818,158 @@ body.top-align .container {
     padding: 0;
     z-index: 1000;
     background: #f0f8f0;
+    overflow-y: auto; /* 允许垂直滚动 */
+    flex-direction: column; /* 垂直布局 */
+}
+
+/* TreeView 自定义样式 */
+#outlineTree {
+    padding: 20px;
+    background: #f0f8f0;
+    border-radius: 8px;
+    margin: 10px;
+    padding-bottom: 50px; /* 增加底部空间，确保内容不被遮挡 */
+    min-height: calc(100vh - 100px); /* 确保最小高度 */
+}
+
+#outlineTree .treeview {
+    background: transparent;
+    border: none;
+    font-family: inherit;
+}
+
+#outlineTree .treeview .list-group {
+    background: transparent;
+    border: none;
+}
+
+#outlineTree .treeview .list-group-item {
+    background: transparent;
+    border: none;
+    padding: 8px 12px;
+    margin: 2px 0;
+    border-radius: 4px;
+    color: #2d4a2d;
+    transition: all 0.2s ease;
+}
+
+#outlineTree .treeview .list-group-item:hover {
+    background-color: rgba(74, 124, 89, 0.1);
+    color: #1b5e20;
+}
+
+#outlineTree .treeview .list-group-item.node-selected {
+    background-color: rgba(74, 124, 89, 0.2);
+    color: #1b5e20;
+    font-weight: bold;
+}
+
+#outlineTree .treeview .list-group-item .icon {
+    color: #4a7c59 !important;
+    margin-right: 8px;
+    font-size: 14px;
+    display: inline-block;
+    width: 16px;
+    text-align: center;
+}
+
+#outlineTree .treeview .list-group-item .icon.glyphicon-plus {
+    color: #4a7c59 !important;
+    font-size: 14px;
+}
+
+#outlineTree .treeview .list-group-item .icon.glyphicon-minus {
+    color: #4a7c59 !important;
+    font-size: 14px;
+}
+
+#outlineTree .treeview .list-group-item .icon.glyphicon-folder-open {
+    color: #66bb6a !important;
+    font-size: 14px;
+}
+
+#outlineTree .treeview .list-group-item .icon.glyphicon-folder-close {
+    color: #66bb6a !important;
+    font-size: 14px;
+}
+
+#outlineTree .treeview .list-group-item .icon.glyphicon {
+    color: #4a7c59 !important;
+    font-size: 14px;
+}
+
+/* 层级缩进 */
+#outlineTree .treeview .list-group-item[data-level="1"] {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #1b5e20;
+}
+
+#outlineTree .treeview .list-group-item[data-level="2"] {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #2e7d32;
+}
+
+#outlineTree .treeview .list-group-item[data-level="3"] {
+    font-weight: 500;
+    color: #388e3c;
+}
+
+#outlineTree .treeview .list-group-item[data-level="4"] {
+    color: #4caf50;
+}
+
+#outlineTree .treeview .list-group-item[data-level="5"] {
+    color: #66bb6a;
+}
+
+#outlineTree .treeview .list-group-item[data-level="6"] {
+    color: #81c784;
+}
+
+/* 自定义树形结构样式 */
+.custom-tree-node {
+    margin: 2px 0;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.custom-tree-node:hover {
+    background-color: rgba(74, 124, 89, 0.1);
+}
+
+.custom-tree-header {
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.custom-tree-header:hover {
+    background-color: rgba(74, 124, 89, 0.15);
+}
+
+.custom-tree-icon {
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 1;
+    user-select: none;
+}
+
+.custom-tree-title {
+    line-height: 1.4;
+    word-break: break-word;
+}
+
+.custom-tree-children {
+    border-left: 2px solid #e8f5e8;
+    margin-left: 10px;
+    padding-left: 10px;
+    transition: all 0.3s ease;
+}
+
+/* 确保自定义树形结构有足够的底部空间 */
+#outlineTree .custom-tree-node:last-child {
+    margin-bottom: 50px;
 }
 
 .outline-header {

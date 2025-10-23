@@ -318,17 +318,153 @@
             titleEl.textContent = bankName ? `${bankName} - 语法大纲` : '语法大纲';
         }
         
-        // 渲染大纲内容
+        // 获取DOM元素
         const contentEl = document.getElementById('outlineContent');
-        if (contentEl) {
-            // 使用解析函数处理markdown内容
-            const htmlContent = window.parseOutlineMarkdown ? 
-                window.parseOutlineMarkdown(content) : content;
-            contentEl.innerHTML = htmlContent;
+        const treeEl = document.getElementById('outlineTree');
+        
+        // 解析markdown并创建treeview数据
+        const treeData = window.parseOutlineToTreeData ? 
+            window.parseOutlineToTreeData(content) : [];
+        
+        console.log('TreeView数据:', treeData);
+        console.log('treeEl存在:', !!treeEl);
+        console.log('contentEl存在:', !!contentEl);
+        console.log('treeData长度:', treeData.length);
+        
+        // 使用自定义树形结构
+        if (treeData.length > 0 && treeEl) {
+            console.log('使用自定义树形结构');
+            
+            // 隐藏传统内容，显示树形结构
+            if (contentEl) contentEl.style.display = 'none';
+            treeEl.style.display = 'block';
+            
+            const customHtml = generateCustomTreeHtml(treeData);
+            console.log('生成的HTML长度:', customHtml.length);
+            console.log('HTML预览:', customHtml.substring(0, 200) + '...');
+            
+            treeEl.innerHTML = customHtml;
+            console.log('HTML已插入到treeEl');
+        } else {
+            console.log('使用传统显示');
+            // 降级：使用传统显示
+            if (treeEl) treeEl.style.display = 'none';
+            if (contentEl) {
+                contentEl.style.display = 'block';
+                const htmlContent = window.parseOutlineMarkdown ? 
+                    window.parseOutlineMarkdown(content) : content;
+                contentEl.innerHTML = htmlContent;
+            }
         }
         
         // 滚动到顶部
         window.scrollTo(0, 0);
+    };
+
+    // 解析markdown大纲为TreeView数据格式
+    window.parseOutlineToTreeData = function parseOutlineToTreeData(markdownText) {
+        if (!markdownText || typeof markdownText !== 'string') return [];
+        
+        const lines = markdownText.split('\n');
+        const tree = [];
+        const stack = [];
+        let nodeId = 0;
+        
+        // 解析每一行，构建层级结构
+        lines.forEach((line, index) => {
+            const trimmed = line.trim();
+            if (!trimmed) return;
+            
+            // 匹配markdown标题行 (# ## ### #### 等)
+            let headerMatch = trimmed.match(/^(#{1,6})\s+(.+)$/);
+            let level = 0;
+            let title = '';
+            
+            if (headerMatch) {
+                level = headerMatch[1].length;
+                title = headerMatch[2];
+            } else {
+                // 先匹配缩进项目格式 (空格 + 数字)
+                const subMatch = line.match(/^(\s+)(\d+)\.\s*(.+)$/);
+                if (subMatch) {
+                    const spaces = subMatch[1].length;
+                    level = Math.floor(spaces / 3) + 2; // 根据空格数量确定层级，每3个空格一级
+                    title = subMatch[3];
+                } else {
+                    // 匹配顶级数字列表格式 (1. 2. 3. 等)
+                    const numberMatch = trimmed.match(/^(\d+)\.\s*(.+)$/);
+                    if (numberMatch) {
+                        level = 1;
+                        title = numberMatch[2];
+                    }
+                }
+            }
+            
+            if (level > 0 && title) {
+                const node = {
+                    text: title,
+                    id: `outline-${nodeId++}`,
+                    level: level,
+                    state: {
+                        expanded: level <= 1, // 默认只展开Level 1
+                        selected: false
+                    },
+                    nodes: []
+                };
+                
+                // 找到合适的父节点
+                while (stack.length > 0 && stack[stack.length - 1].level >= level) {
+                    stack.pop();
+                }
+                
+                if (stack.length > 0) {
+                    stack[stack.length - 1].nodes.push(node);
+                } else {
+                    tree.push(node);
+                }
+                
+                stack.push(node);
+            }
+        });
+        
+        return tree;
+    };
+
+    // 生成自定义树形HTML
+    function generateCustomTreeHtml(nodes, depth = 0) {
+        let html = '';
+        
+        nodes.forEach(node => {
+            const hasChildren = node.nodes && node.nodes.length > 0;
+            const isExpanded = node.state && node.state.expanded;
+            const indent = depth * 20;
+            
+            html += `
+                <div class="custom-tree-node" style="margin-left: ${indent}px; margin: 2px 0;">
+                    <div class="custom-tree-header" onclick="toggleCustomNode('${node.id}')" style="cursor: pointer; padding: 8px 12px; display: flex; align-items: center; border-radius: 4px; transition: background-color 0.2s ease;">
+                        <span class="custom-tree-icon" style="width: 20px; text-align: center; font-weight: bold; color: #4a7c59; font-size: 16px; margin-right: 8px;">${hasChildren ? (isExpanded ? '−' : '+') : ''}</span>
+                        <span class="custom-tree-title" style="flex: 1; font-weight: ${node.level <= 2 ? 'bold' : 'normal'}; color: #2d4a2d; font-size: ${node.level <= 2 ? '1.1rem' : '1rem'};">${node.text}</span>
+                    </div>
+                    <div class="custom-tree-children" id="custom-children-${node.id}" style="display: ${isExpanded ? 'block' : 'none'};">
+                        ${hasChildren ? generateCustomTreeHtml(node.nodes, depth + 1) : ''}
+                    </div>
+                </div>
+            `;
+        });
+        
+        return html;
+    }
+
+    // 切换自定义节点展开/折叠状态
+    window.toggleCustomNode = function toggleCustomNode(nodeId) {
+        const childrenEl = document.getElementById(`custom-children-${nodeId}`);
+        const iconEl = document.querySelector(`[onclick="toggleCustomNode('${nodeId}')"] .custom-tree-icon`);
+        
+        if (childrenEl && iconEl) {
+            const isExpanded = childrenEl.style.display !== 'none';
+            childrenEl.style.display = isExpanded ? 'none' : 'block';
+            iconEl.textContent = isExpanded ? '+' : '−';
+        }
     };
 })();
 

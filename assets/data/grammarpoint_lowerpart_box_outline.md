@@ -41,9 +41,6 @@
             2. 表示按计划发生，或是时间表规定
                - The meeting starts at 5 pm.
                - The airplane takes off at 9 am.
-            3. be about to  (5 分钟内)
-               - The film is about to start
-               - The beverage you are about to enjoy is extremely hot. Be careful.
 
       2. 一般过去
 
@@ -85,6 +82,12 @@
                - The phone is ringing, I will get it 
                - There aren't any eggs left,I will buy some.
 
+         3. be about to  (5 分钟内)
+
+            - The film is about to start
+
+            - The beverage you are about enjoy is extremely hot. Be careful.
+
    3. 进行态
 
       1. 现在进行
@@ -98,6 +101,7 @@
             - you are being foolish
             - I am being polite
          4. 瞬间动词 进行时表将来
+
             - The summer is coming
             - I am coming 
       2. 过去进行
@@ -154,7 +158,7 @@
       2. 过去完成
 
          1. 一个动作在过去某一点以前结束。
-            - They  had got everything ready it before I came
+            - They  had got everything ready before I came
          2. 表示非真实的过去，意为”本来要。。。" ，这样的动词有哪些
             - I had intended to see you, but I was too busy.
 
@@ -169,7 +173,7 @@
       - by 在。。之前， 包括当前时间点，通常用于完成时
 
       - before在。。之前， 不包括当前时间点，通常用一般时
-      - till/untill 在。。。之前，一直。。（直到。。才）
+      - till/untill 在。。。之前，一直。。（直到。。才）前面通常是延续性动词；not unitll
 
    5. 完成进行
 
@@ -242,7 +246,7 @@
 
             1. Might  have  done 过去应该做，而没做的事
                - I might have got into trouble（我险些弄出麻烦来）
-               - He might have tried medicine
+               - He might have tried this medicine
             2. could have done 表示过去能做，而没做的事, 有一种对过去未付诸实施的事情的惋惜，或委婉的批评
                - I could have done better
             3. should have done 表示应该作的事而没有做，表示意外，不满或批评。
@@ -291,12 +295,15 @@
    5. can-could
 
       1. can
-         1. 推测：可能---理论上的可能，偶然的可能（与说话现状无关，“有时可能会”）
-            - Winter there can be very cold
-            - Man can be as cruel as wild beats
+         1. 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测
+            - That can't be Mary—she's in New York. 
+            - He can't have slept through all that noise. 
          2. 本色：能力 （有做。。的潜力，具备做某事的条件，强调能力而不强调具体动作）
             - I can speak Italian.
             - Can you get it done?
+         3. 本色：可能---理论上的可能，偶然的可能（与说话现状无关，“有时可能会”）used to say what sb/sth is often like
+            - Winter there can be very cold
+            - Man can be as cruel as wild beats
       2. could
          1. 推测：表示不确定的可能 
             - Look at those dark clouds, it cloud start raining at any minutes.
@@ -385,3 +392,4 @@
          - 经验/一种经历. experience/ an experience
          - 我们中间的三个人 three of us  我们三个人（ 我们总共就三个人）the three of us
          - 毫无疑问  out of question/不可能的（常作表语）out of the question
+         
