@@ -396,6 +396,14 @@
                     if (numberMatch) {
                         level = 1;
                         title = numberMatch[2];
+                    } else {
+                        // 匹配列表项格式 (- 开头)
+                        const listMatch = line.match(/^(\s*)(-)\s+(.+)$/);
+                        if (listMatch) {
+                            const spaces = listMatch[1].length;
+                            level = Math.floor(spaces / 2) + 3; // 根据空格数量确定层级，每2个空格一级
+                            title = listMatch[3];
+                        }
                     }
                 }
             }
@@ -406,7 +414,7 @@
                     id: `outline-${nodeId++}`,
                     level: level,
                     state: {
-                        expanded: level <= 1, // 默认只展开Level 1
+                        expanded: level <= 2, // 默认展开Level 1和2
                         selected: false
                     },
                     nodes: []
@@ -443,9 +451,9 @@
                 <div class="custom-tree-node" style="margin-left: ${indent}px; margin: 2px 0;">
                     <div class="custom-tree-header" onclick="toggleCustomNode('${node.id}')" style="cursor: pointer; padding: 8px 12px; display: flex; align-items: center; border-radius: 4px; transition: background-color 0.2s ease;">
                         <span class="custom-tree-icon" style="width: 20px; text-align: center; font-weight: bold; color: #4a7c59; font-size: 16px; margin-right: 8px;">${hasChildren ? (isExpanded ? '−' : '+') : ''}</span>
-                        <span class="custom-tree-title" style="flex: 1; font-weight: ${node.level <= 2 ? 'bold' : 'normal'}; color: #2d4a2d; font-size: ${node.level <= 2 ? '1.1rem' : '1rem'};">${node.text}</span>
+                        <span class="custom-tree-title" style="flex: 1; font-weight: ${node.level <= 2 ? 'bold' : 'normal'}; color: #2d4a2d; font-size: ${node.level <= 2 ? '1.1rem' : '1rem'}; word-break: break-word; white-space: normal;">${node.text}</span>
                     </div>
-                    <div class="custom-tree-children" id="custom-children-${node.id}" style="display: ${isExpanded ? 'block' : 'none'};">
+                    <div class="custom-tree-children" id="custom-children-${node.id}" style="display: ${isExpanded ? 'block' : 'none'}; overflow-x: auto; max-width: 100%;">
                         ${hasChildren ? generateCustomTreeHtml(node.nodes, depth + 1) : ''}
                     </div>
                 </div>

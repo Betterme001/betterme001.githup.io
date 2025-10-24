@@ -6,7 +6,7 @@
 
 2. 名词
 
-   1. 八大金刚：限定词，形容词，形容词短语，介词短语，分词短语，不定式，定语从句，同位语从句
+   1. 八大金刚：限定词，形容词，形容词短语，介词短语，分词短语，不定式(作定语），定语从句，同位语从句
    2. 名词的序：（名词的中心词顺序）: 左二右六
    3. 复合名词的数
       1. "名词—介词/副词/不定式等"构成的复合名词变成副数，主体名词变化
@@ -35,8 +35,9 @@
    2. 名词性有哪几种形式：陈述句，一般疑问句，特殊疑问句
 
       1. that 通常不可省略: 有哪些谓语动词其后的宾语从句的引导词that 通常不可省略：
-         agree, argue(争论),hold,learn,maintain,observe,
-         contend,conceive,reckon,remark,state, know, suggest,assume,announce,indicate['indikeit]
+         - agree, argue(争论),hold,learn,maintain,observe,
+         - contend,conceive,reckon,remark,state, know, 
+         - suggest,assume,announce,indicate['indikeit]
 
       2. that 通常可省略: 主句谓语动词有哪些 ，其后的宾语从句的引导词that 通常可省略：think, suppose,presume,dare,say
 
@@ -48,16 +49,16 @@
 
          五种结构：
 
-         1. It is 过去分词/形容词/名词短语 that ，It 不及物动词 that （is said/is clear/is good news/turn out that)
-         2. 固定表达：
+         1. It is 过去分词 that (It is said that)
+         2. It is形容词 that (It is clear that)
+         3. It is 名词短语 that (It is good news that)
+         4. It 不及物动词 that （It turn out that)
+         5. 固定表达：
             - it makes no difference
             - it doesn't need to be bothered
 
-
-         2. 作宾语，宾语从句后置：I believe it true that
-
-         3. 作同位语：idea/fact: 
-            - do you have any idea what you've done?!
+         				2. 作宾语，宾语从句后置：I believe it true that
+         				3. 作同位语：idea/fact: do you have any idea what you've done?!
 
 4. 动名词
 
@@ -75,14 +76,15 @@
             5. it is hard enough: doing/todo ，已经很难了
       2. 作宾语（动词宾语，介词宾语）
          1. 动名词作并宾语的动词有哪些:  admit/advise/ appreciate/avoid/consider/deny/discuss/risk/mind...
+
       3. 作表语： Seeing is believing
-      4. 作定语表示用途和功能。reading room
+      4. 作定语表示用途和功能: reading room
       5. 作宾补：I saw him **running** in the park.
       6. 特定句型、
 
          1. have difficulty/ a hard time/problem/trouble doing 做。。有困难
-         2. 情不自禁：can't help doing/can't hold back from
-         3. 值得琢磨事 sth is worth doing/it is worth doing sth， sth be worth doing
+         2. can't help doing/can't hold back from 情不自禁
+         3. sth is worth doing/it is worth doing sth 值得做某事
             - The book is worth reading
 
    2. 动名词复合结构
@@ -92,24 +94,28 @@
 
       3. 动名词复合结构作宾语时 用普通格 和 所有格 均可
 
+   3. 动名词的被动式: being/主动表被动
 
-         3. 动名词的被动式: being/主动表被动
+      1. being +被动式
 
-            1. being +被动式
+      2. 主动表被动：need/wants/deserve
 
-            2. 主动表被动：need/wants/deserve
 
-   4. 动名词完成式：动名词的动作在谓语动作之前发生 having done
+         4. 动名词完成式：动名词的动作在谓语动作之前发生 having done
 
-5. 不定式
+
+4. 不定式
 
    1. 充当的成分：主宾表定状补
 
       1. 主语
 
-         1. It is adj/n to do..; It动词 todo, It takes two  to tango. 比名词性从句少了过去分词和名词
+         1. It is adj/n to do..; 
          2. It is adj 不定式的逻辑主语for/of todo
-            1. of 前的形容词多用来说明人的性格或行为表现：brave, careful, careless, clever, cruel, foolish, generous, kind, modest, nice, polite,rude,selfish,silly, stupid, thoughtful.
+            1. of 前的形容词多用来说明人的性格或行为表现：
+               - brave, careful, careless, clever, cruel, foolish, generous, kind, modest, nice, polite,rude,selfish,silly, stupid, thoughtful.
+         3. It动词 todo,  It 后面比名词性从句少了过去分词和名词
+            - It takes two  to tango. 
 
       2. 宾语：
              1. 动词+todo
@@ -119,14 +125,23 @@
       3. 不定式作定语
 
          1. 主谓关系: man/person 
+
             - He is the best man to do this.
+
          2. 动宾关系: clothes/letter/kids/man: 
+
             - I have to take some clothes to change
+
          3. 动状关系:way/time/reason
+
             - I have no time to go there. 
+
             - There is no reason to doubt his word.
+
          4. 同位关系：
+
             1. chance/opportunity/dream/ability/plan//need：不定式与所修饰的名词指的是一回事。(不定式为解释前面名词具体内容）
+
             2. attempt/ability/promise/anxiety/decision：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。
 
       4. 不定式作状语
@@ -189,21 +204,19 @@
       4. 在对话的答语中的happy, glad, eager, anxious, willing, ready, pleased, afraid等形容词之后。
          - I'm willing to, but I can't now.
 
-6. 分词
+5. 分词
 
    1. 分词的思维：
-
       1. 现在分词：主动进行，正在发生
       2. 过去分词：被动进行，已经完成
 
-   2. 分词可以做那些成分：作定语，状语-
+   2. 分词可以做那些成分：作定语，状语
 
       - I have a business deal coming up and **could use some help with negotiating**
 
       - Laughfing and talking, they went into the classroom
 
    3. 非谓语动词作后置定语的三种被动结构
-
       1. 将来的动作：to be done
          - Are you going to attend her wedding [ˈwedɪŋ] to be held next week?
       2. 正在进行时:   being done
@@ -212,7 +225,6 @@
          - Did you attend her wedding held last week
 
    4. 分词形容词：
-
       1. 名词/副词+分词
 
          - time-consuming job
@@ -232,7 +244,7 @@
          - one-eyed animal独眼兽
          - two-faced person 两面三刀
 
-7. 介词
+6. 介词
 
    1. 三个功能：
 
@@ -256,15 +268,15 @@
             - put the blame on sb
             - place one's hopes on sb
          2. 上车/船/台：get on the bus 
-         3. 集中...上
-            - The discussion focused on three main problems.
-            - Each exercise focuses on a different grammar point
-         4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
-            - be on the river (房屋/城市) 在河边
-            - be on the road 在路边
-         5. 关于，就某一问题
-            - China's War on Trash Is the World‘s
-         6. on与be 连用作表语，表状态式
+            3. 集中...上
+               - The discussion focused on three main problems.
+               - Each exercise focuses on a different grammar point
+            4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
+               - be on the river (房屋/城市) 在河边
+               - be on the road 在路边
+            5. 关于，就某一问题
+               - China's War on Trash Is the World‘s
+         3. on与be 连用作表语，表状态式
             - be on business/ holiday  出差/假期
             - be on pins and needles。如坐针毡
             - be on one's mind. 被某人想着，牵挂。
@@ -282,7 +294,6 @@
             - you have it in you to be a musician (it 形式宾语，宾语后置)
 
       3. at 表示一个“点”，狭小的范围，精准的概念
-
          1. 时间点 at six o clock
 
          2. 地点
@@ -299,7 +310,7 @@
             - glance at  撇着。。
             - laugh at 冲。。笑，嘲笑
 
-      4. to：
+      4. to
 
          1. 到；朝向；到达
 
@@ -336,6 +347,6 @@
          7. used to show a relationship between one person or thing and another 表示两人或事物之间的关系）属于，归于，关于，对于（字典第19条）注意to前面是名词）
 
             - the slave to/of sb 
-
             - the Japanese ambassador [æmˈbæsədər] to France 日本驻法大使
+
             - the key to the door 这个门的钥匙

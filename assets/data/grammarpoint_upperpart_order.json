@@ -489,9 +489,9 @@
   },
   {
     "question": "众所周知",
-    "translation": "It is universally believed that",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 过去分词"
+    "translation": "As is well known",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
   },
   {
     "question": "需要被讨论的是",
@@ -1453,8 +1453,8 @@
   {
     "question": "我要一只能写字的笔",
     "translation": "I need a pen to write with",
-    "knowledge_point": "- 不定式作定语，2. 动宾关系\n- 不定式为不及物动词时，其后须加上适当的介词，构成及物动词短语",
-    "label": "不定式作定语-动宾关系"
+    "knowledge_point": "不定式作定语",
+    "label": "定语-不定式作定语"
   },
   {
     "question": "她有四个需要照顾的孩子:",
@@ -3297,5 +3297,881 @@
     "translation": "climb to the top of the Yellow Mountain",
     "knowledge_point": "as far as sth 到，达（某处）",
     "label": "介词-to as far as 到达（某处）"
+  },
+  {
+    "question": "形容词的两种类型",
+    "translation": "ing形容词 vs ed形容词",
+    "knowledge_point": "- ing 情绪形容词，表示令人感觉的...\n- ed 情绪形容词，表示人笨手的感受，人对某事产生的感觉，感到...的",
+    "label": "形容词-框架知识点"
+  },
+  {
+    "question": "形容词作定语时的顺序",
+    "translation": "限观形龄色国才",
+    "knowledge_point": "形容词作定语时的顺序：限定词，观点，形状，年龄，颜色，国籍，材料",
+    "label": "形容词-框架知识点"
+  },
+  {
+    "question": "八大金刚有哪些",
+    "translation": "限定词，形容词，形容词短语，介词短语，分词短语，不定式(作定语），定语从句，同位语从句",
+    "knowledge_point": "名词的八大金刚：限定词，形容词，形容词短语，介词短语，分词短语，不定式(作定语），定语从句，同位语从句",
+    "label": "名词-框架知识点"
+  },
+  {
+    "question": "左二右六原则是什么",
+    "translation": "名词的中心词顺序：左二右六",
+    "knowledge_point": "名词的序：（名词的中心词顺序）: 左二右六",
+    "label": "名词-框架知识点"
+  },
+  {
+    "question": "中英文思维差异1，关于中心词出现的顺序",
+    "translation": "中文：限定词+形容词+名词；英文：限定词+形容词+名词",
+    "knowledge_point": "中英文思维差异1，关于中心词出现的顺序",
+    "label": "名词-框架知识点"
+  },
+  {
+    "question": "名词性从句的尾大原则",
+    "translation": "主语后置，宾语后置",
+    "knowledge_point": "尾大原则：主语后置，宾语后置",
+    "label": "名词性从句-框架知识点"
+  },
+  {
+    "question": "名词性从句有哪几种形式",
+    "translation": "陈述句，一般疑问句，特殊疑问句",
+    "knowledge_point": "名词性有哪几种形式：陈述句，一般疑问句，特殊疑问句",
+    "label": "名词性从句-框架知识点"
+  },
+  {
+    "question": "名词性从句中可以充当的成分",
+    "translation": "主宾表同",
+    "knowledge_point": "名词性从句中可以充当的成分：主宾表同",
+    "label": "名词性从句-框架知识点"
+  },
+  {
+    "question": "动名词可以充当的成分",
+    "translation": "主宾表定，宾补",
+    "knowledge_point": "动名词可以充当的成分：主宾表定，宾补",
+    "label": "动名词-框架知识点"
+  },
+  {
+    "question": "动名词复合结构的形式",
+    "translation": "物主代词（例my, his, her等) , 所有格名词（例Will, Tom's 等）+doing",
+    "knowledge_point": "动名词复合结构：物主代词（例my, his, her等) , 所有格名词（例Will, Tom's 等）+doing",
+    "label": "动名词-框架知识点"
+  },
+  {
+    "question": "动名词的被动式",
+    "translation": "being done / 主动表被动",
+    "knowledge_point": "动名词的被动式: being/主动表被动",
+    "label": "动名词-框架知识点"
+  },
+  {
+    "question": "动名词完成式",
+    "translation": "having done",
+    "knowledge_point": "动名词完成式：动名词的动作在谓语动作之前发生 having done",
+    "label": "动名词-框架知识点"
+  },
+  {
+    "question": "不定式可以充当的成分",
+    "translation": "主宾表定状补",
+    "knowledge_point": "不定式可以充当的成分：主宾表定状补",
+    "label": "不定式-框架知识点"
+  },
+  {
+    "question": "不定式作定语有哪几种关系",
+    "translation": "主谓，动宾，同位，动状",
+    "knowledge_point": "不定式作定语有哪几种关系：主谓，动宾，同位，动状",
+    "label": "不定式-框架知识点"
+  },
+  {
+    "question": "不带to的不定式的情况",
+    "translation": "在口语中，动词原形come和go后可接不带to的不定式",
+    "knowledge_point": "不带to的不定式（to do->do)",
+    "label": "不定式-框架知识点"
+  },
+  {
+    "question": "不定式符号to的单独使用",
+    "translation": "为了避免重复上文中出现过的动词，可以用不定式符号to来代替上文中出现过的不定式结构",
+    "knowledge_point": "(不定式符号)to的单独使用(todo->to)",
+    "label": "不定式-框架知识点"
+  },
+  {
+    "question": "分词的思维",
+    "translation": "现在分词：主动进行，正在发生；过去分词：被动进行，已经完成",
+    "knowledge_point": "分词的思维：现在分词：主动进行，正在发生；过去分词：被动进行，已经完成",
+    "label": "分词-框架知识点"
+  },
+  {
+    "question": "分词可以做哪些成分",
+    "translation": "作定语，状语",
+    "knowledge_point": "分词可以做那些成分：作定语，状语",
+    "label": "分词-框架知识点"
+  },
+  {
+    "question": "分词形容词的三种形式",
+    "translation": "名词/副词+分词；形容词+名词ed；数次+名词ed",
+    "knowledge_point": "分词形容词：名词/副词+分词；形容词+名词ed；数次+名词ed",
+    "label": "分词-框架知识点"
+  },
+  {
+    "question": "介词的三个功能",
+    "translation": "表示动作的方向，范围和程度；胶水词，连接不同的名词；与BE动词连用，代替动词",
+    "knowledge_point": "介词的三个功能：表示动作的方向，范围和程度；胶水词，连接不同的名词；与BE动词连用，代替动词",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "江南四大介词",
+    "translation": "on/at/to/in",
+    "knowledge_point": "江南四大介词 on/at/to/in",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词on的六种用法",
+    "translation": "在...上；上车/船/台；集中在...上；临界、接近、接壤；关于，就某一问题；与be连用作表语表状态",
+    "knowledge_point": "介词on的六种用法：在...上；上车/船/台；集中在...上；临界、接近、接壤；关于，就某一问题；与be连用作表语表状态",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词in的两种用法",
+    "translation": "在...里；在某人的身上，品质/气质/才华",
+    "knowledge_point": "介词in的两种用法：在...里；在某人的身上，品质/气质/才华",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词at的四种用法",
+    "translation": "时间点；地点；价格，速度；冲/朝着...(狭小的范围，精准的概念)",
+    "knowledge_point": "介词at的四种用法：时间点；地点；价格，速度；冲/朝着...(狭小的范围，精准的概念)",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词to的六种用法",
+    "translation": "到；朝向；到达；达到某种程度；对..；向；反应；和拍子，对...作出反应；as far as sth 到，达（某处）；表示两人或事物之间的关系",
+    "knowledge_point": "介词to的六种用法：到；朝向；到达；达到某种程度；对..；向；反应；和拍子，对...作出反应；as far as sth 到，达（某处）；表示两人或事物之间的关系",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "定语的作用",
+    "translation": "对名词进行修饰",
+    "knowledge_point": "定语的作用：对名词进行修饰",
+    "label": "定语-框架知识点"
+  },
+  {
+    "question": "定语的两种形式",
+    "translation": "词间的修饰；句子作定语",
+    "knowledge_point": "定语的两种形式：词间的修饰；句子作定语",
+    "label": "定语-框架知识点"
+  },
+  {
+    "question": "词间修饰的六种类型",
+    "translation": "形容词；介词短语；名词作定语；动名词作定语；不定式作定语；分词作定语",
+    "knowledge_point": "词间修饰的六种类型：形容词；介词短语；名词作定语；动名词作定语；不定式作定语；分词作定语",
+    "label": "定语-框架知识点"
+  },
+  {
+    "question": "关系词的功能",
+    "translation": "代词：代替先行词，做成分；连词：连接主句和从句",
+    "knowledge_point": "关系词的功能：代词：代替先行词，做成分；连词：连接主句和从句",
+    "label": "定语-框架知识点"
+  },
+  {
+    "question": "中国古代著名的诗人",
+    "translation": "a famous ancient Chinese poet",
+    "knowledge_point": "形容词作定语：限观形龄色国才",
+    "label": "定语-形容词作定语"
+  },
+  {
+    "question": "一件很小的白色毛衣",
+    "translation": "a small white sweater",
+    "knowledge_point": "形容词作定语：限观形龄色国才",
+    "label": "定语-形容词作定语"
+  },
+  {
+    "question": "一架棕色的英式旧钢琴",
+    "translation": "an old brown British piano",
+    "knowledge_point": "形容词作定语：限观形龄色国才",
+    "label": "定语-形容词作定语"
+  },
+  {
+    "question": "那个女孩当时手里拿着一个小篮塑料瓶",
+    "translation": "The little girl was carrying a small blue plastic bottle",
+    "knowledge_point": "形容词作定语：限观形龄色国才",
+    "label": "定语-形容词作定语"
+  },
+  {
+    "question": "桌子上的ipad",
+    "translation": "the ipad on the table",
+    "knowledge_point": "介词短语作定语",
+    "label": "定语-介词短语作定语"
+  },
+  {
+    "question": "咖啡杯",
+    "translation": "coffee cup",
+    "knowledge_point": "名词作定语",
+    "label": "定语-名词作定语"
+  },
+  {
+    "question": "路灯",
+    "translation": "street light",
+    "knowledge_point": "名词作定语",
+    "label": "定语-名词作定语"
+  },
+  {
+    "question": "赛车",
+    "translation": "racing car",
+    "knowledge_point": "动名词作定语",
+    "label": "定语-动名词作定语"
+  },
+  {
+    "question": "开幕词",
+    "translation": "opening speech",
+    "knowledge_point": "动名词作定语",
+    "label": "定语-动名词作定语"
+  },
+  {
+    "question": "我有一封要写的信",
+    "translation": "I have a letter to write",
+    "knowledge_point": "不定式作定语",
+    "label": "定语-不定式作定语"
+  },
+  {
+    "question": "我推荐几个吃川菜的好地方",
+    "translation": "I recommend several good places to enjoy Sichuan cuisine",
+    "knowledge_point": "不定式作定语",
+    "label": "定语-不定式作定语"
+  },
+  {
+    "question": "发展中国家",
+    "translation": "developing country",
+    "knowledge_point": "分词作定语",
+    "label": "定语-分词作定语"
+  },
+  {
+    "question": "发达国家",
+    "translation": "developed country",
+    "knowledge_point": "分词作定语",
+    "label": "定语-分词作定语"
+  },
+  {
+    "question": "我迷恋上了那个戴墨镜的女孩",
+    "translation": "I have a crush on that girl who is wearing a pair of sunglasses",
+    "knowledge_point": "关系代词：who, whom, whose, which, that",
+    "label": "定语-定语从句-关系代词"
+  },
+  {
+    "question": "他是我见过最好的人",
+    "translation": "He is the best man that I have ever met",
+    "knowledge_point": "关系代词：who, whom, whose, which, that",
+    "label": "定语-定语从句-关系代词"
+  },
+  {
+    "question": "一个富有的人不是拥有最多的人，而是需要最少的人",
+    "translation": "A rich person is not the one who has the most but is the one who needs the least",
+    "knowledge_point": "关系代词：who, whom, whose, which, that",
+    "label": "定语-定语从句-关系代词"
+  },
+  {
+    "question": "你去年买的那个房子多少钱",
+    "translation": "How much is the house which you bought last year",
+    "knowledge_point": "关系代词：who, whom, whose, which, that",
+    "label": "定语-定语从句-关系代词"
+  },
+  {
+    "question": "一个我永远不会忘记的人",
+    "translation": "A man I will never forget",
+    "knowledge_point": "关系代词：who, whom, whose, which, that",
+    "label": "定语-定语从句-关系代词"
+  },
+  {
+    "question": "我永远不会忘记遇见你的那一天",
+    "translation": "I'll never forget the day when I met you",
+    "knowledge_point": "when引导定语从句，先行词必须是表示时间的名词且必须在从句中作状语",
+    "label": "定语-定语从句-关系副词"
+  },
+  {
+    "question": "总有一天，你会对我们的人民负责",
+    "translation": "There will come a time when you will be responsible for our people",
+    "knowledge_point": "when引导定语从句，先行词必须是表示时间的名词且必须在从句中作状语",
+    "label": "定语-定语从句-关系副词"
+  },
+  {
+    "question": "有可以学语法的地方吗",
+    "translation": "Is there a place where I can learn grammar",
+    "knowledge_point": "where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语",
+    "label": "定语-定语从句-关系副词"
+  },
+  {
+    "question": "我不想生活在一个善良是一种弱点的世界里",
+    "translation": "I don't want to live in a world where kindness is a weakness",
+    "knowledge_point": "where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语",
+    "label": "定语-定语从句-关系副词"
+  },
+  {
+    "question": "关于要做出重大决定的会议你没有什么建议？",
+    "translation": "Any advice for meetings where big decisions need to be made",
+    "knowledge_point": "where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语",
+    "label": "定语-定语从句-关系副词"
+  },
+  {
+    "question": "和你谈话的那个女孩是我喜欢的菜",
+    "translation": "The girl with whom you were talking is my cup of tea",
+    "knowledge_point": "有时关系代词前会有介词",
+    "label": "定语-定语从句-关系代词前有介词"
+  },
+  {
+    "question": "他是我认为你可以信赖的最好的人",
+    "translation": "He is the best man on whom I think you can depend",
+    "knowledge_point": "有时关系代词前会有介词",
+    "label": "定语-定语从句-关系代词前有介词"
+  },
+  {
+    "question": "这是使他感到惊讶的事实",
+    "translation": "This is the fact at which he is surprised",
+    "knowledge_point": "有时关系代词前会有介词",
+    "label": "定语-定语从句-关系代词前有介词"
+  },
+  {
+    "question": "不是所有放光的都是金子",
+    "translation": "Not all that glitters is gold",
+    "knowledge_point": "先行词是all, much, little, few, the one等不定代词时，关系代词一般只用that",
+    "label": "定语-定语从句-which和that的区别"
+  },
+  {
+    "question": "方法正确才是最重要的",
+    "translation": "The correct method is all that matters",
+    "knowledge_point": "先行词是all, much, little, few, the one等不定代词时，关系代词一般只用that",
+    "label": "定语-定语从句-which和that的区别"
+  },
+  {
+    "question": "你是我最不想看见的人",
+    "translation": "You are the last person that I want to see",
+    "knowledge_point": "先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
+    "label": "定语-定语从句-which和that的区别"
+  },
+  {
+    "question": "这让我意识到你是我生命中最美好的东西",
+    "translation": "It made me realize you're the best thing that happened to me",
+    "knowledge_point": "先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
+    "label": "定语-定语从句-which和that的区别"
+  },
+  {
+    "question": "遇见你是我一生中最美好的事",
+    "translation": "Meeting you has been the best thing that could happen to me",
+    "knowledge_point": "先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
+    "label": "定语-定语从句-which和that的区别"
+  },
+  {
+    "question": "就像人们常说的，人工智能是把双刃剑",
+    "translation": "As is so often pointed out, AI is two-edged sword which can be used equally for good or evil",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
+  },
+  {
+    "question": "如图所示，爱是一盏灯，愈暗处愈光明",
+    "translation": "As can be seen in the picture, love is a lamp which is brighter in darker places",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
+  },
+  {
+    "question": "常常如此",
+    "translation": "As is often the case",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
+  },
+  {
+    "question": "可以想象得知",
+    "translation": "As may be imagined",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
+  },
+  {
+    "question": "正如人们想象的那样，他最终取得了成功",
+    "translation": "As may be imagined, he made success in the end",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
+  },
+  {
+    "question": "这个电影因过于暴力而收到批评是正常的",
+    "translation": "As is very natural, the film was criticized for being too violent",
+    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "label": "定语-定语从句-as的用法"
+  },
+  {
+    "question": "状语的五种形式",
+    "translation": "副词作状语；介词词组作状语；不定式做状语；分词作状语；状语从句",
+    "knowledge_point": "状语的五种形式：副词作状语；介词词组作状语；不定式做状语；分词作状语；状语从句",
+    "label": "状语-框架知识点"
+  },
+  {
+    "question": "状语从句的八种类型",
+    "translation": "地点状语从句；目的状语；结果状语从句；方式状语从句；比较状语从句；让步状语从句；原因状语从句；时间状语从句",
+    "knowledge_point": "状语从句的八种类型：地点状语从句；目的状语；结果状语从句；方式状语从句；比较状语从句；让步状语从句；原因状语从句；时间状语从句",
+    "label": "状语-框架知识点"
+  },
+  {
+    "question": "大声地说话",
+    "translation": "talk loudly",
+    "knowledge_point": "副词作状语",
+    "label": "状语-副词作状语"
+  },
+  {
+    "question": "慢慢地走",
+    "translation": "walk slowly",
+    "knowledge_point": "副词作状语",
+    "label": "状语-副词作状语"
+  },
+  {
+    "question": "努力工作",
+    "translation": "work hard",
+    "knowledge_point": "副词作状语",
+    "label": "状语-副词作状语"
+  },
+  {
+    "question": "永远不知道",
+    "translation": "never know",
+    "knowledge_point": "副词作状语",
+    "label": "状语-副词作状语"
+  },
+  {
+    "question": "我住得离办公室很近",
+    "translation": "I live quite near my office",
+    "knowledge_point": "介词词组作状语",
+    "label": "状语-介词词组作状语"
+  },
+  {
+    "question": "他知道将来会发生什么事",
+    "translation": "He knows what will happen in the future",
+    "knowledge_point": "介词词组作状语",
+    "label": "状语-介词词组作状语"
+  },
+  {
+    "question": "我们最好早点出发，以便赶上火车",
+    "translation": "We'd better go early so as to catch the train",
+    "knowledge_point": "不定式做状语",
+    "label": "状语-不定式做状语"
+  },
+  {
+    "question": "要说好英语，就得学好语法",
+    "translation": "You have to learn grammar well to speak English well",
+    "knowledge_point": "不定式做状语",
+    "label": "状语-不定式做状语"
+  },
+  {
+    "question": "他至今仍每晚和我跟女儿一起吃晚餐，耐心地回答他们关于新闻和时事的问题",
+    "translation": "That's the man who sits down with me and our girls for dinner nearly every night, patiently answering their questions about issues in the news",
+    "knowledge_point": "分词作状语",
+    "label": "状语-分词作状语"
+  },
+  {
+    "question": "在那里别动",
+    "translation": "Now, stay exactly where you stand",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "从哪里来，给我我滚回哪去",
+    "translation": "Go back where you come from",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "有志者事竟成",
+    "translation": "Where there is will, there is a way",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "有爱的地方就是家",
+    "translation": "Where is a love, there is home",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "无风不起浪",
+    "translation": "Where there is smoke, there is fire",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "哪里有压迫，哪里就有反抗",
+    "translation": "Where there is oppression there is resistance",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "只要有工厂的地方，空气污染就会很严重",
+    "translation": "where there are factories, there is heavy air pollution",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "当你停止与人比较，个性自然会显现出来",
+    "translation": "Personality begins where comparison ends",
+    "knowledge_point": "地点状语从句: where+陈述句",
+    "label": "状语-状语从句-地点状语从句"
+  },
+  {
+    "question": "我把电视的音量关小，好让妈妈睡个好觉",
+    "translation": "I turned down the TV so in order that my mom could sleep well",
+    "knowledge_point": "目的状语：so that, in order that, so as to",
+    "label": "状语-状语从句-目的状语"
+  },
+  {
+    "question": "他讲的很慢，以便大家都能听得懂",
+    "translation": "He spoke slowly in order that everyone should understand",
+    "knowledge_point": "目的状语：so that, in order that, so as to",
+    "label": "状语-状语从句-目的状语"
+  },
+  {
+    "question": "计划就是把未来带到当下，以便你此刻展开行动",
+    "translation": "Planning is bringing the future into the present so that you can do something about it now",
+    "knowledge_point": "目的状语：so that, in order that, so as to",
+    "label": "状语-状语从句-目的状语"
+  },
+  {
+    "question": "我起来晚了，没有赶上火车",
+    "translation": "I was so late that I didn't get on the train",
+    "knowledge_point": "结果状语从句",
+    "label": "状语-状语从句-结果状语从句"
+  },
+  {
+    "question": "雨太大了，根本走不动",
+    "translation": "It is raining so hard that we can hardly move forward",
+    "knowledge_point": "结果状语从句",
+    "label": "状语-状语从句-结果状语从句"
+  },
+  {
+    "question": "我应该按照你说的作",
+    "translation": "I should have done it as you said",
+    "knowledge_point": "方式状语从句 as, like, as if, as though",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "他对待那个男孩就跟自己亲儿子似的",
+    "translation": "He treats the boy as if/as though he were his son",
+    "knowledge_point": "方式状语从句 as, like, as if, as though；虚拟语气一律用 were",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "去工作吧，犹如你不需要金钱",
+    "translation": "Work like you don't need money",
+    "knowledge_point": "方式状语从句 as, like, as if, as though",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "去爱吧，犹如你从未被伤害过",
+    "translation": "Love like you've never been hurt",
+    "knowledge_point": "方式状语从句 as, like, as if, as though",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "去舞蹈吧，犹如无人在旁凝视",
+    "translation": "Dance like nobody's watching",
+    "knowledge_point": "方式状语从句 as, like, as if, as though",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "去个唱吧，犹如无人聆听",
+    "translation": "Sing like nobody's listening",
+    "knowledge_point": "方式状语从句 as, like, as if, as though",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "热爱生活吧，犹如这里是人间乐土",
+    "translation": "Live like it's heaven on earth",
+    "knowledge_point": "方式状语从句 as, like, as if, as though",
+    "label": "状语-状语从句-方式状语从句"
+  },
+  {
+    "question": "英语并不像你想象的那么难，他需要耐心和时间",
+    "translation": "English is not as difficult as you think, it requires patience and time",
+    "knowledge_point": "as+形容词/副词+as",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "我比他更爱你",
+    "translation": "I love you than he does",
+    "knowledge_point": "than 同类事物的比较",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "这个蓝桌子的长度，是那个绿桌子的3倍（三种说法）",
+    "translation": "The blue table is three times bigger than the green one / The blue table is three times as long as the green one / The blue table is three times the length of the green one",
+    "knowledge_point": "倍数：倍数+比较级结构；倍数+as..as结构；倍数+名词结构",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "长江差不多比珠江长两倍",
+    "translation": "Chang jiang is almost three times longer than Zhu jiang",
+    "knowledge_point": "倍数：倍数+比较级结构",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "这个手袋的价格是那个的3倍",
+    "translation": "The bag is three times more expensive than that one",
+    "knowledge_point": "倍数：倍数+比较级结构",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "你解释得越准确，人们就越能理解你",
+    "translation": "The more exactly you explain, the more clear people will understand you",
+    "knowledge_point": "the more ..the more",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "富贵险中求（风险越大，利润可能就越大）",
+    "translation": "The more risk there is, the more profit there might be",
+    "knowledge_point": "the more ..the more",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "奋斗越艰巨，胜利越辉煌",
+    "translation": "The greater the struggle, the more glorious the triumph",
+    "knowledge_point": "the more ..the more",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "你拥有的越多，负累也就越重",
+    "translation": "The more you own, the more it weighs you down",
+    "knowledge_point": "the more ..the more",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "你学的越多，怕得越少",
+    "translation": "The more you learn, the less you fear",
+    "knowledge_point": "the more ..the more",
+    "label": "状语-状语从句-比较状语从句"
+  },
+  {
+    "question": "even if VS even though的区别",
+    "translation": "even if 是虚拟，even though 是实",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "即使明天下雨，我们也不会改变计划",
+    "translation": "Even if it rains tomorrow, we won't change our plan",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "尽管下着雨，他仍然出去",
+    "translation": "He went out even though it was raining",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "便纵有千种风情，更与何人说？",
+    "translation": "Even though I have many delicate feelings to share, who can I speak to?",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "便做春江都是泪，流不尽，许多愁",
+    "translation": "Even if my tears turn into a stream in May, still it can't carry all my grief away",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "就算你走对了路，如果你只是坐在那里，也会被车碾轧",
+    "translation": "Even if you're on the right track, you'll get run over if you just sit there",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "虽然我不认识聚会上的任何人，但我玩得很开心",
+    "translation": "Although I didn't know anybody at the party, I had a very good time",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "即使你踢它，它还是不管用",
+    "translation": "It still won't work even if you kick it",
+    "knowledge_point": "让步状语从句：though，although，even though, even if",
+    "label": "状语-状语从句-让步状语从句"
+  },
+  {
+    "question": "因为免税店排了好长的队，我差点儿误机",
+    "translation": "I almost missed my plan because there was a long line in the duty free shop",
+    "knowledge_point": "because - 引导的从句显得比主句重要，强调原因",
+    "label": "状语-状语从句-原因状语从句"
+  },
+  {
+    "question": "既然你是学英语专业的，你帮我翻译翻译",
+    "translation": "Since you are an English major, I guess you can help me with this sentence",
+    "knowledge_point": "since -引导的从句显得次要，而主句重要，以说明将要做什么事",
+    "label": "状语-状语从句-原因状语从句"
+  },
+  {
+    "question": "我们认为，既然我们都来了，就停下看下风景被",
+    "translation": "We thought that since we were in the area, we'd stop by and have a look",
+    "knowledge_point": "since -引导的从句显得次要，而主句重要，以说明将要做什么事",
+    "label": "状语-状语从句-原因状语从句"
+  },
+  {
+    "question": "老板一走，我们就吃午饭了",
+    "translation": "We started our lunch when the boss left",
+    "knowledge_point": "先后发生：从句先发生。when",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "我正在和吉姆说话时，电话响了",
+    "translation": "The phone rang when I was talking with Jim",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "他回来时我会告诉他的",
+    "translation": "I will tell him when he comes back",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "我在等火车的时候买了一本杂志",
+    "translation": "I bought a magazine when I was waiting for the train",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "我们度假时，我的包被偷了",
+    "translation": "While we were on holiday, my bag was stolen",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "随着时间的流逝，情况似乎有所好转",
+    "translation": "As time passed, things seemed to get better",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "给我打点话那时，我在睡觉呢",
+    "translation": "When you telephoned me, I was sleeping",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "趁热打铁",
+    "translation": "Strike while the iron is hot",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "在老板不在的期间，我负责这个事",
+    "translation": "I will take care of this while the boss is away",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "我在路上走着，突然某人从背后拍我的肩膀",
+    "translation": "I was walking along the road when suddenly someone patted me on the shoulder from behind",
+    "knowledge_point": "同时发生：when, while(在。。期间),as",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "无论何时说\"我爱你\"，都要真心实意。无论何时说\"对不起\"，都要看着对方的眼睛",
+    "translation": "Whenever you say\" I love you\", mean it. Whenever you say \"I'm sorry\", look the person right in the eyes",
+    "knowledge_point": "其他引导词：whenever, by the time ,next time, every time 等",
+    "label": "状语-状语从句-时间状语从句"
+  },
+  {
+    "question": "补语的作用",
+    "translation": "对名词进行补充",
+    "knowledge_point": "补语的作用：对名词进行补充",
+    "label": "补语-框架知识点"
+  },
+  {
+    "question": "补语的种类",
+    "translation": "宾语补足语，主语补足语",
+    "knowledge_point": "补语的种类：宾语补足语，主语补足语",
+    "label": "补语-框架知识点"
+  },
+  {
+    "question": "宾语补足语的五种形式",
+    "translation": "不定式作宾补；名词作宾补；形容词作宾补；现在分词作宾补；过去分词作宾补",
+    "knowledge_point": "宾语补足语的五种形式：不定式作宾补；名词作宾补；形容词作宾补；现在分词作宾补；过去分词作宾补",
+    "label": "补语-框架知识点"
+  },
+  {
+    "question": "爸爸不会让我们在街上玩",
+    "translation": "Our father will not allow us to play in the street",
+    "knowledge_point": "不定式作宾补",
+    "label": "补语-不定式作宾补"
+  },
+  {
+    "question": "我们认为他是有罪的",
+    "translation": "We believe him to be guilty",
+    "knowledge_point": "不定式作宾补（注意是一般现在时）",
+    "label": "补语-不定式作宾补"
+  },
+  {
+    "question": "会上我们选他当班长",
+    "translation": "At the meeting we elected him monitor",
+    "knowledge_point": "名词作宾补；注意是At the meeting, 不是in the meeting",
+    "label": "补语-名词作宾补"
+  },
+  {
+    "question": "我认为你哥哥是一个聪明的男孩",
+    "translation": "I consider your brother a clever boy",
+    "knowledge_point": "名词作宾补",
+    "label": "补语-名词作宾补"
+  },
+  {
+    "question": "宾语是同做承受者",
+    "translation": "He gave me a book. 我，书都是承受者。补语不作动作的承认者",
+    "knowledge_point": "宾语是同做承受者：He gave me a book. 我，书都是承受者。补语不作动作的承认者",
+    "label": "补语-名词作宾补"
+  },
+  {
+    "question": "你说的话让你妈妈很生气",
+    "translation": "What you said made your mother angry",
+    "knowledge_point": "形容词作宾补",
+    "label": "补语-形容词作宾补"
+  },
+  {
+    "question": "我发现教室是空的",
+    "translation": "I found the classroom empty",
+    "knowledge_point": "形容词作宾补",
+    "label": "补语-形容词作宾补"
+  },
+  {
+    "question": "我们听见他在大厅里唱歌",
+    "translation": "We heard him singing in the hall",
+    "knowledge_point": "现在分词作宾补",
+    "label": "补语-现在分词作宾补"
+  },
+  {
+    "question": "我发现那些学生学习很努力",
+    "translation": "I found those students studying very hard",
+    "knowledge_point": "现在分词作宾补",
+    "label": "补语-现在分词作宾补"
+  },
+  {
+    "question": "他看见脸倒映在水中",
+    "translation": "He saw his face reflected in the water",
+    "knowledge_point": "过去分词作宾补",
+    "label": "补语-过去分词作宾补"
+  },
+  {
+    "question": "我听到隔壁在讨论这个事",
+    "translation": "I heard it spoken of in the next room",
+    "knowledge_point": "过去分词作宾补；隔壁 in the next room",
+    "label": "补语-过去分词作宾补"
+  },
+  {
+    "question": "昨天我看见他在打篮球",
+    "translation": "I saw him playing basket ball yesterday",
+    "knowledge_point": "主语补足语的形式",
+    "label": "补语-主语补足语"
+  },
+  {
+    "question": "昨天有人看见他打篮球",
+    "translation": "He was seen playing basketball yesterday",
+    "knowledge_point": "主语补足语的形式（注意时态，过去时）",
+    "label": "补语-主语补足语"
+  },
+  {
+    "question": "他被发现死在柏林一家酒店的房间里",
+    "translation": "He was found dead in a Berlin hotel room",
+    "knowledge_point": "主语补足语的形式（注意时态，过去时）",
+    "label": "补语-主语补足语"
   }
 ]
