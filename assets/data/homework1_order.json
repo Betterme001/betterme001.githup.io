@@ -1,0 +1,458 @@
+[
+  {
+    "question": "我是一个网虫",
+    "translation": "I am a webaholic",
+    "knowledge_point": "-aholic [əˈhɔlɪk] comb. 表示有……癖好的人；这里的网虫，是说的希望打开网页的网，而不是网络协议的网（net)",
+    "label": "词汇-aholic"
+  },
+  {
+    "question": "购物狂",
+    "translation": "Shopaholic = a person addicted to shopping",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-aholic"
+  },
+  {
+    "question": "工作狂",
+    "translation": "Workaholic = a person addicted to working",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-aholic"
+  },
+  {
+    "question": "酗酒者",
+    "translation": "Alcoholic = a person addicted to alcohol",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": ""
+  },
+  {
+    "question": "书虫",
+    "translation": "bookaholic",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-aholic"
+  },
+  {
+    "question": "嗜食巧克力者",
+    "translation": "chocoholic",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-aholic"
+  },
+  {
+    "question": "成天躺著或坐在沙发上看电视的人；极为懒惰的人",
+    "translation": "couch potato",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-习语"
+  },
+  {
+    "question": "咖啡/吸烟成瘾",
+    "translation": "caffeine/smoking addiction",
+    "knowledge_point": "各种成瘾者的表达方式；sb have a caffeine addiction",
+    "label": "词汇-addiction"
+  },
+  {
+    "question": "咖啡成瘾者",
+    "translation": "coffee addict",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-addict"
+  },
+  {
+    "question": "沉迷网络",
+    "translation": "web-addiction",
+    "knowledge_point": "各种成瘾者的表达方式",
+    "label": "词汇-addiction"
+  },
+  {
+    "question": "我喜欢在线学英语",
+    "translation": "I like learning English online",
+    "knowledge_point": "- Learn means \"to gain knowledge or skill by studying\" and study means \"to read, memorize facts, attend school, etc.\"\n- When you study something, you have not learned it yet. study is one way to learn",
+    "label": "动名词作宾语"
+  },
+  {
+    "question": "在线学英语带给我很多乐趣",
+    "translation": "Learning English online brings me a lot of fun",
+    "knowledge_point": "主 +间接宾语+直接宾语； give是主动的，特意的，bring是有顺便带来之意。bring更加地道",
+    "label": "动名词作主语"
+  },
+  {
+    "question": "它让我的生活丰富多彩",
+    "translation": "It brings me a colourful life",
+    "knowledge_point": "bring的用法",
+    "label": "bring"
+  },
+  {
+    "question": "它给我带来了痛苦",
+    "translation": "It brings me pain",
+    "knowledge_point": "bring的用法",
+    "label": "bring"
+  },
+  {
+    "question": "我是新来的",
+    "translation": "I am new here",
+    "knowledge_point": "~ (to sth) not yet familiar with sth because you have only just started, arrived, etc. 初来乍到的；初学乍练的；新鲜的",
+    "label": "主系表状"
+  },
+  {
+    "question": "我在这里很久了",
+    "translation": "I have been here for a long time",
+    "knowledge_point": "现在完成时表示持续状态",
+    "label": "现在完成时"
+  },
+  {
+    "question": "我刚刚来到这座小镇",
+    "translation": "I am new to the town",
+    "knowledge_point": "~ (to sth) not yet familiar with sth because you have only just started, arrived, etc. 初来乍到的；初学乍练的；新鲜的",
+    "label": "new"
+  },
+  {
+    "question": "新官上任三把火",
+    "translation": "a new broom sweeps clean",
+    "knowledge_point": "a new broom新就职者，（尤指）刚上任的新官；",
+    "label": "习语"
+  },
+  {
+    "question": "她说她要来，事到临头却又放了鸽子",
+    "translation": "She said she was coming but cried off at the last moment",
+    "knowledge_point": "cry off取消诺言。破解\"变卦，放鸽子\"",
+    "label": "cry off"
+  },
+  {
+    "question": "李小龙死于家中",
+    "translation": "Bruce Lee died at home",
+    "knowledge_point": "- died v. 死亡，消逝（die的过去式和过去分词）；\n- dead adj. 死的，去世的, adv. 恰好，精确地；完全地n. 死人，死者；\n- Home单独有副词和名词词性，做副词主要是指方向性，如go home,  此处不用单独home的原因是,是因为做地点状语，用名词词性较好；",
+    "label": "一般过去时"
+  },
+  {
+    "question": "如果有人发现，你可要倒大霉了",
+    "translation": "If anyone finds out, you're dead meat",
+    "knowledge_point": "dead meat :( informal ) in serious trouble 处境艰难；倒大霉",
+    "label": "dead meat"
+  },
+  {
+    "question": "我是2008年出生的",
+    "translation": "I was born in 2008",
+    "knowledge_point": "-  内部关系：动作关系；句子成分：主谓状\n- born 这里born还是bear的过去分词，be born blind （生下来就失明的）先天失明。\n- Born本身有adj词性，表示天生的，与生俱来的；a born athlete/writer/leader 天生的运动员╱作家╱领袖",
+    "label": "被动语态"
+  },
+  {
+    "question": "天生的运动员",
+    "translation": "a born athlete",
+    "knowledge_point": "adj. [ only before noun ] having a natural ability or skill for a particular activity or job 天生（有某方面才能）的",
+    "label": "born"
+  },
+  {
+    "question": "天生的作家",
+    "translation": "a born writer",
+    "knowledge_point": "adj. [ only before noun ] having a natural ability or skill for a particular activity or job 天生（有某方面才能）的",
+    "label": "born"
+  },
+  {
+    "question": "天生的领袖",
+    "translation": "a born leader",
+    "knowledge_point": "adj. [ only before noun ] having a natural ability or skill for a particular activity or job 天生（有某方面才能）的",
+    "label": "born"
+  },
+  {
+    "question": "永远的失败者",
+    "translation": "a born loser",
+    "knowledge_point": "a born loser (= a person who always loses or is unsuccessful) 永远的失败者",
+    "label": "born"
+  },
+  {
+    "question": "那帮孩子在踢足球",
+    "translation": "Those children are playing football",
+    "knowledge_point": "主谓宾；children可能有人会用kids，也可，只是Kid偏口语，用于非正式场合，多用于与自己亲密的，别人家的孩子。Child比较正式，不带感情远近之分",
+    "label": "现在进行时"
+  },
+  {
+    "question": "他借给我10万块钱",
+    "translation": "he lent me 10 thousand yuan",
+    "knowledge_point": "- 句子成分：主+间接宾语+直接宾语。过去时；\n- lend/lent/lent 借给；lend sb sth = lend sth to sb；\n- borrow 向...借；borrow sb sth = borrow sth from sb；\n- thousand前为数字时，结尾不加s，但是后面有of时，要加s，译成成千上万",
+    "label": "双宾语"
+  },
+  {
+    "question": "她给那个帅小伙看了下她的护照",
+    "translation": "She showed that handsome guy her passport",
+    "knowledge_point": "句子成分：主谓间宾+直宾；show sb sth = show sth to sb",
+    "label": "双宾语"
+  },
+  {
+    "question": "我发现这个答案是错的",
+    "translation": "I found the answer wrong",
+    "knowledge_point": "内部关系：动词；句子成分：主+宾+宾补；find sth adj = find sth is adj",
+    "label": "宾补"
+  },
+  {
+    "question": "我们选你当班长",
+    "translation": "we elected you our monitor",
+    "knowledge_point": "- 内部关系：动作；句子成分：主宾宾补；\n- elect有选举之意；select挑选；\n- elect sb (to sth) = elect sb (as) sth",
+    "label": "宾补"
+  },
+  {
+    "question": "万事开头难",
+    "translation": "The first step is always the hardest",
+    "knowledge_point": "- hard: adj. 硬的，坚固的；困难的；猛烈的，用力的；困苦的，艰苦；",
+    "label": "主系表"
+  },
+  {
+    "question": "我想回到你在会议开始时所提的话题，行吗？",
+    "translation": "Can I go back to what you said at the beginning of the meeting?",
+    "knowledge_point": "beginning一般代表一件事情的开始。一般和of连用，at the beginning of",
+    "label": "at the beginning of"
+  },
+  {
+    "question": "它是顺时针方向的",
+    "translation": "It's like in the direction of clock-wise",
+    "knowledge_point": "like介词；介词后面也可以加介词短语，like in the movies就是这样的，也是属于介词短语，作表语",
+    "label": "介词like"
+  },
+  {
+    "question": "生活不像电影里那样",
+    "translation": "Life isn't like in the movies",
+    "knowledge_point": "like介词；介词后面也可以加介词短语，like in the movies就是这样的，也是属于介词短语，作表语",
+    "label": "介词like"
+  },
+  {
+    "question": "你可能对在线教育的质量有担忧",
+    "translation": "You may have concerns about the quality of online education",
+    "knowledge_point": "后置定语，在某方面的担忧；它不是状语：如果是状语，它应该修饰动词have，表示\"以某种方式拥有\"或\"在某个方面拥有\"，但句子的意思显然是\"担忧\"的内容，而不是\"拥有\"这个动作的方式",
+    "label": "about 作定语"
+  },
+  {
+    "question": "我们已经往返月球，但过街去见新邻居却有困难",
+    "translation": "We have been on the way to the moon and back, but have trouble crossing the street to meet a new neighbor",
+    "knowledge_point": "be on the way主系表结构，to the moon and back是定语表示同位的关系，to meet a new neighbor是目的状语；正确答案：have trouble (in) doing sth. 这么理解是状语。也可以理解成宾语，（have trouble in）整体作谓语，doing sth就是宾语了。或者在动名词里，这里作为了特殊句型：have a hard time /difficulty/trouble",
+    "label": "have trouble doing"
+  },
+  {
+    "question": "我们已经征服了外太空，但内心世界对我们许多人来说仍然是个谜",
+    "translation": "We've conquered outer space, but inner space is still a mystery to many of us",
+    "knowledge_point": "to many of us是定语修饰的后面半句话，修饰的是\"主系表\"，\"是mystery这件事\"。这里是对象状语；",
+    "label": "对象状语"
+  },
+  {
+    "question": "休息一会儿",
+    "translation": "have a rest for a while",
+    "knowledge_point": "正确答案：状语，修饰的\"have a rest\"这个动作的时间长度",
+    "label": "时间状语"
+  },
+  {
+    "question": "明智的人从来不生气",
+    "translation": "A wise man never gets angry",
+    "knowledge_point": "- 内部关系：动作；句子成分：主系表；gets这里是系动词，never表示频度，状语；\n- wisdoms是名词，智慧；get这里是系统词；\n- 主系表，不一定是be动词，我理解turn, grow都属于系动词；\n- The wise man never gets angry。这里还是单数；The wise never get angry表示一类人，复数",
+    "label": "系动词"
+  },
+  {
+    "question": "早起的鸟儿有虫吃",
+    "translation": "The early bird catches the worm",
+    "knowledge_point": "- get up一般指起床，不适合鸟。\n- early这里作形容词，作定语。也有adv 词性\n- an early bird这里是idom；\n- catch比have更加生动些。catch是抓住的意思，已经代表抓住的结果；\n- 这里the + 可数名词单数，表示一类",
+    "label": "习语"
+  },
+  {
+    "question": "你捕到几条鱼？",
+    "translation": "How many fish did you catch?",
+    "knowledge_point": "catch比have更加生动些。catch是抓住的意思，已经代表抓住的结果",
+    "label": "catch"
+  },
+  {
+    "question": "昆虫",
+    "translation": "insect",
+    "knowledge_point": "Insect is often used to refer to other small creatures, for example spiders, although this is not correct",
+    "label": "词汇-insect"
+  },
+  {
+    "question": "蠕虫",
+    "translation": "worm",
+    "knowledge_point": "worm: [ C ] a long thin creature with no bones or legs, that lives in soil 蠕虫；birds looking for worms 觅食蠕虫的鸟",
+    "label": "词汇-worm"
+  },
+  {
+    "question": "觅食蠕虫的鸟",
+    "translation": "birds looking for worms",
+    "knowledge_point": "birds looking for worms 觅食蠕虫的鸟",
+    "label": "worm"
+  },
+  {
+    "question": "公交车提前五分钟到了",
+    "translation": "The bus came five minutes early",
+    "knowledge_point": "- early；adj. 早期的，初期的；提早的，提前的；早开花的，早熟的；\n- adv. 在早期，在初期；提早，提前；早到的；提前的；提早的",
+    "label": "early"
+  },
+  {
+    "question": "早起者；早到者；赶早者；捷足先登者",
+    "translation": "an early bird",
+    "knowledge_point": "an early bird ( humorous ) a person who gets up, arrives, etc. very early 早起者；早到者；赶早者；捷足先登者",
+    "label": "early bird"
+  },
+  {
+    "question": "太阳从东边升起",
+    "translation": "The sun rises in the east",
+    "knowledge_point": "内部关系：动作；句子成分：主谓状；这里\"从东边的\"里的\"从\"其实是指在某个方向，而不是从东方升起到西方落下的轨迹。",
+    "label": "主谓状"
+  },
+  {
+    "question": "请保持室内整洁",
+    "translation": "please keep the room clean and tidy",
+    "knowledge_point": "句子成分：主谓宾+宾补",
+    "label": "宾补"
+  },
+  {
+    "question": "我发现你是个好人",
+    "translation": "I found you a nice guy",
+    "knowledge_point": "句子成分：主宾宾补；find+宾+宾补，名次作宾补",
+    "label": "宾补"
+  },
+  {
+    "question": "他真是个好人",
+    "translation": "He's a really nice guy",
+    "knowledge_point": "nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的",
+    "label": "nice"
+  },
+  {
+    "question": "我们的新邻居很和气",
+    "translation": "Our new neighbours are very nice",
+    "knowledge_point": "nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的",
+    "label": "nice"
+  },
+  {
+    "question": "他们真好，邀请了我们",
+    "translation": "It was nice of them to invite us",
+    "knowledge_point": "nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的",
+    "label": "nice"
+  },
+  {
+    "question": "我尽量客气地请他把香烟掐了",
+    "translation": "I asked him in the nicest possible way to put his cigarette out",
+    "knowledge_point": "nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的",
+    "label": "nice"
+  },
+  {
+    "question": "我向经理发牢骚，他很宽容",
+    "translation": "I complained to the manager and he was very nice about it",
+    "knowledge_point": "nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的",
+    "label": "nice"
+  },
+  {
+    "question": "他是个非常高尚的人",
+    "translation": "He is a very good man",
+    "knowledge_point": "good [ɡʊd] 1. morally right; behaving in a way that is morally right 符合道德的；正派的；高尚的",
+    "label": "good"
+  },
+  {
+    "question": "高尚的行为",
+    "translation": "a good deed [diːd]",
+    "knowledge_point": "good [ɡʊd] 1. morally right; behaving in a way that is morally right 符合道德的；正派的；高尚的",
+    "label": "good"
+  },
+  {
+    "question": "我生病时他对我关怀备至",
+    "translation": "He was very good to me when I was ill",
+    "knowledge_point": "good [ɡʊd] 2. ~ (to sb) | ~ (of sb) (to do sth) willing to help; showing kindness to other people 助人为乐的；心地善良的；好心的",
+    "label": "good"
+  },
+  {
+    "question": "我生病时他对我关怀备至。",
+    "translation": "He was very good to me when I was ill.",
+    "knowledge_point": "good [ɡʊd] 2. ~ (to sb) | ~ (of sb) (to do sth) willing to help; showing kindness to other people 助人为乐的；心地善良的；好心的",
+    "label": "good"
+  },
+  {
+    "question": "我得请一周的假，同事们对此非常谅解",
+    "translation": "I had to take a week off work but my colleagues were very good about it",
+    "knowledge_point": "good [ɡʊd] 2. ~ (to sb) | ~ (of sb) (to do sth) willing to help; showing kindness to other people 助人为乐的；心地善良的；好心的",
+    "label": "good"
+  },
+  {
+    "question": "他们暂时待在北京",
+    "translation": "They are staying in Beijing",
+    "knowledge_point": "内部关系：动作；句子成分：主谓状；应该加一个temporally吧，for tempont；老师说有点画蛇添足的意味，be doing；这里是stay. 注意staying和living的区别",
+    "label": "现在进行时"
+  },
+  {
+    "question": "你能借给我那本英汉字典吗",
+    "translation": "could you lend me the English-Chinese dictionary",
+    "knowledge_point": "句子成分：主谓间宾直宾；中划线比较符合英语习惯;English and Chinese dictionary英语和汉语的词典，不太符合英语习惯；",
+    "label": "双宾语"
+  },
+  {
+    "question": "还是你认为他应该在职业生涯上再进一步？",
+    "translation": "Do you think he can or should be further ahead career-wise?",
+    "knowledge_point": "career-wise职业角度上",
+    "label": "career-wise"
+  },
+  {
+    "question": "你提供包邮吗",
+    "translation": "Do you offer free delivery",
+    "knowledge_point": "- postage邮资，邮费；一定面额的邮票；邮寄，邮递；pay postage更多指向邮政；Do you offer free delivery表达更准去\n- could有请求，意愿的成分，你能提供邮费吗， 这里用都do比较合适；\n- 为什么这里不用the free delivery？answer: delivery表示泛指的递送时，是不可数名词，表示具体的递送时，是可数名词，这里没有加冠词是因为表示的是泛指～",
+    "label": "主谓宾"
+  },
+  {
+    "question": "他的头发已经白了",
+    "translation": "His hair has turned gray",
+    "knowledge_point": "内部关系：描述；句子成分：主系表；hair作为头发来讲是不可数名词",
+    "label": "主系表"
+  },
+  {
+    "question": "浅色头发；黑发",
+    "translation": "dark hair",
+    "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发",
+    "label": "hair"
+  },
+  {
+    "question": "直╱鬈╱波浪发",
+    "translation": "straight/curly [ˈkɜːrli]/wavy[ˈweɪvi] hair",
+    "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发",
+    "label": "hair"
+  },
+  {
+    "question": "梳头",
+    "translation": "to comb/brush your hair",
+    "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发",
+    "label": "hair"
+  },
+  {
+    "question": "我马上就下来。我在梳头呢",
+    "translation": "I'll be down in a minute. I'm doing my hair",
+    "knowledge_point": "( informal ) I'll be down in a minute. I'm doing (= brushing, arranging, etc.) my hair. 我马上就下来。我在梳头呢",
+    "label": "hair"
+  },
+  {
+    "question": "我今天下午要去理发",
+    "translation": "I'm having my hair cut this afternoon",
+    "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发",
+    "label": "hair"
+  },
+  {
+    "question": "我的汤里有根毛",
+    "translation": "There's a hair in my soup",
+    "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发",
+    "label": "hair"
+  },
+  {
+    "question": "地毯上净是猫毛",
+    "translation": "The rug was covered with cat hairs",
+    "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发",
+    "label": "hair"
+  },
+  {
+    "question": "黑发的",
+    "translation": "dark-haired",
+    "knowledge_point": "( -haired ) ( in adjectives构成形容词 ) having the type of hair mentioned 有…毛发（或头发）的",
+    "label": "分词形容词-形容词"
+  },
+  {
+    "question": "长发的",
+    "translation": "long-haired",
+    "knowledge_point": "( -haired ) ( in adjectives构成形容词 ) having the type of hair mentioned 有…毛发（或头发）的",
+    "label": "hair"
+  },
+  {
+    "question": "他看上去挺吃惊的",
+    "translation": "he looked astonished",
+    "knowledge_point": "内部关系：描述；句子成分：主系表注意这里look使系动词；amazed惊奇，astonished惊讶",
+    "label": "系动词"
+  },
+  {
+    "question": "这是冠词表类别的用法",
+    "translation": "The wise man never gets angry",
+    "knowledge_point": "这是冠词表类别的用法，用冠词加名词表类别，有四种方法：\n- 定冠词the+单数可数名词、不定冠词a/an+单数可数名词、名词的复数（也就是零冠词）the+adj；\n- 可以用a wise man, the wise man, wise men都是可以的，都表示这一类；the wise表示一类人，这里用复数；The wise man用单数，The wise用复数；a wise man /the wise man/ wise men/ the wise",
+    "label": "冠词表类别"
+  }
+]

@@ -38,6 +38,11 @@ const CONFIG = {
             name: '语法题库3-时态篇-顺序模式', 
             url: 'assets/data/grammarpoint_lowerpart_order.json',
             outline: 'assets/data/grammarpoint_lowerpart_box_outline.md'
+        },
+        homework1_order: { 
+            name: '作业练习1-词汇语法篇-顺序模式', 
+            url: 'assets/data/homework1_order.json',
+            outline: 'assets/data/grammarpoint_upperpart_reverse.json'
         }
     },
     
