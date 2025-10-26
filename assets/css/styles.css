@@ -1312,16 +1312,16 @@ body.top-align .container {
 .heatmap-grid {
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 8px;
     justify-content: center;
     align-items: center;
     margin-bottom: 20px;
 }
 
 .heatmap-square {
-    width: 14px;
-    height: 14px;
-    border-radius: 3px;
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
     border: 1px solid rgba(0,0,0,0.06);
     box-shadow: 0 0 0 1px rgba(255,255,255,0.4) inset;
     cursor: pointer;
@@ -1338,7 +1338,7 @@ body.top-align .container {
 /* 每周一行 */
 .heatmap-week {
     display: flex;
-    gap: 4px;
+    gap: 8px;
 }
 
 .heatmap-legend {
@@ -1397,8 +1397,8 @@ body.top-align .container {
     }
     
     .heatmap-square {
-        width: 10px;
-        height: 10px;
+        width: 20px;
+        height: 20px;
     }
     
     .legend-items {

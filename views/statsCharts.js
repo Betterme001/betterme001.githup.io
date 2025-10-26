@@ -30,32 +30,50 @@
         return 6;                              // 90分钟以上：最深蓝色
     }
 
-    // 获取统计数据
+    // 获取统计数据（修改为合并所有题库）
     function getDailyStats() {
-        const dailyStats = (window.reviewStore && window.reviewStore.meta && window.reviewStore.meta.dailyStats) || {};
+        // 先合并所有题库的统计数据
+        const mergedStats = window.mergeAllBankStats();
+        
         const todayStr = (() => {
             const d = new Date();
             return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
         })();
 
-        // 将"今天"的实时统计也并入展示
-        const todayStudyTime = (window.reviewStore && window.reviewStore.meta && (window.reviewStore.meta.todayStudyTime||0)) || 0;
-        const todayQuestionCount = (window.reviewStore && window.reviewStore.meta && (window.reviewStore.meta.todayQuestionCount||0)) || 0;
-        const merged = { ...dailyStats };
-        merged[todayStr] = {
+        // 计算今天的实时统计（所有题库）
+        let todayStudyTime = 0;
+        let todayQuestionCount = 0;
+        
+        Object.keys(CONFIG.BANKS).forEach(bankId => {
+            try {
+                const key = getStorageKey(bankId);
+                const raw = localStorage.getItem(key);
+                if (raw) {
+                    const bankData = JSON.parse(raw);
+                    const meta = bankData.meta || {};
+                    todayStudyTime += meta.todayStudyTime || 0;
+                    todayQuestionCount += meta.todayQuestionCount || 0;
+                }
+            } catch (e) {
+                console.warn(`读取题库 ${bankId} 今日数据失败:`, e);
+            }
+        });
+
+        const result = { ...mergedStats };
+        result[todayStr] = {
             studyTime: todayStudyTime,
             questionCount: todayQuestionCount,
             timestamp: Date.now()
         };
 
         // 如果没有历史数据，创建一些测试数据用于演示
-        if (Object.keys(merged).length === 1 && todayStudyTime === 0) {
+        if (Object.keys(result).length === 1 && todayStudyTime === 0) {
             console.log('No historical data found, creating demo data');
             const demoData = createDemoData();
-            Object.assign(merged, demoData);
+            Object.assign(result, demoData);
         }
 
-        return merged;
+        return result;
     }
 
     // 创建演示数据

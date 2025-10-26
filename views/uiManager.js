@@ -53,7 +53,25 @@
 
         // 获取过滤后的题目列表
         let filteredQuestions = (window.questions || []).filter(q => {
-            if (labelFilter && (q.label || '').trim() !== labelFilter) return false;
+            // 处理label筛选
+            if (labelFilter) {
+                const labels = [];
+                if (q.label) {
+                    if (Array.isArray(q.label)) {
+                        labels.push(...q.label);
+                    } else if (typeof q.label === 'string') {
+                        const labelStr = q.label.trim();
+                        if (labelStr.includes(';')) {
+                            labels.push(...labelStr.split(';').map(l => l.trim()).filter(l => l));
+                        } else {
+                            labels.push(labelStr);
+                        }
+                    }
+                }
+                if (!labels.includes(labelFilter)) return false;
+            }
+            
+            // 处理收藏筛选
             if (favOnly) {
                 const key = window.getQuestionKey ? window.getQuestionKey(q) : q.question;
                 const entry = (window.reviewStore && window.reviewStore.items && window.reviewStore.items[key]) || {};
@@ -92,6 +110,29 @@
             if (typeof transHtml === 'string') {
                 transHtml = transHtml.replace(/^<p>/, '').replace(/<\/p>\s*$/, '');
             }
+            // 处理多个label
+            const labels = [];
+            if (q.label) {
+                // 支持多种格式的label
+                if (Array.isArray(q.label)) {
+                    labels.push(...q.label);
+                } else if (typeof q.label === 'string') {
+                    // 检查是否是多个label用分号分隔
+                    const labelStr = q.label.trim();
+                    if (labelStr.includes(';')) {
+                        labels.push(...labelStr.split(';').map(l => l.trim()).filter(l => l));
+                    } else {
+                        labels.push(labelStr);
+                    }
+                }
+            }
+            
+            // 生成label显示HTML
+            const labelHtml = labels.length > 0 ? 
+                `<div style="margin-bottom: 8px;">
+                    ${labels.map(label => `<span style="font-size: 0.85rem; color: #fff; background: #4a7c59; padding: 2px 6px; border-radius: 12px; margin-right: 4px; display: inline-block;">${label}</span>`).join('')}
+                </div>` : '';
+
             item.innerHTML = `
                 <div class="library-question">
                     <div style="font-size: 1.2rem; font-weight: bold; margin-bottom: 8px; color:#111; display:flex; justify-content:space-between; align-items:center;">
@@ -101,6 +142,7 @@
                             <button data-key="${key}" class="icon-back" style="width:auto; padding:2px 6px; font-size:0.8rem;" onclick="toggleFavoriteFromLibrary('${key}')">${entry.favorited ? '★' : '☆'}</button>
                         </div>
                     </div>
+                    ${labelHtml}
                     <div style="font-size: 1.1rem; color: #1565c0; margin: 0 0 8px 0;">${transHtml}</div>
                     <div style="font-size: 1rem; color: #444; margin-bottom: 8px; white-space: pre-wrap; word-break: break-word;">${window.parseMarkdown(q.knowledge_point || '')}</div>
                 </div>`;
@@ -123,23 +165,41 @@
         window.switchStatsMode('list');
     };
 
-    // 渲染统计列表
+    // 渲染统计列表（修改为合并所有题库）
     window.renderStatsList = function renderStatsList() {
         const statsList = document.getElementById('statsList');
         if (!statsList) return;
 
-        // 渲染历史学习统计：按日期倒序
+        // 渲染历史学习统计：按日期倒序（合并所有题库）
         statsList.innerHTML = '';
-        const dailyStats = (window.reviewStore && window.reviewStore.meta && window.reviewStore.meta.dailyStats) || {};
+        
+        // 使用合并后的统计数据
+        const mergedStats = window.mergeAllBankStats();
         const todayStr = (() => {
             const d = new Date();
             return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
         })();
 
-        // 将"今天"的实时统计也并入展示
-        const todayStudyTime = (window.reviewStore && window.reviewStore.meta && (window.reviewStore.meta.todayStudyTime||0)) || 0;
-        const todayQuestionCount = (window.reviewStore && window.reviewStore.meta && (window.reviewStore.meta.todayQuestionCount||0)) || 0;
-        const merged = { ...dailyStats };
+        // 计算今天的实时统计（所有题库）
+        let todayStudyTime = 0;
+        let todayQuestionCount = 0;
+        
+        Object.keys(CONFIG.BANKS).forEach(bankId => {
+            try {
+                const key = getStorageKey(bankId);
+                const raw = localStorage.getItem(key);
+                if (raw) {
+                    const bankData = JSON.parse(raw);
+                    const meta = bankData.meta || {};
+                    todayStudyTime += meta.todayStudyTime || 0;
+                    todayQuestionCount += meta.todayQuestionCount || 0;
+                }
+            } catch (e) {
+                console.warn(`读取题库 ${bankId} 今日数据失败:`, e);
+            }
+        });
+
+        const merged = { ...mergedStats };
         merged[todayStr] = {
             studyTime: todayStudyTime,
             questionCount: todayQuestionCount,
@@ -222,12 +282,28 @@
         const seen = Object.create(null);
         const orderedLabels = [];
         questions.forEach(q => {
-            const lb = (q && q.label ? String(q.label).trim() : '');
-            if (!lb) return;
-            if (!seen[lb]) {
-                seen[lb] = true;
-                orderedLabels.push(lb);
+            if (!q || !q.label) return;
+            
+            // 处理多个label的情况
+            const labels = [];
+            if (Array.isArray(q.label)) {
+                labels.push(...q.label);
+            } else if (typeof q.label === 'string') {
+                const labelStr = q.label.trim();
+                if (labelStr.includes(';')) {
+                    labels.push(...labelStr.split(';').map(l => l.trim()).filter(l => l));
+                } else {
+                    labels.push(labelStr);
+                }
             }
+            
+            // 添加到有序列表
+            labels.forEach(lb => {
+                if (lb && !seen[lb]) {
+                    seen[lb] = true;
+                    orderedLabels.push(lb);
+                }
+            });
         });
 
         // 若无label则隐藏

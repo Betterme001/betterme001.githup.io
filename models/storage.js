@@ -137,4 +137,78 @@ window.clearAllData = function clearAllData() {
     }
 };
 
+// 获取全局统计存储key
+function getGlobalStatsKey() {
+    return `${CONFIG.STORAGE_KEY_PREFIX}:global_stats`;
+}
+
+// 加载全局统计数据
+window.loadGlobalStats = function loadGlobalStats() {
+    try {
+        const key = getGlobalStatsKey();
+        const raw = localStorage.getItem(key);
+        if (raw) {
+            window.globalStats = JSON.parse(raw);
+        } else {
+            window.globalStats = { dailyStats: {} };
+        }
+        if (!window.globalStats.dailyStats) window.globalStats.dailyStats = {};
+    } catch (e) {
+        console.warn('读取全局统计数据失败:', e);
+        window.globalStats = { dailyStats: {} };
+    }
+};
+
+// 保存全局统计数据
+window.saveGlobalStats = function saveGlobalStats() {
+    try {
+        const key = getGlobalStatsKey();
+        localStorage.setItem(key, JSON.stringify(window.globalStats));
+    } catch (e) {
+        console.warn('保存全局统计数据失败:', e);
+    }
+};
+
+// 合并所有题库的统计数据
+window.mergeAllBankStats = function mergeAllBankStats() {
+    const mergedStats = {};
+    
+    // 遍历所有题库
+    Object.keys(CONFIG.BANKS).forEach(bankId => {
+        try {
+            const key = getStorageKey(bankId);
+            const raw = localStorage.getItem(key);
+            if (raw) {
+                const bankData = JSON.parse(raw);
+                const bankStats = bankData.meta?.dailyStats || {};
+                
+                // 合并每日数据
+                Object.keys(bankStats).forEach(date => {
+                    if (!mergedStats[date]) {
+                        mergedStats[date] = {
+                            studyTime: 0,
+                            questionCount: 0,
+                            timestamp: 0
+                        };
+                    }
+                    mergedStats[date].studyTime += bankStats[date].studyTime || 0;
+                    mergedStats[date].questionCount += bankStats[date].questionCount || 0;
+                    mergedStats[date].timestamp = Math.max(
+                        mergedStats[date].timestamp, 
+                        bankStats[date].timestamp || 0
+                    );
+                });
+            }
+        } catch (e) {
+            console.warn(`读取题库 ${bankId} 统计数据失败:`, e);
+        }
+    });
+    
+    // 更新全局统计
+    window.globalStats.dailyStats = mergedStats;
+    window.saveGlobalStats();
+    
+    return mergedStats;
+};
+
 

@@ -12,6 +12,11 @@
     // 应用启动：加载本地数据与题目，刷新首页
     window.addEventListener('load', async function () {
         try {
+            // 加载全局统计数据
+            if (typeof window.loadGlobalStats === 'function') {
+                window.loadGlobalStats();
+            }
+            
             window.currentBankId = window.currentBankId || CONFIG.DEFAULT_BANK_ID;
             if (typeof window.loadStore === 'function') {
                 window.loadStore(window.currentBankId);
