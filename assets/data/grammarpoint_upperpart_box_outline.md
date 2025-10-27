@@ -1,14 +1,17 @@
 1. 形容词：	
 
-   ing 情绪形容词，表示令人感觉的...
+   1. ing 情绪形容词，表示令人感觉的...
 
-   ed 情绪形容词，表示人笨手的感受，人对某事产生的感觉，感到...的
+   2. ed 情绪形容词，表示人笨手的感受，人对某事产生的感觉，感到...的
 
 2. 名词
 
-   1. 八大金刚：限定词，形容词，形容词短语，介词短语，分词短语，不定式(作定语），定语从句，同位语从句
-   2. 名词的序：（名词的中心词顺序）: 左二右六
-   3. 复合名词的数
+   1. 八大金刚
+      1. 限定词，形容词，形容词短语，介词短语，分词短语，不定式(作定语），定语从句，同位语从句
+      2. 此外修饰名词的还有：名词修饰名词，动名词修饰名词
+   2. 名词的序
+      1. 名词的中心词顺序）: 左二右六
+   3. 名词的数
       1. "名词—介词/副词/不定式等"构成的复合名词变成副数，主体名词变化
          - passers-by 
          - standers-by
@@ -17,7 +20,9 @@
          - never-do-wells
    4. 名次的格 p's 和 of
       1. p's 有三种
-         1. 有生命的名词所属关系5个：姓名，特指名词，不定代词，集体名词，高等动物 +‘s
+         1. 有生命的名词所属关系5个：姓名，特指名词，不定代词，集体名词，高等动物
+            - bird's view
+            - bird's nest
          2. 表示时间，距离，组织，机构，城市，交通工具部件
             - tomorrow's weather
             - a month's salary
@@ -38,27 +43,33 @@
          - agree, argue(争论),hold,learn,maintain,observe,
          - contend,conceive,reckon,remark,state, know, 
          - suggest,assume,announce,indicate['indikeit]
-
-      2. that 通常可省略: 主句谓语动词有哪些 ，其后的宾语从句的引导词that 通常可省略：think, suppose,presume,dare,say
-
+      2. that 通常可省略: 主句谓语动词有哪些 ，其后的宾语从句的引导词that 通常可省略：
+         - think, suppose,presume,dare,say
       3. 一句话总结whether和if 的区别：whether可以引导主宾表同，if只能引导动词的宾语从句
 
-   3. 名词性从句中可以充当的成分： 主宾表同
+   3. 名词性从句中可以充当的成分
 
       1. 作主语，主语从句后置
 
          五种结构：
 
-         1. It is 过去分词 that (It is said that)
-         2. It is形容词 that (It is clear that)
-         3. It is 名词短语 that (It is good news that)
-         4. It 不及物动词 that （It turn out that)
+         1. It is 过去分词 that 
+            - It is said that
+         2. It is形容词 that 
+            - It is clear that
+         3. It is 名词短语 that 
+            - It is good news that
+         4. It 不及物动词 that 
+            - It turn out that
          5. 固定表达：
-            - it makes no difference
-            - it doesn't need to be bothered
+            - It makes no difference
+            - It doesn't need to be bothered
 
-         				2. 作宾语，宾语从句后置：I believe it true that
-         				3. 作同位语：idea/fact: do you have any idea what you've done?!
+      2. 作表语
+
+      3. 作宾语，宾语从句后置：I believe it true that
+
+      4. 作同位语：idea/fact: do you have any idea what you've done?!
 
 4. 动名词
 
@@ -79,21 +90,19 @@
 
       3. 作表语： Seeing is believing
       4. 作定语表示用途和功能: reading room
-      5. 作宾补：I saw him **running** in the park.
-      6. 特定句型、
+      5. 作宾补：I saw him running in the park.
+      6. 特定句型
 
          1. have difficulty/ a hard time/problem/trouble doing 做。。有困难
          2. can't help doing/can't hold back from 情不自禁
          3. sth is worth doing/it is worth doing sth 值得做某事
             - The book is worth reading
-
    2. 动名词复合结构
 
-      1. 物主代词（例my, his, her等) ,
+      1. 物主代词（例my, his, her等) 
       2. 所有格名词（例Will, Tom's 等）+doing
 
       3. 动名词复合结构作宾语时 用普通格 和 所有格 均可
-
    3. 动名词的被动式: being/主动表被动
 
       1. being +被动式
@@ -101,20 +110,20 @@
       2. 主动表被动：need/wants/deserve
 
 
-         4. 动名词完成式：动名词的动作在谓语动作之前发生 having done
+   4. 动名词完成式：动名词的动作在谓语动作之前发生 having done
 
 
-4. 不定式
+5. 不定式
 
    1. 充当的成分：主宾表定状补
 
-      1. 主语
+      1. 主语(It 后面词性，相比名词性从句少了过去分词和名词)
 
-         1. It is adj/n to do..; 
+         1. It is adj/n to do..
          2. It is adj 不定式的逻辑主语for/of todo
             1. of 前的形容词多用来说明人的性格或行为表现：
                - brave, careful, careless, clever, cruel, foolish, generous, kind, modest, nice, polite,rude,selfish,silly, stupid, thoughtful.
-         3. It动词 todo,  It 后面比名词性从句少了过去分词和名词
+         3. It 动词 todo,  
             - It takes two  to tango. 
 
       2. 宾语：
@@ -140,9 +149,9 @@
 
          4. 同位关系：
 
-            1. chance/opportunity/dream/ability/plan//need：不定式与所修饰的名词指的是一回事。(不定式为解释前面名词具体内容）
+            1. chance/opportunity/dream/ability：不定式与所修饰的名词指的是一回事。(不定式为解释前面名词具体内容）
 
-            2. attempt/ability/promise/anxiety/decision：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。
+            2. plan//need/attempt/ability/promise/anxiety/decision：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。
 
       4. 不定式作状语
 
@@ -187,10 +196,15 @@
    2. 不带to 的不定式（to do->do)
 
       1. 在口语中，动词原形come和go后可接不带to的不定式。 Go tell her.Come have a drink.
+
       2. 在had better, had best, would rather, would rather...than, would sooner, would sooner...than,cannot but, cannot choose but, cannot help but等结构后直接跟动词原形或not+动词原形。
+
       3. 如不定式前有行为动词do，那么在表语从句中的不定式和介词except或but之后的不定式可不带to。
+
          - what I don't do is  perpetuate a  culturally-endorsed lie.    
+
          - They could do nothing but wait for the doctor to come.
+
       4. 在一些固定搭配中用不带to的不定式。let go/ hear say/ made belive
 
    3. (不定式符号)to的单独使用(to do->to)
@@ -204,7 +218,7 @@
       4. 在对话的答语中的happy, glad, eager, anxious, willing, ready, pleased, afraid等形容词之后。
          - I'm willing to, but I can't now.
 
-5. 分词
+6. 分词
 
    1. 分词的思维：
       1. 现在分词：主动进行，正在发生
@@ -214,37 +228,36 @@
 
       - I have a business deal coming up and **could use some help with negotiating**
 
-      - Laughfing and talking, they went into the classroom
+      - Laughing and talking, they went into the classroom
 
    3. 非谓语动词作后置定语的三种被动结构
+
       1. 将来的动作：to be done
          - Are you going to attend her wedding [ˈwedɪŋ] to be held next week?
       2. 正在进行时:   being done
          - The question being discussed is important.
-      3. 已经完成的：done
-         - Did you attend her wedding held last week
+        3. 已经完成的：done
+           - Did you attend her wedding held last week
 
    4. 分词形容词：
+
       1. 名词/副词+分词
 
          - time-consuming job
          - record-breaking fight
          - never-ending complaints
-
       2. 形容词+名词ed
 
          - middle-aged 
-
          - narrow-minded
-
          - walm-hearted 
-
       3. 数次+名词ed
 
          - one-eyed animal独眼兽
+
          - two-faced person 两面三刀
 
-6. 介词
+7. 介词
 
    1. 三个功能：
 
@@ -281,72 +294,268 @@
             - be on pins and needles。如坐针毡
             - be on one's mind. 被某人想着，牵挂。
 
-      2. in 
 
-         1. 在...里
+         2. in 
 
-            - in the bed/ the street
+            1. 在...里
 
-            - the mirror hung in the wall  这是嵌在墙里的镜子
+               - in the bed/ the street
 
-         2. 在某人的身上， 品质/气质/才华
+               - the mirror hung in the wall  这是嵌在墙里的镜子
 
-            - you have it in you to be a musician (it 形式宾语，宾语后置)
+            2. 在某人的身上， 品质/气质/才华
 
-      3. at 表示一个“点”，狭小的范围，精准的概念
-         1. 时间点 at six o clock
+               - you have it in you to be a musician (it 形式宾语，宾语后置)
 
-         2. 地点
 
-         3. 价格，速度 
+         3. at 表示一个“点”，狭小的范围，精准的概念
+            1. 时间点 at six o clock
 
-            - at any cost
+            2. 地点
 
-            - sea levels are rising at the rate of almost 2mm（millimeter） a year;
+            3. 价格，速度 
 
-         4. 冲/朝着..(狭小的范围，精准的概念) @sb
+               - at any cost
 
-            - look at  看着。。
-            - glance at  撇着。。
-            - laugh at 冲。。笑，嘲笑
+               - sea levels are rising at the rate of almost 2mm（millimeter） a year;
 
-      4. to
+            4. 冲/朝着..(狭小的范围，精准的概念) @sb
 
-         1. 到；朝向；到达
+               - look at  看着。。
+               - glance at  撇着。。
+               - laugh at 冲。。笑，嘲笑
 
-            - go to school 方向
-            - turn to the right. 方向
 
-         2. 达到某种数字、金额
+         4. to
 
-         3. 达到某种程度
+            1. 到；朝向；到达
 
-            - to some extent 在某种程度
+               - go to school 方向
+               - turn to the right. 方向
 
-            - move sb. to tears   感动某人到落泪
+            2. 达到某种数字、金额
 
-            - drink to death 喝到死
+            3. 达到某种程度
 
-         4. 对..；向（注意to前面是动词）
+               - to some extent 在某种程度
 
-            - do harm to
-            - talk to you 
+               - move sb. to tears   感动某人到落泪
 
-         5. 反应； 和拍子，对。。作出反应
+               - drink to death 喝到死
 
-            - dance to the music
-            - sing to my guitar
-            - What the hell am I supposed to say to that?!
+            4. 对..；向（注意to前面是动词）
 
-         6. as far as sth 到，达（某处）
+               - do harm to
+               - talk to you 
 
-            - climb to the top of the Yellow Mountain
-            - Her hair fell to her waist. 
-            - The meadows lead down to the river. 
+            5. 反应； 和拍子，对。。作出反应
 
-         7. used to show a relationship between one person or thing and another 表示两人或事物之间的关系）属于，归于，关于，对于（字典第19条）注意to前面是名词）
+               - dance to the music
+               - sing to my guitar
+               - What the hell am I supposed to say to that?!
 
-            - the slave to/of sb 
-            - the Japanese ambassador [æmˈbæsədər] to France 日本驻法大使
+            6. as far as sth 到，达（某处）
 
-            - the key to the door 这个门的钥匙
+               - climb to the top of the Yellow Mountain
+               - Her hair fell to her waist. 
+               - The meadows lead down to the river. 
+
+            7. used to show a relationship between one person or thing and another 表示两人或事物之间的关系）属于，归于，关于，对于（字典第19条）注意to前面是名词）
+
+               - the slave to/of sb 
+               - the Japanese ambassador [æmˈbæsədər] to France 日本驻法大使
+
+               - the key to the door 这个门的钥匙
+
+
+8. 定语
+
+   1. 词间的修饰：
+
+      1. 形容词：限观形龄色国才
+         - a famous ancient Chinese poet [ˈpoʊət]诗人
+         - a small white sweater
+         - an old brown  British piano 
+         - The little girl was carrying a small blue plastic bottle 
+      2. 形容词短语
+         - the room full of people
+      3. 介词短语
+         -  the ipad on the table
+         -  the boy under the tree
+      4. 分词（短语）
+         - developing country
+         - developed country
+         - the girl living next door.
+      5. 名词作定语
+         - coffee cup
+         - street light
+      6. 动名词作定语
+         - racing car
+         - opening speech
+      7. 不定式作定语
+         - I have a letter to write
+         - the quickest way to travel
+
+   2. 句子作定语
+
+      1. 关系词
+         1. 关系代词：who, whom, whose, which, that, as
+         2. 关系副词 ：where, when, why
+
+      2. when引导定语从句，先行词必须是表示时间的名词（day/year/time)且必须在从句中作状语
+
+         - I'll never forget the day when I met you
+         - There will come a time when you will be responsible for our people
+         - Any advice for meetings where  big decisions need to be made 
+
+      3. where 引导的定语从句，先行词必须是表示地点的名词（place, house等）且必须在从句中作状语
+
+         - Is there a place where I can learn grammar
+         - I don't want to be a part of a world where being kind is a weakness
+         - Any advice for meetings where  big decisions need to be made 
+
+      4. 有时关系代词前会有介词（了解即可）
+
+         - The girl with whom you were talking is my cup of tea
+
+      5. which 和 that？基本可以通用，但以下情况必须使用that
+
+         1. 先行词是all, much, little,few, the one等不定代词，或是由no-, every-, some-, any- 组成的词（ 如something, nothing ,everything), 关系代词一般只用that, 不用which.
+
+            - Not all that shine is gold
+
+            - The correct method is all that matters 
+            - All that matters is(What is the most important/The most important thing )
+            - What he said has nothing that is usefull.
+
+         2. 先行词前被any, only, all ,every, no ,some ,much, few, little，序数词，最高级，the last 等修饰时，关系代词一般只用that, 不用which.
+
+            - You are the last person that  I want to see
+            - Meeting you has been the best thing that could happen to me
+
+      6. 超级好用的as：用来代替整个主句，语义延展更广
+
+         - As is so often pointed out,AI is two-edged sword which can be used equally for good or evil
+         - As is well known
+         - As is often the case 
+         - As ofter happens
+         - As is hoped
+         - As is usual with sb
+
+9. 状语
+
+   1. 副词作状语
+      - talk loudly
+      - work hard
+      - never know
+
+   2. 介词词组作状语
+      -  I live quite near my office
+      -  He knows what will happen in the future.
+
+   3. 不定时做状语
+      - We'd better go early so as to catch the train.
+
+   4. 分词作状语
+      - That's the man who sits down with me and our girls for dinner nearly every night, patiently answering their questions about issues in the news and strategizing[ˈstrætəˌdʒaɪz] about middle school friendships
+
+   5. 状语从句
+      1. 地点状语从句: where+陈述句
+         - Now, Stay exactly where you stand
+         - Go back where you come from
+         - Where there is will, there is a way
+         - Where is a love, there is home
+         - Where there is smoke, there is fire
+         - Where there is oppression[əˈpreʃn] there is resistance[rɪˈzɪstəns]
+         - Personality begins where comparison ends
+
+      2. 目的状语： so that, in order that, so as to
+         - Planning is bringing the future into the present so that you can do something about it now/take actions.
+
+      3. 结果状语从句
+         - It is raining so hard that we can hardly move forward
+
+      4. 方式状语从句 as ,like ,as if ,as though
+         - I should have done it as you said
+         - He treats the boy as if/as though he were his son.
+         - Love like you've never been hurt.
+         - Sing like nobody's listening. 
+         - Live like it's heaven on earth. 
+
+      5. 比较状语从句
+         1. as+形容词/副词+as
+            - English is not as difficult as you think, it requires patience and time.
+         2. than 同类事物的比较
+            - I love you than he does
+            - I love you than him
+         3. 倍数
+            1. 倍数+比较级 结构 A is three times bigger than B
+               - The blue table is three times bigger than the green one
+            2. 倍数+as..as 结构 A is three times as big as B
+               - The blue table is three times as long as the green one
+            3. 倍数+名词 结构.  A is three times the size of B
+               - The blue table is three times the length of the green one
+         4. the more ..the more
+            1. The more exactly you explain, the more clear people will understand you 
+            2. The more risk there is, the more profit there might be 
+            3. The more you own, the more it weighs you down (Game of Thrones)
+
+      6. 让步状语从句： though， although，even though, even if 此时主居前无but, 但可以有yet或still
+
+      7. 原因状语从句: because, as和since
+
+         1. because - 引导的从句显得比主句重要，强调原因
+            -  I almost missed my plan because there was a long line in the duty free shop
+         2. since -引导的从句显得次要，而主句重要，以说明将要做什么事
+            - We thought that since we were in the area, we'd stop by and have a look
+
+      8. 时间状语从句
+         1. 先后发生：从句先发生。when
+
+            - We started our lunch when the boss left
+
+         2. 同时发生：when, while(在。。期间),as
+
+            - I bought a magazine when I was waiting for the train
+
+            - While we were on holiday, my bag was stolen
+
+            - Strike while the iron is hot.
+
+            - I will take care of this while the boss is away
+
+            - As time passed, things seemed to get better. 
+
+         3. 其他引导词： whenever, by the time ,next time, every time 等
+
+            - Whenever you  say" I love you", mean it. Whenever you say "I'm sorry", look the person right in the eyes.
+
+10. 补语
+
+    1. 形容词作宾补
+       - I found the classroom empty
+
+    2. 名词作宾补
+
+       - At the meeting we elected him monitor
+       - I consider your brother a clever boy
+
+    3. 不定式作宾补
+
+       - Our father will not allow us to play in the street.
+
+       - We believe him to be guilty
+
+    4. 现在分词作宾补
+
+       - We heard him singing in the hall
+       - I found those students studying very hard
+
+    5. 过去分词作宾补
+
+       - I heard it spoken of in the next room.
+
+    6. 主语补足语
+
+       - He was seen playing basketball yesterday.
+       - He was found dead in a Berlin hotel room

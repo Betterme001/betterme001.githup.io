@@ -483,7 +483,7 @@
     "question": "我去看你的时候，你已经走了",
     "translation": "You had left when I went to see you",
     "knowledge_point": "- 过去完成时：站在过去回首更遥远的过去, 表示过去的过去\n- had gone 也可以，但是had gone 隐含着去往某地，left只是强调离开，所以这里用had left 更合适",
-    "label": "时态-现在完成时"
+    "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
     "question": "我在北京住了10年了",
@@ -651,43 +651,43 @@
     "question": ". 我来之前他们已经把一切准备好了",
     "translation": "They had got everything ready before I came",
     "knowledge_point": "- 时态-过去完成时: 用法1：一个动作在过去某一点以前结束\n- 站在过去回首更遥远的过去",
-    "label": "时态-过去完成时"
+    "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
     "question": ". 从她的脸上我隐约看出她得到了一些好消息",
     "translation": "I could see from her face that she had received some good news",
     "knowledge_point": "- 时态-过去完成时:  用法1：一个动作在过去某一点以前结束\n- 站在过去回首更遥远的过去",
-    "label": "时态-过去完成时"
+    "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
     "question": ". 我本来打算来看你的，但我太忙了",
     "translation": "I had intended to see you, but I was too busy",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
-    "label": "时态-过去完成时"
+    "label": "时态-过去完成时-本来要"
   },
   {
     "question": ". 我本来希望你能来吃晚饭，但你没有出现",
     "translation": "I had hoped that you would come to dinner, but you didn't show up",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
-    "label": "时态-过去完成时"
+    "label": "时态-过去完成时-本来要"
   },
   {
     "question": ". A：你来中国开心吗？B：是的，确实，我本想去印尼的，但是到目前为止不后悔",
     "translation": "Are you happy you came to China? Yes, indeed. I'd considered going to Indonesia, but I've never regretted my decision",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
-    "label": "时态-过去完成时"
+    "label": "时态-过去完成时-本来要"
   },
   {
     "question": ". 我学了5千个单词",
     "translation": "I have learnt 5 thousand words",
     "knowledge_point": "- 现在完成时&过去完成时的区别\n- 站在现在回首过去",
-    "label": "时态-过去完成时"
+    "label": "时态-现在完成时"
   },
   {
     "question": ". 到那时我已经学了5千个单词了",
-    "translation": "I had learnt 5 thousand words till then",
+    "translation": "I had learnt 5 thousand words by then",
     "knowledge_point": "- 现在完成时&过去完成时的区别\n- 站在过去回首更遥远的过去",
-    "label": "时态-过去完成时"
+    "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
     "question": ". 到月底，他们就在这学3年了",
@@ -752,20 +752,20 @@
   {
     "question": ". 你最近干嘛了",
     "translation": "What have you been doing",
-    "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
+    "knowledge_point": "- 最近一段时间内正在持续的事情",
     "label": "时态-现在完成进行时"
   },
   {
     "question": ". 我最近一直在考虑换工作",
     "translation": "I have been thinking about changing my job",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 我最近一直在琢磨这个事",
     "translation": "I have been thinking it over",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 我最近几周一直在倒晚班",
@@ -783,55 +783,55 @@
     "question": ". 我一直想找你聊聊（我早就想找你聊聊）",
     "translation": "I have been meaning to have a word with you",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 我一直想要一个baby",
     "translation": "I have been wanting a baby",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 我最近一直在思考它",
     "translation": "I've been giving a good deal of thought",
-    "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
+    "knowledge_point": "- 最近一段时间内正在持续的事情",
     "label": "时态-现在完成进行时"
   },
   {
     "question": ". 如果伤到了你我很抱歉，但这些话我已经憋很久了",
     "translation": "I'm sorry if I hurt your feelings. I've been holding a lot of this in for a while",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 我想了很久，那件事就是，我爱你",
     "translation": "I've been doing a lot of thinking, and the thing is I love you",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 看看你，你在流汗。你最近在做什么？",
     "translation": "Look at you, you are sweating. What have you been doing?",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"刚一直\""
   },
   {
     "question": ". 你的眼睛是红的。你一直在哭",
     "translation": "Your eyes are red, you've been crying",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"刚一直\""
   },
   {
     "question": ". 我的嗓子沙哑，因为我说得太多了",
     "translation": "My throat is husky because I've been talking too much",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-\"刚一直\""
   },
   {
     "question": ". 这5年来我经常来北京",
     "translation": "I have been coming to Beijing for 5 years",
     "knowledge_point": "- 断断续续，多次发生\n- 短暂动词放到完成进行时，表示多次发生，靠次数取胜",
-    "label": "时态-现在完成进行时"
+    "label": "时态-现在完成进行时-短暂动词，断断续续，多次发生"
   },
   {
     "question": ". 我已经在北京住了5年了",
@@ -908,13 +908,13 @@
   {
     "question": ". 他本可以试试这种药的",
     "translation": "He might have tried this medicine",
-    "knowledge_point": "- 虚拟语气\n- 本能做但没做：might have done过去应该做，而没做的事",
+    "knowledge_point": "- 虚拟语气\n- 本能做但没做：might have done过去可以做，而没做的事",
     "label": "情态动词-虚拟"
   },
   {
     "question": ". 我险些弄出麻烦来",
     "translation": "I might have got into trouble",
-    "knowledge_point": "- 虚拟语气\n- 本能做但没做：might have done过去应该做，而没做的事\n- get into trouble 陷入麻烦",
+    "knowledge_point": "- 虚拟语气\n- 本能做但没做：might have done过去可以做，而没做的事\n- get into trouble 陷入麻烦",
     "label": "情态动词-虚拟"
   },
   {
@@ -1059,31 +1059,31 @@
     "question": ". 我觉得发生的每件事都是一个教训",
     "translation": "I think everything that happens can be a lesson",
     "knowledge_point": "- 核心思维：潜在的可能性，有某种知识和技能而能办到\n- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）",
-    "label": "情态动词-can"
+    "label": "情态动词-can-本色2-理论上的可能"
   },
   {
     "question": ". 那的冬天可能会很冷",
     "translation": "Winter there can be very cold",
     "knowledge_point": "- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）\n- 与说话现状无关，\"有时可能会\"",
-    "label": "情态动词-can"
+    "label": "情态动词-can-本色2-理论上的可能"
   },
   {
     "question": ". 人有时像野兽一样残忍",
     "translation": "Man can be as cruel[ˈkruːəl] as wild beasts",
     "knowledge_point": "- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）（与说话现状无关，\"有时可能会\"）\n- 与说话现状无关，\"有时可能会\"",
-    "label": "情态动词-can"
+    "label": "情态动词-can-本色2-理论上的可能"
   },
   {
     "question": ". 我会说意大利语",
     "translation": "I can speak Italian",
     "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
-    "label": "情态动词-can"
+    "label": "情态动词-can-本色1-能力"
   },
   {
     "question": ". 你能完成吗",
     "translation": "Can you get it done?",
     "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
-    "label": "情态动词-can"
+    "label": "情态动词-can-本色1-能力"
   },
   {
     "question": ". 我年轻的时候能喝14瓶啤酒",
@@ -1236,18 +1236,6 @@
     "label": "倒装形式4-表示感叹"
   },
   {
-    "question": ". 特指：可以识别的独特事物",
-    "translation": "Specific: identifiable unique things",
-    "knowledge_point": "- 修饰名词\n- 特指：可以识别的独特事物",
-    "label": "冠词用处-修饰名词"
-  },
-  {
-    "question": ". 泛指：无法统一确认的事情",
-    "translation": "General: things that cannot be uniformly confirmed",
-    "knowledge_point": "- 修饰名词\n- 泛指：无法统一确认的事情",
-    "label": "冠词用处-修饰名词"
-  },
-  {
     "question": ". 当物体变成一个和他曾经不一样的物体，这种变化就是化学变化",
     "translation": "When matter changes to a substance different from what it was, the change is a chemical change",
     "knowledge_point": "- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词\n- matter [ U ] a substance or things of a particular sort （某种）东西，物品，材料\n- substance [ C ] a type of solid, liquid or gas that has particular qualities 物质；物品；东西",
@@ -1317,13 +1305,13 @@
     "question": ". 一拳超人",
     "translation": "One punch man",
     "knowledge_point": "- one更强调数量更强调\"一\"的概念\n- 强调数量",
-    "label": "a/an-强调数量"
+    "label": "one-强调数量"
   },
   {
     "question": ". 我可以一下子把他打倒",
     "translation": "I can beat him down at one blow",
     "knowledge_point": "- one更强调数量更强调\"一\"的概念\n- 强调数量",
-    "label": "a/an-强调数量"
+    "label": "one-强调数量"
   },
   {
     "question": ". 去上学/去学校（可以捡瓶子）",
@@ -1521,12 +1509,12 @@
     "question": ". 那不可能是玛丽—她在纽约呢。",
     "translation": "That can't be Mary—she's in New York.",
     "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测",
-    "label": "情态动词-can"
+    "label": "情态动词-can-只有can't 表示推测"
   },
   {
     "question": ". 他不可能在那种闹哄哄的环境里睡好觉。",
     "translation": "He can't have slept through all that noise.",
     "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测\n- sleep through 在。。中睡过去（睡好觉）",
-    "label": "情态动词-can"
+    "label": "情态动词-can-只有can't 表示推测"
   }
 ]

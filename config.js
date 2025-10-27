@@ -42,7 +42,7 @@ const CONFIG = {
         homework1_order: { 
             name: '作业练习1-词汇语法篇-顺序模式', 
             url: 'assets/data/homework1_order.json',
-            outline: 'assets/data/grammarpoint_upperpart_reverse.json'
+            outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
         }
     },
     

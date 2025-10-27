@@ -310,8 +310,8 @@
             - Look at those dark clouds. It is going to start raing at any minues
          2. 本色：过去的能力
             - I could drink 14 bottles of beer when I was young.
-         3. could 和was able to 的区别是，was able to 表示确实做了
-            - I was able to get a job last week(确实找到工作了)
+            - could 和was able to 的区别是，was able to 表示确实做了
+              - I was able to get a job last week(确实找到工作了)
 
 3. 倒装
 
@@ -392,4 +392,3 @@
          - 经验/一种经历. experience/ an experience
          - 我们中间的三个人 three of us  我们三个人（ 我们总共就三个人）the three of us
          - 毫无疑问  out of question/不可能的（常作表语）out of the question
-         

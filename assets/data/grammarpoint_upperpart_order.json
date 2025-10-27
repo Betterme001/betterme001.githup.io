@@ -449,7 +449,7 @@
   {
     "question": "问题是值不值得一试。(表语从句，不能用if代替whether)",
     "translation": "The question is whether it's worth trying.",
-    "knowledge_point": "- 名词性从句三种形式之一一般疑问句句， whther 和if\n- 表语从句，不能用if代替whether\n- worth 后面接动名词，worthy 后面接todo",
+    "knowledge_point": "- 名词性从句三种形式之一般疑问句句， whther 和if\n- 表语从句，不能用if代替whether\n- worth 后面接动名词，worthy 后面接todo",
     "label": "名词性从句-三种形式"
   },
   {
@@ -479,13 +479,13 @@
     "question": "据说你要在线学英语",
     "translation": "It is said that you will learn English online",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 过去分词"
+    "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "还没有决定",
     "translation": "It is not decided that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 过去分词"
+    "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "众所周知",
@@ -496,38 +496,38 @@
   {
     "question": "需要被讨论的是",
     "translation": "It is to be discussed that",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 过去分词"
+    "knowledge_point": "- 名词性从句充当的成分—主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "必须指出的是",
     "translation": "It must be pointed out that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 过去分词"
+    "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "人们发现晚睡确实对减肥有影响",
     "translation": "It has been found that staying up late does affect weight loss",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 过去分词"
+    "knowledge_point": "- 名词性从句-作主语——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "已经很清晰了",
     "translation": "It is already clear that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 形容词"
+    "label": "名词性从句-作主语-It is 形容词"
   },
   {
     "question": "不可能的",
     "translation": "It is unlikely that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 形容词"
+    "label": "名词性从句-作主语-It is 形容词"
   },
   {
     "question": "幸运的是油轮没有泄漏",
     "translation": "It is fortunate that the tanker did not leak",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 形容词"
+    "label": "名词性从句-作主语It is 形容词"
   },
   {
     "question": "奇怪的是",
@@ -538,7 +538,7 @@
     "question": "有必要的是",
     "translation": "It is necessary that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It is 形容词"
+    "label": "名词性从句-作主语-It is 形容词"
   },
   {
     "question": "这种病不可能从动物传给人类",
@@ -549,157 +549,157 @@
     "question": "好消息是",
     "translation": "It is good news that",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "怪不得你累了，你已经工作数个小时了",
     "translation": "It is no wonder that you're tired, you've been walking for hours",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "是一种荣耀",
     "translation": "It is an honor that",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "令人惋惜的事，让人遗憾的是",
     "translation": "It is a shame that（==What a shame ）",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "真可惜她不能在这儿亲眼看看。",
     "translation": "It's a shame that she wasn't here to see it.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句\n- to see it 作状语从句（意义上表示结果）",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "他们不能来了，真是遗憾",
     "translation": "It's a shame that they couldn't come. （==What a shame they couldn't come）",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "是个常识",
     "translation": "It is common knowledge that",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "闪电先被看见 然乎在被听见，是个常识",
     "translation": "It is common knowledge that a flash of lightning is seen before a clap of thunder [ˈθʌndər] is heard",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 这里是It is noun that 引导的名词性从句",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "名词性从句-作主语-It is 名词"
   },
   {
     "question": "一丝希望",
     "translation": "a flash of hope",
     "knowledge_point": "flash 的用法",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "flash"
   },
   {
     "question": "灵光乍现",
     "translation": "a flash of inspiration",
     "knowledge_point": "flash 的用法",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "flash"
   },
   {
     "question": "在那一瞬间，我突然弄懂了",
     "translation": "In a flash, I knew",
     "knowledge_point": "flash 的用法",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "flash"
   },
   {
     "question": "远处电光闪闪",
     "translation": "Lightning flashed in the distance",
     "knowledge_point": "flash 的用法",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "flash"
   },
   {
     "question": "那个司机向我们闪着车灯",
     "translation": "That driver flashed his lights at us",
     "knowledge_point": "flash 的用法",
-    "label": "名词性从句作主语-It is 名词"
+    "label": "flash"
   },
   {
     "question": "结果是",
     "translation": "It turns out that",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ **不及物动词**+that， 固定搭配",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "结果我是正确的",
     "translation": "It turns out that  I am right.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ **不及物动词**+that， 固定搭配",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "想起来",
     "translation": "It occurs to sb that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "开始清楚，变得明朗，开始明白，意识到",
     "translation": "It dawns[dɑːn] on sb that",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ **不及物动词**+that， 固定搭配",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "当我确定学英语的时候，我从来没想过我可能成为一个英语老师",
     "translation": "When I decided to learn English, it never occurred to me that I might become an English teacher",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "我意识到我妹妹出事了",
     "translation": "It dawned on me that something had happened to my sister",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n- 固定表达：something has happened",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "没有差别 ，无所谓",
     "translation": "It makes no difference that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词"
   },
   {
     "question": "即使他道歉了也无济于事，信任已经破裂了。",
     "translation": "**It makes no difference that** he apologized; the trust is already broken.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作主语-It 固定搭配"
   },
   {
     "question": "下雨也无所谓，户外活动将按计划进行。",
     "translation": "**It makes no difference that** it's raining; the outdoor event will go on as planned.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作主语-It 固定搭配"
   },
   {
     "question": "无需担心，大可不必",
     "translation": "It doesn't need to be bothered that",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作主语-It 固定搭配"
   },
   {
     "question": "不必为少数人反对而烦心，大多数人是支持这个计划的。",
     "translation": "**It doesn't need to be bothered that** a few people disagree; the majority supports the plan.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**\n- majority 后面使用单数和复数动词，都可以",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作主语-It 固定搭配"
   },
   {
     "question": "不必为他还没回信而担心，他可能只是忙。。",
     "translation": "**It doesn't need to be bothered that** he hasn't replied yet; he's probably just busy.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作主语-It 固定搭配"
   },
   {
     "question": "我认为人体是导体 这个事是真的",
     "translation": "I believe it true that the human body is a conductor",
     "knowledge_point": "- 名词性从句作宾语从句\n- it 形式宾语，名词性从句后置",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作宾语-It 固定搭配"
   },
   {
     "question": "你知道你做了什么妈",
@@ -715,103 +715,103 @@
     "question": "听到他们队赢了的消息，他们很高兴",
     "translation": "They were delighted at the news that their team had won",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作同位语-It 固定搭配"
   },
   {
     "question": "这是让他们高兴的消息",
     "translation": "This is the news that makes them happy",
     "knowledge_point": "- 名词性从句充当定语从句\n- that 在定语从句中充当成分，在同位语里不充当成分",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作同位语-It 固定搭配"
   },
   {
     "question": "请告诉我你缺席的原因",
     "translation": "Please tell me the reason why you were absent（=Please tell me the reason that your were absent ）",
     "knowledge_point": "名词性从句充当定语从句， 名词充当状语",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作同位语-It 固定搭配"
   },
   {
     "question": "我们不去，只是因为我们负担不起（负担不起就是原因本身）",
     "translation": "We aren't going for the simple reason that we can't affor it.",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作同位语-It 固定搭配"
   },
   {
     "question": "做什么没有用的",
     "translation": "It is no good/use doing",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "浪费生命",
     "translation": "It is a waste of life doing",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "。。。不可能的",
     "translation": "There is no doing sth （=It is impossible to do)",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "谁也无法预测明天",
     "translation": "There is no telling what will happen tomorrow",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "不能预测未来",
     "translation": "There is no predicting the future",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "不可否认的是",
     "translation": "There is no denying the fact that",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "做什么是有好处的",
     "translation": "It helps doing",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "能谈谈这件事很有好处",
     "translation": "It helped being able to talk about it",
     "knowledge_point": "动名词作主语, 特定句型It helps doing",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "已经很难了",
     "translation": "It is already hard enough doing /to do 都可以",
     "knowledge_point": "动名词作主语, 特定句型It is hard doing/to do",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "忙碌于工作和养一个孩子之间已经很难了，更不用说两个孩子了",
     "translation": "It is hard enough juggling  work and raising one kid, let alone two kids",
     "knowledge_point": "动名词作主语, 特定句型",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "照顾自己的感情已经很难了，还要照料另一个人的心，真是难上加难，不是吗？",
     "translation": "It is hard enough taking responsibility of your own feelings, let alone looking after someone else's heart, right?",
     "knowledge_point": "- 动名词作主语\n- It is hard enough doing/to do都可以",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "我的天，在唐人街不迷路就已经够难的了",
     "translation": "My God, it's hard enough finding your way around in Chinatown",
     "knowledge_point": "- 动名词作主语\n- It is hard enough doing/to do都可以",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "用再多的盛赞之辞也难以描述这本书",
     "translation": "It is hard to find enough superlatives to describe this book",
     "knowledge_point": "- It is hard enough doing/to do都可以\n- 动名词作主语 这里to find和finding 都可以，to describe 做目的状语",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "在寒冷的早晨，让自己在天还没亮的时候起床已经够难了，更不用说穿上运动服去健身房了",
@@ -822,7 +822,7 @@
     "question": "我不能冒险暴露自己",
     "translation": "I **couldn't risk giving** myself away",
     "knowledge_point": "动名词作宾语",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "有哪些词，后面接动名词：尽可能的说",
@@ -833,133 +833,133 @@
     "question": "我们考虑去湖边",
     "translation": "We **considered going** to the lake",
     "knowledge_point": "动名词作宾语，考虑与讨论 (Consideration & Discussion)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们讨论自己带食物",
     "translation": "We **discussed bringing** our own food.",
     "knowledge_point": "动名词作宾语，考虑与讨论 (Consideration & Discussion)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我可不想被雨淋。",
     "translation": "I **don't fancy getting** rained on.",
     "knowledge_point": "- 动名词作宾语，**担忧与风险 (Concerns & Risks)**\n- fancy[ˈfænsi]: to want sth or want to do sth 想要；想做 fancy doing\n- `rain on someone/something`是一个短语，意思是“雨落在...上”。",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "汤姆无法忍受在硬地上睡觉。",
     "translation": "Tom can't **stand sleeping** on the hard ground.",
     "knowledge_point": "动名词作宾语，**担忧与风险 (Concerns & Risks)**",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "如果我们准备不足，可能会玩得很糟。",
     "translation": "We **risk having** a terrible time if we're unprepared.",
     "knowledge_point": "动名词作宾语，**担忧与风险 (Concerns & Risks)**",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我建议先查看天气预报。",
     "translation": "I **advised checking** the weather forecast first. (advise doing）",
     "knowledge_point": "- 动名词作宾语，寻求建议与许可 (Advice & Permission)\n- advise doing/ sb to do sth\n- suggest 后面一般接that 从句",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我建议他打包些保暖衣物",
     "translation": "I advised him to pack some warm clothes..  (`advise sb to do`)",
     "knowledge_point": "动名词作宾语，寻求建议与许可 (Advice & Permission)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "他必须请求父母允许他去。",
     "translation": "He had to **ask his parents to permit him to go**. (`permit sb to do`)",
     "knowledge_point": "动名词作宾语，寻求建议与许可 (Advice & Permission)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "幸运的是，他们没有禁止他去",
     "translation": "Luckily, they didn't **forbid him from going**. (`forbid sb from doing`)",
     "knowledge_point": "- 动名词作宾语，寻求建议与许可 (Advice & Permission)\n- forbid sb from doing/doing sth/ to do sth/ allow to do sth/",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "汤姆提到他有个旧帐篷我们可以用。)",
     "translation": "Tom **mentioned having** an old tent we could use",
     "knowledge_point": "动名词作宾语，问题与解决 (Problems & Solutions) ，其实having 前面也可以加一个his, 动名词的复合结构",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "他承认忘记把它放哪了",
     "translation": "He **admitted forgetting** where he put it.",
     "knowledge_point": "动名词作宾语，问题与解决 (Problems & Solutions)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "找到后，他否认弄断了其中一根支杆。",
     "translation": "After finding it, he **denied breaking** one of the poles.",
     "knowledge_point": "动名词作宾语，问题与解决 (Problems & Solutions)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们在花园里练习搭帐篷",
     "translation": "We **practiced putting** it up in the garden. (",
     "knowledge_point": "- 动名词作宾语，问题与解决 (Problems & Solutions)\n- put up 放置，举起（手）",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我无法想象不试一次就出发！",
     "translation": "I can't **imagine going** without a test run!",
     "knowledge_point": "- 动名词作宾语，问题与解决 (Problems & Solutions)\n- a test run, test 和run. 都是名词， test 是名词充当形容词角色，叫做 **“名词修饰名词”**（Noun Adjunct）。",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们会很享受置身于大自然中。",
     "translation": "We'll **appreciate being** in nature",
     "knowledge_point": "- 动名词作宾语，享受与感受 (Enjoyment & Feelings)\n- appreciate:  to be grateful for sth that sb has done; to welcome sth 感激；感谢；欢迎;  这个句子里引申为“喜欢”，“享受”",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我会想念看最喜欢的电视节目，但这是值得的！",
     "translation": "I'll **miss watching** my favorite TV show, but it's worth it!",
     "knowledge_point": "动名词作宾语，享受与感受 (Enjoyment & Feelings)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "公园规定禁止在晚上10点后制造噪音。",
     "translation": "Park rules **forbid making** loud noise after 10 p.m.",
     "knowledge_point": "动名词作宾语，规则与忍耐 (Rules & Endurance)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们必须避免打扰野生动物。",
     "translation": "We must **avoid disturbing** wildlife.",
     "knowledge_point": "动名词作宾语，规则与忍耐 (Rules & Endurance)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们将不得不忍受对付一些昆虫。",
     "translation": "We'll have to **endure dealing** with some insects.",
     "knowledge_point": "- 动名词作宾语，规则与忍耐 (Rules & Endurance)\n- endure doing",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们放弃了寻找一个完美地点，随便选了一个！",
     "translation": "We **gave up trying** to find a perfect spot and just picked one!",
     "knowledge_point": "动名词作宾语， 最终决定 (Final Decision)",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我不介意帮忙搬运设备。",
     "translation": "I **don't mind helping** to carry the equipment.",
     "knowledge_point": "动名词作动词宾语，mind doing",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "现在，我忍不住要说：我对这个周末太期待了！",
     "translation": "Now, I can't **resist saying**: I'm so excited for the weekend!",
     "knowledge_point": "- 动名词作动词宾语\n- 忍不住做某事，同义词：can't help doing / can't help but do/ can't hold back from doing",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "生命太短，不能培养仇恨，和记录错误:",
@@ -970,7 +970,7 @@
     "question": "真正的发现之旅不在于寻找新的风景，而在于拥有新的眼光",
     "translation": "The real voyage[ˈvɔɪɪdʒ] of discovery consists not in seeking new landscapes, but in having new eyes",
     "knowledge_point": "- 动名词作介词in的宾语\n- consists in 在于；存在于; consists not in 不在于",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我通过做一个好邻居，来弥补 作为一个坏父母",
@@ -986,145 +986,139 @@
     "question": "眼见为实",
     "translation": "Seeing is believing",
     "knowledge_point": "动名词作表语",
-    "label": "动名词作表语"
+    "label": "动名词-作表语"
   },
   {
     "question": "拍照就是深刻地体味人生，体味每个0.01秒的瞬间",
     "translation": "Taking picture is savoring life intensely, every hundredth of a second.",
     "knowledge_point": "- 动名词作表语\n- intensely [ɪnˈtensli] adv. 强烈地，专注地；非常\n- savor vt. 尽情享受；使有风味；加调味品于；品尝，欣赏, n. 滋味；气味；食欲",
-    "label": "动名词作表语"
+    "label": "动名词-作表语"
   },
   {
     "question": "你的任务就是擦窗户",
     "translation": "Your task is cleaning the windows",
     "knowledge_point": "动名词作表语",
-    "label": "动名词作表语"
+    "label": "动名词-作表语"
   },
   {
     "question": "过分了",
     "translation": "That's asking too much",
     "knowledge_point": "动名词作表语",
-    "label": "动名词作表语"
+    "label": "动名词-作表语"
   },
   {
     "question": "那是自找烦恼",
     "translation": "That's asking for trouble",
     "knowledge_point": "动名词作表语",
-    "label": "动名词作表语"
+    "label": "动名词-作表语"
   },
   {
     "question": "动名词做定语：表示被修饰名词______________, ____________.",
     "translation": "表示被修饰名词用途，功能",
     "knowledge_point": "动名词作定语的作用",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "阅览室",
     "translation": "reading room",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "睡袋:",
     "translation": "sleeping bag",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "游泳池:",
     "translation": "swimming pool",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "跑道:",
     "translation": "running track",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "晾衣绳:",
     "translation": "washing line",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "餐车:",
     "translation": "dinning car",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能语",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "钓鱼竿:",
     "translation": "fishing rod[rɑːd]",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "候车室:",
     "translation": "waiting room",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "梳妆台:",
     "translation": "dressing table",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "饮用水:",
     "translation": "drinking water",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "煎锅",
     "translation": "frying pan",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "工作时间",
     "translation": "working hours",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "冷却系统:",
     "translation": "cooling system",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "食用油:",
     "translation": "cooking oil",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "洗衣机:",
     "translation": "washing machine",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "驾照:",
     "translation": "driving license = driver's license",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
+    "label": "动名词-作定语"
   },
   {
     "question": "安眠药:",
     "translation": "sleeping pill",
     "knowledge_point": "动名词作定语表示被修饰名词用途，功能",
-    "label": "动名词作定语"
-  },
-  {
-    "question": "我看他在跑",
-    "translation": "I saw him running",
-    "knowledge_point": "动名词作补语",
-    "label": "动名词作补语"
+    "label": "动名词-作定语"
   },
   {
     "question": "做某事有困难",
@@ -1190,91 +1184,91 @@
     "question": "没有什么比被冤枉更糟糕了",
     "translation": "Nothing is worse than being wronged",
     "knowledge_point": "动名词",
-    "label": "动名词的被动式-being done"
+    "label": "动名词-被动式-being done"
   },
   {
     "question": "他不喜欢受人奉承",
     "translation": "He doesn't like being flattered",
     "knowledge_point": "动名词",
-    "label": "动名词的被动式-being done"
+    "label": "动名词-被动式-being done"
   },
   {
     "question": "尊重他人就是尊重自己",
     "translation": "Respecting others is respecting yourself(=Respecting others means being respected)",
     "knowledge_point": "动名词",
-    "label": "动名词的被动式-being done"
+    "label": "动名词-被动式-being done"
   },
   {
     "question": "这花得浇浇了",
     "translation": "This flower needs watering",
     "knowledge_point": "动名词主表被动：want/need/deserve/worth",
-    "label": "动名词的被动式-主动表被动"
+    "label": "动名词-被动式-主动表被动"
   },
   {
     "question": "这个需要解释一下",
     "translation": "This needs explaining",
     "knowledge_point": "动名词主表被动：want/need/deserve/worth",
-    "label": "动名词的被动式-主动表被动"
+    "label": "动名词-被动式-主动表被动"
   },
   {
     "question": "你的头发该剪剪了",
     "translation": "Your hair needs/wants cutting",
     "knowledge_point": "动名词主表被动：want/need/deserve/worth",
-    "label": "动名词的被动式-主动表被动"
+    "label": "动名词-被动式-主动表被动"
   },
   {
     "question": "这个房间需要的是清理",
     "translation": "This room needs cleaning",
     "knowledge_point": "动名词主表被动：want/need/deserve/worth",
-    "label": "动名词的被动式-主动表被动"
+    "label": "动名词-被动式-主动表被动"
   },
   {
     "question": "他应该第一个被枪毙",
     "translation": "He deserves shooting first.",
     "knowledge_point": "动名词",
-    "label": "动名词的被动式-主动表被动"
+    "label": "动名词-被动式-主动表被动"
   },
   {
     "question": "动名词的被动式，和非谓语动词的被动进行时 的比较",
     "translation": "形式一样，都是**being done**,  但是区别动名词的被动式只能作名词来使用，非谓语动词的被动进行时being done 可以用来作定语和状语，例子：She looked at the boy being bullied by the other kids.",
     "knowledge_point": "动名词的被动式，和非谓语动词的被动进行时形式一样，充当的成分不一样",
-    "label": "动名词的被动式-主动表被动"
+    "label": "动名词-被动式-主动表被动"
   },
   {
     "question": "动名词完成式的形式和思维",
     "translation": "having done / having been done",
     "knowledge_point": "动名词的动作在谓语动作之前发生",
-    "label": "动名词-动名词完成式"
+    "label": "动名词-完成式"
   },
   {
     "question": "他很自豪，赢得了第一个的奖励",
     "translation": "He is proud of having won the first prize",
     "knowledge_point": "动名词完成式: 发生在谓语动作之前",
-    "label": "动名词-动名词完成式"
+    "label": "动名词-完成式"
   },
   {
     "question": "他否认去过那里",
     "translation": "He denied having been there",
     "knowledge_point": "动名词完成式: 发生在谓语动作之前",
-    "label": "动名词-动名词完成式"
+    "label": "动名词-完成式"
   },
   {
     "question": "我很后悔当初没有好好学英语",
     "translation": "I regretted not having studied English well",
     "knowledge_point": "动名词完成式: 发生在谓语动作之前",
-    "label": "动名词-动名词完成式"
+    "label": "动名词-完成式"
   },
   {
     "question": "我一直很后悔说了那样的话",
     "translation": "I have always regretted having said that",
     "knowledge_point": "动名词完成式: 发生在谓语动作之前",
-    "label": "动名词-动名词完成式"
+    "label": "动名词-完成式"
   },
   {
     "question": "和她说话就是和墙说话",
     "translation": "To talk to her is to talk to a wall",
     "knowledge_point": "不定式可以做主宾表定状补-宾语",
-    "label": "不定式作主语"
+    "label": "不定式-作主语"
   },
   {
     "question": "我想买一个hua wei mate40",
@@ -1286,7 +1280,7 @@
     "question": "我忍不住回头看:",
     "translation": "I can't bear to look back",
     "knowledge_point": "- 不定式可以做主宾表定状补-宾语\n- can't bear to do =can't help doing/can‘t help but do/can't hold back from doing",
-    "label": "不定式作宾语"
+    "label": "不定式-作宾语"
   },
   {
     "question": "重点是确定你想要的:",
@@ -1298,49 +1292,49 @@
     "question": "他让我接电话:",
     "translation": "He asked me to answer the phone",
     "knowledge_point": "补语，不定式可以做主宾表定状补",
-    "label": "不定式-不定式作补语"
+    "label": "不定式-作补语"
   },
   {
     "question": "他是最适合做这个工作的人选:",
     "translation": "He is the best man to do this job.",
     "knowledge_point": "不定式作定语（主谓关系）",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "道歉太迟了",
     "translation": "It's too late to apologize  [əˈpɑːlədʒaɪz]",
     "knowledge_point": "表是结果， 结果状语。不是主语后置， 道歉太迟了（不是“道歉是太迟了”）",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "破镜难圆:",
     "translation": "It is hard to restore a broken mirror[ˈmɪrər]",
     "knowledge_point": "不定式作主语形式1:It is adj/noun to do..",
-    "label": "不定式作主语"
+    "label": "不定式-作主语"
   },
   {
     "question": "你不可能让所有人都满意的:",
     "translation": "It is impossible to please everyone.",
     "knowledge_point": "不定式作主语形式1:It is adj/noun to do..",
-    "label": "不定式作主语"
+    "label": "不定式-作主语"
   },
   {
     "question": "照顾你是我的责任:",
     "translation": "It is my duty to take care of you",
     "knowledge_point": "不定式作主语形式1:It is adj/noun to do..",
-    "label": "不定式作主语-It is noun.+todo"
+    "label": "不定式-作主语-It is noun.+todo"
   },
   {
     "question": "对我来说和你一起工作太难了:",
     "translation": "It's difficult for me to work with you.",
     "knowledge_point": "- 不定式的逻辑主语\n- 1. It is adj + for + 名词/代词 + todo，for 前的形容词多用来形容事情",
-    "label": "不定式作主语"
+    "label": "不定式-作主语"
   },
   {
     "question": "他很大方，借了我10万块钱",
     "translation": "It is so generous of him to lend me ten thousand yuan.",
     "knowledge_point": "不定式",
-    "label": "不定式作主语"
+    "label": "不定式-作主语"
   },
   {
     "question": "你想的真周到，还送花来:",
@@ -1352,43 +1346,43 @@
     "question": "你亲自去是有必要的",
     "translation": "It's necessary for you to go there in person",
     "knowledge_point": "- 不定式的逻辑主语\n- 2. It is adj + of + 人 + to do，of 前的形容词多用来说明人的性格或行为表现",
-    "label": "不定式作主语"
+    "label": "不定式-作主语"
   },
   {
     "question": "一个巴掌拍不响:",
     "translation": "Its takes two  to tango.",
     "knowledge_point": "不定式作主语形式2：It 动词 to do sth",
-    "label": "不定式作主语-It 动词.+todo"
+    "label": "不定式-作主语-It 动词.+todo"
   },
   {
     "question": "我想见你",
     "translation": "I want to see you",
     "knowledge_point": "不定式作宾语：形式1.  动词+to do",
-    "label": "不定式作宾语"
+    "label": "不定式-作宾语"
   },
   {
     "question": "他保证不告诉任何人这件事",
     "translation": "He promised not to tell anyone about this",
     "knowledge_point": "不定式作宾语：形式1. 动词+to do",
-    "label": "不定式作宾语"
+    "label": "不定式-作宾语"
   },
   {
     "question": "告诉我们如何做:",
     "translation": "Tell us how to do it",
     "knowledge_point": "不定式作宾语：形式2. 动词+疑问句（when/how/which等）+to do",
-    "label": "不定式作宾语"
+    "label": "不定式-作宾语"
   },
   {
     "question": "我认为回答这个问题很难",
     "translation": "I think it difficult to answer this question",
     "knowledge_point": "不定式作宾语：形式3. 动词+it(形式宾语）+adj（宾补）+to do（宾语）",
-    "label": "不定式作宾语"
+    "label": "不定式-作宾语"
   },
   {
     "question": "他感觉到作为一个市场经理很挑战:",
     "translation": "He feels it challenging to be a marketing manager ？",
     "knowledge_point": "不定式作宾语：形式3. 动词+it(形式宾语）+adj（宾补）+to do（宾语）",
-    "label": "不定式作宾语"
+    "label": "不定式-作宾语"
   },
   {
     "question": "该怪谁呢？",
@@ -1400,55 +1394,55 @@
     "question": "此屋出租",
     "translation": "The house is to let",
     "knowledge_point": "不定式to blame, to let用作表语时，通常要用主动表被动",
-    "label": "不定式"
+    "label": "不定式作表语; 不定式"
   },
   {
     "question": "他是做这个事的好人选",
     "translation": "He is a good person to do this",
     "knowledge_point": "- 不定式作定语\n- 1. 主谓关系: man/person/someone/future",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "帮助你的人是史密斯先生:",
     "translation": "The man to help you is Mr. Smith",
     "knowledge_point": "不定式\n- 不定式作定语\n- 1. 主谓关系: man/person/someone/future",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "来这里的第一个人将会获得礼物:",
     "translation": "The first person to come here will get a gift.",
     "knowledge_point": "不定式",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "我们需要有人来帮忙干这工作",
     "translation": "We need someone to help with this work",
     "knowledge_point": "- 不定式作定语\n- 1. 主谓关系: man/person/someone/future",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "她总是第一个达到公司的人",
     "translation": "She is always the first person to arrive at the company",
     "knowledge_point": "- 不定式作定语\n- 1. 主谓关系: man/person/someone/future",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "我们的未来会十分美好的",
     "translation": "The future to greet us will be bright",
     "knowledge_point": "- 不定式作定语\n- 1. 主谓关系: man/person/someone/future",
-    "label": "不定式作定语-主谓关系"
+    "label": "不定式-作定语-主谓关系"
   },
   {
     "question": "得带几件换洗的衣服:",
     "translation": "I have to take some clothes to change。",
     "knowledge_point": "不定式作定语，2. 动宾关系",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "我有一封信要写的信:",
     "translation": "I have a letter to wirte",
     "knowledge_point": "不定式作定语，2. 动宾关系",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "我要一只能写字的笔",
@@ -1460,91 +1454,91 @@
     "question": "她有四个需要照顾的孩子:",
     "translation": "She has four kids to take care of",
     "knowledge_point": "不定式作定语，2. 动宾关系",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "他有很多信件要回复:",
     "translation": "he has many letters to answer",
     "knowledge_point": "- 不定式作定语，2. 动宾关系\n- answer letters 回复邮件",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "要见的那个人是约翰:",
     "translation": "The man to see is John",
     "knowledge_point": "不定式作定语，2. 动宾关系",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "他是一个可以依赖的人吗:",
     "translation": "Is he a man to depend on",
     "knowledge_point": "- 不定式作定语，2. 动宾关系\n- 不定式为不及物动词时，其后须加上适当的介词，构成及物动词短语",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "她是最合适的结婚对象:",
     "translation": "She is the best girl to marry",
     "knowledge_point": "不定式",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "他是个很好共事的人:",
     "translation": "He is **a pleasant man** to work with",
     "knowledge_point": "- 不定式为不及物动词时，其后须加上适当的介词，构成及物动词短语\n- pleasant 令人高兴的， 礼貌友善的/pleased 高兴的，类似于 ing/ed 形容词的区别",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "我正在找一间屋子住:",
     "translation": "I am looking for a room to live in.",
     "knowledge_point": "不定式为不及物动词时，其后须加上适当的介词，构成及物动词短语",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "没有什么可担心的:",
     "translation": "There is nothing to worry about.",
     "knowledge_point": "不定式为不及物动词时，其后须加上适当的介词，构成及物动词短语",
-    "label": "不定式作定语-动宾关系"
+    "label": "不定式-作定语-动宾关系"
   },
   {
     "question": "这是节省时间的方式吗:",
     "translation": "Is this a way to save time?",
     "knowledge_point": "- 不定式作定语\n- 3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "应该这样做:",
     "translation": "The way to do it is like this",
     "knowledge_point": "- 不定式作定语，\n- 3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "旅行最快的方式是乘坐飞机。",
     "translation": "The quickest way to travel is by plane[pleɪn]",
     "knowledge_point": "- 不定式作定语，\n- 3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "学习英语的最好方法是去说英语国家生活。",
     "translation": "The best way to learn English is to live in an English-speaking country.",
     "knowledge_point": "不定式作定语，3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "你该起床去上学了。",
     "translation": "It's time for you to get up and go to school.",
     "knowledge_point": "不定式作定语，3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "我没有时间去那儿。",
     "translation": "I have no time to go there.",
     "knowledge_point": "不定式作定语，3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "没有理由怀疑他的话",
     "translation": "There is no reason to doubt his words",
     "knowledge_point": "不定式作定语，3. 动状关系 way/time/reason",
-    "label": "不定式作定语-动状关系"
+    "label": "不定式-作定语-动状关系"
   },
   {
     "question": "谢谢你给我出国的机会。",
@@ -1560,49 +1554,49 @@
     "question": "我有一个成为医生的梦想",
     "translation": "I have a dream to become a doctor",
     "knowledge_point": "不定式作定语，4. 同位关系，不定式与所修饰的名词指的是一回事",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "我也认为这是一个提高我们协作技能的好机会",
     "translation": "I also think it will be a great opportunity to boost our teamwork skills.",
     "knowledge_point": "- 不定式作定语，4. 同位关系，不定式与所修饰的名词指的是一回事\n- will be 对将来的推测，非常自信的推测",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "他能和人相处是他的主要优势",
     "translation": "His ability to get along with people is his main advantage",
     "knowledge_point": "- 不定式作定语，4. 同位关系：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。\n- able to do sth",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "我们制定了一个向雷锋学习的计划",
     "translation": "We made a plan to learn from Lei Feng",
     "knowledge_point": "不定式作定语，4. 同位关系，不定式与所修饰的名词指的是一回事",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "我不相信他来访的诺言",
     "translation": "I don't trust his promise to come for a visit",
     "knowledge_point": "- 4. 同位关系：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。\n- promise to do sth",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "她迫切想成功，这促使她努力工作。",
     "translation": "Her anxiety [æŋˈzaɪəti] to succeed led her to work hard.",
     "knowledge_point": "- 4. 同位关系：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。\n- be anxious [ˈæŋkʃəs] to do sth)",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "是谁决定继续这项工程的",
     "translation": "Who took the decision to go ahead with the project",
     "knowledge_point": "- 4. 同位关系：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。\n- deciside to do sth",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "没有必要给我买一双新鞋:",
     "translation": "There is no need to have bought a new pair of shoes for me.",
     "knowledge_point": "- 4. 同位关系：need to do sth\n- to have bought意为\"已买\"",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "我有些东西要打(字)。(指自己打字)",
@@ -1644,205 +1638,205 @@
     "question": "我正在省钱买电脑",
     "translation": "I am saving up to buy a computer",
     "knowledge_point": "- 1.不定式作目的状语\n- save up = save money",
-    "label": "不定式作状语-目的状语"
+    "label": "不定式-作状语-目的状语"
   },
   {
     "question": "为了吸引注意，他又嚷嚷又挥手:",
     "translation": "He shouted and waved in order to be noticed.",
     "knowledge_point": "1.不定式作目的状语",
-    "label": "不定式作状语-目的状语"
+    "label": "不定式-作状语-目的状语"
   },
   {
     "question": "他准备得如此充分，以至于轻松通过了考试。",
     "translation": "**He prepared **so thoroughly [ˈθɜːrəli]**as to pass** the exam with ease.",
     "knowledge_point": "- 2.不定式作结果状语\n- (1) so... as to do",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "我们还没蠢到竟会相信他。",
     "translation": "We are not such fools as to believe him.",
     "knowledge_point": "- 2.不定式作结果状语\n- (2) such... as to do",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "他跑得不够快,没赶上火车。",
     "translation": "He didn't run fast enough to catch the train.",
     "knowledge_point": "- 2.不定式作结果状语\n- (3) enough to do",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "他搬起石头砸自己的脚。",
     "translation": "He lifted a rock[rɑːk] only to drop it on his own feet.",
     "knowledge_point": "- 2.不定式作结果状语\n- (4) only to do 表出乎意料的结果",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "他赶到车站，发现火车已经开走了",
     "translation": "He got to the station only to find the train had gone.",
     "knowledge_point": "- 2.不定式作结果状语\n- (4) only to do 表出乎意料的结果",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "这个男的死了，只留下了他的儿子一个人留在这个世界",
     "translation": "The man died, (only) leaving his son alone in the world.",
     "knowledge_point": "- (only) to do…表出乎意料的结果；而doing 表必然结果。",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "她的视力太差了，不能看这么小的字。",
     "translation": "His eyesight is too poor to read such small letters.",
     "knowledge_point": "- 2.不定式作结果状语\n- (5) too... to do",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "他爸爸活到了108岁",
     "translation": "His father lived to be 108 years old.",
     "knowledge_point": "- 2.不定式作结果状语",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "我说了什么 使你这么生气",
     "translation": "What have I said to make you so angry?",
     "knowledge_point": "- 2.不定式作结果状语",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "他留下他的妻子，再也没有回来",
     "translation": "He left his wife never to return.",
     "knowledge_point": "- 2.不定式作结果状语",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "他从自行车上摔下来摔断了腿。",
     "translation": "He fell off his bike to break his leg.",
     "knowledge_point": "- 2.不定式作结果状语",
-    "label": "不定式作状语-结果状语"
+    "label": "不定式-作状语-结果状语"
   },
   {
     "question": "**听你这口气**，希望我们是在一个队伍。不管怎样，很期待**和每一位社交**",
     "translation": "Well, **to hear you talk like that** ,let's just say I hope we are **on** the same team. Either way ,I'm really looking forward to  **socializing with everyone**",
     "knowledge_point": "3.不定式作原因状语",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "我当时不听你的话，真是傻瓜。",
     "translation": "I was a fool not to listen to you at that time.",
     "knowledge_point": "不定式作原因状语从句",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "很高兴遇见你（想想对于中文来讲，这句话的成分）",
     "translation": "I am pleased to meet you",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "很荣幸能去那个舞会",
     "translation": "I feel honored to go to the party.",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "看到那个，她很失望",
     "translation": "She was disappointed to see that",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "很抱歉给你带来这么多麻烦",
     "translation": "I'm very sorry to have caused you so much trouble",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "听到这个消息，他愉悦的跳了起来",
     "translation": "He jumped with joy to hear the news",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "看他搞笑的表情，她放生大笑",
     "translation": "She burst into laughter [ˈlæftər] to see his funny look",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "知道了真相，她陷入了绝望",
     "translation": "She fell into despair to know the truth",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "那个男孩非常急切地想要得到一本地理书。",
     "translation": "The boy was too eager [ˈiːɡər] to get a geography[dʒiˈɑːɡrəfi] book.",
     "knowledge_point": "- 3.不定式作原因状语,  Sb be +adj. to do/have done…。adj通常是情绪动词\n- too...to...结构中的形容词如果是eager,pleased, happy, ready等，动词不定式不表示结果，也没有否定的意思。因……而非常……， 作为原因状语",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "他很急切地想知道考试结果",
     "translation": "He is too anxious [ˈæŋkʃəs] to know the examination results.",
     "knowledge_point": "- 3.不定式作原因状语,  Sb be +adj. to do/have done…。adj通常是情绪动词\n- too...to...结构中的形容词如果是eager,pleased, happy, ready等，动词不定式不表示结果，也没有否定的意思。因……而非常……， 作为原因状语",
-    "label": "不定式作状语-原因状语"
+    "label": "不定式-作状语-原因状语"
   },
   {
     "question": "一个人如果看不到这点，那他就是瞎子",
     "translation": "A man would be blind not to see that.",
     "knowledge_point": "4. 不定式作条件状语",
-    "label": "不定式作状语-条件状语"
+    "label": "不定式-作状语-条件状语"
   },
   {
     "question": "他很容易相处",
     "translation": "He is easy to get along with",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "那个地方很容易到达",
     "translation": "That place is easy to reach",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "这个工作不可能一周内完成",
     "translation": "The work is impossible to finish in a week",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "空气难以呼吸。",
     "translation": "The air is hard to breathe.",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "这本书很难理解。",
     "translation": "The book is difficult to understand.",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "我觉得这种车很好坐。",
     "translation": "I found the car comfortable to ride in.",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）\n-  ride in the car/ride on the bus/ ride a bike",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "那就使得诗很难写。",
     "translation": "That makes poetry difficult to write",
     "knowledge_point": "- 5.不定式作方式状语\n-  方式 sb/sth+（be）+adj+to do， 这个状语是用来形容形容词的（状语可以用来修饰形容词和动词）",
-    "label": "不定式作状语-方式状语"
+    "label": "不定式-作状语-方式状语"
   },
   {
     "question": "我看见你把钥匙放到了口袋里",
     "translation": "I saw you put the key in your pocket",
     "knowledge_point": "不定式",
-    "label": "不定式-不定式作补语"
+    "label": "不定式-作补语"
   },
   {
     "question": "这个裙子使我看起来胖",
     "translation": "This dress makes me look fat",
     "knowledge_point": "不定式",
-    "label": "不定式-不定式作补语"
+    "label": "不定式-作补语"
   },
   {
     "question": "既然能电视上看，为么要花钱去看哪个电影",
@@ -1908,7 +1902,7 @@
     "question": "这个建议值得考虑",
     "translation": "This suggestion is worthy to be considered [kənˈsɪdərd]",
     "knowledge_point": "- 与worth相似的worthy却不一样，其后不接动名词而接不定式(若接动名词则其前应有介词of)，且要用被动式表示被动含义\n- consider",
-    "label": "不定式-不定式作补语"
+    "label": "不定式-不定式的被动式; 不定式-作补语"
   },
   {
     "question": "他的新小说值得一读",
@@ -3038,49 +3032,49 @@
     "question": "你知道你做了什么吗",
     "translation": "Do you have any idea what you've done",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作同位语-It 固定搭配"
   },
   {
     "question": "听着，你知道那是什么感觉吗。",
     "translation": "Listen, do you have any idea  what it was like.",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句作主语-It 固定搭配"
+    "label": "名词性从句-作同位语-It 固定搭配"
   },
   {
     "question": "在又黑又冷的早晨，激励自己起床已经够难的了，更别说穿上运动服去健身房了",
     "translation": "It's hard enough to motivate yourself to get out of bed on dark, cold mornings, let alone fore yourself to put on workout outfit and get to the gym",
     "knowledge_point": "- It is hard enough doing/to do都可以\n- 动名词作主语 to get up和getting up 都可以",
-    "label": "动名词作主语"
+    "label": "动名词-作主语"
   },
   {
     "question": "生命对我来说太短了，不能用来培养仇恨，和记录错误",
     "translation": "Life appears to me too short to be spent in nursing animosity [ˌænɪˈmɑːsəti] or registering wrongs",
     "knowledge_point": "- 动名词作介词in的宾语\n- 它的后面跟的是形容词短语 `too short`作表语，而不是一个副词。系动词（如 be, seem, appear, look, become）的作用就是连接主语和描述主语状态的表语。appear too short,  appear 是系动词。 我们可以用最基础的系动词 `is`来替换，句子的基本结构不变：`Life is too short...`（生命太短暂……）。这证明了 `appears`在这里的功能等同于 `is`，只是语气上多了“显得”、“看上去”的意味。\n- to me 作状语，对我来说\n- to be spent：too adj to 句型，做结果状语“太短暂”导致的结果是“不应用于...”",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我们通过做个好邻居，来弥补作为个坏父母",
     "translation": "We make up for being bad parents by being good neighbors",
     "knowledge_point": "- 动名词作介词的for, by 的宾语",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "我仍然担心(害怕）得不到最好的价格",
     "translation": "I'm still **scared about** not getting  the best deal",
     "knowledge_point": "动名词作介词about的宾语",
-    "label": "动名词作宾语"
+    "label": "动名词-作宾语"
   },
   {
     "question": "谢谢你给我出国的机会",
     "translation": "Thanks for giving me a chance to go abroad.",
     "knowledge_point": "不定式作定语，4. 同位关系，不定式与所修饰的名词指的是一回事",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "他们现在有机会出国深造",
     "translation": "They have now an opportunity to go abroad to study further.",
     "knowledge_point": "不定式作定语，4. 同位关系，不定式与所修饰的名词指的是一回事",
-    "label": "不定式作定语-同位关系"
+    "label": "不定式-作定语-同位关系"
   },
   {
     "question": "分词思维：",
@@ -3584,31 +3578,31 @@
     "question": "我永远不会忘记遇见你的那一天",
     "translation": "I'll never forget the day when I met you",
     "knowledge_point": "when引导定语从句，先行词必须是表示时间的名词且必须在从句中作状语",
-    "label": "定语-定语从句-关系副词"
+    "label": "定语-定语从句-关系副词when"
   },
   {
     "question": "总有一天，你会对我们的人民负责",
     "translation": "There will come a time when you will be responsible for our people",
     "knowledge_point": "when引导定语从句，先行词必须是表示时间的名词且必须在从句中作状语",
-    "label": "定语-定语从句-关系副词"
+    "label": "定语-定语从句-关系副词when"
   },
   {
     "question": "有可以学语法的地方吗",
     "translation": "Is there a place where I can learn grammar",
     "knowledge_point": "where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语",
-    "label": "定语-定语从句-关系副词"
+    "label": "定语-定语从句-关系副词where"
   },
   {
     "question": "我不想生活在一个善良是一种弱点的世界里",
-    "translation": "I don't want to live in a world where kindness is a weakness",
+    "translation": "I don't want to live in a world where being kind is a weakness",
     "knowledge_point": "where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语",
-    "label": "定语-定语从句-关系副词"
+    "label": "定语-定语从句-关系副词where"
   },
   {
     "question": "关于要做出重大决定的会议你没有什么建议？",
     "translation": "Any advice for meetings where big decisions need to be made",
-    "knowledge_point": "where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语",
-    "label": "定语-定语从句-关系副词"
+    "knowledge_point": "- where引导的定语从句，先行词必须是表示地点的名词且必须在从句中作状语\n- 这里meetings 前没有加the",
+    "label": "定语-定语从句-关系副词where"
   },
   {
     "question": "和你谈话的那个女孩是我喜欢的菜",
@@ -3631,37 +3625,37 @@
   {
     "question": "不是所有放光的都是金子",
     "translation": "Not all that glitters is gold",
-    "knowledge_point": "先行词是all, much, little, few, the one等不定代词时，关系代词一般只用that",
-    "label": "定语-定语从句-which和that的区别"
+    "knowledge_point": "that 1. 先行词是all, much, little, few, the one等不定代词时，关系代词一般只用that",
+    "label": "定语-定语从句-使用that"
   },
   {
     "question": "方法正确才是最重要的",
     "translation": "The correct method is all that matters",
-    "knowledge_point": "先行词是all, much, little, few, the one等不定代词时，关系代词一般只用that",
-    "label": "定语-定语从句-which和that的区别"
+    "knowledge_point": "that 1. 先行词是all, much, little, few, the one等不定代词时，关系代词一般只用that",
+    "label": "定语-定语从句-使用that"
   },
   {
     "question": "你是我最不想看见的人",
     "translation": "You are the last person that I want to see",
-    "knowledge_point": "先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
-    "label": "定语-定语从句-which和that的区别"
+    "knowledge_point": "that 2. 先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
+    "label": "定语-定语从句-使用that"
   },
   {
     "question": "这让我意识到你是我生命中最美好的东西",
     "translation": "It made me realize you're the best thing that happened to me",
-    "knowledge_point": "先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
-    "label": "定语-定语从句-which和that的区别"
+    "knowledge_point": "that 2. 先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
+    "label": "定语-定语从句-使用that"
   },
   {
     "question": "遇见你是我一生中最美好的事",
     "translation": "Meeting you has been the best thing that could happen to me",
-    "knowledge_point": "先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
-    "label": "定语-定语从句-which和that的区别"
+    "knowledge_point": "that 2. 先行词前被any, only, all, every, no, some, much, few, little，序数词，最高级，the last等修饰时，关系代词一般只用that",
+    "label": "定语-定语从句-使用that"
   },
   {
     "question": "就像人们常说的，人工智能是把双刃剑",
     "translation": "As is so often pointed out, AI is two-edged sword which can be used equally for good or evil",
-    "knowledge_point": "as用来代替整个主句，语义延展更广",
+    "knowledge_point": "- as用来代替整个主句，语义延展更广\n- point out 指出",
     "label": "定语-定语从句-as的用法"
   },
   {
@@ -3690,7 +3684,7 @@
   },
   {
     "question": "这个电影因过于暴力而收到批评是正常的",
-    "translation": "As is very natural, the film was criticized for being too violent",
+    "translation": "As is very natural[ˈnætʃ(ə)rəl], the film was criticized for being too violent [ˈvaɪələnt]",
     "knowledge_point": "as用来代替整个主句，语义延展更广",
     "label": "定语-定语从句-as的用法"
   },
@@ -4075,7 +4069,7 @@
   {
     "question": "补语的作用",
     "translation": "对名词进行补充",
-    "knowledge_point": "补语的作用：对名词进行补充",
+    "knowledge_point": "补语的作用：对主语或者宾语进行补充",
     "label": "补语-框架知识点"
   },
   {

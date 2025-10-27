@@ -753,6 +753,33 @@ body.top-align .container {
         font-size: 1rem;
     }
     
+    /* 答案区域在移动端的优化 */
+    .answer-container {
+        justify-content: flex-start !important; /* 改为从顶部开始，避免居中导致第一行被裁切 */
+        align-items: stretch; /* 让内容占满宽度 */
+        padding: 10px 0;
+    }
+    
+    .answer-section {
+        margin-top: 10px;
+        padding: 15px;
+        width: 100%;
+    }
+    
+    .translation {
+        font-size: 1.3rem;
+        margin-bottom: 12px;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        hyphens: auto;
+    }
+    
+    .knowledge-point {
+        font-size: 1rem;
+        max-height: 200px;
+        padding: 8px;
+    }
+    
     /* 管理界面按钮响应式设计 */
     .management-buttons {
         max-width: 100%;
@@ -802,6 +829,27 @@ body.top-align .container {
     
     .progress-item, .time-item {
         font-size: 0.9rem;
+    }
+    
+    /* 超小屏幕答案区域进一步优化 */
+    .answer-container {
+        padding: 8px 0;
+    }
+    
+    .answer-section {
+        margin-top: 8px;
+        padding: 12px;
+    }
+    
+    .translation {
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+    }
+    
+    .knowledge-point {
+        font-size: 0.95rem;
+        max-height: 150px;
+        padding: 6px;
     }
 }
 
