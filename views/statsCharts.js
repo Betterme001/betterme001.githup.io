@@ -232,10 +232,18 @@
         heatmapGrid.innerHTML = '';
 
         const dailyStats = getDailyStats();
-        const dates = Object.keys(dailyStats).sort((a, b) => a.localeCompare(b));
+        const todayStr = (() => {
+            const d = new Date();
+            return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+        })();
+        
+        // 只获取今天及之前的日期
+        const dates = Object.keys(dailyStats)
+            .filter(date => date <= todayStr)
+            .sort((a, b) => a.localeCompare(b));
         
         console.log('Heatmap - Daily stats:', dailyStats);
-        console.log('Heatmap - Dates:', dates);
+        console.log('Heatmap - Dates (filtered to today):', dates);
         
         if (dates.length === 0) {
             heatmapGrid.innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">暂无学习数据</div>';
@@ -283,7 +291,7 @@
         console.log('Weeks data:', weeks);
 
         // 渲染热力图（每周一行）
-        weeks.forEach(week => {
+        weeks.forEach((week, weekIndex) => {
             // 容器：一周
             const weekRow = document.createElement('div');
             weekRow.className = 'heatmap-week';
@@ -297,6 +305,13 @@
             });
 
             fullWeek.forEach((day) => {
+                // 如果是最后一周，且日期超过今天，则不显示
+                if (weekIndex === weeks.length - 1 && day) {
+                    if (day.date > todayStr) {
+                        return; // 不添加这个方块
+                    }
+                }
+                
                 const square = document.createElement('div');
                 square.className = 'heatmap-square';
 

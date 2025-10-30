@@ -1367,9 +1367,9 @@ body.top-align .container {
 }
 
 .heatmap-square {
-    width: 28px;
-    height: 28px;
-    border-radius: 6px;
+    width: 56px;
+    height: 56px;
+    border-radius: 0;
     border: 1px solid rgba(0,0,0,0.06);
     box-shadow: 0 0 0 1px rgba(255,255,255,0.4) inset;
     cursor: pointer;
@@ -1445,8 +1445,8 @@ body.top-align .container {
     }
     
     .heatmap-square {
-        width: 20px;
-        height: 20px;
+        width: 40px;
+        height: 40px;
     }
     
     .legend-items {
@@ -1469,8 +1469,8 @@ body.top-align .container {
     }
     
     .heatmap-square {
-        width: 8px;
-        height: 8px;
+        width: 40px;
+        height: 40px;
     }
     
     .legend-item {

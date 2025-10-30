@@ -854,8 +854,8 @@
   {
     "question": ". 月球上到底有无生命是个有趣的问题",
     "translation": "Whether there is life on the moon is an insteresting question",
-    "knowledge_point": "- 内部关系：描述；句子成分：主系表；\n- on the moon , on the earth. 星球前都要加the",
-    "label": "名词性从句-一般疑问句"
+    "knowledge_point": "- 此处life表示生命，是一种抽象的概念。所以不加冠词\n- life表示生命，生命；人命。还有生物和时期的意思\n- [ U ] the ability to breathe, grow, reproduce, etc. which people, animals and plants have before they die and which objects do not have 生命\n- life and death 生与死\n- The body was cold and showed no signs of life. 那躯体冰凉，显现不出有生命的迹象",
+    "label": "life"
   },
   {
     "question": ". 他能否准时参加婚礼得看交通情况",
@@ -904,5 +904,287 @@
     "translation": "主语从句后置",
     "knowledge_point": "- 大多数主语从句都可以用 it 代替, 作形式主语, 把主语从句置于句尾\n- that 引导的主语从句可用 it 代替, that 不可省\n- 但是,当 what 引导的主语从句表示\"……的东西\"时,一般不用 it 作形式主语\n- whatever, whoever, whichever 一般也不用 it 作形式主语\n- who引导的主语从句，可以后置，也可以不后置，这两个句子都是可以的",
     "label": "主语从句"
+  },
+  {
+    "question": ". 问题是他能不能做",
+    "translation": "The question is whether he can do it",
+    "knowledge_point": "- do既可以作及物动词也可以作不及物动词，及物动词后面要有宾语，不及物动词后面没有宾语\n- They are free to do as they please.这个句子，do是不及物动词，所以后面没有宾语\n- 这题\"能不能做\"是\"干\"的意思，时刻根据词典do用作及物动词，用do sth的结构表达为do it\n- 这题是do是\"做，干，办\"的意思，不是\"表现\"的意思\n- do vt 做，干，办（某事），vi 以某种方式）做；行动；表现。这里是第一个意思",
+    "label": "do"
+  },
+  {
+    "question": ". join的用法",
+    "translation": "join",
+    "knowledge_point": "- join: to become a member of an organization, a company, a club, etc. 成为…的一员；参加；加入\n- They may apply to join the organization\n- I've joined an aerobics class. 我参加了有氧健身班\n- She joined the company three months ago. 她三个月前进了这家公司",
+    "label": "attend/join/join in"
+  },
+  {
+    "question": ". 她三个月前进了这家公司",
+    "translation": "She joined the company three months ago",
+    "knowledge_point": "join: to become a member of an organization, a company, a club, etc. 成为…的一员；参加；加入",
+    "label": "attend/join/join in"
+  },
+  {
+    "question": ". join in的用法",
+    "translation": "join in",
+    "knowledge_point": "- join in：to take part in an activity with other people 参加，加入（活动）\n- join in 后面加活动，join 后面加组织，人们（成为其中一员）",
+    "label": "attend/join/join in"
+  },
+  {
+    "question": ". 她只是听，但从来不发表意见",
+    "translation": "She listens but she never joins in",
+    "knowledge_point": "join in：to take part in an activity with other people 参加，加入（活动）",
+    "label": "attend/join/join in"
+  },
+  {
+    "question": ". 我想要加入他们的冒险",
+    "translation": "I want to join in their adventures",
+    "knowledge_point": "join in：to take part in an activity with other people 参加，加入（活动）",
+    "label": "attend/join/join in"
+  },
+  {
+    "question": ". attend的用法",
+    "translation": "attend",
+    "knowledge_point": "attend: to be present at an event 出席；参加",
+    "label": "attend/join/join in"
+  },
+  {
+    "question": ". 洪水造成许多人丧生",
+    "translation": "The floods caused a massive loss of life",
+    "knowledge_point": "[ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里不可数",
+    "label": "life"
+  },
+  {
+    "question": ". 他冒着生命危险从火中救出他的女儿",
+    "translation": "He risked his life to save his daughter from the fire",
+    "knowledge_point": "[ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里可数",
+    "label": "life"
+  },
+  {
+    "question": ". 数百条性命在大楼垮塌时受到了威胁",
+    "translation": "Hundreds of lives were threatened when the building collapsed",
+    "knowledge_point": "[ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里可数",
+    "label": "life"
+  },
+  {
+    "question": ". 我是怕你喝太多酒",
+    "translation": "I am afraid of your/you drinking too much",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：主系表（afraid)，of 加上后面的做原因状语（动名词作of 的宾语）\n- 知识点：动名词的逻辑主语",
+    "label": "动名词的逻辑主语"
+  },
+  {
+    "question": ". 和这种人争论，没有意义",
+    "translation": "There is no point (in) arguing with that kind of guy",
+    "knowledge_point": "动名词的特殊句型",
+    "label": "动名词-特定句型"
+  },
+  {
+    "question": ". 他被某人的敲门声唤醒",
+    "translation": "He was awakened by someone's knocking on/at the door",
+    "knowledge_point": "动名词的逻辑主语",
+    "label": "动名词的逻辑主语"
+  },
+  {
+    "question": ". 我因为他忘记了我的生日而生气",
+    "translation": "I am annoyed about his forgetting my birthday present",
+    "knowledge_point": "动名词的逻辑主语",
+    "label": "动名词的逻辑主语"
+  },
+  {
+    "question": ". 被爱给予你力量",
+    "translation": "Being loved gives you strength",
+    "knowledge_point": "- 忘记了动词的单复数，注意动词的时态，和单复数\n- strength：是疼痛，体力意志力\n- power; 权利，体力",
+    "label": "系表的动名词"
+  },
+  {
+    "question": ". 他正考虑在海淀买个房子",
+    "translation": "He is considering buying a house in Haidian District",
+    "knowledge_point": "consider doing sth.",
+    "label": "consider"
+  },
+  {
+    "question": ". 你抽这么多烟对身体不好",
+    "translation": "Your smoking so much is not good for your health",
+    "knowledge_point": "- It's bad/harmful for/to your health to smoke.\n- 老师这么写，不算错，但是to do 表示一次，smoking 表示惯性行为\n- Your smoking, your 指向性更强",
+    "label": "动名词的逻辑主语"
+  },
+  {
+    "question": ". 减肥这件事其实就是自我控制的问题",
+    "translation": "Losing weight is a matter of disciplining yourself actually",
+    "knowledge_point": "- disciplining 是 discipline 的动名词\n- discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）",
+    "label": "discipline"
+  },
+  {
+    "question": ". 他规定自己每周至少锻炼三次",
+    "translation": "He disciplined himself to exercise at least three times a week",
+    "knowledge_point": "discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）",
+    "label": "discipline"
+  },
+  {
+    "question": ". 节食是自我控制的问题",
+    "translation": "Dieting is a matter of disciplining yourself",
+    "knowledge_point": "discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）",
+    "label": "discipline"
+  },
+  {
+    "question": ". 学开车主要是靠协调",
+    "translation": "Learning to drive is all a matter of coordination",
+    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情；学开车是关于（取决于) 协调的问题",
+    "label": "matter"
+  },
+  {
+    "question": ". 她因为原则问题而辞职",
+    "translation": "She resigned over a matter of principle",
+    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
+    "label": "matter"
+  },
+  {
+    "question": ". 他不能一直隐藏自己的面目",
+    "translation": "He can't resist showing us his face",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：主谓宾\n- 也可以说 He can't hide his face forever\n- 这里双重否定表示肯定\n- resist 有一层含义是「忍住；抵挡」，通常用在否定句中\n- can't resist doing 无法忍住做某事→忍不住做某事",
+    "label": "resist"
+  },
+  {
+    "question": ". 他忍不住把整块蛋糕都吃了",
+    "translation": "I couldn't resist it",
+    "knowledge_point": "resist ( usually in negative sentences 通常用于否定句 ) to stop yourself from having sth you like or doing sth you very much want to do 忍住；抵挡",
+    "label": "resist"
+  },
+  {
+    "question": ". 我必须得忍受戴那顶滑稽帽子的痛苦",
+    "translation": "I have to endure wearing the comical hat",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：主谓宾\n- comical adj. 滑稽的，好笑的\n- have to是不得不，客观必须；must 表示主观必须\n- endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
+    "label": "endure"
+  },
+  {
+    "question": ". 他们只得忍受长时间的等待",
+    "translation": "They had to endure a long wait before the case came to trial",
+    "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
+    "label": "endure"
+  },
+  {
+    "question": ". 他无法忍受失败",
+    "translation": "He can't endure being defeated / He can't endure to be defeated",
+    "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
+    "label": "endure"
+  },
+  {
+    "question": ". 这种痛苦几乎使他无法忍受",
+    "translation": "The pain was almost more than he could bear",
+    "knowledge_point": "bear ( used with can/could in negative sentences and questions 在否定句和疑问句中与can╱could连用 ) to be able to accept and deal with sth unpleasant 承受；忍受",
+    "label": "bear"
+  },
+  {
+    "question": ". 失去他的情况她想都不敢想",
+    "translation": "She couldn't bear the thought of losing him",
+    "knowledge_point": "bear ( used with can/could in negative sentences and questions 在否定句和疑问句中与can╱could连用 ) to be able to accept and deal with sth unpleasant 承受；忍受",
+    "label": "bear"
+  },
+  {
+    "question": ". 你觉得我去会有什么帮助吗",
+    "translation": "Do you think my going will be of any help",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：主谓宾（主系表）\n- be helpful = be of any help",
+    "label": "动名词的逻辑主语"
+  },
+  {
+    "question": ". 这本神奇的书将会教你如何培养新的习惯，帮你管理时间",
+    "translation": "This magic book teaches you how to acquire new habits that can help you manage your time",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：不定式 作直接宾语\n- you 直接宾语， hows to do 作直接宾语\n- teach sb to do sth todo是宾补， how to do 是直接宾语\n- how to do sth是 不定式的特殊结构，常常只用来作宾语，而不作补语",
+    "label": "how to do"
+  },
+  {
+    "question": ". 计算机使得人类的工作效率有了极大的飞跃",
+    "translation": "The computer makes possible a marvelous leap in human proficiency",
+    "knowledge_point": "- 句子成分：主谓宾补 宾\n- make possible 使成为可能\n- make possible 使成为可能。宾补提前是为了平衡句子结构",
+    "label": "宾补"
+  },
+  {
+    "question": ". 这个问题需要好好讨论下",
+    "translation": "The question /problem needs discussing fully",
+    "knowledge_point": "- 现在一般时，主语动词单复数变化\n- 这里\"好好\"实际是\"充分地\"意思。要脱壳。脱掉\"汉语模糊语意\"，脱掉\"汉语的\"成分不清楚的壳\n- fully: completely 完全地；全部地；充分地",
+    "label": "need doing"
+  },
+  {
+    "question": ". 我们充分意识到危险",
+    "translation": "We are fully aware of the dangers",
+    "knowledge_point": "fully: completely 完全地；全部地；充分地",
+    "label": "fully"
+  },
+  {
+    "question": ". 这种病感染了足足30%的人口",
+    "translation": "The disease affects fully 30 per cent of the population",
+    "knowledge_point": "fully ( formal ) ( used to emphasize an amount 强调数量 ) the whole of; as much as 整整；足足",
+    "label": "fully"
+  },
+  {
+    "question": ". 他的麻烦是，一切办法都试过了，却还是不成功",
+    "translation": "His trouble is having tried every means and being still unsuccessful",
+    "knowledge_point": "动名词的完成时，和并列结构的动名词",
+    "label": "动名词的完成时"
+  },
+  {
+    "question": ". 这个电影值得多看几遍",
+    "translation": "The movie needs watching more than once",
+    "knowledge_point": "- \"值得多看几遍\"的核心含义就是看一遍不够，还要再看几次，所以是more than once\n- more times虽然不错，但是其实more than once更符合英文的表达思维和习惯，建议积累\n- 没有some more times这个说法，改成several more times可以用",
+    "label": "need doing"
+  },
+  {
+    "question": ". 我不得不停下手中的事，去看微信消息",
+    "translation": "I have to stop to check the messages on WebChat",
+    "knowledge_point": "- 句子成分: 主谓状\n- stop to do 本身就是停下手中事，去做什么。所以这里不用stop what I am doing就可以\n- on在这里的意思是 by means of sth; using sth, 借助/通过/使用（工具等），类似的还有on the internet，所以是可以的\n- WeChat messages也可以，比如可以说to send a WeChat message",
+    "label": "stop to do"
+  },
+  {
+    "question": ". 改进学习方法很重要",
+    "translation": "To improve the learning method is uber-important",
+    "knowledge_point": "- uber- 词缀\" 超级XXX的\"\n- uber-cool 超级酷的\n- uber-handsome 超级帅的",
+    "label": "不定式作主语"
+  },
+  {
+    "question": ". 学校因纪律严格而名闻遐迩",
+    "translation": "The school has a reputation for high standards of discipline",
+    "knowledge_point": "discipline n. [ U ] the practice of training people to obey rules and orders and punishing them if they do not; the controlled behaviour or situation that results from this training 训练；训导；纪律；风纪",
+    "label": "discipline"
+  },
+  {
+    "question": ". Jim 的理想是当一名主厨",
+    "translation": "Jim's ambition is to be a head chef",
+    "knowledge_point": "- head chief 比 chief chef 用的更多一点\n- ambition [ C ] something that you want to do or achieve very much 追求的目标；夙愿\n- ideal 不合适,dream 可以",
+    "label": "ambition"
+  },
+  {
+    "question": ". 她一直未能实现当名作家的夙愿",
+    "translation": "She never achieved her ambition of becoming a famous writer",
+    "knowledge_point": "ambition [ C ] something that you want to do or achieve very much 追求的目标；夙愿",
+    "label": "ambition"
+  },
+  {
+    "question": ". 最重要的是要清楚你到底想成为一个什么样的人",
+    "translation": "What matters most is to figure out what kind of person you are going to be",
+    "knowledge_point": "- are going to be 计划成为什么人\n- What matters most is = The most important thing is\n- 这里的what 其实是指 后面的表语。what matters most 是名词性从句 作主语",
+    "label": "what matters"
+  },
+  {
+    "question": ". 未经许可就擅自离开是他的一贯作风",
+    "translation": "It's very common for him to be absent without leave",
+    "knowledge_point": "- 句子成分：主系表，不定式作真正主语\n- leave 作为名词讲 有两个意思：",
+    "label": "leave"
+  },
+  {
+    "question": ". 一个月带薪休假",
+    "translation": "a month's paid leave",
+    "knowledge_point": "leave: a period of time when you are allowed to be away from work for a holiday/vacation or for a special reason 假期；休假",
+    "label": "leave"
+  },
+  {
+    "question": ". 年假",
+    "translation": "annual leave",
+    "knowledge_point": "leave: a period of time when you are allowed to be away from work for a holiday/vacation or for a special reason 假期；休假",
+    "label": "leave"
+  },
+  {
+    "question": ". 你那天没去真是太明智了",
+    "translation": "It was very wise of you to be absent that day",
+    "knowledge_point": "- wise ( of people 人 ) able to make sensible decisions and give good advice because of the experience and knowledge that you have 充满智慧的；明智的；英明的；明察善断的\n- wise ( of actions and behaviour 行动和行为 ) sensible; based on good judgement 明智的；高明的；有判断力的\n- 注意这里 to be absent 不是to be done 而是 to be adj",
+    "label": "wise; 不定式作主语"
   }
 ]
