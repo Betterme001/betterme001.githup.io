@@ -294,24 +294,6 @@
     "label": "时态-一般将来时"
   },
   {
-    "question": "夏天快到了",
-    "translation": "The summer is coming",
-    "knowledge_point": "- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
-    "label": "时态-现在进行时"
-  },
-  {
-    "question": "我马上到",
-    "translation": "I am coming",
-    "knowledge_point": "- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
-    "label": "时态-现在进行时"
-  },
-  {
-    "question": "我和老张今晚见",
-    "translation": "Me and old Zhang are meeting tonight",
-    "knowledge_point": "- 进行时表将来：瞬间动词进行时表将来\n- meet是瞬间动词",
-    "label": "时态-现在进行时"
-  },
-  {
     "question": "电影马上开始",
     "translation": "The film is about to start",
     "knowledge_point": "- be about to（5分钟内）\n- 表示即将发生",
@@ -414,6 +396,24 @@
     "label": "时态-现在进行时"
   },
   {
+    "question": "夏天快到了",
+    "translation": "The summer is coming",
+    "knowledge_point": "- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
+    "label": "时态-现在进行时"
+  },
+  {
+    "question": "我马上到",
+    "translation": "I am coming",
+    "knowledge_point": "- 进行时表将来：瞬间动词进行时表将来\n- come是瞬间动词",
+    "label": "时态-现在进行时"
+  },
+  {
+    "question": "我和老张今晚见",
+    "translation": "Me and old Zhang are meeting tonight",
+    "knowledge_point": "- 进行时表将来：瞬间动词进行时表将来\n- meet是瞬间动词",
+    "label": "时态-现在进行时"
+  },
+  {
     "question": "我做饭的时候把手切了",
     "translation": "I cut my finger when I was cooking",
     "knowledge_point": "- 与一般过去时是好朋友（长动作用进行，短动作用过去）\n- 过去某一时刻动作正在进行",
@@ -480,15 +480,9 @@
     "label": "时态-现在完成时"
   },
   {
-    "question": "我去看你的时候，你已经走了",
-    "translation": "You had left when I went to see you",
-    "knowledge_point": "- 过去完成时：站在过去回首更遥远的过去, 表示过去的过去\n- had gone 也可以，但是had gone 隐含着去往某地，left只是强调离开，所以这里用had left 更合适",
-    "label": "时态-过去完成时-一个动作在过去某一点以前结束"
-  },
-  {
-    "question": "我在北京住了10年了",
+    "question": "我已经在北京住了10年了",
     "translation": "I have lived in Beijing for 10 years",
-    "knowledge_point": "\n- 发生在过去的动作一直延续到当下【延续性动词】\n- 延续的动作+延续的时间=动作一直延续了",
+    "knowledge_point": "- 现在完成时：发生在过去的动作一直延续到当下【延续性动词】\n- 延续的动作+延续的时间=动作一直延续了",
     "label": "时态-现在完成时"
   },
   {
@@ -516,9 +510,9 @@
     "label": "时态-现在完成时"
   },
   {
-    "question": "我们都爱过（现在不爱了）",
+    "question": "我们全都曾陷入爱河（现在不爱了）",
     "translation": "We've all been in love",
-    "knowledge_point": "\n- 表示做过了什么，不能加延续的时间\n- 过去的动作与现在有关系，有言外之意，对现在有影响",
+    "knowledge_point": "- 现在完成时：表示做过了什么，不能加延续的时间\n- 过去的动作与现在有关系，有言外之意，对现在有影响\n- We've  loved 的意思是我们曾经爱过，泛指各种爱（家人、朋友、抽象的爱）\n- *The poem speaks of how `we have loved`and lost, but still remain hopeful.*（这首诗讲述了我们如何爱过又失去，但依然满怀希望。）-- 文学化的表达。",
     "label": "时态-现在完成时"
   },
   {
@@ -564,9 +558,9 @@
     "label": "时态-现在完成时"
   },
   {
-    "question": "他已经毕业了（现在的状态，是不在学校了）",
+    "question": "他已经从大学毕业了（现在的状态，是不在学校了）",
     "translation": "He has graduated from university",
-    "knowledge_point": "\n- 发生在过去并结束的动作产生的结果延续到了当下【瞬间动词】\n- 产生的影响延续到现在，绵绵无绝期",
+    "knowledge_point": "- 现在完成时：发生在过去并结束的动作产生的结果延续到了当下【瞬间动词】\n- 产生的影响延续到现在，绵绵无绝期",
     "label": "时态-现在完成时"
   },
   {
@@ -648,6 +642,12 @@
     "label": "时态-现在完成时"
   },
   {
+    "question": "我去看你的时候，你已经走了",
+    "translation": "You had left when I went to see you",
+    "knowledge_point": "- 过去完成时：站在过去回首更遥远的过去, 表示过去的过去\n- had gone 也可以，但是had gone 隐含着去往某地，left只是强调离开，所以这里用had left 更合适",
+    "label": "时态-过去完成时-一个动作在过去某一点以前结束"
+  },
+  {
     "question": ". 我来之前他们已经把一切准备好了",
     "translation": "They had got everything ready before I came",
     "knowledge_point": "- 时态-过去完成时: 用法1：一个动作在过去某一点以前结束\n- 站在过去回首更遥远的过去",
@@ -702,6 +702,24 @@
     "label": "时态-将来完成时"
   },
   {
+    "question": ". by/till/until/before的区别",
+    "translation": "The Tao moves in the opposite direction",
+    "knowledge_point": "- by在...之前，包括当前时间点，通常用于完成时\n- till/until在...之前，一直...（直到...才）通常与**持续性动词**（如 wait, live, work）连用",
+    "label": "时态-将来完成时"
+  },
+  {
+    "question": ". 我等你了**直到**5点。",
+    "translation": "I waited for you **until** 5 o‘clock.",
+    "knowledge_point": "till/until在...之前，一直...（直到...才）通常与**持续性动词**（如 wait, live, work）连用",
+    "label": ""
+  },
+  {
+    "question": ". 他**直到**半夜才睡。",
+    "translation": "He didn’t go to bed **till/until** midnight.",
+    "knowledge_point": "not until/ not till",
+    "label": ""
+  },
+  {
     "question": ". 我等这一刻已经等了很多年了",
     "translation": "I have been waiting this for years",
     "knowledge_point": "- 核心思维：动作到目前为止尚未完成\n- 动作从过去某时开始\"一直持续\"到现在并可能继续持续下去",
@@ -714,9 +732,9 @@
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 最近一直在读这本书，还没有读完",
+    "question": ". 最近一直在读这本书，然而还没有读完",
     "translation": "I have been reading this book, yet I have not finished it",
-    "knowledge_point": "\n- 现在完成时VS现在完成进行时区别\n- 现在完成进行时：重在进行，强调持续的过程，带有感情色彩，\"一直\"",
+    "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成进行时：重在进行，强调持续的过程，带有感情色彩，\"一直\"",
     "label": "时态-现在完成进行时"
   },
   {
@@ -776,8 +794,8 @@
   {
     "question": ". 我一直想找你聊聊（我早就想找你聊聊）",
     "translation": "I have been meaning to talk with you",
-    "knowledge_point": "\n- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
-    "label": "时态-现在完成进行时"
+    "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
+    "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
     "question": ". 我一直想找你聊聊（我早就想找你聊聊）",
@@ -834,9 +852,9 @@
     "label": "时态-现在完成进行时-短暂动词，断断续续，多次发生"
   },
   {
-    "question": ". 我已经在北京住了5年了",
+    "question": ". 我一直在北京已经住了5年了",
     "translation": "I have been living in Beijing for five years",
-    "knowledge_point": "- 断断续续，多次发生\n- 短暂动词放到完成进行时，表示多次发生，靠次数取胜",
+    "knowledge_point": "",
     "label": "时态-现在完成进行时"
   },
   {
@@ -1056,6 +1074,30 @@
     "label": "情态动词-might"
   },
   {
+    "question": ". 那不可能是玛丽—她在纽约呢。",
+    "translation": "That can't be Mary—she's in New York.",
+    "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测",
+    "label": "情态动词-can-只有can't 表示推测"
+  },
+  {
+    "question": ". 他不可能在那种闹哄哄的环境里睡好觉。",
+    "translation": "He can't have slept through all that noise.",
+    "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测\n- sleep through 在。。中睡过去（睡好觉）",
+    "label": "情态动词-can-只有can't 表示推测"
+  },
+  {
+    "question": ". 我会说意大利语",
+    "translation": "I can speak Italian",
+    "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
+    "label": "情态动词-can-本色1-能力"
+  },
+  {
+    "question": ". 你能完成吗",
+    "translation": "Can you get it done?",
+    "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
+    "label": "情态动词-can-本色1-能力"
+  },
+  {
     "question": ". 我觉得发生的每件事都是一个教训",
     "translation": "I think everything that happens can be a lesson",
     "knowledge_point": "- 核心思维：潜在的可能性，有某种知识和技能而能办到\n- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）",
@@ -1074,18 +1116,6 @@
     "label": "情态动词-can-本色2-理论上的可能"
   },
   {
-    "question": ". 我会说意大利语",
-    "translation": "I can speak Italian",
-    "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
-    "label": "情态动词-can-本色1-能力"
-  },
-  {
-    "question": ". 你能完成吗",
-    "translation": "Can you get it done?",
-    "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
-    "label": "情态动词-can-本色1-能力"
-  },
-  {
     "question": ". 我年轻的时候能喝14瓶啤酒",
     "translation": "I could drink 14 bottles of beer when I was young",
     "knowledge_point": "- 本色：过去的能力（注意区分be able to）\n- 表示过去的能力",
@@ -1100,7 +1130,7 @@
   {
     "question": ". 看那些乌云。随时都可能开始下雨",
     "translation": "Look at those dark clouds, it could start raining at any minutes",
-    "knowledge_point": "\n- 表示不确定的可能\n- 表示可能性",
+    "knowledge_point": "- 表示不确定的可能\n- 表示可能性",
     "label": "情态动词-could"
   },
   {
@@ -1462,59 +1492,5 @@
     "translation": "out of the question",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 不可能的",
     "label": "冠词-冠词的有无区别-意义不同"
-  },
-  {
-    "question": "我已经在北京住了10年了",
-    "translation": "I have lived in Beijing for 10 years",
-    "knowledge_point": "- 现在完成时：发生在过去的动作一直延续到当下【延续性动词】\n- 延续的动作+延续的时间=动作一直延续了",
-    "label": "时态-现在完成时"
-  },
-  {
-    "question": "我们全都曾陷入爱河（现在不爱了）",
-    "translation": "We've all been in love",
-    "knowledge_point": "- 现在完成时：表示做过了什么，不能加延续的时间\n- 过去的动作与现在有关系，有言外之意，对现在有影响\n- We've  loved 的意思是我们曾经爱过，泛指各种爱（家人、朋友、抽象的爱）\n- *The poem speaks of how `we have loved`and lost, but still remain hopeful.*（这首诗讲述了我们如何爱过又失去，但依然满怀希望。）-- 文学化的表达。",
-    "label": "时态-现在完成时"
-  },
-  {
-    "question": "他已经从大学毕业了（现在的状态，是不在学校了）",
-    "translation": "He has graduated from university",
-    "knowledge_point": "- 现在完成时：发生在过去并结束的动作产生的结果延续到了当下【瞬间动词】\n- 产生的影响延续到现在，绵绵无绝期",
-    "label": "时态-现在完成时"
-  },
-  {
-    "question": ". by/till/until/before的区别",
-    "translation": "The Tao moves in the opposite direction",
-    "knowledge_point": "- by在...之前，包括当前时间点，通常用于完成时\n- till/until在...之前，一直...（直到...才）通常与**持续性动词**（如 wait, live, work）连用",
-    "label": "时态-将来完成时"
-  },
-  {
-    "question": ". 我等你了**直到**5点。",
-    "translation": "I waited for you **until** 5 o‘clock.",
-    "knowledge_point": "till/until在...之前，一直...（直到...才）通常与**持续性动词**（如 wait, live, work）连用",
-    "label": ""
-  },
-  {
-    "question": ". 他**直到**半夜才睡。",
-    "translation": "He didn’t go to bed **till/until** midnight.",
-    "knowledge_point": "not until/ not till",
-    "label": ""
-  },
-  {
-    "question": ". 最近一直在读这本书，然而还没有读完",
-    "translation": "I have been reading this book, yet I have not finished it",
-    "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成进行时：重在进行，强调持续的过程，带有感情色彩，\"一直\"",
-    "label": "时态-现在完成进行时"
-  },
-  {
-    "question": ". 那不可能是玛丽—她在纽约呢。",
-    "translation": "That can't be Mary—she's in New York.",
-    "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测",
-    "label": "情态动词-can-只有can't 表示推测"
-  },
-  {
-    "question": ". 他不可能在那种闹哄哄的环境里睡好觉。",
-    "translation": "He can't have slept through all that noise.",
-    "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测\n- sleep through 在。。中睡过去（睡好觉）",
-    "label": "情态动词-can-只有can't 表示推测"
   }
 ]

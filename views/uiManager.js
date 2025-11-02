@@ -161,8 +161,8 @@
         document.body.classList.add('top-align');
         document.body.classList.add('library-mode');
 
-        // 默认显示列表模式
-        window.switchStatsMode('list');
+        // 默认显示曲线图模式
+        window.switchStatsMode('chart');
     };
 
     // 渲染统计列表（修改为合并所有题库）
@@ -257,7 +257,7 @@
         window.sortByMastery = !window.sortByMastery;
         const btn = document.getElementById('sortByMasteryBtn');
         if (btn) {
-            btn.textContent = window.sortByMastery ? '取消排序' : '排序';
+            btn.textContent = window.sortByMastery ? '取消排序' : '按掌握度排序';
             btn.style.background = window.sortByMastery ? '#e3f2fd' : '#fff';
         }
         // 重新显示题库
@@ -375,6 +375,46 @@
         window.reviewStore.items[key] = entry;
         window.saveStore();
         window.showQuestionBank();
+    };
+
+    // 取消全部收藏（仅当前题库）
+    window.clearAllFavorites = function clearAllFavorites() {
+        if (!confirm('此操作只会取消当前题库的所有收藏，确认吗')) {
+            return;
+        }
+
+        let clearedCount = 0;
+
+        // 只处理当前题库
+        const currentBankId = window.currentBankId || CONFIG.DEFAULT_BANK_ID;
+        
+        if (!window.reviewStore || !window.reviewStore.items) {
+            alert('当前题库没有数据');
+            return;
+        }
+
+        // 遍历当前题库的所有题目
+        Object.keys(window.reviewStore.items).forEach(itemKey => {
+            const entry = window.reviewStore.items[itemKey];
+            if (entry && entry.favorited) {
+                entry.favorited = false;
+                clearedCount++;
+            }
+        });
+
+        // 保存当前题库的数据
+        window.saveStore();
+
+        // 刷新题库显示
+        if (typeof window.showQuestionBank === 'function') {
+            window.showQuestionBank();
+        }
+
+        if (clearedCount > 0) {
+            alert(`已取消 ${clearedCount} 个题目的收藏`);
+        } else {
+            alert('当前题库没有收藏的题目');
+        }
     };
 
     // 显示语法盒子界面

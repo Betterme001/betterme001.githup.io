@@ -6,7 +6,7 @@
 
     // 学习时间等级定义
     const studyTimeLevels = {
-        0: { label: '0-19分钟', color: '#ebedf0', grade: '不及格' },
+        0: { label: '0-19分钟', color: '#e8f5e9', grade: '不及格' },
         1: { label: '20-30分钟', color: '#c6e48b', grade: '及格' },
         2: { label: '31-40分钟', color: '#7bc96f', grade: '良好' },
         3: { label: '41-50分钟', color: '#40a9ff', grade: '良好+' },
@@ -250,84 +250,103 @@
             return;
         }
 
-        // 按周组织数据，从第一天开始显示
+        // 按周组织数据，从周一开始显示
         const weeks = [];
-        let currentWeek = [];
         
         // 确保数据按日期排序
         const sortedDates = dates.sort((a, b) => a.localeCompare(b));
         
-        // 找到第一个学习日期的星期几，用于对齐显示
-        const firstDate = new Date(sortedDates[0]);
-        const firstDayOfWeek = firstDate.getDay(); // 0=周日, 1=周一, ..., 6=周六
-        
-        // 在第一个学习日期之前添加空的天数，确保对齐
-        for (let i = 0; i < firstDayOfWeek; i++) {
-            currentWeek.push(null);
+        if (sortedDates.length === 0) {
+            return;
         }
         
-        sortedDates.forEach(date => {
-            const d = new Date(date);
-            const dayOfWeek = d.getDay(); // 0=周日, 1=周一, ..., 6=周六
-            
-            // 如果是周日且当前周不为空，开始新的一周
-            if (dayOfWeek === 0 && currentWeek.length > 0) {
-                weeks.push([...currentWeek]);
-                currentWeek = [];
-            }
-            
-            // 添加当前日期到当前周
-            currentWeek.push({
-                date: date,
-                studyTime: dailyStats[date] ? dailyStats[date].studyTime : 0
-            });
-        });
+        // 找到第一个学习日期
+        const firstDate = new Date(sortedDates[0]);
+        // 转换为周一的日期（getDay(): 0=周日, 1=周一, ..., 6=周六）
+        // 计算需要回退多少天到周一
+        const firstDayOfWeek = firstDate.getDay();
+        const daysToMonday = firstDayOfWeek === 0 ? 6 : firstDayOfWeek - 1; // 如果周日，回退6天；否则回退到周一
+        const weekStartDate = new Date(firstDate);
+        weekStartDate.setDate(firstDate.getDate() - daysToMonday);
         
-        // 添加最后一周
-        if (currentWeek.length > 0) {
-            weeks.push(currentWeek);
+        // 找到最后一个日期
+        const lastDate = new Date(sortedDates[sortedDates.length - 1]);
+        const lastDayOfWeek = lastDate.getDay();
+        const daysToSunday = lastDayOfWeek === 0 ? 0 : 7 - lastDayOfWeek; // 计算到周日需要的天数
+        const weekEndDate = new Date(lastDate);
+        weekEndDate.setDate(lastDate.getDate() + daysToSunday);
+        
+        // 生成从第一个周一到最后一个周日的所有日期
+        const allDates = [];
+        const currentDate = new Date(weekStartDate);
+        while (currentDate <= weekEndDate) {
+            const dateStr = `${currentDate.getFullYear()}-${String(currentDate.getMonth()+1).padStart(2,'0')}-${String(currentDate.getDate()).padStart(2,'0')}`;
+            allDates.push({
+                date: dateStr,
+                studyTime: dailyStats[dateStr] ? dailyStats[dateStr].studyTime : null,
+                isFuture: dateStr > todayStr
+            });
+            currentDate.setDate(currentDate.getDate() + 1);
+        }
+        
+        // 按周组织（每7天一周）
+        for (let i = 0; i < allDates.length; i += 7) {
+            const week = allDates.slice(i, i + 7);
+            weeks.push(week);
         }
 
         console.log('Weeks data:', weeks);
 
-        // 渲染热力图（每周一行）
-        weeks.forEach((week, weekIndex) => {
+        // 渲染热力图（每周一行，从周一开始）
+        weeks.forEach((week) => {
             // 容器：一周
             const weekRow = document.createElement('div');
             weekRow.className = 'heatmap-week';
 
-            // 确保每周都有7天
-            const fullWeek = new Array(7).fill(null);
-            week.forEach(day => {
-                const d = new Date(day.date);
-                const dayOfWeek = d.getDay();
-                fullWeek[dayOfWeek] = day;
-            });
-
-            fullWeek.forEach((day) => {
-                // 如果是最后一周，且日期超过今天，则不显示
-                if (weekIndex === weeks.length - 1 && day) {
-                    if (day.date > todayStr) {
-                        return; // 不添加这个方块
-                    }
+            // 遍历周一到周日（week数组已经是按周一到周日排序的）
+            week.forEach((dayInfo) => {
+                // 如果是未来的日期，显示为非常浅的灰色
+                if (dayInfo.isFuture) {
+                    const square = document.createElement('div');
+                    square.className = 'heatmap-square';
+                    square.style.backgroundColor = '#f5f5f5'; // 比无数据日更浅的灰色，表示未来日期
+                    square.style.border = '1px dashed #ddd'; // 虚线边框进一步区分
+                    square.title = '未来日期';
+                    square.addEventListener('click', function() {
+                        showDateInfo(dayInfo.date, null);
+                    });
+                    weekRow.appendChild(square);
+                    return;
                 }
                 
                 const square = document.createElement('div');
                 square.className = 'heatmap-square';
 
-                if (day) {
-                    const level = getStudyTimeLevel(day.studyTime);
+                if (dayInfo.studyTime !== null) {
+                    const level = getStudyTimeLevel(dayInfo.studyTime);
                     const levelInfo = studyTimeLevels[level];
-                    const minutes = Math.floor(day.studyTime / 60);
+                    const minutes = Math.floor(dayInfo.studyTime / 60);
 
                     square.style.backgroundColor = levelInfo.color;
-                    square.title = `${day.date}: ${minutes}分钟 (${levelInfo.label} - ${levelInfo.grade})`;
-                    square.dataset.date = day.date;
-                    square.dataset.studyTime = day.studyTime;
+                    square.title = `${dayInfo.date}: ${minutes}分钟 (${levelInfo.label} - ${levelInfo.grade})`;
+                    square.dataset.date = dayInfo.date;
+                    square.dataset.studyTime = dayInfo.studyTime;
+                    
+                    // 添加点击事件
+                    square.addEventListener('click', function() {
+                        const dailyStats = getDailyStats();
+                        const dayData = dailyStats[dayInfo.date];
+                        showDateInfo(dayInfo.date, dayData);
+                    });
                 } else {
-                    // 无数据日：更明显的浅灰
-                    square.style.backgroundColor = '#e0e0e0';
+                    // 无数据日：比未来日期更浅的灰色
+                    square.style.backgroundColor = '#fafafa';
                     square.title = '无学习记录';
+                    
+                    // 添加点击事件
+                    square.addEventListener('click', function() {
+                        showDateInfo(dayInfo.date, null);
+                    });
                 }
 
                 weekRow.appendChild(square);
@@ -411,5 +430,52 @@
                 break;
         }
     };
+
+    // 显示日期信息弹窗
+    function showDateInfo(dateStr, dayData) {
+        // 解析日期
+        const date = new Date(dateStr);
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        
+        // 格式化日期显示（中文格式）
+        const weekDays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+        const weekDay = weekDays[date.getDay()];
+        const dateDisplay = `${year}年${month}月${day}日 ${weekDay}`;
+        
+        let message = `日期：${dateDisplay}\n`;
+        
+        if (dayData && dayData.studyTime !== null && dayData.studyTime !== undefined) {
+            const minutes = Math.floor(dayData.studyTime / 60);
+            const seconds = dayData.studyTime % 60;
+            const level = getStudyTimeLevel(dayData.studyTime);
+            const levelInfo = studyTimeLevels[level];
+            
+            message += `学习时间：${minutes}分钟${seconds > 0 ? seconds + '秒' : ''}\n`;
+            message += `题目数量：${dayData.questionCount || 0}道\n`;
+            message += `等级：${levelInfo.label} (${levelInfo.grade})\n`;
+            
+            // 如果有时间戳，显示记录时间
+            if (dayData.timestamp) {
+                const recordDate = new Date(dayData.timestamp);
+                const recordDateStr = recordDate.toLocaleString('zh-CN', {
+                    year: 'numeric',
+                    month: '2-digit',
+                    day: '2-digit',
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    second: '2-digit',
+                    hour12: false
+                });
+                message += `记录时间：${recordDateStr}`;
+            }
+        } else {
+            message += `学习时间：无记录\n`;
+            message += `题目数量：0道`;
+        }
+        
+        alert(message);
+    }
 
 })();
