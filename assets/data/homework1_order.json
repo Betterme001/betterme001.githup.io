@@ -606,1279 +606,1303 @@
     "label": "形容词作定语"
   },
   {
-    "question": ". sweet的用法",
+    "question": "sweet的用法",
     "translation": "sweet",
     "knowledge_point": "- having or showing a kind character 善良的；好心的；和蔼的；温柔的；",
     "label": "sweet"
   },
   {
-    "question": ". 他们主动帮忙，真是好心人",
+    "question": "他们主动帮忙，真是好心人",
     "translation": "It was sweet of them to offer to help",
     "knowledge_point": "sweet: having or showing a kind character 善良的；好心的；和蔼的；温柔的；",
     "label": "sweet; 不定式作主语"
   },
   {
-    "question": ". 远处的那座摩天大楼是一家五星级饭店",
+    "question": "远处的那座摩天大楼是一家五星级饭店",
     "translation": "The tall building in the distance is a five-start hotel",
     "knowledge_point": "内部关系：动作；句子成分：主定系表；远处的 in the distance",
     "label": "介词短语作定语"
   },
   {
-    "question": ". 她有四个需要照顾的孩子",
+    "question": "她有四个需要照顾的孩子",
     "translation": "She has four kids to take care of",
     "knowledge_point": "- 内部关系：动作；句子成分：主谓宾定；\n- take care of (1) to care for sb/sth/yourself; to be careful about sth 照顾；照料；爱护；小心；",
     "label": "不定式作定语"
   },
   {
-    "question": ". 老板不在的时候，我来处理这件事",
+    "question": "老板不在的时候，我来处理这件事",
     "translation": "I will take care of this while the boss is away",
     "knowledge_point": "take care of (2) to be responsible for or to deal with a situation or task 负责；处理",
     "label": "take care of"
   },
   {
-    "question": ". look after和take care of的区别",
+    "question": "look after和take care of的区别",
     "translation": "look after vs take care of",
     "knowledge_point": "- look after：",
     "label": "take care of"
   },
   {
-    "question": ". 你惹你丈母娘/婆婆生气了",
+    "question": "你惹你丈母娘/婆婆生气了",
     "translation": "Did you make your mother-in-law angry",
     "knowledge_point": "内部关系：动作；句子成分：主谓宾宾补；一般现在时，表示经常。如果改成do, 表示你会惹婆婆生气？（婆婆现在可能没有生气）",
     "label": "复合名词"
   },
   {
-    "question": ". 你认为不动脑筋就能学好英语的想法是完全错误的",
+    "question": "你认为不动脑筋就能学好英语的想法是完全错误的",
     "translation": "The idea that you learn English well without thinking is quite wrong",
     "knowledge_point": "内部关系：描述；句子成分：主同位语，系表；study English 钻研，研究英语，过程；learn：获得知识，此处表示获得知识。用learn比较合适；hardworking：adj. 努力工作的；不辞辛劳的，苦干的",
     "label": "同位语从句"
   },
   {
-    "question": ". 这部手机花了我一个月的工资",
+    "question": "这部手机花了我一个月的工资",
     "translation": "This cell phone cost me a month's salary",
     "knowledge_point": "内部关系：动作；句子成分：主直接宾语，间接宾语；考察点：名词所有格；表示时间，距离，机构，城市，组织，交通工具部件，用's表述所属",
     "label": "名词的格"
   },
   {
-    "question": ". 恐怕他已经江郎才尽了",
+    "question": "恐怕他已经江郎才尽了",
     "translation": "I am afraid he is at his wits' end",
     "knowledge_point": "内部关系: 描述；句子成分：主系表，宾语从句；at his wits' end 俗语",
     "label": "名词的格"
   },
   {
-    "question": ". wits的用法",
+    "question": "wits的用法",
     "translation": "wits",
     "knowledge_point": "- ( wits ) [ pl. ] your ability to think quickly and clearly and to make good decisions 理解力；颖悟力；头脑；智力；\n- at his wits' end；",
     "label": "wits"
   },
   {
-    "question": ". 他们比我们说英语流利",
+    "question": "他们比我们说英语流利",
     "translation": "They speak English more fluently than we do",
     "knowledge_point": "下面都是对的：\n- They speak English more fluently than we do；\n- They speak English more fluently than we；\n- They speak English more fluently than us",
     "label": "比较状语从句"
   },
   {
-    "question": ". 这个世界正在等待我们去探索",
+    "question": "这个世界正在等待我们去探索",
     "translation": "the world is waiting for us to explore",
     "knowledge_point": "- 不定式to explore做us的补语，这个世界正在等待我们去探索，探索这个动作不是世界完成的，是我们，\n- to explore是对us的补充，缺少了to explore意思不完整，这里的us做了介词for后的宾语，所以也是宾补",
     "label": "宾补"
   },
   {
-    "question": ". 那个穿蓝色牛仔裤的男孩是我弟弟",
+    "question": "那个穿蓝色牛仔裤的男孩是我弟弟",
     "translation": "The boy in blue jeans is my younger brother",
     "knowledge_point": "- little brother 对比younger brother, little brother 小弟弟；\n- trousers 裤子/ jeans 牛仔裤；\n- in blue jeans = wearing blue jeans",
     "label": "介词短语作定语"
   },
   {
-    "question": ". 不好意思，靠窗的桌位都满了",
+    "question": "不好意思，靠窗的桌位都满了",
     "translation": "Sorry, All the tables by the window have been occupied/booked",
     "knowledge_point": "- 内部关系：动宾；句子成分：主定谓；\n- by 比near 更近一点；要转换思维，这里可能是饭店，或者哪里，应该是指桌子。\n- 这里的\"满\"，是指被预定：occupied/booked",
     "label": "occupied; 介词短语作定语"
   },
   {
-    "question": ". occupy的用法",
+    "question": "occupy的用法",
     "translation": "occupy",
     "knowledge_point": "- 1. [ not before noun ] being used by sb 使用中；有人使用（或居住）；",
     "label": "occupied"
   },
   {
-    "question": ". 咱们在商场附近的那家星巴克见吧",
+    "question": "咱们在商场附近的那家星巴克见吧",
     "translation": "Shall we meet at the Starbucks near the shopping mall",
     "knowledge_point": "- 内部关系：动作；句子成分：主谓状；\n- at 表示地点，in 表示在里面；shopping mall 购物中心；\n- stall 摊位，小摊\n- shopping mall 商场；mall = shopping mall",
     "label": "stall/mall"
   },
   {
-    "question": ". around的用法",
+    "question": "around的用法",
     "translation": "around",
     "knowledge_point": "- surrounding sb/sth; on each side of sth 围绕；环绕；\n- The house is built around a central courtyard 这房子是围绕着中央的庭院而建的；",
     "label": "around"
   },
   {
-    "question": ". 坐在我旁边的女孩有一点晕机",
+    "question": "坐在我旁边的女孩有一点晕机",
     "translation": "The girl sitting next to me was a bit airsick",
     "knowledge_point": "- 内部关系：描述；句子成分: 主定系表；\n- next to 比near 跟近；由远到近：near/by/besides/next to\n- 过去时，这里是转述，彼时彼刻的一个状态；",
     "label": "next to"
   },
   {
-    "question": ". a bit的用法",
+    "question": "a bit的用法",
     "translation": "a bit",
     "knowledge_point": "- 1. ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- 2. ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离；\n- 3. [ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块",
     "label": "a bit"
   },
   {
-    "question": ". 他就是我昨天见的那个人",
+    "question": "他就是我昨天见的那个人",
     "translation": "He is the man (who(m)/that) I saw yesterday",
     "knowledge_point": "- 内部关系：描述；句子成分：主系表定；\n- meet 指偶遇，遇见；see 见",
     "label": "meet/see"
   },
   {
-    "question": ". 他这人不可貌相",
+    "question": "他这人不可貌相",
     "translation": "He is not the man (that) he seems",
     "knowledge_point": "- 内部关系：描述；句子成分：主系表定；\n- 有些句子不好用动作时，就用描述关系，要学会转换",
     "label": "seem; 系动词"
   },
   {
-    "question": ". seem的用法",
+    "question": "seem的用法",
     "translation": "seem",
     "knowledge_point": "- ~ (to sb) (to be) sth | ~ like sth ( not used in the progressive tenses 不用于进行时 ) to give the impression of being or doing sth （涉及推断）好像，似乎，看来；SYN appear",
     "label": "seem"
   },
   {
-    "question": ". 定语从句中why的用法",
+    "question": "定语从句中why的用法",
     "translation": "",
     "knowledge_point": "- 在定语从句中，reason why比reason that更为常见，why是关系副词，本身没有词汇意义，只起引导定语从句的作用，可以省略，可以用that代替；\n- 定语从句：下面三种都对，连接代词作原因：",
     "label": "定语从句why"
   },
   {
-    "question": ". 他们为何被击败的这一问题得到了解答",
+    "question": "他们为何被击败的这一问题得到了解答",
     "translation": "The question why they were defeated was answered",
     "knowledge_point": "why引导的同位语从句，在这种情况中，why是连接副词，词义为\"为什么\"，前面的同位语是表\"疑问\"的词语，why不可以省略；",
     "label": "同位语从句why"
   },
   {
-    "question": ". 她来不来都没关系",
+    "question": "她来不来都没关系",
     "translation": "Whether she comes or not makes no difference",
     "knowledge_point": "- it doen't matter = make no difference；or not 加不加都可以，区别不大；\n- 将来时，有打算预测的意思，这里就是陈述，不需要用将来时",
     "label": "makes difference"
   },
   {
-    "question": ". 这场雨对比赛没多大影响",
+    "question": "这场雨对比赛没多大影响",
     "translation": "The rain didn't make much difference to the game",
     "knowledge_point": "- make a, no, some, etc. difference\n- to have an effect/no effect on sb/sth 有（或没有、有些等）作用，关系，影响；",
     "label": "make difference"
   },
   {
-    "question": ". 你能否得到这工作应该与你的年龄无关",
+    "question": "你能否得到这工作应该与你的年龄无关",
     "translation": "our age shouldn't make any difference to whether you get the job or not",
     "knowledge_point": "- to have an effect/no effect on sb/sth 有（或没有、有些等）作用，关系，影响；",
     "label": "make difference"
   },
   {
-    "question": ". 那个老美很惊讶我英语说得这么好",
+    "question": "那个老美很惊讶我英语说得这么好",
     "translation": "The American was surprised (that) I could speak English so well",
     "knowledge_point": "- 内部关系：描述；句子成分：\n- 主系表宾，注意时态是过去时",
     "label": "形容词的宾语从句"
   },
   {
-    "question": ". 你知道我们为什么把会议延期到下星期吗",
+    "question": "你知道我们为什么把会议延期到下星期吗",
     "translation": "Do you know why we(have) put off our meeting till next week",
-    "knowledge_point": "- till 前面接持续性动词\n- to: from to 从哪到哪；\n- till untill 截止的时候，一般用这俩，他俩是同样的意思，有细微的差别：till informal，until formal；\n- till 接短小的句子untill 接比较长和复杂的句子",
-    "label": "till"
-  },
-  {
-    "question": ". what引导的主语从句",
-    "translation": "",
-    "knowledge_point": "在名词性从句里，what是有两个意思的：\n- 1）what表示\"什么\"这种疑问含义；\n- 2）what不表示疑问的含义，而是表示\"…的事情\"，也就是相当于the thing(s) that；\n- 第一个句子，what有\"什么\"的含义，what引导的主语从句可以后置，用it作形式主语；\n- 第二个句子，what相当于the words that，what从句是不可以后置的",
-    "label": "what"
-  },
-  {
-    "question": ". what的用法",
-    "translation": "what",
-    "knowledge_point": "- used in questions to ask for particular information about sb/sth 什么；\n- the thing or things that; whatever …的事物；无论什么；凡是…的事物；\n- used to say that you think that sth is especially good, bad, etc. 多么；真；太",
-    "label": "what"
-  },
-  {
-    "question": ". 生气的表达方式",
-    "translation": "angry/annoyed/mad/upset",
-    "knowledge_point": "- angry，发怒、生气，用来表达愤怒情绪的最基本词汇；annoyed，感到生气的或感到厌烦的，程度不是很深；\n- mad，气疯了，大发雷霆，从程度上来说比angry和annoyed都要深；\n- upset，因为发生了不愉快的事情所以感到失望、不高兴，比起生气来说更侧重难过",
-    "label": "angry/annoyed/mad/upset"
-  },
-  {
-    "question": ". put off的用法",
-    "translation": "put off",
-    "knowledge_point": "- to postpone or cancel a meeting or an arrangement that you have made with sb 推迟；取消\n- to make sb dislike sb/sth or not trust them/it 使反感；使不信任；\n- put off后面通常用until/till，很少用to",
+    "knowledge_point": "- till 前面接持续性动词\n- to: from to 从哪到哪；\n- till untill 截止的时候，一般用这俩，他俩是同样的意思，有细微的差别：till informal，until formal；\n- till 接短小的句子untill 接比较长和复杂的句子\n- put off后面通常用until/till，很少用to",
     "label": "put off"
   },
   {
-    "question": ". 你知道最让我们惊讶的是什么吗",
+    "question": "他说的那些话很重要",
+    "translation": "What he said was very important.",
+    "knowledge_point": "在名词性从句里，what是有两个意思的：\n- 1）what表示\"什么\"这种疑问含义；\n- 2）what不表示疑问的含义，而是表示\"…的事情\"，也就是相当于the thing(s) that；\n- 这个句子时第二个意思，what相当于the words that，what从句是不可以后置的",
+    "label": "what"
+  },
+  {
+    "question": "是什么造成了事故还不清楚。",
+    "translation": "It is a mystery what caused the accident",
+    "knowledge_point": "在名词性从句里，what是有两个意思的：\n- 1）what表示\"什么\"这种疑问含义；\n- 2）what不表示疑问的含义，而是表示\"…的事情\"，也就是相当于the thing(s) that；\n- 这里是第一个意思，what有\"什么\"的含义，what引导的主语从句可以后置，用it作形式主语；",
+    "label": "what"
+  },
+  {
+    "question": "表示生气的词有：",
+    "translation": "annoyed/angry/mad/upset",
+    "knowledge_point": "- annoyed，感到生气的或感到厌烦的，程度不是很深；\n- angry，发怒、生气，用来表达愤怒情绪的最基本词汇；\n- mad，气疯了，大发雷霆，从程度上来说比angry和annoyed都要深；\n- upset，因为发生了不愉快的事情所以感到失望、不高兴，比起生气来说更侧重难过",
+    "label": "annoyed/angry/mad/upset"
+  },
+  {
+    "question": "我们只得把婚期推迟到九月。",
+    "translation": "We’ve had to put off our wedding until September.",
+    "knowledge_point": "- to postpone or cancel a meeting or an arrangement that you have made with sb 推迟；取消\n- put off后面通常用until/till，很少用to",
+    "label": "put off"
+  },
+  {
+    "question": "你知道最让我们惊讶的是什么吗",
     "translation": "Do you know what suprised us most",
     "knowledge_point": "内部关系：动作；句子成分：主谓宾（宾语从句）\n- surprise sb 更简洁 = make sb surprised；suprise 就有引起的意思；\n- mostly: mainly; generally 主要地；一般地；通常",
     "label": "surprise; most"
   },
   {
-    "question": ". 最让我们惊讶的是他的口音",
+    "question": "最让我们惊讶的是他的口音",
     "translation": "What suprised us most is his accent",
-    "knowledge_point": "内部关系：描述；句子成分：主系表, 名词性从句",
+    "knowledge_point": "内部关系：描述；句子成分：主系表, 名词性从句\n- 这里what 的意思是the thing that",
     "label": "most"
   },
   {
-    "question": ". 那正是我想要的",
+    "question": "那正是我想要的",
     "translation": "That's exactly what I want",
     "knowledge_point": "exactly 恰恰；not exactlly 不完全是，不见得",
     "label": "exactly"
   },
   {
-    "question": ". not exactly的用法",
+    "question": "not exactly的用法",
     "translation": "not exactly",
     "knowledge_point": "- 1.（说反话时）根本不，决不，一点也不；\n- 2.（纠正对方刚说过的话）不完全",
     "label": "exactly"
   },
   {
-    "question": ". 喜欢一个人和爱一个人有天壤之别",
+    "question": "喜欢一个人和爱一个人有天壤之别",
     "translation": "there is a world of difference between liking someone or loving someone",
     "knowledge_point": "喜欢一个人和爱一个人有天壤之别",
     "label": ""
   },
   {
-    "question": ". have no idea的用法",
+    "question": "have no idea的用法",
     "translation": "have no idea",
     "knowledge_point": "- Do you have any idea what it was like, Sherlock? 你知道那是什么感觉吗，夏洛克？；\n- You have no idea how much havoc I can cause 你无法想象我能造成多么大的破坏；\n- I had no idea that she was unhappy 我不知道她不高兴",
     "label": "have no idea"
   },
   {
-    "question": ". most作为副词的用法",
+    "question": "most作为副词的用法",
     "translation": "most",
     "knowledge_point": "- most 作为副词，可以与两个或两个以上音节的形容词或副词连用构成最高级；\n- most作副词，还表示「程度上最大，最多，最高」，是much的最高级，the most 修饰动作；非正式英语中，the常常省略",
     "label": "most"
   },
   {
-    "question": ". 问题是我们能否联系得上她",
+    "question": "问题是我们能否联系得上她",
     "translation": "The question is whether we can get in touch with her",
     "knowledge_point": "- 内部关系：描述；句子成分：主系表；\n- can 本色2 能力（有做。。的潜力，具备做某事的条件，强调能力而不强调具体动作；\n- contact sb!= get in touch with sb；get in touch with 是联系上某人；contact 是联系某人，不强调联系上，只是联系本身的行文",
     "label": "get in touch/contact"
   },
   {
-    "question": ". contact的用法",
+    "question": "contact的用法",
     "translation": "contact [ˈkɑːntækt]",
     "knowledge_point": "- 1. [ U ] ~ (with sb) | ~ (between A and B) the act of communicating with sb, especially regularly （尤指经常的）联系，联络；\n- 2. [ U ] the state of touching sth 触摸；接触；\n- 3. [ C ] a person that you know, especially sb who can be helpful to you in your work 熟人；（尤指）社会关系；\n- v. [ VN ] to communicate with sb, for example by telephone or letter 联系，联络（如用电话或信件）",
     "label": "get in touch/contact"
   },
   {
-    "question": ". contact和get in touch with的区别",
+    "question": "contact和get in touch with的区别",
     "translation": "contact vs get in touch with",
     "knowledge_point": "- contact侧重动作（联系），get in touch with侧重最终结果（联系上了）；有点类似look for 和find 的关系",
     "label": "get in touch/contact"
   },
   {
-    "question": ". 我们在讨论是否要开一个会",
+    "question": "我们在讨论是否要开一个会",
     "translation": "we are discussing whether we should hold a meeting",
     "knowledge_point": "内部关系：动作；句子成分：主谓宾；hold a meeting 开一个会",
     "label": "名词性从句-一般疑问句"
   },
   {
-    "question": ". 月球上到底有无生命是个有趣的问题",
-    "translation": "Whether there is life on the moon is an insteresting question",
-    "knowledge_point": "- 内部关系：描述；句子成分：主系表；\n- on the moon , on the earth. 星球前都要加the",
-    "label": "名词性从句-一般疑问句"
-  },
-  {
-    "question": ". 他能否准时参加婚礼得看交通情况",
+    "question": "他能否准时参加婚礼得看交通情况",
     "translation": "whether he can come to /attend the wedding on time depends on the traffic",
     "knowledge_point": "- 内部关系：动作；句子成分：主谓（depends on)宾；\n- attend the wedding",
     "label": "attend; 名词性从句-一般疑问句"
   },
   {
-    "question": ". 他过来看看他的猫是否有什么问题",
+    "question": "他过来看看他的猫是否有什么问题",
     "translation": "He came to see whether there was anything wrong with his cat",
     "knowledge_point": "内部关系：动作；句子成分：主谓状",
     "label": "名词性从句-一般疑问句"
   },
   {
-    "question": ". 我正在考虑要不要把现在的这个工作辞了",
+    "question": "我正在考虑要不要把现在的这个工作辞了",
     "translation": "I am thinking about/considering whether I should quit my present job",
     "knowledge_point": "内部关系：动作；句子成分：主谓宾",
     "label": "名词性从句-一般疑问句; quit和resign"
   },
   {
-    "question": ". quit和resign的区别",
+    "question": "quit和resign的区别",
     "translation": "quit vs resign",
     "knowledge_point": "- Quit: to leave your job, school, etc. 离开（工作职位、学校等）；离任；离校。更多是单方面的决定不干了；\n- Resign:to officially tell sb that you are leaving your job, an organization, etc. 辞职；辞去（某职务）更多是指需要走一遍正式的离职流程，双方都达成共识",
     "label": "quit和resign"
   },
   {
-    "question": ". quit的用法",
+    "question": "quit的用法",
     "translation": "quit",
     "knowledge_point": "- If I don't get more money I'll quit 不给我加薪我就辞职；\n- He has decided to quit as manager of the team 他已决定辞掉球队经理的职务；\n- I've quit smoking 我戒了烟；\n- He quit the show last year because of bad health 去年他因身体欠佳而退出了表演",
     "label": "quit和resign"
   },
   {
-    "question": ". resign的用法",
+    "question": "resign的用法",
     "translation": "resign",
     "knowledge_point": "~ (from sth) | ~ (as sth) to officially tell sb that you are leaving your job, an organization, etc. 辞职；辞去（某职务）；\n- He resigned as manager after eight years 八年后，他辞去了经理的职务；\n- My father resigned his directorship last year 我父亲去年辞去了董事的职务",
     "label": "quit和resign"
   },
   {
-    "question": ". honey的用法",
+    "question": "honey的用法",
     "translation": "honey",
     "knowledge_point": "- [ U ] a sweet sticky yellow substance made by bees that is spread on bread, etc. like jam 蜂蜜\n- [ C ] ( informal ) a way of addressing sb that you like or love （爱称）亲爱的，宝贝\n- [ C ] ( informal ) a person that you like or love and think is very kind 可爱的人\n- Have you seen my keys, honey? 你见到我的钥匙了吗，宝贝？\n- He can be a real honey when he wants to be. 他高兴的时候挺招人喜欢的",
     "label": "honey"
   },
   {
-    "question": ". 主语从句后置的规则",
+    "question": "主语从句后置的规则",
     "translation": "主语从句后置",
     "knowledge_point": "- 大多数主语从句都可以用 it 代替, 作形式主语, 把主语从句置于句尾\n- that 引导的主语从句可用 it 代替, that 不可省\n- 但是,当 what 引导的主语从句表示\"……的东西\"时,一般不用 it 作形式主语\n- whatever, whoever, whichever 一般也不用 it 作形式主语\n- who引导的主语从句，可以后置，也可以不后置，这两个句子都是可以的",
     "label": "主语从句"
   },
   {
-    "question": ". 问题是他能不能做",
+    "question": "问题是他能不能做",
     "translation": "The question is whether he can do it",
     "knowledge_point": "- do既可以作及物动词也可以作不及物动词，及物动词后面要有宾语，不及物动词后面没有宾语\n- They are free to do as they please.这个句子，do是不及物动词，所以后面没有宾语\n- 这题\"能不能做\"是\"干\"的意思，时刻根据词典do用作及物动词，用do sth的结构表达为do it\n- 这题是do是\"做，干，办\"的意思，不是\"表现\"的意思\n- do vt 做，干，办（某事），vi 以某种方式）做；行动；表现。这里是第一个意思",
     "label": "do"
   },
   {
-    "question": ". join的用法",
+    "question": "join的用法",
     "translation": "join",
     "knowledge_point": "- join: to become a member of an organization, a company, a club, etc. 成为…的一员；参加；加入\n- They may apply to join the organization 他们可以申请加入这个组织\n- I've joined an aerobics class. 我参加了有氧健身班\n- She joined the company three months ago. 她三个月前进了这家公司",
     "label": "attend/join/join in"
   },
   {
-    "question": ". 她三个月前进了这家公司",
+    "question": "她三个月前进了这家公司",
     "translation": "She joined the company three months ago",
     "knowledge_point": "join: to become a member of an organization, a company, a club, etc. 成为…的一员；参加；加入",
     "label": "attend/join/join in"
   },
   {
-    "question": ". join in的用法",
+    "question": "join in的用法",
     "translation": "join in",
     "knowledge_point": "- join in：to take part in an activity with other people 参加，加入（活动）\n- ˌjoin ˈin (sth/doing sth)| ˌjoin ˈin (with sb/sth) 后面加活动，join 后面加组织，人们（成为其中一员）",
     "label": "attend/join/join in"
   },
   {
-    "question": ". 她只是听，但从来不发表意见",
+    "question": "她只是听，但从来不发表意见",
     "translation": "She listens but she never joins in",
     "knowledge_point": "ˌjoin ˈin (sth/doing sth)| ˌjoin ˈin (with sb/sth)：to take part in an activity with other people 参加，加入（活动）",
     "label": "attend/join/join in"
   },
   {
-    "question": ". 我想要加入他们的冒险",
+    "question": "我想要加入他们的冒险",
     "translation": "I want to join in their adventures",
     "knowledge_point": "join in：to take part in an activity with other people 参加，加入（活动）",
     "label": "attend/join/join in"
   },
   {
-    "question": ". attend的用法",
+    "question": "attend的用法",
     "translation": "attend",
     "knowledge_point": "attend: to be present at an event 出席；参加",
     "label": "attend/join/join in"
   },
   {
-    "question": ". 月球上到底有无生命是个有趣的问题",
+    "question": "月球上到底有无生命是个有趣的问题",
     "translation": "Whether there is life on the moon is an insteresting question",
-    "knowledge_point": "- 此处life表示生命，是一种抽象的概念。所以不加冠词\n- life表示生命，生命；人命。还有生物和时期的意思\n- [ U ] the ability to breathe, grow, reproduce, etc. which people, animals and plants have before they die and which objects do not have 生命\n- life and death 生与死\n- The body was cold and showed no signs of life. 那躯体冰凉，显现不出有生命的迹象",
+    "knowledge_point": "- the moon ,独一无二，the earth\n- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- 此处life表示生命，是一种抽象的概念。所以不加冠词\n- [ U ] the ability to breathe, grow, reproduce, etc. which people, animals and plants have before they die and which objects do not have生命（注意这里指人，动物，植物等）",
     "label": "life"
   },
   {
-    "question": ". 洪水造成许多人丧生",
+    "question": "洪水造成许多人丧生",
     "translation": "The floods caused a massive loss of life",
-    "knowledge_point": "- STATE OF LIVING 生存状态：生命；人命。\n- [ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里不可数",
+    "knowledge_point": "- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- STATE OF LIVING 生存状态：人命（注意这里特指人）\n- [ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里不可数",
     "label": "life"
   },
   {
-    "question": ". 他冒着生命危险从火中救出他的女儿",
+    "question": "他冒着生命危险从火中救出他的女儿",
     "translation": "He risked his life to save his daughter from the fire",
-    "knowledge_point": "- STATE OF LIVING 生存状态：生命；人命。\n- [ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里可数",
+    "knowledge_point": "- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- STATE OF LIVING 生存状态：人命（注意这里特指人）\n- [ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里可数",
     "label": "life"
   },
   {
-    "question": ". 数百条性命在大楼垮塌时受到了威胁",
+    "question": "数百条性命在大楼垮塌时受到了威胁",
     "translation": "Hundreds of lives were threatened when the building collapsed",
-    "knowledge_point": "- STATE OF LIVING 生存状态：生命；人命。\n- [ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里可数",
+    "knowledge_point": "- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- STATE OF LIVING 生存状态：人命（注意这里特指人）\n- [ U C ] the state of being alive as a human; an individual person's existence 人命；性命；人的存活；这里可数",
     "label": "life"
   },
   {
-    "question": ". 植╱动物 ,海洋╱池塘生物",
+    "question": "植╱动物 ,海洋╱池塘生物",
     "translation": "plant/animal life；marine/pond life",
-    "knowledge_point": "- **LIVING THINGS 生物**\n- life 义项之二：[U] living things 生物；活物\n- 常见搭配：plant/animal/marine/pond life",
+    "knowledge_point": "- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- **LIVING THINGS 生物**\n- life 义项之二：[U] living things 生物；活物\n- 常见搭配：plant/animal/marine/pond life",
     "label": "life"
   },
   {
-    "question": ". 他在这里住了一辈子了",
+    "question": "他在这里住了一辈子了",
     "translation": "He's lived here all his life",
-    "knowledge_point": "- **PERIOD OF TIME 时期**\n- life 义项之三：[C/U] the period between birth and death; a part of this period 一生；寿命；一生中的部分时间\n- all his life 中名词作状语（时间）",
+    "knowledge_point": "- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- **PERIOD OF TIME 时期**\n- life 义项之三：[C/U] the period between birth and death; a part of this period 一生；寿命；一生中的部分时间\n- all his life 中名词作状语（时间）",
     "label": "life"
   },
   {
-    "question": ". 我是怕你喝太多酒",
+    "question": "我是怕你喝太多酒",
     "translation": "I am afraid of your/you drinking too much",
     "knowledge_point": "- 内部关系：动作\n- 句子成分：主系表（afraid)，of 加上后面的做原因状语（动名词作of 的宾语）\n- 知识点：动名词的逻辑主语",
     "label": "动名词的逻辑主语"
   },
   {
-    "question": ". 和这种人争论，没有意义",
+    "question": "和这种人争论，没有意义",
     "translation": "There is no point (in) arguing with that kind of guy",
     "knowledge_point": "动名词的特殊句型",
     "label": "动名词-特定句型"
   },
   {
-    "question": ". 他被某人的敲门声唤醒",
+    "question": "他被某人的敲门声唤醒",
     "translation": "He was awakened by someone's knocking on/at the door",
     "knowledge_point": "动名词的逻辑主语",
     "label": "动名词的逻辑主语"
   },
   {
-    "question": ". 他一句话没有说，就离开了房间",
+    "question": "他一句话没有说，就离开了房间",
     "translation": "She left the room without saying a word",
     "knowledge_point": "",
     "label": "动名词"
   },
   {
-    "question": ". 我因为他忘记了我的生日而生气",
-    "translation": "I am annoyed about his forgetting my birthday present",
-    "knowledge_point": "动名词的逻辑主语",
+    "question": "他忘了给我的生日礼物，我很生气",
+    "translation": "I am annoyed about his forgetting my birthday present[ˈprez(ə)nt]",
+    "knowledge_point": "动名词的逻辑主语\n- present[ˈprez(ə)nt]. adj, 出现的，在场的，目前的， n. 现在，目前，礼物\n- present[prɪˈzent] v. 展现, 呈现",
     "label": "动名词的逻辑主语"
   },
   {
-    "question": ". 被爱给予你力量",
+    "question": "被爱给予你力量",
     "translation": "Being loved gives you strength",
-    "knowledge_point": "- 忘记了动词的单复数，注意动词的时态，和单复数\n- strength：是体力意志力\n- power; 权利，控制力",
+    "knowledge_point": "- 忘记了动词的单复数，注意动词的时态，和单复数\n- strength：是体力意志力\n- power: 权利，控制力",
     "label": "系表的动名词"
   },
   {
-    "question": ". 他正考虑在海淀买个房子",
+    "question": "他正考虑在海淀买个房子",
     "translation": "He is considering buying a house in Haidian District",
     "knowledge_point": "consider doing sth.",
     "label": "consider"
   },
   {
-    "question": ". 你抽这么多烟对身体不好",
+    "question": "你抽这么多烟对身体不好",
     "translation": "Your smoking so much is not good for your health",
     "knowledge_point": "- It's bad/harmful for/to your health to smoke.\n- 老师这么写，不算错，但是to do 表示一次，smoking 表示惯性行为\n- Your smoking, your 指向性更强",
     "label": "动名词的逻辑主语"
   },
   {
-    "question": ". 减肥这件事其实就是自我控制的问题",
+    "question": "减肥这件事其实就是自我控制的问题",
     "translation": "Losing weight is a matter of disciplining yourself actually",
     "knowledge_point": "- disciplining 是 discipline 的动名词\n- discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）\n- matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
     "label": "discipline"
   },
   {
-    "question": ". 他规定自己每周至少锻炼三次",
+    "question": "他规定自己每周至少锻炼三次",
     "translation": "He disciplined himself to exercise at least three times a week",
     "knowledge_point": "discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）",
     "label": "discipline"
   },
   {
-    "question": ". 节食是自我控制的问题",
-    "translation": "Dieting is a matter of disciplining yourself",
+    "question": "节食是自我控制的问题",
+    "translation": "Dieting [ˈdaɪətɪŋ] is a matter of disciplining yourself",
     "knowledge_point": "discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）",
     "label": "discipline"
   },
   {
-    "question": ". 学开车主要是靠协调",
+    "question": "学开车主要是靠协调",
     "translation": "Learning to drive is all a matter of coordination",
-    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情；学开车是关于（取决于) 协调的问题",
+    "knowledge_point": "- matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情；学开车是关于（取决于) 协调的问题\n- all: completely 完全地",
     "label": "matter"
   },
   {
-    "question": ". 她因为原则问题而辞职",
+    "question": "她因为原则问题而辞职",
     "translation": "She resigned over a matter of principle",
-    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
+    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情\n- over: because of or concerning sth; about sth 由于；关于, 通常用于争议，分歧",
     "label": "matter"
   },
   {
-    "question": ". 他不能一直隐藏自己的面目",
+    "question": "他因为和老板的一次争执而辞职了",
+    "translation": "He quit his job over a dispute with his boss.",
+    "knowledge_point": "over: because of or concerning sth; about sth 由于；关于, 通常用于争议，分歧",
+    "label": "over"
+  },
+  {
+    "question": "他不能一直隐藏自己的面目",
     "translation": "He can't resist showing us his face",
     "knowledge_point": "- 内部关系：动作\n- 句子成分：主谓宾\n- 也可以说 He can't hide his face forever\n- 这里双重否定表示肯定\n- resist 有一层含义是「忍住；抵挡」，通常用在否定句中\n- can't resist doing 无法忍住做某事→忍不住做某事",
     "label": "resist"
   },
   {
-    "question": ". 他忍不住把整块蛋糕都吃了",
-    "translation": "I couldn't resist it",
+    "question": "他忍不住把整块蛋糕都吃了",
+    "translation": "He couldn't resist eating the whole cake",
     "knowledge_point": "resist ( usually in negative sentences 通常用于否定句 ) to stop yourself from having sth you like or doing sth you very much want to do 忍住；抵挡",
     "label": "resist"
   },
   {
-    "question": ". 我必须得忍受戴那顶滑稽帽子的痛苦",
+    "question": "我必须得忍受戴那顶滑稽帽子的痛苦",
     "translation": "I have to endure wearing the comical hat",
     "knowledge_point": "- 内部关系：动作\n- 句子成分：主谓宾\n- comical adj. 滑稽的，好笑的\n- have to是不得不，客观必须；must 表示主观必须\n- endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
     "label": "endure"
   },
   {
-    "question": ". 他们只得忍受长时间的等待",
-    "translation": "They had to endure a long wait before the case came to trial",
-    "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
+    "question": "他们不得不忍受漫长的等待，直到案件开庭审理",
+    "translation": "They had to endure a long wait before the case came to trial [ˈtraɪəl]",
+    "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear\n- trail[ˈtraɪəl] 审判",
     "label": "endure"
   },
   {
-    "question": ". 他无法忍受失败",
+    "question": "他无法忍受失败",
     "translation": "He can't endure being defeated / He can't endure to be defeated",
     "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
     "label": "endure"
   },
   {
-    "question": ". 这种痛苦几乎使他无法忍受",
+    "question": "这种痛苦几乎使他无法忍受",
     "translation": "The pain was almost more than he could bear",
-    "knowledge_point": "1. ( used with can/could in negative sentences and questions 在否定句和疑问句中与can╱could连用 ) to be able to accept and deal with sth unpleasant 承受；忍受",
-    "label": "bear"
+    "knowledge_point": "1. ( used with can/could in negative sentences and questions 在否定句和疑问句中与can╱could连用 ) to be able to accept and deal with sth unpleasant 承受；忍受\n- **The pain**: 主语，was: 系动词\n- **almost more than he could bear**: **表语**，用来说明主语“疼痛”的性质或程度。这个表语本身可以再细分：\n- **almost**: 状语，修饰后面的整个“more than...”结构，表示“几乎”。\n- **more than he could bear**: 这是一个“比较级+比较从句”的结构，共同构成表语的核心。\n- **more**: 这是句子的**表语核心词**。它是一个名词性的成分，相当于“更多的量/程度”。你可以把它理解为 `more pain`的省略形式，指“超出承受范围的那部分疼痛”。\n- **than he could bear**: **比较状语从句**，用来修饰“more”，界定这个“更多”是相对于什么标准而言的。这个从句本身的结构是：`than`: 从属连词，引导比较状语从句。`he`: 从句的主语。`could bear`: 从句的谓语。",
+    "label": "bear; more than"
   },
   {
-    "question": ". 失去他的情况她想都不敢想",
+    "question": "这**超出了**我的需求",
+    "translation": "This is **more than I need**",
+    "knowledge_point": "`more`（表语核心）+ `than I need`（比较从句）。",
+    "label": "more than"
+  },
+  {
+    "question": "失去他的情况她想都不敢想",
     "translation": "She couldn't bear the thought of losing him",
-    "knowledge_point": "1. ( used with can/could in negative sentences and questions 在否定句和疑问句中与can╱could连用 ) to be able to accept and deal with sth unpleasant 承受；忍受",
+    "knowledge_point": "1. ( used with can/could in negative sentences and questions 在否定句和疑问句中与can╱could连用 ) to be able to accept and deal with sth unpleasant 承受；忍受\n- could 本色表示过去的能力， 这里是只过去不能。",
     "label": "bear"
   },
   {
-    "question": ". 这项计划经不起仔细审查。",
+    "question": "这项计划经不起仔细审查。",
     "translation": "The plan won't bear close inspection *(= it will be found to be unacceptable when carefully examined)*",
-    "knowledge_point": "2. not ~ sth/doing sth to not be suitable for sth 不适于某事（或做某事）",
+    "knowledge_point": "2. not ~ sth/doing sth： to not be suitable for sth 不适于某事（或做某事）",
     "label": "bear"
   },
   {
-    "question": ". 他遭受的苦难不堪回首。",
+    "question": "他遭受的苦难不堪回首。",
     "translation": "His sufferings don't bear thinking about *(= because they are so terrible)*",
-    "knowledge_point": "2. not ~ sth/doing sth to not be suitable for sth 不适于某事（或做某事）",
+    "knowledge_point": "2. not ~ sth/doing sth： to not be suitable for sth 不适于某事（或做某事）",
     "label": "bear"
   },
   {
-    "question": ". 父母是否应当负担全部学费？",
-    "translation": "Do parents have to bear the whole cost of tuition fees?",
-    "knowledge_point": "3. [ VN ] ( *formal* ) to take responsibility for sth 承担责任",
+    "question": "父母是否应当负担全部学费？",
+    "translation": "Do parents have to bear the whole cost of tuition[tuˈɪʃ(ə)n] fees?",
+    "knowledge_point": "3. [ VN ] ( *formal* ) to take responsibility for sth 承担责任\n- cost 是开支\n- fee 是费用\n- 其实这里用the whole tuition[tuˈɪʃ(ə)n] fees 也可以，加上cost,强调学费的开支，突出学费是一笔巨大的“开支”或“经济负担”。",
     "label": "bear"
   },
   {
-    "question": ". 你不应该非得代人受过。",
+    "question": "你不应该非得代人受过。",
     "translation": "You shouldn't have to bear the blame for other people's mistakes.",
     "knowledge_point": "3. [ VN ] ( *formal* ) to take responsibility for sth 承担责任",
     "label": "bear"
   },
   {
-    "question": ". 冰太薄，承受不住你的重量",
+    "question": "冰太薄，承受不住你的重量",
     "translation": "The ice is too thin to bear your weight.",
     "knowledge_point": "4. [ VN ] to support the weight of sb/sth 支撑；承受（重量）",
     "label": "bear"
   },
   {
-    "question": ". 她不能生育",
+    "question": "她不能生育",
     "translation": "She was not able to bear children.",
     "knowledge_point": "5. ( *formal* ) to give birth to a child 生（孩子）",
     "label": "bear"
   },
   {
-    "question": ". 你觉得我去会有什么帮助吗",
+    "question": "你觉得我去会有什么帮助吗",
     "translation": "Do you think my going will be of any help",
     "knowledge_point": "- 内部关系：动作\n- 句子成分：主谓宾（主系表）\n- be helpful = be of any help",
     "label": "动名词的逻辑主语"
   },
   {
-    "question": ". 这本神奇的书将会教你如何培养新的习惯，帮你管理时间",
+    "question": "这本神奇的书教你如何养成可以帮助你管理时间的新习惯",
     "translation": "This magic book teaches you how to acquire new habits that can help you manage your time",
-    "knowledge_point": "- 内部关系：动作\n- 句子成分：不定式 作直接宾语\n- you 直接宾语， hows to do 作直接宾语\n- teach sb to do sth todo是宾补， how to do 是直接宾语\n- how to do sth是 不定式的特殊结构，常常只用来作宾语，而不作补语",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：不定式 作直接宾语\n- you 直接宾语， hows to do 作直接宾语\n- teach sb to do sth todo是宾补， how to do 是直接宾语\n- how to do sth是 不定式的特殊结构，常常只用来作宾语，而不作补语\n- magic ( *informal* ) having a special quality that makes sth seem wonderful 神奇的；有魔力的；美好的\n- magical：",
     "label": "how to do"
   },
   {
-    "question": ". 计算机使得人类的工作效率有了极大的飞跃",
-    "translation": "The computer makes possible a marvelous leap in human proficiency",
-    "knowledge_point": "- 句子成分：主谓宾补 宾\n- make possible 使成为可能\n- make possible 使成为可能。宾补提前是为了平衡句子结构",
+    "question": "计算机使得人类的工作效率有了极大的飞跃",
+    "translation": "The computer makes possible a marvelous[ˈmɑːrvələs] leap in human proficiency[prəˈfɪʃ(ə)nsi] 熟练，精通（计算机使人类熟练程度的巨大飞跃成为可能）",
+    "knowledge_point": "- 句子成分：主谓宾补 宾\n- make possible 使成为可能\n- make possible 使成为可能。宾补提前是为了平衡句子结构\n- marvelous 巨大的",
     "label": "宾补"
   },
   {
-    "question": ". 这个问题需要好好讨论下",
+    "question": "这个问题需要好好讨论下",
     "translation": "The question /problem needs discussing fully",
     "knowledge_point": "- 现在一般时，主语动词单复数变化\n- 这里\"好好\"实际是\"充分地\"意思。要脱壳。脱掉\"汉语模糊语意\"，脱掉\"汉语的\"成分不清楚的壳\n- fully: completely 完全地；全部地；充分地",
     "label": "fully"
   },
   {
-    "question": ". 我们充分意识到危险",
+    "question": "我们充分意识到危险",
     "translation": "We are fully aware of the dangers",
-    "knowledge_point": "fully: completely 完全地；全部地；充分地",
+    "knowledge_point": "- fully: completely 完全地；全部地；充分地\n- [ C U ] ~ of sth | ~ that the possibility of sth bad or unpleasant happening （坏事或不快之事发生的）可能性，危险",
     "label": "fully"
   },
   {
-    "question": ". 这种病感染了足足30%的人口",
-    "translation": "The disease affects fully 30 per cent of the population",
+    "question": "这种病感染了足足30%的人口",
+    "translation": "The disease affects fully 30 percent of the population",
     "knowledge_point": "fully ( formal ) ( used to emphasize an amount 强调数量 ) the whole of; as much as 整整；足足",
     "label": "fully"
   },
   {
-    "question": ". 他的麻烦是，一切办法都试过了，却还是不成功",
+    "question": "他的麻烦是，一切办法都试过了，却还是不成功",
     "translation": "His trouble is having tried every means and being still unsuccessful",
-    "knowledge_point": "动名词的完成时，和并列结构的动名词",
+    "knowledge_point": "动名词的完成时，和并列结构的动名词\n- 其实having 和being 前面都隐含一个his，表示逻辑主语，being 一般现在表示不成功的状态，而不能用failing, 是瞬间动词，不能表示当下的状态。",
     "label": "动名词的完成时"
   },
   {
-    "question": ". 这个电影值得多看几遍",
+    "question": "这个电影值得多看几遍",
     "translation": "The movie needs watching more than once",
     "knowledge_point": "- \"值得多看几遍\"的核心含义就是看一遍不够，还要再看几次，所以是more than once\n- more times虽然不错，但是其实more than once更符合英文的表达思维和习惯，建议积累\n- 没有some more times这个说法，改成several more times可以用",
     "label": "more than once"
   },
   {
-    "question": ". 我不得不停下手中的事，去看微信消息",
+    "question": "我不得不停下手中的事，去看微信消息",
     "translation": "I have to stop to check the messages on WebChat",
     "knowledge_point": "- 句子成分: 主谓状\n- stop to do 本身就是停下手中事，去做什么。所以这里不用stop what I am doing就可以\n- on在这里的意思是 by means of sth; using sth, 借助/通过/使用（工具等），类似的还有on the internet，所以是可以的\n- WeChat messages也可以，比如可以说to send a WeChat message",
     "label": "stop to do"
   },
   {
-    "question": ". 改进学习方法很重要",
-    "translation": "To improve the learning method is uber-important",
+    "question": "改进学习方法很重要",
+    "translation": "To improve the learning method is uber-important [ˈuːbər]...",
     "knowledge_point": "- uber- 词缀\" 超级XXX的\"\n- uber-cool 超级酷的\n- uber-handsome 超级帅的",
     "label": "不定式作主语"
   },
   {
-    "question": ". 有什么要说的话吗",
+    "question": "有什么要说的话吗",
     "translation": "Do you have anything to say",
     "knowledge_point": "",
     "label": "anything/something to do"
   },
   {
-    "question": ". 学校因纪律严格而名闻遐迩",
+    "question": "学校因纪律严格而名闻遐迩",
     "translation": "The school has a reputation for high standards of discipline",
     "knowledge_point": "discipline n. [ U ] the practice of training people to obey rules and orders and punishing them if they do not; the controlled behaviour or situation that results from this training 训练；训导；纪律；风纪",
     "label": "discipline"
   },
   {
-    "question": ". Jim 的理想是当一名主厨",
+    "question": "Jim 的理想是当一名主厨",
     "translation": "Jim's ambition is to be a head chef",
     "knowledge_point": "- head chief 比 chief chef 用的更多一点\n- ambition [ C ] something that you want to do or achieve very much 追求的目标；夙愿\n- ideal 不合适,dream 可以",
     "label": "ambition"
   },
   {
-    "question": ". 她一直未能实现当名作家的夙愿",
+    "question": "她一直未能实现当名作家的夙愿",
     "translation": "She never achieved her ambition of becoming a famous writer",
     "knowledge_point": "ambition [ C ] something that you want to do or achieve very much 追求的目标；夙愿",
     "label": "ambition"
   },
   {
-    "question": ". 最重要的是要清楚你到底想成为一个什么样的人",
+    "question": "最重要的是要清楚你到底想成为一个什么样的人",
     "translation": "What matters most is to figure out what kind of person you are going to be",
     "knowledge_point": "- are going to be 计划成为什么人\n- What matters most is = The most important thing is\n- 这里的what 其实是指 后面的表语。what matters most 是名词性从句 作主语",
     "label": "what matters"
   },
   {
-    "question": ". 未经许可就擅自离开是他的一贯作风",
+    "question": "未经许可就擅自离开是他的一贯作风",
     "translation": "It's very common for him to be absent without leave",
     "knowledge_point": "- 句子成分：主系表，不定式作真正主语\n- leave 作为名词讲 有两个意思：",
     "label": "leave"
   },
   {
-    "question": ". 一个月带薪休假",
+    "question": "一个月带薪休假",
     "translation": "a month's paid leave",
     "knowledge_point": "leave: a period of time when you are allowed to be away from work for a holiday/vacation or for a special reason 假期；休假",
     "label": "leave"
   },
   {
-    "question": ". 年假",
+    "question": "年假",
     "translation": "annual leave",
     "knowledge_point": "leave: a period of time when you are allowed to be away from work for a holiday/vacation or for a special reason 假期；休假",
     "label": "leave"
   },
   {
-    "question": ". 你那天没去真是太明智了",
+    "question": "你那天没去真是太明智了",
     "translation": "It was very wise of you to be absent that day",
     "knowledge_point": "- wise ( of people 人 ) able to make sensible decisions and give good advice because of the experience and knowledge that you have 充满智慧的；明智的；英明的；明察善断的\n- wise ( of actions and behaviour 行动和行为 ) sensible; based on good judgement 明智的；高明的；有判断力的\n- 注意这里 to be absent 不是to be done 而是 to be adj",
     "label": "wise; 不定式作主语"
   },
   {
-    "question": ". 他们有为所欲为的自由",
+    "question": "他们有为所欲为的自由",
     "translation": "They are free to do as they please",
     "knowledge_point": "- do 既可作及物动词也可作不及物动词；本句 do 作不及物，后不接宾语\n- do vt 做/干/办（某事）；vi 以某种方式行动；根据语境选择",
     "label": "do"
   },
   {
-    "question": ". 滑稽的长篇独白╱故事",
+    "question": "滑稽的长篇独白╱故事",
     "translation": "a comic monologue[ˈmɑːnəlɔːɡ]/story",
     "knowledge_point": "- comical（较旧/书面）：因奇特或反常而“可笑/滑稽”的\n- comic adj：令人发笑的；喜剧的；",
     "label": "comic"
   },
   {
-    "question": ". 喜剧演员",
+    "question": "喜剧演员",
     "translation": "a comic actor/comic [ˈkɑːmɪk]/comedian [kəˈmiːdiən]",
-    "knowledge_point": "- comical /ˈkɒmɪkl/ ( *old-fashioned* ) funny or amusing because of being strange or unusual 可笑的；滑稽的；有趣的\n- comical（较旧/书面）：因奇特或反常而“可笑/滑稽”的\n- comic  adj: [ only before noun ] connected with comedy (= entertainment that is funny and that makes people laugh) 喜剧的\n- comic  n: an entertainer who makes people laugh by telling jokes or funny stories 喜剧演员 SYN comedian.",
-    "label": "comic"
+    "knowledge_point": "- comical /ˈkɒmɪkl/ ( old-fashioned ) funny or amusing because of being strange or unusual 可笑的；滑稽的；有趣的\n- comical（较旧/书面）：因奇特或反常而“可笑/滑稽”的\n- comic  adj: [ only before noun ] connected with comedy[ˈkɑːmədi]喜剧 (= entertainment that is funny and that makes people laugh) 喜剧的\n- comic [ˈkɑːmɪk] n: an entertainer who makes people laugh by telling jokes or funny stories 喜剧演员 SYN comedian.",
+    "label": "comic[ˈkɑːmɪk]"
   },
   {
-    "question": ". 他们可以申请加入这个组织",
+    "question": "他们可以申请加入这个组织",
     "translation": "They may apply to join the organization",
     "knowledge_point": "",
     "label": "join"
   },
   {
-    "question": ". 我参加了有氧健身班",
+    "question": "我参加了有氧健身班",
     "translation": "I've joined an aerobics class",
     "knowledge_point": "",
     "label": "join"
   },
   {
-    "question": ". 她三个月前进了这家公司",
+    "question": "她三个月前进了这家公司",
     "translation": "She joined the company three months ago",
     "knowledge_point": "",
     "label": "join"
   },
   {
-    "question": ". 这所学校因纪律严格而名闻遐迩。",
+    "question": "这所学校因纪律严格而名闻遐迩。",
     "translation": "The school has a reputation for high standards of discipline",
     "knowledge_point": "- n. [ U ] the practice of training people to obey rules and orders and punishing them if they do not; the controlled behaviour or situation that results from this training 训练；训导；纪律；风纪",
     "label": "discipline"
   },
   {
-    "question": ". 学开车主要是靠协调。(学开车是关于（取决于) 协调的问题）",
+    "question": "学开车主要是靠协调。(学开车是关于（取决于) 协调的问题）",
     "translation": "Learning to drive is all a matter of coordination.",
     "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
     "label": "matter"
   },
   {
-    "question": ". 她因为原则问题而辞职",
+    "question": "她因为原则问题而辞职",
     "translation": "She resigned over a matter of principle .",
     "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
     "label": "matter"
   },
   {
-    "question": ". 政府必须将此事当作紧急的事情来处理。（关于urgency的事）",
+    "question": "政府必须将此事当作紧急的事情来处理。（关于urgency的事）",
     "translation": "The government must deal with this as a matter of urgency .",
     "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
     "label": "matter"
   },
   {
-    "question": ". 当务之急是弄清楚这些人出了什么事。（弄清楚这些人出了什么事， 是关于当下紧急的问题。）",
-    "translation": "It is a matter of the utmost urgency to find out what has happened to these people.",
-    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
-    "label": "matter"
+    "question": "当务之急是弄清楚这些人出了什么事。（弄清楚这些人出了什么事， 是关于当下紧急的问题。）",
+    "translation": "It is a matter of the utmost[ˈʌtmoʊst] urgency to find out what has happened to these people.",
+    "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情\n- utmost adj. 极度的，最大的",
+    "label": "matter; 不定式作主语"
   },
   {
-    "question": ". 抵制变革",
+    "question": "抵制变革",
     "translation": "to resist change",
     "knowledge_point": "resist 1. to refuse to accept sth and try to stop it from happening 抵制；阻挡：",
     "label": "resist"
   },
   {
-    "question": ". 他试图制伏我，但我奋力反抗；",
+    "question": "他试图制伏我，但我奋力反抗；",
     "translation": "He tried to pin me down, but I resisted.",
     "knowledge_point": "resist 2. to fight back when attacked; to use force to stop sth from happening",
     "label": "resist"
   },
   {
-    "question": ". 我忍不住把整块蛋糕都吃了。",
+    "question": "我忍不住把整块蛋糕都吃了。",
     "translation": "I couldn't resist it .",
     "knowledge_point": "resist 3. ( usually in negative sentences 通常用于否定句 ) to stop yourself from having sth you like or doing sth you very much want to do",
     "label": "resist"
   },
   {
-    "question": ". 健康饮食有助于身体抗感染",
+    "question": "健康饮食有助于身体抗感染",
     "translation": "A healthy diet should help your body resist infection.",
     "knowledge_point": "resist 4. [ VN ] to not be harmed or damaged by sth 使不受…的伤害；抗（伤害）",
     "label": "resist"
   },
   {
-    "question": ". 她是这项工作最合适的人选。",
+    "question": "她是这项工作最合适的人选。",
     "translation": "She's the ideal candidate for the job.",
     "knowledge_point": "idea [adj] ~ (for sth) perfect; most suitable 完美的；理想的；最合适的",
     "label": "ideal"
   },
   {
-    "question": ". 对理想中的爱的寻求",
+    "question": "对理想中的爱的寻求",
     "translation": "the search for ideal love",
     "knowledge_point": "idea [adj]  [ only before noun ] existing only in your imagination or as an idea; not likely to be real 想象的；不切实际的",
     "label": "ideal"
   },
   {
-    "question": ". 在理想的世界里将没有贫穷和疾病。",
-    "translation": "In an ideal world there would be no poverty and disease.",
+    "question": "在理想的世界里将没有贫穷和疾病。",
+    "translation": "In an ideal world there would be no poverty[ˈpɑːvərti] and disease [dɪˈziːz].",
     "knowledge_point": "idea [adj]  [ only before noun ] existing only in your imagination or as an idea; not likely to be real 想象的；不切实际的",
     "label": "ideal"
   },
   {
-    "question": ". 政治理想",
+    "question": "政治理想",
     "translation": "political ideals",
     "knowledge_point": "[ C ] an idea or standard that seems perfect, and worth trying to achieve or obtain 理想；看似完美的思想（或标准）",
     "label": "ideal"
   },
   {
-    "question": ". 她觉得很难达到他的高标准要求",
+    "question": "她觉得很难达到他的高标准要求",
     "translation": "She found it hard to live up to his high ideals.",
     "knowledge_point": "[ C ] an idea or standard that seems perfect, and worth trying to achieve or obtain 理想；看似完美的思想（或标准）",
     "label": "ideal"
   },
   {
-    "question": ". 这是我心目中完美的家庭住宅",
+    "question": "他辜负了父母的期望。",
+    "translation": "He failed to live up to his parents' expectations.",
+    "knowledge_point": "to do as well as or be as good as other people expect you to 达到，符合，不辜负（他人的期望）",
+    "label": "ideal"
+  },
+  {
+    "question": "这是我心目中完美的家庭住宅",
     "translation": "It's my ideal of what a family home should be.",
     "knowledge_point": "[ C usually sing. ] ~ (of sth) a person or thing that you think is perfect 完美的人（或事物）",
     "label": "ideal"
   },
   {
-    "question": ". 她的毕生愿望就是成为名作家。",
+    "question": "她的毕生愿望就是成为名作家。",
     "translation": "Her lifelong dream was to be a famous writer.",
-    "knowledge_point": "[ C ] a wish to or be sth, especially one that seems difficult to achieve 梦想；理想；愿望",
+    "knowledge_point": "[ C ] a wish to or be sth, especially one that seems difficult to achieve 梦想；理想；愿望\n- lifelong 终身的",
     "label": "dream"
   },
   {
-    "question": ". 产假",
-    "translation": "maternity leave",
+    "question": "产假",
+    "translation": "maternity [məˈtɜːrnəti] leave",
     "knowledge_point": "leave: a period of time when you are allowed to be away from work for a holiday/vacation or for a special reason 假期；休假",
     "label": "leave"
   },
   {
-    "question": ". 智叟",
+    "question": "智叟",
     "translation": "a wise old man",
     "knowledge_point": "( of people 人 ) able to make sensible decisions and give good advice because of the experience and knowledge that you have",
     "label": "wise"
   },
   {
-    "question": ". 我变得老成聪明了。",
+    "question": "我变得老成聪明了。",
     "translation": "I'm older and wiser after ten years in the business.",
     "knowledge_point": "( of people 人 ) able to make sensible decisions and give good advice because of the experience and knowledge that you have",
     "label": "wise"
   },
   {
-    "question": ". 明智的决定",
+    "question": "明智的决定",
     "translation": "a wise decision",
     "knowledge_point": "- ( of actions and behaviour 行动和行为 ) sensible; based on good judgement 明智的；高明的；有判断力的",
     "label": "wise"
   },
   {
-    "question": ". 你那时离开非常明智。",
+    "question": "你那时离开非常明智。",
     "translation": "It was very wise to leave when you did.",
-    "knowledge_point": "- ( of actions and behaviour 行动和行为 ) sensible; based on good judgement 明智的；高明的；有判断力",
+    "knowledge_point": "- ( of actions and behaviour 行动和行为 ) sensible; based on good judgement 明智的；高明的；有判断力\n- do when you did: \"你当时做什么\"，强调那个**时间点**做了什么， leave when you did, 你那个时间点离开\n- invest when you did， 你那个时间点投资（真是太牛了）",
     "label": "wise"
   },
   {
-    "question": ". 谈正事",
+    "question": "这步棋太高了！你在那个时候投资正是最佳时机。",
+    "translation": "That was a brilliant move! **It was the perfect time to invest when you did.**",
+    "knowledge_point": "do when you did: \"你当时做什么\"，强调那个**时间点**做了什么",
+    "label": ""
+  },
+  {
+    "question": "我真不该对她说那些。**我在那个时候开口说话真是太蠢了。**",
+    "translation": "I shouldn't have said that to her. **It was really stupid to speak up when I did.**",
+    "knowledge_point": "do when you did: \"你当时做什么\"，强调那个**时间点**做了什么",
+    "label": ""
+  },
+  {
+    "question": "谈正事",
     "translation": "to talk business",
     "knowledge_point": "~ (to/with sb) (about sth)  to discuss sth, usually sth serious or important 讨论，谈论，商谈，洽谈（通常指重大的事）",
     "label": "talk"
   },
   {
-    "question": ". 她讲得很在理",
+    "question": "她讲得很在理",
     "translation": "She talks a lot of sense.",
     "knowledge_point": "[ VN ] to say things that are/are not sensible",
     "label": "talk"
   },
   {
-    "question": ". 你胡说八道",
+    "question": "你胡说八道",
     "translation": "You're talking rubbish!",
     "knowledge_point": "[ VN ] to say things that are/are not sensible",
     "label": "talk"
   },
   {
-    "question": ". 我发现跟你聊天很受启发",
+    "question": "我发现跟你聊天很受启发",
     "translation": "I find it enlightening to talk with you",
     "knowledge_point": "- 不定式作宾语，it做形式宾语\n- enlightening[ɪnˈlaɪtnɪŋ] 让人受启发的",
     "label": "不定式作宾语; enlightening"
   },
   {
-    "question": ". 一段关于动物园工作的具有启发性的讲话",
+    "question": "一段关于动物园工作的具有启发性的讲话",
     "translation": "an enlightening talk on the work done at the zoo",
     "knowledge_point": "- enlightening 让人受启发的",
     "label": "enlightening"
   },
   {
-    "question": ". 开明的见解/态度/想法",
+    "question": "开明的见解/态度/想法",
     "translation": "enlightened opinions/attitudes/ideas",
     "knowledge_point": "- enlightened [usually before noun] (approving) having or showing an understanding of people's needs, a situation, etc. that is not based on old-fashioned attitudes and prejudice 开明的；有见识的；摆脱偏见的",
     "label": "enlightening"
   },
   {
-    "question": ". 他太粗心了，居然犯这样愚蠢的错误",
+    "question": "他太粗心了，居然犯这样愚蠢的错误",
     "translation": "It was very careless of him to make such silly mistakes",
     "knowledge_point": "- to do 作宾语，宾语后置",
     "label": "不定式作主语; careless"
   },
   {
-    "question": ". 为什么要为这些鸡毛蒜皮的小事烦心",
+    "question": "为什么要为这些鸡毛蒜皮的小事烦心",
     "translation": "Why worry about such trifles [ˈtraɪflz]?",
     "knowledge_point": "- trifles 琐事，小事",
     "label": "trifles"
   },
   {
-    "question": ". 我教给他如何使用这台咖啡机",
+    "question": "我教给他如何使用这台咖啡机",
     "translation": "I've shown him how to work the coffee machine",
     "knowledge_point": "- 现在完成时，强调他现在学会了（学的很好），对现在的影响\n- 用过去时表示过的一个画面也可以",
     "label": "不定式作宾语"
   },
   {
-    "question": ". 我认为说话时嘴里塞满食物是不礼貌的",
+    "question": "我认为说话时嘴里塞满食物是不礼貌的",
     "translation": "I consider it bad manners to speak with your mouth full of food",
     "knowledge_point": "- to do 作宾语，宾语后置",
     "label": "不定式作宾语"
   },
   {
-    "question": ". 操作咖啡机",
+    "question": "操作咖啡机",
     "translation": "work the coffee machine",
     "knowledge_point": "- work sth, to make a machine, device, etc. operate 开动，操作（机器、装置）等；使运作\n- work the coffee machine就是这个用法",
     "label": "work"
   },
   {
-    "question": ". 很多成年人现在仍然依赖自己的孩子来操作电脑",
+    "question": "很多成年人现在仍然依赖自己的孩子来操作电脑",
     "translation": "Many adults still depend on their children to work the computer",
     "knowledge_point": "- work the computer 操作电脑",
     "label": "work"
   },
   {
-    "question": ". 站着的时候别把手插兜里",
+    "question": "站着的时候别把手插兜里",
     "translation": "Don't stand with your hands in your pockets",
     "knowledge_point": "- 介词with这里是used to show the way in which sb does sth表示行为方式\n- with 伴随状语，with sth 加形容词，或者介词短语作定语",
     "label": "with伴随状语"
   },
   {
-    "question": ". 她开着窗户睡觉",
+    "question": "她开着窗户睡觉",
     "translation": "She sleeps with the window open",
     "knowledge_point": "- with 伴随状语，with sth 加形容词，或者介词短语作定语",
     "label": "with伴随状语"
   },
   {
-    "question": ". 看到有辆车过来了，他们就站到了路边",
+    "question": "看到有辆车过来了，他们就站到了路边",
     "translation": "Seeing a car coming, they stepped aside",
     "knowledge_point": "- 内部关系：时间状语，主谓状\n- coming 分词作补语\n- stand 是个静态过程，step 是个动态过程",
     "label": "现在分词作状语"
   },
   {
-    "question": ". 从窗户往外看，我们看见一只正在叫唤的狗",
+    "question": "从窗户往外看，我们看见一只正在叫唤的狗",
     "translation": "Looking out through the window, we saw a barking dog",
     "knowledge_point": "- outside",
     "label": "现在分词作状语; outside/out; from/through"
   },
   {
-    "question": ". 站到悬崖上，我感到很紧张",
+    "question": "站到悬崖上，我感到很紧张",
     "translation": "Standing on the cliff, I felt very nervous",
     "knowledge_point": "- 内部关系：时间状语，主系表\n- 使用nervous能够最直接、最准确地传达出这种内心的恐惧感\n- 使用tense也可以，但含义有细微差别。如果你说I felt tense，它更多地强调你因为害怕而全身肌肉紧绷、身体僵硬的状态。这种身体的\"紧绷\"是心理\"紧张\"的结果",
     "label": "现在分词作状语"
   },
   {
-    "question": ". 他从自行车上摔下来了，划破了腿",
+    "question": "他从自行车上摔下来了，划破了腿",
     "translation": "He fell off the bike, cutting his leg",
     "knowledge_point": "- 内部关系：句子成分：主谓状，结果状语\n- 这里应该是摔的过程中，划破了腿，而不是，摔下来之后，划破了腿所以应该是主动\n- \"从自行车上摔下来\"，\"划破腿\"，是摔下来的一个结果\n- 此处是表示结果状语\n- 也可以He cut his leg, falling off from the bike\n- 此处现在分词表示时间状语\n- 分词作状语：时间，原因，结果，条件",
     "label": "现在分词作状语"
   },
   {
-    "question": ". 从马上摔下来，他输了比赛",
+    "question": "从马上摔下来，他输了比赛",
     "translation": "Falling from the horse, he lost the match",
     "knowledge_point": "- 分词作状语，先考虑主动/被动，再考虑时态\n- 如果是不及物动词，则考虑时态。完成，还是正在进行\n- 主动就是现在分词，再考虑时态，现在分词也有完成时态，doing/having done\n- 被动就是过去分词，再考虑时态，to be done，将来时，being done 正在进行时, done 就是完成时\n- 如果是不及物动词，被动式就不表示语态，而是表示时态，代表正在发生，或者已经发生\n- 为什么分词作状语/定语，先考虑主动被动，因为分词是非谓语动词，没有当上大尉的动词，状语，定语用于修饰关系，所以首先要看语态，再看本身的时态，而时态是相对于主语的，不是整个句子的\n- 不及物动词做定语或者状语，只表示动作的完成或者进行，因为不及物动词没有被动形式\n- 比如the falling autumn leaves 纷纷飘落的秋叶\n- the fallen autumn leaves 落了的秋叶\n- boiling water 正在沸腾的水\n- boiled water 煮沸了的水\n- fading flowers 正在凋谢的花\n- faded flowers 凋谢了的花",
     "label": "现在分词作状语; 不及物动词"
   },
   {
-    "question": ". 他就把灯关掉了，什么也没看见",
+    "question": "他就把灯关掉了，什么也没看见",
     "translation": "He turned off the lamp, seeing nothing",
     "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前",
     "label": "现在分词作状语; 结果状语"
   },
   {
-    "question": ". 他总是为小事担心，而忘记了他的主要目标",
+    "question": "他总是为小事担心，而忘记了他的主要目标",
     "translation": "He's always worrying about trifles, losing sight of his main objectives",
     "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前",
     "label": "现在分词作状语; 结果状语"
   },
   {
-    "question": ". 那位老人突然去世，留下未完成的工程",
+    "question": "那位老人突然去世，留下未完成的工程",
     "translation": "The old man died all of a sudden, leaving the project unfinished",
     "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前",
     "label": "现在分词作状语; 结果状语"
   },
   {
-    "question": ". 逝去的年轻时光",
+    "question": "逝去的年轻时光",
     "translation": "vanished [ˈvænɪʃt] youth",
     "knowledge_point": "- youth 可以理解为青春\n- 考察点：youth vanished 过去分词作定语，过去分词：不及物动词，已经完成",
     "label": "过去分词作定语; youth"
   },
   {
-    "question": ". 他年轻时很有音乐天才",
+    "question": "他年轻时很有音乐天才",
     "translation": "He had been a talented musician in his youth",
     "knowledge_point": "- [U] the time of life when a person is young, especially the time before a child becomes an adult 青年时期（尤指成年以前）",
     "label": "youth"
   },
   {
-    "question": ". 她很年轻，然而干这份工作已有经验，这是很难得的",
+    "question": "她很年轻，然而干这份工作已有经验，这是很难得的",
     "translation": "She brings to the job a rare combination of youth and experience",
     "knowledge_point": "- [U] the quality or state of being young 年轻；青春；朝气",
     "label": "youth"
   },
   {
-    "question": ". 这场打斗是一伙少年挑起来的",
+    "question": "这场打斗是一伙少年挑起来的",
     "translation": "The fight was started by a gang of youths",
     "knowledge_point": "- [C] (often disapproving) a young man 青年男子；小伙子",
     "label": "youth"
   },
   {
-    "question": ". 正在凋谢的花",
+    "question": "正在凋谢的花",
     "translation": "fading flowers",
     "knowledge_point": "- 过去分词：不及物动词，主动进行，正在进行，现在分词作定语\n- flowers faded.\n- 已经凋谢的花",
     "label": "分词作定语"
   },
   {
-    "question": ". 已经凋谢的花",
+    "question": "已经凋谢的花",
     "translation": "faded flowers",
     "knowledge_point": "- 过去分词：不补及物动词，主动进行，已经完成，过去分词作定语\n- flowers faded.\n- 已经凋谢的花",
     "label": "分词作定语"
   },
   {
-    "question": ". 有条理的思路",
+    "question": "有条理的思路",
     "translation": "organized ideas",
     "knowledge_point": "- organized ideas 过去分词作定语，被动进行\n- organized：arranged or planned in the way mentioned 有条理的；有安排的",
     "label": "分词作定语; organized"
   },
   {
-    "question": ". 精心策划的运动",
+    "question": "精心策划的运动",
     "translation": "a carefully organized campaign",
     "knowledge_point": "- organized：arranged or planned in the way mentioned 有条理的；有安排的",
     "label": "分词作定语; organized"
   },
   {
-    "question": ". 井然有序的办公室",
+    "question": "井然有序的办公室",
     "translation": "a well-organized office",
     "knowledge_point": "- organized：arranged or planned in the way mentioned 有条理的；有安排的",
     "label": "分词形容词; organized"
   },
   {
-    "question": ". 武装部队",
+    "question": "武装部队",
     "translation": "armed forces",
     "knowledge_point": "- armed forces 武装部队",
     "label": "分词作定语"
   },
   {
-    "question": ". 熏鱼",
+    "question": "熏鱼",
     "translation": "smoked fish",
     "knowledge_point": "- smoked 表示熏制的",
     "label": "过去分词作定语; smoked"
   },
   {
-    "question": ". 熏肉",
+    "question": "熏肉",
     "translation": "smoked bacon",
     "knowledge_point": "- smoked 表示熏制的",
     "label": "smoked"
   },
   {
-    "question": ". 熏鹅",
+    "question": "熏鹅",
     "translation": "smoked goose",
     "knowledge_point": "- smoked 表示熏制的",
     "label": "smoked"
   },
   {
-    "question": ". 计划经济",
+    "question": "计划经济",
     "translation": "planned economy",
     "knowledge_point": "- planned economy, 过去分词作定语，被动进行",
     "label": "过去分词作定语; planned"
   },
   {
-    "question": ". 他很高兴看到母亲在家里受到很好的照顾",
+    "question": "他很高兴看到母亲在家里受到很好的照顾",
     "translation": "He was very happy to see his mother taken good care of at home",
     "knowledge_point": "- 内部关系：句子成分：主系表状\n- to do 作原因状语\n- 这里taken good care of at home是作补语\n- 这里表示已经被照顾的很好",
     "label": "不定式作状语; 过去分词作补语"
   },
   {
-    "question": ". 你去参加下周华为公司举办的活动吗",
+    "question": "你去参加下周华为公司举办的活动吗",
     "translation": "Are you going to attend the Huawei-organized activity to be held next week?",
     "knowledge_point": "- to be done 将来时\n- Huawei-organized 表示被动, 分词短语",
     "label": "分词形容词; 不定式作定语"
   },
   {
-    "question": ". 他特别壮/他是一个身材魁梧的人",
+    "question": "他特别壮/他是一个身材魁梧的人",
     "translation": "He is a powerfully-built man",
     "knowledge_point": "- 将词汇进行灵活地组合才是王道\n- build 建造，增强，可以是体魄这样抽象的东西，如build yourself up 使更强壮\n- 因此，build 作动词引申为\"增强体魄；增强体格\"\n- 故，powerfully-built 字面\"体格被建造得很强大\" --》\"身材魁梧\"\n- 这里是\"副词+过去分词\"的用法\n- body build 体型",
     "label": "分词形容词"
   },
   {
-    "question": ". 没有你陪伴，我不敢去那里",
+    "question": "没有你陪伴，我不敢去那里",
     "translation": "I dare not go there without you accompanying me",
     "knowledge_point": "- 内部关系：句子成分：主谓状 动名词作介词宾语\n- accompany 是及物动词，及物动词需要加宾语\n- don't dare to go (实义动词) = dare not go (情态动词)",
     "label": "with+动名词"
   },
   {
-    "question": ". 这话说出来非得罪人不可",
+    "question": "这话说出来非得罪人不可",
     "translation": "This cannot be said without some getting angry",
     "knowledge_point": "- 双重否定表示强调，肯定\n- some 此处是不定代词，代表一些人，是getting angry的逻辑主语",
     "label": "with+动名词"
   },
   {
-    "question": ". 开车的时候不要查看微信消息",
+    "question": "开车的时候不要查看微信消息",
     "translation": "Don't check the messages on WeChat while driving",
     "knowledge_point": "- driving 本身就有开车的意思了，没有必要加a car",
     "label": "on"
   },
   {
-    "question": ". 在黎明",
+    "question": "在黎明",
     "translation": "at dawn",
     "knowledge_point": "- dawn [dɔːn]: [U C] the time of day when light first appears 黎明；拂晓；破晓\n- drawn[drɔːn] 憔悴的\n- dawn [dɔːn] 一个时间点",
     "label": "at"
   },
   {
-    "question": ". 长达两个星期",
+    "question": "长达两个星期",
     "translation": "for two weeks",
     "knowledge_point": "- for 表示时间段",
     "label": "for"
   },
   {
-    "question": ". 在八月",
+    "question": "在八月",
     "translation": "in August",
     "knowledge_point": "- in 表示月份",
     "label": "in"
   },
   {
-    "question": ". 在2018年期间",
+    "question": "在2018年期间",
     "translation": "during 2008",
     "knowledge_point": "- during 表示时间段",
     "label": "during"
   },
   {
-    "question": ". 在他的童年时期",
+    "question": "在他的童年时期",
     "translation": "during his childhood",
     "knowledge_point": "- during 和in均可以表示时间点，有时可以互换；相比较而言，during更强调时间的延续，in只是指一般性的某一时间，如果表示状态或者习惯性的动作，多用during，否则in更常见；这道题没有语境，用in和during都可以",
     "label": "during"
   },
   {
-    "question": ". 三年之久",
+    "question": "三年之久",
     "translation": "for three years",
     "knowledge_point": "- for 表示时间段",
     "label": "for"
   },
   {
-    "question": ". 这件事情天知地知，你知我知",
+    "question": "这件事情天知地知，你知我知",
     "translation": "It's only between you and me",
     "knowledge_point": "- between you and me 在你我之间",
     "label": "be+介词"
   },
   {
-    "question": ". 这是你我之间的秘密",
+    "question": "这是你我之间的秘密",
     "translation": "It is only between you and me",
     "knowledge_point": "- 句子结构是主谓状，之所以这么划分需要考虑到be（is, am, are）的用法\n- between you and me在两者之间，可以理解为地点\n- be后面是表示地点的时候，be的词性为不及物动词，作的是谓语\n- 所以句子是主谓状的结构\n- be表示\"位于\"的时候，可以用作不及物动词。因此句子划分为主谓状\n- \"be+介词短语\"的结构中，如果介词短语符合表语的特征：表示主语的年龄、身份、状态等，那么这个结构是系表结构\n- 如果介词短语符合状语的特征：表示地点、时间、原因等，be +介词短语就是主谓状结构\n- 也就是区分\"be+介词短语\"的句子成分要看介词短语所表达的意义",
     "label": "be+介词"
   },
   {
-    "question": ". 我永远都会支持你",
+    "question": "我永远都会支持你",
     "translation": "I will always be on your side",
     "knowledge_point": "- 句子成分：主谓状\n- will 表意愿",
     "label": "be+介词"
   },
   {
-    "question": ". 这条裙子你穿很好看",
+    "question": "这条裙子你穿很好看",
     "translation": "The skirt looks nice on you",
     "knowledge_point": "- 句子成分：主谓状\n- on you 在你身上",
     "label": "look; on"
   },
   {
-    "question": ". 我就指望你帮我了",
+    "question": "我就指望你帮我了",
     "translation": "I'm counting on you to help me",
     "knowledge_point": "- count on 指望，依靠",
     "label": "on"
   },
   {
-    "question": ". 她对你有好感，你知道的",
+    "question": "她对你有好感，你知道的",
     "translation": "She had a crush on you, you know",
     "knowledge_point": "- have a crush on 对...有好感",
     "label": "on"
   },
   {
-    "question": ". 这个电影把我感动哭了",
+    "question": "这个电影把我感动哭了",
     "translation": "This movie/film moved me to tears",
     "knowledge_point": "- to 第二条，表示达到某种程度\n- to some extent。达到某种程度\n- move sb. to tears 感动某人到落泪\n- drink to death 喝到死\n- tear to pieces 表示最后的一种趋势",
     "label": "move to tears; to"
   },
   {
-    "question": ". 这条床单上有个破洞",
+    "question": "这条床单上有个破洞",
     "translation": "This sheet has a tear in it",
     "knowledge_point": "- n: a hole that has been made in sth by tearing 破洞；裂口；裂缝",
     "label": "tear"
   },
   {
-    "question": ". 他在电话里泪流满面",
+    "question": "他在电话里泪流满面",
     "translation": "He was in floods of tears on the phone",
     "knowledge_point": "- N-PLURAL You can use tears in expressions such as in tears, burst into tears, and close to tears to indicate that someone is crying or is almost crying. 哭泣",
     "label": "tears"
   },
   {
-    "question": ". 我觉得他将来会成为冠军",
+    "question": "我觉得他将来会成为冠军",
     "translation": "I can see a future champion in him",
     "knowledge_point": "- 基本盘一致，这里解析用了比喻（figure of speech)的方法：I can see",
     "label": "in"
   },
   {
-    "question": ". 别谈工作了，我们在休假",
+    "question": "别谈工作了，我们在休假",
     "translation": "Don't talk about work. We are on holiday",
     "knowledge_point": "- on vacation 度假\n- on holiday 休假",
     "label": "on"
   },
   {
-    "question": ". 这对年轻人一见钟情",
+    "question": "这对年轻人一见钟情",
     "translation": "The young couple fell in love at first sight",
     "knowledge_point": "- 内部关系：句子成分：主谓状状\n- fall in love 掉进爱情里=》恋爱\n- at first sight, 第一眼的时候，\"点的\"概念，狭小的范围，精准的概念",
     "label": "fall in love; at"
   },
   {
-    "question": ". 我们徘徊在分手/离婚的边缘",
+    "question": "我们徘徊在分手/离婚的边缘",
     "translation": "We are on the verge of break-up/divorce",
     "knowledge_point": "- be on the verge of 就是\"在...边缘\"的意思\n- on/to the verge of sth/of doing sth: very near to the moment when sb does sth or sth happens 濒于；接近于；行将\n- He was on the verge of tears. 他差点儿哭了出来\n- They are on the verge of signing a new contract. 他们即将签订一份新的合同\n- on the edge of:这里不能用edge\n- [C] the outside limit of an object, a surface or an area; the part furthest from the centre 边；边缘；边线；边沿\n- He stood on the edge of the cliff. 他站在悬崖边上\n- divorce 本身就有名词的意思",
     "label": "on"
   },
   {
-    "question": ". 他是那种你可以信赖的人",
+    "question": "他是那种你可以信赖的人",
     "translation": "He's the sort of person you could depend on",
     "knowledge_point": "- sort 种类，类型",
     "label": "on"
   },
   {
-    "question": ". 我是不会听那些八卦的",
+    "question": "我是不会听那些八卦的",
     "translation": "I will close my ears to the gossip",
     "knowledge_point": "- 这里是个idiom: close my ears to gossip",
     "label": ""
   },
   {
-    "question": ". 飞往巴黎的航班目前正在打折",
+    "question": "飞往巴黎的航班目前正在打折",
     "translation": "The flights to Paris are on special offer at the moment",
     "knowledge_point": "- 注意单复数\n- The flight to Paris now is on sale\n- 这里老师说on sale不合适，通常用于商店，on offer更合适\n- 我理解on offer的意思是短期内价格比较低。更强调短期内。on sale更强调的是商店里的商品\n- on sale:",
     "label": "on offer; on sale"
   },
   {
-    "question": ". 新款下月上市",
+    "question": "新款下月上市",
     "translation": "The new model goes on sale next month",
     "knowledge_point": "- on sale (1) available to be bought, especially in a shop/store （常用于商店）出售，上市",
     "label": "on sale"
   },
   {
-    "question": ". 所有录像设备今明两天降价出售",
+    "question": "所有录像设备今明两天降价出售",
     "translation": "All video equipment is on sale today and tomorrow",
     "knowledge_point": "- on sale (2) (especially NAmE SAfrE) being offered at a reduced price 折价销售；减价出售",
     "label": "on sale"
   },
   {
-    "question": ". 在你们这群人中有一个是间谍",
+    "question": "在你们这群人中有一个是间谍",
     "translation": "There is spy among you",
     "knowledge_point": "- among 在...之中",
     "label": "among"
   },
   {
-    "question": ". 我前天把家里从头到尾打扫了一遍",
+    "question": "我前天把家里从头到尾打扫了一遍",
     "translation": "I cleaned my house from top to bottom the day before yesterday",
     "knowledge_point": "- the day before yesterday. 前天",
     "label": "before"
   },
   {
-    "question": ". 把你后面的门关上",
+    "question": "把你后面的门关上",
     "translation": "Shut the door behind you",
     "knowledge_point": "- after 在一般是追逐在谁的后面\n- shut: to make sth close; to become closed 关闭；关上；合上\n- I can't shut my suitcase—it's too full. 我的手提箱合不上了—装得太满了",
     "label": "behind"
   },
   {
-    "question": ". 来，趴着",
+    "question": "来，趴着",
     "translation": "Lie on your stomach",
     "knowledge_point": "- lie 躺\n- lie on one's side 侧卧\n- lie on one's back 仰卧\n- lies lying lay lain：(of a person or an animal 人或动物) to be or put yourself in a flat or horizontal position so that you are not standing or sitting 躺；平躺；平卧\n- (lies lying lied lied) 说谎\n- [V] ~ (to sb) (about sth) to say or write sth that you know is not true 说谎；撒谎；编造谎言\n- You could see from his face that he was lying. 从他的表情上你可以看出他在说假话\n- lay laid laid 放下，展开",
     "label": "lie"
   },
   {
-    "question": ". 我很少吃肉",
+    "question": "我很少吃肉",
     "translation": "I seldom eat meat",
     "knowledge_point": "- seldom 很少",
     "label": "seldom"
   },
   {
-    "question": ". 忆往昔峥嵘岁月稠",
+    "question": "忆往昔峥嵘岁月稠",
     "translation": "Those eventful months and years are still vivid in my memory",
     "knowledge_point": "- eventful 充满大事的；多事故的；多变故的",
     "label": "eventful"
   },
   {
-    "question": ". 不平凡的一天；多姿多彩的一生/旅程",
+    "question": "不平凡的一天；多姿多彩的一生/旅程",
     "translation": "an eventful day/life/journey",
     "knowledge_point": "- eventful: full of things that happen, especially exciting, important or dangerous things 充满大事的；多事故的；多变故的",
     "label": "eventful"
   },
   {
-    "question": ". 水的沸点是100度",
+    "question": "水的沸点是100度",
     "translation": "Water boils at 100 degrees centigrade [ˈsentɪɡreɪd]",
     "knowledge_point": "- 这里英语习惯用动宾关系（老师说）\n- centigrade [ˈsentɪɡreɪd] adj. 摄氏度的\n- boiling point 沸点\n- the boiling point of water is 100 degrees centigrade",
     "label": "at"

@@ -588,55 +588,55 @@
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 我在这工作过（强调现在的影响，有言外之意）",
+    "question": "我在这工作过（强调现在的影响，有言外之意）",
     "translation": "I have worked here",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 有言外之意",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 我在这工作过（只是表达那时候在这里工作）",
+    "question": "我在这工作过（只是表达那时候在这里工作）",
     "translation": "I worked here",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候在这里工作",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 我的笔丢了（笔现在没找到）",
+    "question": "我的笔丢了（笔现在没找到）",
     "translation": "I have lost my pen",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 有言外之意",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 我的笔丢了（昨天把笔丢了，现在找不找到不知道）",
+    "question": "我的笔丢了（昨天把笔丢了，现在找不找到不知道）",
     "translation": "I lost my pen yesterday",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候的动作",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 谁开门了？（目前的门还开着呢）",
+    "question": "谁开门了？（目前的门还开着呢）",
     "translation": "Who has opened the door",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 有言外之意",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 谁开门了？（现在的门的状态是否开着不确定）",
+    "question": "谁开门了？（现在的门的状态是否开着不确定）",
     "translation": "Who opened the door",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候的动作",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 他三年前死了",
+    "question": "他三年前死了",
     "translation": "He died three years ago",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 只是表达那时候的动作",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 他已经死了（所以我们很怀念他）",
+    "question": "他已经死了（所以我们很怀念他）",
     "translation": "He has died",
     "knowledge_point": "- 现在完成时和过去一般时的区别：一般过去时动作在过去发生的，与现在无任何关系\n- 有言外之意",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". Bush：我们与你们的领导人进行了多次讨论，我重申支持一个中国政策。这是我的政府长期以来的政策，我没有改变它",
+    "question": "Bush：我们与你们的领导人进行了多次讨论，我重申支持一个中国政策。这是我的政府长期以来的政策，我没有改变它",
     "translation": "We've had many discussions with your leaders, and I've reiterated support for One China policy. It's been my government's policy for a long period of time, and I haven't changed it",
     "knowledge_point": "- 现在完成时：表示过去的动作对现在有影响\n- 有言外之意",
     "label": "时态-现在完成时"
@@ -648,847 +648,847 @@
     "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
-    "question": ". 我来之前他们已经把一切准备好了",
+    "question": "我来之前他们已经把一切准备好了",
     "translation": "They had got everything ready before I came",
     "knowledge_point": "- 时态-过去完成时: 用法1：一个动作在过去某一点以前结束\n- 站在过去回首更遥远的过去",
     "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
-    "question": ". 从她的脸上我隐约看出她得到了一些好消息",
+    "question": "从她的脸上我隐约看出她得到了一些好消息",
     "translation": "I could see from her face that she had received some good news",
     "knowledge_point": "- 时态-过去完成时:  用法1：一个动作在过去某一点以前结束\n- 站在过去回首更遥远的过去",
     "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
-    "question": ". 我本来打算来看你的，但我太忙了",
+    "question": "我本来打算来看你的，但我太忙了",
     "translation": "I had intended to see you, but I was too busy",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
     "label": "时态-过去完成时-本来要"
   },
   {
-    "question": ". 我本来希望你能来吃晚饭，但你没有出现",
+    "question": "我本来希望你能来吃晚饭，但你没有出现",
     "translation": "I had hoped that you would come to dinner, but you didn't show up",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
     "label": "时态-过去完成时-本来要"
   },
   {
-    "question": ". A：你来中国开心吗？B：是的，确实，我本想去印尼的，但是到目前为止不后悔",
+    "question": "A：你来中国开心吗？B：是的，确实，我本想去印尼的，但是到目前为止不后悔",
     "translation": "Are you happy you came to China? Yes, indeed. I'd considered going to Indonesia, but I've never regretted my decision",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
     "label": "时态-过去完成时-本来要"
   },
   {
-    "question": ". 我学了5千个单词",
+    "question": "我学了5千个单词",
     "translation": "I have learnt 5 thousand words",
     "knowledge_point": "- 现在完成时&过去完成时的区别\n- 站在现在回首过去",
     "label": "时态-现在完成时"
   },
   {
-    "question": ". 到那时我已经学了5千个单词了",
+    "question": "到那时我已经学了5千个单词了",
     "translation": "I had learnt 5 thousand words by then",
     "knowledge_point": "- 现在完成时&过去完成时的区别\n- 站在过去回首更遥远的过去",
     "label": "时态-过去完成时-一个动作在过去某一点以前结束"
   },
   {
-    "question": ". 到月底，他们就在这学3年了",
+    "question": "到月底，他们就在这学3年了",
     "translation": "They will have studied here for three years by the end of this month.",
     "knowledge_point": "- 将来完成时：站在将来的某一点回首在那之前的一切\n- by在...之前，包括当前时间点，通常用于完成时",
     "label": "时态-将来完成时"
   },
   {
-    "question": ". 明天的这个时候，他们会修好这个电脑",
+    "question": "明天的这个时候，他们会修好这个电脑",
     "translation": "By this time of tomorrow, she will have repaired this computer",
     "knowledge_point": "- 将来完成时：站在将来的某一点回首在那之前的一切\n- by在...之前，包括当前时间点，通常用于完成时",
     "label": "时态-将来完成时"
   },
   {
-    "question": ". by/till/until/before的区别",
+    "question": "by/till/until/before的区别",
     "translation": "The Tao moves in the opposite direction",
     "knowledge_point": "- by在...之前，包括当前时间点，通常用于完成时\n- till/until在...之前，一直...（直到...才）通常与**持续性动词**（如 wait, live, work）连用",
     "label": "时态-将来完成时"
   },
   {
-    "question": ". 我等你了**直到**5点。",
+    "question": "我等你了**直到**5点。",
     "translation": "I waited for you **until** 5 o‘clock.",
     "knowledge_point": "till/until在...之前，一直...（直到...才）通常与**持续性动词**（如 wait, live, work）连用",
     "label": ""
   },
   {
-    "question": ". 他**直到**半夜才睡。",
+    "question": "他**直到**半夜才睡。",
     "translation": "He didn’t go to bed **till/until** midnight.",
     "knowledge_point": "not until/ not till",
     "label": ""
   },
   {
-    "question": ". 我等这一刻已经等了很多年了",
+    "question": "我等这一刻已经等了很多年了",
     "translation": "I have been waiting this for years",
     "knowledge_point": "- 核心思维：动作到目前为止尚未完成\n- 动作从过去某时开始\"一直持续\"到现在并可能继续持续下去",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 这话你都说了两年了，什么时候付诸实践啊（这两年你一直在说）",
+    "question": "这话你都说了两年了，什么时候付诸实践啊（这两年你一直在说）",
     "translation": "You have been saying that for two years, when are you gonna put it into practice",
     "knowledge_point": "- 动作从过去某时开始\"一直持续\"到现在并可能继续持续下去\n- 这两年你一直在说",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 最近一直在读这本书，然而还没有读完",
+    "question": "最近一直在读这本书，然而还没有读完",
     "translation": "I have been reading this book, yet I have not finished it",
     "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成进行时：重在进行，强调持续的过程，带有感情色彩，\"一直\"",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我已经读这本书一周了",
+    "question": "我已经读这本书一周了",
     "translation": "I have read this book for a week",
     "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我读过这本书",
+    "question": "我读过这本书",
     "translation": "I have read this book",
     "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我在这个工作3年了（现在也在这工作，\"以后\"要看上下文）",
+    "question": "我在这个工作3年了（现在也在这工作，\"以后\"要看上下文）",
     "translation": "I have worked here for 3 years",
     "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我一直在这工作三年了（现在也在这工作，\"以后\"要看上下文），带有感情色彩，强调一直",
+    "question": "我一直在这工作三年了（现在也在这工作，\"以后\"要看上下文），带有感情色彩，强调一直",
     "translation": "I have been working here for 3 years",
     "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成进行时：重在进行，强调持续的过程，带有感情色彩，\"一直\"",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我在这工作过（现在不在这工作了）",
+    "question": "我在这工作过（现在不在这工作了）",
     "translation": "I have worked here",
     "knowledge_point": "- 现在完成时VS现在完成进行时区别\n- 现在完成时：过去发生的动作与现在的联系",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 你最近干嘛了",
+    "question": "你最近干嘛了",
     "translation": "What have you been doing",
     "knowledge_point": "- 最近一段时间内正在持续的事情",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我最近一直在考虑换工作",
+    "question": "我最近一直在考虑换工作",
     "translation": "I have been thinking about changing my job",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 我最近一直在琢磨这个事",
+    "question": "我最近一直在琢磨这个事",
     "translation": "I have been thinking it over",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 我最近几周一直在倒晚班",
+    "question": "我最近几周一直在倒晚班",
     "translation": "I've been working on the night shift for several weeks",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我一直想找你聊聊（我早就想找你聊聊）",
+    "question": "我一直想找你聊聊（我早就想找你聊聊）",
     "translation": "I have been meaning to talk with you",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 我一直想找你聊聊（我早就想找你聊聊）",
+    "question": "我一直想找你聊聊（我早就想找你聊聊）",
     "translation": "I have been meaning to have a word with you",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 我一直想要一个baby",
+    "question": "我一直想要一个baby",
     "translation": "I have been wanting a baby",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 我最近一直在思考它",
+    "question": "我最近一直在思考它",
     "translation": "I've been giving a good deal of thought",
     "knowledge_point": "- 最近一段时间内正在持续的事情",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 如果伤到了你我很抱歉，但这些话我已经憋很久了",
+    "question": "如果伤到了你我很抱歉，但这些话我已经憋很久了",
     "translation": "I'm sorry if I hurt your feelings. I've been holding a lot of this in for a while",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 我想了很久，那件事就是，我爱你",
+    "question": "我想了很久，那件事就是，我爱你",
     "translation": "I've been doing a lot of thinking, and the thing is I love you",
     "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": ". 看看你，你在流汗。你最近在做什么？",
+    "question": "看看你，你在流汗。你最近在做什么？",
     "translation": "Look at you, you are sweating. What have you been doing?",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
     "label": "时态-现在完成进行时-\"刚一直\""
   },
   {
-    "question": ". 你的眼睛是红的。你一直在哭",
+    "question": "你的眼睛是红的。你一直在哭",
     "translation": "Your eyes are red, you've been crying",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
     "label": "时态-现在完成进行时-\"刚一直\""
   },
   {
-    "question": ". 我的嗓子沙哑，因为我说得太多了",
+    "question": "我的嗓子沙哑，因为我说得太多了",
     "translation": "My throat is husky because I've been talking too much",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
     "label": "时态-现在完成进行时-\"刚一直\""
   },
   {
-    "question": ". 这5年来我经常来北京",
+    "question": "这5年来我经常来北京",
     "translation": "I have been coming to Beijing for 5 years",
     "knowledge_point": "- 断断续续，多次发生\n- 短暂动词放到完成进行时，表示多次发生，靠次数取胜",
     "label": "时态-现在完成进行时-短暂动词，断断续续，多次发生"
   },
   {
-    "question": ". 我一直在北京已经住了5年了",
+    "question": "我一直在北京已经住了5年了",
     "translation": "I have been living in Beijing for five years",
     "knowledge_point": "",
     "label": "时态-现在完成进行时"
   },
   {
-    "question": ". 我在见到你之前一直在想你",
+    "question": "我在见到你之前一直在想你",
     "translation": "I had been missing you before I saw you",
     "knowledge_point": "- 过去完成进行时\n- 动作在过去的过去开始，一直持续到过去的某个时间点",
     "label": "时态-过去完成进行时"
   },
   {
-    "question": ". 他当时看起来很累，我知道他一直在弄这个事",
+    "question": "他当时看起来很累，我知道他一直在弄这个事",
     "translation": "He looked so tired, I knew he had been working on it",
     "knowledge_point": "- 过去完成进行时\n- 动作在过去的过去开始，一直持续到过去的某个时间点",
     "label": "时态-过去完成进行时"
   },
   {
-    "question": ". 他跟我说他从早上就一直在看书",
+    "question": "他跟我说他从早上就一直在看书",
     "translation": "He said he had been reading book since morning",
     "knowledge_point": "- 过去完成进行时\n- 动作在过去的过去开始，一直持续到过去的某个时间点",
     "label": "时态-过去完成进行时"
   },
   {
-    "question": ". 到今年年底，我教英语就满15年了",
+    "question": "到今年年底，我教英语就满15年了",
     "translation": "I will have been teaching English for 15 years by the end of this year",
     "knowledge_point": "- 将来完成进行时\n- 动作从过去开始，一直持续到将来的某个时间点",
     "label": "时态-将来完成进行时"
   },
   {
-    "question": ". 到明天，我学英语就满100天了",
+    "question": "到明天，我学英语就满100天了",
     "translation": "I will have been studying English for 100 days by tomorrow",
     "knowledge_point": "- 将来完成进行时\n- 动作从过去开始，一直持续到将来的某个时间点",
     "label": "时态-将来完成进行时"
   },
   {
-    "question": ". 我还没有和印度女孩交流过",
+    "question": "我还没有和印度女孩交流过",
     "translation": "I have never dated with Indian girls",
     "knowledge_point": "- 现在完成时：表示过去的动作对现在有影响\n- 有言外之意",
     "label": "时态-将来完成进行时"
   },
   {
-    "question": ". 对现在的推测有哪些情态动词",
+    "question": "对现在的推测有哪些情态动词",
     "translation": "must do/should do/could do/may(might) do",
     "knowledge_point": "- 对现在的推测：must do/should do/could do/may(might) do\n- can't/shouldn't/couldn't/may(might) not",
     "label": "情态动词-推测"
   },
   {
-    "question": ". 对将来的推测有哪些情态动词",
+    "question": "对将来的推测有哪些情态动词",
     "translation": "will do/should do/could do/may(might) do",
     "knowledge_point": "- 对将来的推测：will do/should do/could do/may(might) do\n- won't/shouldn't/couldn't/may(might) not",
     "label": "情态动词-推测"
   },
   {
-    "question": ". 对过去的推测有哪些情态动词",
+    "question": "对过去的推测有哪些情态动词",
     "translation": "must have done/should have done/could have done/may(might) have done",
     "knowledge_point": "- 对过去的推测：must have done/should have done/could have done/may(might) have done\n- can't have/shouldn't have/couldn't have/may(might) not have done",
     "label": "情态动词-推测"
   },
   {
-    "question": ". 对此时此刻的推测有哪些情态动词",
+    "question": "对此时此刻的推测有哪些情态动词",
     "translation": "must be doing/should be doing/could be doing/may(might) be doing",
     "knowledge_point": "- 对此时此刻的推测：must be doing/should be doing/could be doing/may(might) be doing\n- can't be doing/shouldn't be doing/couldn't be doing/may(might) be doing",
     "label": "情态动词-推测"
   },
   {
-    "question": ". 新税的结果可能是什么",
+    "question": "新税的结果可能是什么",
     "translation": "What may be the result of the new tax",
     "knowledge_point": "- 对现在的推测：may表示可能性\n- 表示推测",
     "label": "情态动词-推测"
   },
   {
-    "question": ". 他本可以试试这种药的",
+    "question": "他本可以试试这种药的",
     "translation": "He might have tried this medicine",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：might have done过去可以做，而没做的事",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我险些弄出麻烦来",
+    "question": "我险些弄出麻烦来",
     "translation": "I might have got into trouble",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：might have done过去可以做，而没做的事\n- get into trouble 陷入麻烦",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我本可以做的更好",
+    "question": "我本可以做的更好",
     "translation": "I could have done better",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：could have done表示过去能做，而没做的事， 有一种对过去未付诸实施的事情的惋惜，或委婉的批评",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 你可以本来更细心的（发小火）",
+    "question": "你可以本来更细心的（发小火）",
     "translation": "You could have been more careful",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：could have done表示过去能做，而没做的事\n- 有一种对过去未付诸实施的事情的惋惜，或委婉的批评",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我们本应该听你的（注意，这里中文的听你的，其实按照你说的做）",
+    "question": "我们本应该听你的（注意，这里中文的听你的，其实按照你说的做）",
     "translation": "We should have done as you said",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：should have done表示应该作的事而没有做， 表示意外，不满或批评",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我早该想到会在这里见到你，麦教授",
+    "question": "我早该想到会在这里见到你，麦教授",
     "translation": "I should've known that you would be here, Professor",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：should have done表示应该作的事而没有做，表示意外，不满或批评",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我该快点杀死他",
+    "question": "我该快点杀死他",
     "translation": "I should have killed him quicker",
     "knowledge_point": "- 虚拟语气\n- 本能做但没做：should have done表示应该作的事而没有做，表示意外，不满或批评",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我本不该告诉你的，我又说漏嘴了",
+    "question": "我本不该告诉你的，我又说漏嘴了",
     "translation": "I shouldn't have told you",
     "knowledge_point": "- 虚拟语气\n- 不该做却做了：shouldn't/needn't/ought not to，表示后悔",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 如果我知道你在等，我早就加快速度了",
+    "question": "如果我知道你在等，我早就加快速度了",
     "translation": "If I had known you were waiting, I would have hurried",
     "knowledge_point": "- 虚拟语气\n- would have done：表达未实现的意愿或结果",
     "label": "情态动词-虚拟"
   },
   {
-    "question": ". 我们必赢",
+    "question": "我们必赢",
     "translation": "We will win",
     "knowledge_point": "- 推测：对将来的一种推测（自信心最强）\n- 这里will是助动词",
     "label": "情态动词-will"
   },
   {
-    "question": ". 这部剧在中国一定会火",
+    "question": "这部剧在中国一定会火",
     "translation": "This play will be popular in China",
     "knowledge_point": "- 推测：对将来的一种推测（自信心最强）\n- 这里will是助动词",
     "label": "情态动词-will"
   },
   {
-    "question": ". A：有人在敲门 B：那是弗兰克。我打开它",
+    "question": "A：有人在敲门 B：那是弗兰克。我打开它",
     "translation": "Who is knocking at the door? That'll be Frank, I will open it",
     "knowledge_point": "- 本色：意愿\n- will将来表示意愿的时候，和情态动词很像",
     "label": "情态动词-will"
   },
   {
-    "question": ". 我不会撒谎（表明一种态度）",
+    "question": "我不会撒谎（表明一种态度）",
     "translation": "I won't resort to lying",
     "knowledge_point": "- 本色：意愿\n- 表明一种态度",
     "label": "情态动词-will"
   },
   {
-    "question": ". 明天会好起来的",
+    "question": "明天会好起来的",
     "translation": "Tomorrow would be fine",
     "knowledge_point": "- 推测：对未来不太确定的推测\n- 语气比will更不确定",
     "label": "情态动词-would"
   },
   {
-    "question": ". 如果我问你一个问题，你介意吗",
+    "question": "如果我问你一个问题，你介意吗",
     "translation": "Would you mind if I ask you a question",
     "knowledge_point": "- 本色：委婉的意愿、请求、希望...会\n- 表示委婉的请求",
     "label": "情态动词-would"
   },
   {
-    "question": ". 你愿意嫁我吗",
+    "question": "你愿意嫁我吗",
     "translation": "Will you marry me",
     "knowledge_point": "- 本色：意愿\n- 表示意愿",
     "label": "情态动词-would"
   },
   {
-    "question": ". 当我年轻时，我会听着收音机，等待我最喜欢的歌",
+    "question": "当我年轻时，我会听着收音机，等待我最喜欢的歌",
     "translation": "When I was young, I'd listen to the radio, waiting for my favorite song",
     "knowledge_point": "- 本色：表示过去的某种习惯\n- 表示过去的习惯",
     "label": "情态动词-would"
   },
   {
-    "question": ". 我小的时候，我妈妈经常给我讲故事",
+    "question": "我小的时候，我妈妈经常给我讲故事",
     "translation": "When I was young, My mother would read me a story in the evening",
     "knowledge_point": "- 本色：表示过去的某种习惯\n- 表示过去的习惯",
     "label": "情态动词-would"
   },
   {
-    "question": ". 现在可能10点",
+    "question": "现在可能10点",
     "translation": "It may be 10 o'clock",
     "knowledge_point": "- 推测：可能，或许\n- 表示可能性",
     "label": "情态动词-may"
   },
   {
-    "question": ". 我能进来吗",
+    "question": "我能进来吗",
     "translation": "May I come in",
     "knowledge_point": "- 本色：表示许可\n- 表示请求许可",
     "label": "情态动词-may"
   },
   {
-    "question": ". 你只能选一个",
+    "question": "你只能选一个",
     "translation": "You may only choose one",
     "knowledge_point": "- 本色：表示许可\n- 表示许可",
     "label": "情态动词-may"
   },
   {
-    "question": ". 你们不能在这抽烟",
+    "question": "你们不能在这抽烟",
     "translation": "You may not smoke here",
     "knowledge_point": "- 本色：表示许可\n- 表示禁止",
     "label": "情态动词-may"
   },
   {
-    "question": ". 你现在可以亲吻新娘了",
+    "question": "你现在可以亲吻新娘了",
     "translation": "Now you may kiss the bride",
     "knowledge_point": "- 本色：表示许可\n- 表示许可",
     "label": "情态动词-may"
   },
   {
-    "question": ". 他可能昨天走的",
+    "question": "他可能昨天走的",
     "translation": "He might have left yesterday",
     "knowledge_point": "- might和may同义，语气更委婉\n- 表示对过去的推测",
     "label": "情态动词-might"
   },
   {
-    "question": ". 你在别处肯定被下药了（表示对过去的猜测）",
+    "question": "你在别处肯定被下药了（表示对过去的猜测）",
     "translation": "You must have been dosed /doʊst/ with it elsewhere",
     "knowledge_point": "- 对过去的推测：must have done\n- dose  [doʊs] 给……服药",
     "label": "情态动词-might"
   },
   {
-    "question": ". 那不可能是玛丽—她在纽约呢。",
+    "question": "那不可能是玛丽—她在纽约呢。",
     "translation": "That can't be Mary—she's in New York.",
     "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测",
     "label": "情态动词-can-只有can't 表示推测"
   },
   {
-    "question": ". 他不可能在那种闹哄哄的环境里睡好觉。",
+    "question": "他不可能在那种闹哄哄的环境里睡好觉。",
     "translation": "He can't have slept through all that noise.",
     "knowledge_point": "- 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测\n- sleep through 在。。中睡过去（睡好觉）",
     "label": "情态动词-can-只有can't 表示推测"
   },
   {
-    "question": ". 我会说意大利语",
+    "question": "我会说意大利语",
     "translation": "I can speak Italian",
     "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
     "label": "情态动词-can-本色1-能力"
   },
   {
-    "question": ". 你能完成吗",
+    "question": "你能完成吗",
     "translation": "Can you get it done?",
     "knowledge_point": "- 本色1: 能力（有做...的潜力，具备做某事的条件）\n- 强调能力而不强调具体动作",
     "label": "情态动词-can-本色1-能力"
   },
   {
-    "question": ". 我觉得发生的每件事都是一个教训",
+    "question": "我觉得发生的每件事都是一个教训",
     "translation": "I think everything that happens can be a lesson",
     "knowledge_point": "- 核心思维：潜在的可能性，有某种知识和技能而能办到\n- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）",
     "label": "情态动词-can-本色2-理论上的可能"
   },
   {
-    "question": ". 那的冬天可能会很冷",
+    "question": "那的冬天可能会很冷",
     "translation": "Winter there can be very cold",
     "knowledge_point": "- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）\n- 与说话现状无关，\"有时可能会\"",
     "label": "情态动词-can-本色2-理论上的可能"
   },
   {
-    "question": ". 人有时像野兽一样残忍",
+    "question": "人有时像野兽一样残忍",
     "translation": "Man can be as cruel[ˈkruːəl] as wild beasts",
     "knowledge_point": "- 本色2：可能---理论上的可能，偶然的可能（used to say what sb/sth is often like （表示常有的行为和情形）有时会，时而可能）（与说话现状无关，\"有时可能会\"）\n- 与说话现状无关，\"有时可能会\"",
     "label": "情态动词-can-本色2-理论上的可能"
   },
   {
-    "question": ". 我年轻的时候能喝14瓶啤酒",
+    "question": "我年轻的时候能喝14瓶啤酒",
     "translation": "I could drink 14 bottles of beer when I was young",
     "knowledge_point": "- 本色：过去的能力（注意区分be able to）\n- 表示过去的能力",
     "label": "情态动词-could"
   },
   {
-    "question": ". 我上个礼拜终于（可以）找到工作了",
+    "question": "我上个礼拜终于（可以）找到工作了",
     "translation": "I was able to get a job last week",
     "knowledge_point": "- could和was able to的区别是，was able to表示确实做了\n- 表示确实做到了",
     "label": "情态动词-could"
   },
   {
-    "question": ". 看那些乌云。随时都可能开始下雨",
+    "question": "看那些乌云。随时都可能开始下雨",
     "translation": "Look at those dark clouds, it could start raining at any minutes",
     "knowledge_point": "- 表示不确定的可能\n- 表示可能性",
     "label": "情态动词-could"
   },
   {
-    "question": ". 看那些乌云。随时都可能开始下雨",
+    "question": "看那些乌云。随时都可能开始下雨",
     "translation": "Look at those dark clouds. It is going to start raining at any minutes",
     "knowledge_point": "- be going to：有迹象表明会发生\n- 有迹象表明会发生",
     "label": "情态动词-could"
   },
   {
-    "question": ". 倒装两种形式",
+    "question": "倒装两种形式",
     "translation": "完全倒装：谓语完全在主语的前面，御驾亲征；部分倒装：谓语不动，助动词/情态动词放在前面",
     "knowledge_point": "- 完全倒装：谓语完全在主语的前面\n- 部分倒装：谓语不动，助动词/情态动词放在前面",
     "label": "倒装-完全倒装和部分倒装"
   },
   {
-    "question": ". 助动词有哪些",
+    "question": "助动词有哪些",
     "translation": "be(am is are), do don't did didn't, have, haven't",
     "knowledge_point": "- be(am is are): Jim is crying\n- do don't did didn't\n- have, haven't",
     "label": "倒装-助动词"
   },
   {
-    "question": ". 你老婆来了",
+    "question": "你老婆来了",
     "translation": "Here comes your wife",
     "knowledge_point": "- 以here,there,now, then的完全倒装\n- 完全倒装句型",
     "label": "倒装形式1-以here,there,now, then的完全倒装"
   },
   {
-    "question": ". 咱们的飞机走了",
+    "question": "咱们的飞机走了",
     "translation": "There goes our plane",
     "knowledge_point": "- 以here,there,now, then的完全倒装\n- 完全倒装句型",
     "label": "倒装形式1-以here,there,now, then的完全倒装"
   },
   {
-    "question": ". 该你了，轮到你了",
+    "question": "该你了，轮到你了",
     "translation": "Now comes your turn",
     "knowledge_point": "- 以here,there,now, then的完全倒装\n- 完全倒装句型",
     "label": "倒装形式1-以here,there,now, then的完全倒装"
   },
   {
-    "question": ". A:他能说英语 B:我也能（表示肯定）",
+    "question": "A:他能说英语 B:我也能（表示肯定）",
     "translation": "A: He can speak English B: so can I",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示肯定",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". A:Jack去过英国 B:我也去过；夏洛克也去过",
+    "question": "A:Jack去过英国 B:我也去过；夏洛克也去过",
     "translation": "A: Jack has been to UK B: so have I, so has Sherlock",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示肯定",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". A:她是一个会计 B:他也是；我也是",
+    "question": "A:她是一个会计 B:他也是；我也是",
     "translation": "A: She is an accountant B: So is he, so am I",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示肯定",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". A:他通过了考试 B:我也是",
+    "question": "A:他通过了考试 B:我也是",
     "translation": "A: He passed the exam B: So did I",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示肯定",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". 蜘蛛侠：我不能让他停止。美国队长：我也不能",
+    "question": "蜘蛛侠：我不能让他停止。美国队长：我也不能",
     "translation": "A: I couldn't stop him B: neither could I",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示否定",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". A:你不应该在这 B:你也不应该",
+    "question": "A:你不应该在这 B:你也不应该",
     "translation": "A: You shouldn't be here B: neither should you",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示否定",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". A:他能说英语 B：他确实能（表示附和，捧哏）",
+    "question": "A:他能说英语 B：他确实能（表示附和，捧哏）",
     "translation": "A: He can speak English B: So he can",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示附和，捧哏",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". A:Jack去过英国 B:他确实去过（表示附和，捧哏）",
+    "question": "A:Jack去过英国 B:他确实去过（表示附和，捧哏）",
     "translation": "A: Jack has been to England B: So he has",
     "knowledge_point": "- so/nor/neither开头的回应短语\n- 表示附和，捧哏",
     "label": "倒装形式2-so/nor/neither开头的回应短语"
   },
   {
-    "question": ". 祝你成功",
+    "question": "祝你成功",
     "translation": "May you succeed",
     "knowledge_point": "- 表示祝愿\n- 祝愿句型",
     "label": "倒装形式3-表示祝愿"
   },
   {
-    "question": ". 恭喜发财",
+    "question": "恭喜发财",
     "translation": "May you be prosperous",
     "knowledge_point": "- 表示祝愿\n- 祝愿句型",
     "label": "倒装形式3-表示祝愿"
   },
   {
-    "question": ". 中华人民共和国万岁",
+    "question": "中华人民共和国万岁",
     "translation": "Long live the People's Republic of China",
     "knowledge_point": "- 表示祝愿\n- 祝愿句型",
     "label": "倒装形式3-表示祝愿"
   },
   {
-    "question": ". 世界人民大团结万岁",
+    "question": "世界人民大团结万岁",
     "translation": "Long live the great union of the people of the world",
     "knowledge_point": "- 表示祝愿\n- 祝愿句型",
     "label": "倒装形式3-表示祝愿"
   },
   {
-    "question": ". 友谊天长地久",
+    "question": "友谊天长地久",
     "translation": "Long live the friendship",
     "knowledge_point": "- 表示祝愿\n- 祝愿句型",
     "label": "倒装形式3-表示祝愿"
   },
   {
-    "question": ". 祝你长命百岁",
+    "question": "祝你长命百岁",
     "translation": "Long live you",
     "knowledge_point": "- 表示祝愿\n- 祝愿句型",
     "label": "倒装形式3-表示祝愿"
   },
   {
-    "question": ". 一个勇敢的男孩，他是",
+    "question": "一个勇敢的男孩，他是",
     "translation": "What a brave boy he is",
     "knowledge_point": "- 表示感叹\n- 感叹句型",
     "label": "倒装形式4-表示感叹"
   },
   {
-    "question": ". 多么的勇敢，这个男孩",
+    "question": "多么的勇敢，这个男孩",
     "translation": "How brave the boy is",
     "knowledge_point": "- 表示感叹\n- 感叹句型",
     "label": "倒装形式4-表示感叹"
   },
   {
-    "question": ". 当物体变成一个和他曾经不一样的物体，这种变化就是化学变化",
+    "question": "当物体变成一个和他曾经不一样的物体，这种变化就是化学变化",
     "translation": "When matter changes to a substance different from what it was, the change is a chemical change",
     "knowledge_point": "- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词\n- matter [ U ] a substance or things of a particular sort （某种）东西，物品，材料\n- substance [ C ] a type of solid, liquid or gas that has particular qualities 物质；物品；东西",
     "label": "冠词用处-判断后面有没有名词"
   },
   {
-    "question": ". 起重机是通过操作一个杆子进行开关控制的",
+    "question": "起重机是通过操作一个杆子进行开关控制的",
     "translation": "The crane is contactor-controlled by operating a rod",
     "knowledge_point": "- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词",
     "label": "冠词用处-判断后面有没有名词"
   },
   {
-    "question": ". 这是一个人造卫星",
+    "question": "这是一个人造卫星",
     "translation": "This is a man-made satellite",
     "knowledge_point": "- 用来判断后面有没有\"名词\"\n- 冠词帮助判断名词",
     "label": "冠词用处-判断后面有没有名词"
   },
   {
-    "question": ". 月亮/太阳/地球",
+    "question": "月亮/太阳/地球",
     "translation": "the moon/sun/earth",
     "knowledge_point": "- 定冠词the：独一无二\n- 表示独一无二的事物",
     "label": "the-独一无二"
   },
   {
-    "question": ". 世界/宇宙",
+    "question": "世界/宇宙",
     "translation": "the world/universe",
     "knowledge_point": "- 定冠词the：独一无二\n- 表示独一无二的事物",
     "label": "the-独一无二"
   },
   {
-    "question": ". 撒哈拉沙漠",
+    "question": "撒哈拉沙漠",
     "translation": "the Sahara Desert",
     "knowledge_point": "- 定冠词the：独一无二\n- 表示独一无二的事物",
     "label": "the-独一无二"
   },
   {
-    "question": ". 长城",
+    "question": "长城",
     "translation": "The Great Wall",
     "knowledge_point": "- 定冠词the：独一无二\n- 表示独一无二的事物",
     "label": "the-独一无二"
   },
   {
-    "question": ". 中华人民共和国",
+    "question": "中华人民共和国",
     "translation": "the People's Republic of China",
     "knowledge_point": "- 定冠词the：独一无二\n- 表示独一无二的事物",
     "label": "the-独一无二"
   },
   {
-    "question": ". 黄色座位留给老人、儿童、孕妇、病人和残疾人",
+    "question": "黄色座位留给老人、儿童、孕妇、病人和残疾人",
     "translation": "Yellow seats are reserved for Seniors, Children, Pregnant women, the Sick and the Disabled",
     "knowledge_point": "- the+adj表示一类人\n- 表示一类人",
     "label": "the+adj-一类人"
   },
   {
-    "question": ". 露西把苹果分成两半",
+    "question": "露西把苹果分成两半",
     "translation": "Lucy divided the apples into two halves[hævz]",
     "knowledge_point": "- 可数名词前定冠词表示某个，或某些特定的人或事物\n- 表示特定的事物",
     "label": "the+可数名词-特定事物"
   },
   {
-    "question": ". 这是一只猴子",
+    "question": "这是一只猴子",
     "translation": "This is a monkey",
     "knowledge_point": "- 表示\"一个\"的时候，a/an强调种类，类属而非数量\n- 强调种类，类属而非数量",
     "label": "a/an-强调种类"
   },
   {
-    "question": ". 一拳超人",
+    "question": "一拳超人",
     "translation": "One punch man",
     "knowledge_point": "- one更强调数量更强调\"一\"的概念\n- 强调数量",
     "label": "one-强调数量"
   },
   {
-    "question": ". 我可以一下子把他打倒",
+    "question": "我可以一下子把他打倒",
     "translation": "I can beat him down at one blow",
     "knowledge_point": "- one更强调数量更强调\"一\"的概念\n- 强调数量",
     "label": "one-强调数量"
   },
   {
-    "question": ". 去上学/去学校（可以捡瓶子）",
+    "question": "去上学/去学校（可以捡瓶子）",
     "translation": "go to school/go to the school",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 去看病/去医院（可能上班）",
+    "question": "去看病/去医院（可能上班）",
     "translation": "go to hospital/go to the hospital",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 吃饭/在桌旁(可能学习)",
+    "question": "吃饭/在桌旁(可能学习)",
     "translation": "at table/at the table",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 去睡觉/去床上",
+    "question": "去睡觉/去床上",
     "translation": "go to bed/go to the bed",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 住院/在医院（可能上班）",
+    "question": "住院/在医院（可能上班）",
     "translation": "in hospital/in the hospital",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 入狱/去监狱",
+    "question": "入狱/去监狱",
     "translation": "go to prison/go to the prison",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 在上学/在学校",
+    "question": "在上学/在学校",
     "translation": "in school/in the school",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 在上课，在听课/在班级里地方",
+    "question": "在上课，在听课/在班级里地方",
     "translation": "in class/in the class",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 学生们在班级进行了一次劳动竞赛活动",
+    "question": "学生们在班级进行了一次劳动竞赛活动",
     "translation": "Students held a labour competition [ˌkɑːmpəˈtɪʃ(ə)n] in the class",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 这个班男女生人数相等",
+    "question": "这个班男女生人数相等",
     "translation": "There is an equal number of boys and girls in the class",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 出海/去海边",
+    "question": "出海/去海边",
     "translation": "go to sea/go to the sea",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 茫然不知所措/在海边",
+    "question": "茫然不知所措/在海边",
     "translation": "at sea/at the sea",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 执政，掌权/在办公室",
+    "question": "执政，掌权/在办公室",
     "translation": "in office/in the office",
     "knowledge_point": "- 不加冠词强调功能，加了冠词强调地点\n- 功能vs地点",
     "label": "冠词-冠词的有无区别-无冠词表功能vs有冠词表地点"
   },
   {
-    "question": ". 玻璃/一只玻璃杯/这只玻璃杯",
+    "question": "玻璃/一只玻璃杯/这只玻璃杯",
     "translation": "glass/a glass/the glass",
     "knowledge_point": "- 物质名词不用冠词，若用，则具体化\n- 抽象vs具体",
     "label": "冠词-冠词的有无区别-无冠词表抽象vs有冠词表具体"
   },
   {
-    "question": ". 铁/熨斗/镣铐",
+    "question": "铁/熨斗/镣铐",
     "translation": "iron/an iron/irons",
     "knowledge_point": "- 物质名词不用冠词，若用，则具体化\n- 抽象vs具体",
     "label": "冠词-冠词的有无区别-无冠词表抽象vs有冠词表具体"
   },
   {
-    "question": ". 经验/一种经历",
+    "question": "经验/一种经历",
     "translation": "experience/an experience",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 抽象vs具体",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 布朗（姓）/布朗一家(布朗夫妇)",
+    "question": "布朗（姓）/布朗一家(布朗夫妇)",
     "translation": "Brown/the Browns",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 个人vs家庭",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 红白花（杂色）",
+    "question": "红白花（杂色）",
     "translation": "the red and white flower",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 杂色",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 红花和白花",
+    "question": "红花和白花",
     "translation": "the red and the white flower",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 两种颜色",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 没多少书(否定意味)",
+    "question": "没多少书(否定意味)",
     "translation": "few books",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 否定意味",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 少数几本书（虽指数量小，但含有肯定意味）",
+    "question": "少数几本书（虽指数量小，但含有肯定意味）",
     "translation": "a few books",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 肯定意味",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 我们中间的三个人",
+    "question": "我们中间的三个人",
     "translation": "three of us",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 部分",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 我们三个人（我们总共就三个人）",
+    "question": "我们三个人（我们总共就三个人）",
     "translation": "the three of us",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 全部",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 毫无疑问",
+    "question": "毫无疑问",
     "translation": "out of question",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 毫无疑问",
     "label": "冠词-冠词的有无区别-意义不同"
   },
   {
-    "question": ". 不可能的（常作表语）",
+    "question": "不可能的（常作表语）",
     "translation": "out of the question",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 不可能的",
     "label": "冠词-冠词的有无区别-意义不同"

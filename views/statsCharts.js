@@ -6,7 +6,7 @@
 
     // 学习时间等级定义
     const studyTimeLevels = {
-        0: { label: '0-19分钟', color: '#e8f5e9', grade: '不及格' },
+        0: { label: '0-19分钟', color: '#f5faf5', grade: '不及格' },
         1: { label: '20-30分钟', color: '#c6e48b', grade: '及格' },
         2: { label: '31-40分钟', color: '#7bc96f', grade: '良好' },
         3: { label: '41-50分钟', color: '#40a9ff', grade: '良好+' },
