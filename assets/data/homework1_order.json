@@ -582,33 +582,51 @@
     "label": "形容词短语作定语; suited和suitable"
   },
   {
+    "question": "他的耐心使他非常适合做客服工作。",
+    "translation": "His patience makes him well-**suited for** customer service.",
+    "knowledge_point": "suited for 内在的相容性，是否天生匹配、能良好适应(性格，天赋，本身的性质)",
+    "label": "分词形容词; suited和suitable"
+  },
+  {
     "question": "suited for和suitable for的区别",
     "translation": "suited for vs suitable for",
-    "knowledge_point": "- suitable for = fit for客观的适宜性，是否符合标准、规矩或目的；\n- suited for 内在的相容性，是否天生匹配、能良好适应",
+    "knowledge_point": "- suitable for = fit for客观的适宜性，是否符合标准、要求或目的；\n- The course is suitable for both beginners and advanced students\n- Is this movie **suitable for** children\n- suited for 内在的相容性，是否天生匹配、能良好适应(性格，天赋，本身的性质)\n- She is not **suited for**a desk job; she loves the outdoors\n- His patience makes him well-**suited for** customer service.",
     "label": "suited和suitable"
   },
   {
     "question": "你看见我那件带帽子的短上衣了吗",
     "translation": "Did you see my jacket with a hood",
-    "knowledge_point": "- 内部关系：动作；句子成分: 主谓宾定,介词with短语作定语；\n- 完成时，表示对现在有影响；\n- 这里过去时，表示过去是的动作；\n- 一般现在时，表示经常性的动作",
+    "knowledge_point": "- 内部关系：动作；句子成分: 主谓宾定,介词with短语作定语；\n- 完成时，表示对现在有影响；\n- 这里过去时，表示过去是的动作；\n- 一般现在时，表示经常性的动作\n- jacket本身就是短上衣的意思",
     "label": "介词短语作定语"
   },
   {
-    "question": "hood的用法",
+    "question": "衣服上的帽子",
     "translation": "hood",
-    "knowledge_point": "- hood: 衣服上的帽子\n- hoody",
+    "knowledge_point": "- hoody",
     "label": ""
   },
   {
     "question": "我从来没见过这么甜蜜、幸福的笑容",
     "translation": "I have never seen a smile so sweet and happy",
-    "knowledge_point": "- 内部关系：动作；句子成分：主谓宾定；\n- 左二右六的二，是指种类，所以，可以说 (such a)(sweet and happy) smile；\n- 现在完成时，表示到现在为止，都没有看过，表示到目前为止",
+    "knowledge_point": "- 内部关系：动作；句子成分：主谓宾定；\n- 左二右六的二，是指种类，所以，可以说 (such a)(sweet and happy) smile；\n- 现在完成时，表示到现在为止，都没有看过，表示到目前为止\n- sweet: ( especially *BrE* ) ( especially of children or small things 尤指儿童或小物品 ) attractive 惹人喜爱的；可爱的\n- You look sweet in this photograph. 你这张照片照得很可爱",
     "label": "形容词作定语"
   },
   {
-    "question": "sweet的用法",
-    "translation": "sweet",
-    "knowledge_point": "- having or showing a kind character 善良的；好心的；和蔼的；温柔的；",
+    "question": "甜润的嗓音",
+    "translation": "a sweet voice",
+    "knowledge_point": "- having a pleasant sound 悦耳的；好听的；",
+    "label": "sweet"
+  },
+  {
+    "question": "空气中弥漫着湿土的香气",
+    "translation": "The air was sweet with smell of wet mud.",
+    "knowledge_point": "- having a pleasant smell 香的；芳香的；芬芳的 = frangrant；\n- containing, or tasting as if it contains, a lot of sugar 含糖的；甜的",
+    "label": "sweet"
+  },
+  {
+    "question": "甜食",
+    "translation": "sweet food",
+    "knowledge_point": "- containing, or tasting as if it contains, a lot of sugar 含糖的；甜的",
     "label": "sweet"
   },
   {
@@ -626,19 +644,13 @@
   {
     "question": "她有四个需要照顾的孩子",
     "translation": "She has four kids to take care of",
-    "knowledge_point": "- 内部关系：动作；句子成分：主谓宾定；\n- take care of (1) to care for sb/sth/yourself; to be careful about sth 照顾；照料；爱护；小心；",
-    "label": "不定式作定语"
+    "knowledge_point": "- 内部关系：动作；句子成分：主谓宾定；\n- take care of: (1) to care for sb/sth/yourself; to be careful about sth 照顾；照料；爱护；小心；",
+    "label": "不定式作定语; take care of"
   },
   {
     "question": "老板不在的时候，我来处理这件事",
     "translation": "I will take care of this while the boss is away",
-    "knowledge_point": "take care of (2) to be responsible for or to deal with a situation or task 负责；处理",
-    "label": "take care of"
-  },
-  {
-    "question": "look after和take care of的区别",
-    "translation": "look after vs take care of",
-    "knowledge_point": "- look after：",
+    "knowledge_point": "take care of: (2) to be responsible for or to deal with a situation or task 负责；处理",
     "label": "take care of"
   },
   {
@@ -680,7 +692,7 @@
   {
     "question": "这个世界正在等待我们去探索",
     "translation": "the world is waiting for us to explore",
-    "knowledge_point": "- 不定式to explore做us的补语，这个世界正在等待我们去探索，探索这个动作不是世界完成的，是我们，\n- to explore是对us的补充，缺少了to explore意思不完整，这里的us做了介词for后的宾语，所以也是宾补",
+    "knowledge_point": "- 不定式to explore做us的补语，这个世界正在等待我们去探索，探索这个动作不是世界完成的，是我们，\n- to explore是对us的补充，缺少了to explore意思不完整，这里的us做了介词for后的宾语，所以to explore是宾补\n- wait for sb to do\n- wait 有几个固定搭配的直接的名词，其他情况都要for\n- wait a moment/an hour/ wait your turn/chance/opportunity",
     "label": "宾补"
   },
   {
@@ -692,13 +704,19 @@
   {
     "question": "不好意思，靠窗的桌位都满了",
     "translation": "Sorry, All the tables by the window have been occupied/booked",
-    "knowledge_point": "- 内部关系：动宾；句子成分：主定谓；\n- by 比near 更近一点；要转换思维，这里可能是饭店，或者哪里，应该是指桌子。\n- 这里的\"满\"，是指被预定：occupied/booked",
+    "knowledge_point": "- 内部关系：动宾；句子成分：主定谓；\n- by 比near 更近一点；要转换思维，这里可能是饭店，或者哪里，应该是指桌子。\n- 这里的\"满\"，是指被预定：occupied/booked\n- occupied: 1. [ not before noun ] being used by sb 使用中；有人使用（或居住）；",
     "label": "occupied; 介词短语作定语"
   },
   {
-    "question": "occupy的用法",
-    "translation": "occupy",
-    "knowledge_point": "- 1. [ not before noun ] being used by sb 使用中；有人使用（或居住）；",
+    "question": "照顾三个小孩把他忙得不可开交",
+    "translation": "He's fully occupied looking after three small children.",
+    "knowledge_point": ":occupied: 2. [ not before noun ] ~ (doing sth/in doing sth/in sth) | ~ (with sth/with doing sth) busy 忙于；",
+    "label": "occupied"
+  },
+  {
+    "question": "他在被占领的欧洲度过了童年",
+    "translation": "He spent his childhood in occupied Europe.",
+    "knowledge_point": "occupied: 3. ( of a country, etc. 国家等 ) controlled by people from another country, etc., using military force 被占领的；被侵占的",
     "label": "occupied"
   },
   {
@@ -708,12 +726,6 @@
     "label": "stall/mall"
   },
   {
-    "question": "around的用法",
-    "translation": "around",
-    "knowledge_point": "- surrounding sb/sth; on each side of sth 围绕；环绕；\n- The house is built around a central courtyard 这房子是围绕着中央的庭院而建的；",
-    "label": "around"
-  },
-  {
     "question": "坐在我旁边的女孩有一点晕机",
     "translation": "The girl sitting next to me was a bit airsick",
     "knowledge_point": "- 内部关系：描述；句子成分: 主定系表；\n- next to 比near 跟近；由远到近：near/by/besides/next to\n- 过去时，这里是转述，彼时彼刻的一个状态；",
@@ -721,7 +733,7 @@
   },
   {
     "question": "a bit的用法",
-    "translation": "a bit",
+    "translation": "a bit=a little = a little bit",
     "knowledge_point": "- 1. ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- 2. ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离；\n- 3. [ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块",
     "label": "a bit"
   },
@@ -1320,12 +1332,6 @@
     "label": "join"
   },
   {
-    "question": "这所学校因纪律严格而名闻遐迩。",
-    "translation": "The school has a reputation for high standards of discipline",
-    "knowledge_point": "- n. [ U ] the practice of training people to obey rules and orders and punishing them if they do not; the controlled behaviour or situation that results from this training 训练；训导；纪律；风纪",
-    "label": "discipline"
-  },
-  {
     "question": "学开车主要是靠协调。(学开车是关于（取决于) 协调的问题）",
     "translation": "Learning to drive is all a matter of coordination.",
     "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
@@ -1363,7 +1369,7 @@
   },
   {
     "question": "我忍不住把整块蛋糕都吃了。",
-    "translation": "I couldn't resist it .",
+    "translation": "I couldn't resist eating the whole cake.",
     "knowledge_point": "resist 3. ( usually in negative sentences 通常用于否定句 ) to stop yourself from having sth you like or doing sth you very much want to do",
     "label": "resist"
   },
@@ -1375,7 +1381,7 @@
   },
   {
     "question": "她是这项工作最合适的人选。",
-    "translation": "She's the ideal candidate for the job.",
+    "translation": "She's the ideal candidate['kændideit] for the job.",
     "knowledge_point": "idea [adj] ~ (for sth) perfect; most suitable 完美的；理想的；最合适的",
     "label": "ideal"
   },
@@ -1435,7 +1441,7 @@
   },
   {
     "question": "我变得老成聪明了。",
-    "translation": "I'm older and wiser after ten years in the business.",
+    "translation": "I'm older and wiser.",
     "knowledge_point": "( of people 人 ) able to make sensible decisions and give good advice because of the experience and knowledge that you have",
     "label": "wise"
   },
@@ -1483,7 +1489,7 @@
   },
   {
     "question": "我发现跟你聊天很受启发",
-    "translation": "I find it enlightening to talk with you",
+    "translation": "I find it enlightening[ɪnˈlaɪtnɪŋ] to talk with you",
     "knowledge_point": "- 不定式作宾语，it做形式宾语\n- enlightening[ɪnˈlaɪtnɪŋ] 让人受启发的",
     "label": "不定式作宾语; enlightening"
   },
@@ -1495,7 +1501,7 @@
   },
   {
     "question": "开明的见解/态度/想法",
-    "translation": "enlightened opinions/attitudes/ideas",
+    "translation": "enlightened[ɪnˈlaɪt(ə)nd] opinions/attitudes/ideas",
     "knowledge_point": "- enlightened [usually before noun] (approving) having or showing an understanding of people's needs, a situation, etc. that is not based on old-fashioned attitudes and prejudice 开明的；有见识的；摆脱偏见的",
     "label": "enlightening"
   },
@@ -1512,22 +1518,16 @@
     "label": "trifles"
   },
   {
-    "question": "我教给他如何使用这台咖啡机",
-    "translation": "I've shown him how to work the coffee machine",
-    "knowledge_point": "- 现在完成时，强调他现在学会了（学的很好），对现在的影响\n- 用过去时表示过的一个画面也可以",
-    "label": "不定式作宾语"
-  },
-  {
     "question": "我认为说话时嘴里塞满食物是不礼貌的",
     "translation": "I consider it bad manners to speak with your mouth full of food",
     "knowledge_point": "- to do 作宾语，宾语后置",
     "label": "不定式作宾语"
   },
   {
-    "question": "操作咖啡机",
-    "translation": "work the coffee machine",
-    "knowledge_point": "- work sth, to make a machine, device, etc. operate 开动，操作（机器、装置）等；使运作\n- work the coffee machine就是这个用法",
-    "label": "work"
+    "question": "我教给他如何使用这台咖啡机",
+    "translation": "I've shown him how to work the coffee machine",
+    "knowledge_point": "- 现在完成时，强调他现在学会了（学的很好），对现在的影响\n- 用过去时表示过的一个画面也可以",
+    "label": "不定式作宾语"
   },
   {
     "question": "很多成年人现在仍然依赖自己的孩子来操作电脑",
@@ -1551,7 +1551,7 @@
     "question": "看到有辆车过来了，他们就站到了路边",
     "translation": "Seeing a car coming, they stepped aside",
     "knowledge_point": "- 内部关系：时间状语，主谓状\n- coming 分词作补语\n- stand 是个静态过程，step 是个动态过程",
-    "label": "现在分词作状语"
+    "label": "现在分词作时间状语"
   },
   {
     "question": "从窗户往外看，我们看见一只正在叫唤的狗",
@@ -1563,37 +1563,43 @@
     "question": "站到悬崖上，我感到很紧张",
     "translation": "Standing on the cliff, I felt very nervous",
     "knowledge_point": "- 内部关系：时间状语，主系表\n- 使用nervous能够最直接、最准确地传达出这种内心的恐惧感\n- 使用tense也可以，但含义有细微差别。如果你说I felt tense，它更多地强调你因为害怕而全身肌肉紧绷、身体僵硬的状态。这种身体的\"紧绷\"是心理\"紧张\"的结果",
-    "label": "现在分词作状语"
+    "label": "现在分词作时间状语"
   },
   {
     "question": "他从自行车上摔下来了，划破了腿",
     "translation": "He fell off the bike, cutting his leg",
-    "knowledge_point": "- 内部关系：句子成分：主谓状，结果状语\n- 这里应该是摔的过程中，划破了腿，而不是，摔下来之后，划破了腿所以应该是主动\n- \"从自行车上摔下来\"，\"划破腿\"，是摔下来的一个结果\n- 此处是表示结果状语\n- 也可以He cut his leg, falling off from the bike\n- 此处现在分词表示时间状语\n- 分词作状语：时间，原因，结果，条件",
-    "label": "现在分词作状语"
+    "knowledge_point": "- 内部关系：句子成分：主谓状，结果状语\n- 这里应该是摔的过程中，划破了腿，而不是，摔下来之后，划破了腿所以应该是主动\n- \"从自行车上摔下来\"，\"划破腿\"，是摔下来的一个结果\n- 此处是表示结果状语\n- 也可以He cut his leg, falling off from the bike\n- 此处现在分词表示时间状语\n- 分词作状语：时间，原因，结果，条件\n- fall off: 从“平面的边缘或顶部“跌落：fall off the bed/chair/bike/a cliff\n- fall off: 从“一个点、高度“ 离开：fall from grace 失宠/fall from the sky/horse",
+    "label": "现在分词作结果状语"
   },
   {
     "question": "从马上摔下来，他输了比赛",
     "translation": "Falling from the horse, he lost the match",
     "knowledge_point": "- 分词作状语，先考虑主动/被动，再考虑时态\n- 如果是不及物动词，则考虑时态。完成，还是正在进行\n- 主动就是现在分词，再考虑时态，现在分词也有完成时态，doing/having done\n- 被动就是过去分词，再考虑时态，to be done，将来时，being done 正在进行时, done 就是完成时\n- 如果是不及物动词，被动式就不表示语态，而是表示时态，代表正在发生，或者已经发生\n- 为什么分词作状语/定语，先考虑主动被动，因为分词是非谓语动词，没有当上大尉的动词，状语，定语用于修饰关系，所以首先要看语态，再看本身的时态，而时态是相对于主语的，不是整个句子的\n- 不及物动词做定语或者状语，只表示动作的完成或者进行，因为不及物动词没有被动形式\n- 比如the falling autumn leaves 纷纷飘落的秋叶\n- the fallen autumn leaves 落了的秋叶\n- boiling water 正在沸腾的水\n- boiled water 煮沸了的水\n- fading flowers 正在凋谢的花\n- faded flowers 凋谢了的花",
-    "label": "现在分词作状语; 不及物动词"
+    "label": "现在分词作原因状语; fall"
+  },
+  {
+    "question": "您是从天上掉下来的！",
+    "translation": "Did you fall from heaven?",
+    "knowledge_point": "",
+    "label": "fall"
   },
   {
     "question": "他就把灯关掉了，什么也没看见",
     "translation": "He turned off the lamp, seeing nothing",
     "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前",
-    "label": "现在分词作状语; 结果状语"
+    "label": "现在分词作结果状语"
   },
   {
     "question": "他总是为小事担心，而忘记了他的主要目标",
     "translation": "He's always worrying about trifles, losing sight of his main objectives",
-    "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前",
-    "label": "现在分词作状语; 结果状语"
+    "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前\n- lose sight of 忽略了",
+    "label": "现在分词作结果状语"
   },
   {
     "question": "那位老人突然去世，留下未完成的工程",
     "translation": "The old man died all of a sudden, leaving the project unfinished",
     "knowledge_point": "- 现在分词作结果状语, 主语时间比状语从句提前",
-    "label": "现在分词作状语; 结果状语"
+    "label": "现在分词作结果状语"
   },
   {
     "question": "逝去的年轻时光",
@@ -1610,14 +1616,20 @@
   {
     "question": "她很年轻，然而干这份工作已有经验，这是很难得的",
     "translation": "She brings to the job a rare combination of youth and experience",
-    "knowledge_point": "- [U] the quality or state of being young 年轻；青春；朝气",
-    "label": "youth"
+    "knowledge_point": "- [U] the quality or state of being young 年轻；青春；朝气\n- 尾大原则，正常是bring sth to sth , 这里把to sth提到前面了",
+    "label": "youth; 尾大原则"
   },
   {
     "question": "这场打斗是一伙少年挑起来的",
     "translation": "The fight was started by a gang of youths",
     "knowledge_point": "- [C] (often disapproving) a young man 青年男子；小伙子",
     "label": "youth"
+  },
+  {
+    "question": "她很年轻，然而干这份工作已有经验，这是很难得的",
+    "translation": "He presented to the committee a detailed plan for the new project.",
+    "knowledge_point": "- 尾大原则，正常是present sth to sth , 这里把to sth提到前面了",
+    "label": "present; 尾大原则"
   },
   {
     "question": "正在凋谢的花",
@@ -1664,7 +1676,7 @@
   {
     "question": "熏肉",
     "translation": "smoked bacon",
-    "knowledge_point": "- smoked 表示熏制的",
+    "knowledge_point": "- smoked 表示熏制的f",
     "label": "smoked"
   },
   {
@@ -1675,9 +1687,9 @@
   },
   {
     "question": "计划经济",
-    "translation": "planned economy",
+    "translation": "planned [plænd] economy[ɪˈkɑːnəmi]",
     "knowledge_point": "- planned economy, 过去分词作定语，被动进行",
-    "label": "过去分词作定语; planned"
+    "label": "过去分词作定语"
   },
   {
     "question": "他很高兴看到母亲在家里受到很好的照顾",
@@ -1754,12 +1766,6 @@
   {
     "question": "这件事情天知地知，你知我知",
     "translation": "It's only between you and me",
-    "knowledge_point": "- between you and me 在你我之间",
-    "label": "be+介词"
-  },
-  {
-    "question": "这是你我之间的秘密",
-    "translation": "It is only between you and me",
     "knowledge_point": "- 句子结构是主谓状，之所以这么划分需要考虑到be（is, am, are）的用法\n- between you and me在两者之间，可以理解为地点\n- be后面是表示地点的时候，be的词性为不及物动词，作的是谓语\n- 所以句子是主谓状的结构\n- be表示\"位于\"的时候，可以用作不及物动词。因此句子划分为主谓状\n- \"be+介词短语\"的结构中，如果介词短语符合表语的特征：表示主语的年龄、身份、状态等，那么这个结构是系表结构\n- 如果介词短语符合状语的特征：表示地点、时间、原因等，be +介词短语就是主谓状结构\n- 也就是区分\"be+介词短语\"的句子成分要看介词短语所表达的意义",
     "label": "be+介词"
   },
@@ -1778,7 +1784,7 @@
   {
     "question": "我就指望你帮我了",
     "translation": "I'm counting on you to help me",
-    "knowledge_point": "- count on 指望，依靠",
+    "knowledge_point": "- count on 指望，依靠\n- be counting on 表示现在这个情况，我只能靠你了，进行时有临时性，且带有情绪投入。\n- 一般时表示永久不合适。\n- 将来时没有现在进行时紧急",
     "label": "on"
   },
   {

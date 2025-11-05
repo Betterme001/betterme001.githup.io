@@ -616,6 +616,130 @@
             iconEl.textContent = isExpanded ? '+' : '−';
         }
     };
+
+    // 处理重设所有题目掌握度的操作
+    window.handleResetMastery = function handleResetMastery(mode) {
+        const modeText = mode === 'clear' ? '清空为0%' : '设置为50%';
+        const warningText = mode === 'clear' 
+            ? '⚠️ 警告：此操作将清空所有题目的学习历史记录，掌握度将变为0%。\n\n此操作不可恢复，请谨慎操作！'
+            : '⚠️ 警告：此操作将重置所有题目的学习历史记录，掌握度将变为50%。\n\n原始学习记录将被清除，但可以通过后续复习重新提高掌握度。';
+        
+        // 双重确认，避免误操作
+        const confirm1 = window.confirm(
+            warningText + '\n\n确认要继续吗？'
+        );
+        
+        if (!confirm1) {
+            return;
+        }
+        
+        const confirm2 = window.confirm(
+            `⚠️ 最后确认：\n\n确定要将所有题目的掌握度${modeText}吗？\n\n点击"确定"将立即执行此操作。`
+        );
+        
+        if (!confirm2) {
+            return;
+        }
+        
+        // 检查函数是否存在
+        if (typeof window.resetAllMastery !== 'function') {
+            alert('错误：功能未找到，请刷新页面后重试。');
+            return;
+        }
+        
+        // 执行操作
+        try {
+            const result = window.resetAllMastery(mode);
+            
+            if (result.success) {
+                // 更新界面显示
+                if (typeof window.updateProgressDisplay === 'function') {
+                    window.updateProgressDisplay();
+                }
+                if (typeof window.updateTimeDisplay === 'function') {
+                    window.updateTimeDisplay();
+                }
+                
+                // 如果当前在展示题库页面，刷新题库显示
+                const libraryScreen = document.getElementById('libraryScreen');
+                if (libraryScreen && libraryScreen.classList.contains('show')) {
+                    if (typeof window.showQuestionBank === 'function') {
+                        window.showQuestionBank();
+                    }
+                }
+                
+                alert(
+                    '✅ 操作完成！\n\n' +
+                    result.message + '\n\n' +
+                    (mode === 'clear' 
+                        ? '提示：所有题目的学习历史已清空，掌握度已重置为0%。'
+                        : '提示：所有题目的掌握度已设置为50%。通过后续复习可以重新提高掌握度。')
+                );
+            } else {
+                alert('❌ 操作失败：' + result.message);
+            }
+        } catch (error) {
+            console.error('重设掌握度时出错：', error);
+            alert('❌ 操作时发生错误：' + error.message);
+        }
+    };
+
+    // 处理降低所有题目掌握度的操作
+    window.handleReduceMastery = function handleReduceMastery() {
+        // 双重确认，避免误操作
+        const confirm1 = window.confirm(
+            '⚠️ 警告：此操作将在所有题目的历史记录中添加负面记录，使掌握度降低约50%。\n\n' +
+            '此操作会影响所有题目的掌握度，但不会删除原始学习记录。\n' +
+            '通过后续复习，题目可以恢复到原来的掌握度水平。\n\n' +
+            '确认要继续吗？'
+        );
+        
+        if (!confirm1) {
+            return;
+        }
+        
+        const confirm2 = window.confirm(
+            '⚠️ 最后确认：\n\n' +
+            '确定要将所有题目的掌握度降低50%吗？\n\n' +
+            '点击"确定"将立即执行此操作。'
+        );
+        
+        if (!confirm2) {
+            return;
+        }
+        
+        // 检查函数是否存在
+        if (typeof window.reduceAllMasteryBy50Percent !== 'function') {
+            alert('错误：功能未找到，请刷新页面后重试。');
+            return;
+        }
+        
+        // 执行操作
+        try {
+            const result = window.reduceAllMasteryBy50Percent();
+            
+            if (result.success) {
+                // 更新界面显示
+                if (typeof window.updateProgressDisplay === 'function') {
+                    window.updateProgressDisplay();
+                }
+                if (typeof window.updateTimeDisplay === 'function') {
+                    window.updateTimeDisplay();
+                }
+                
+                alert(
+                    '✅ 操作完成！\n\n' +
+                    result.message + '\n\n' +
+                    '提示：通过后续复习，题目可以恢复到原来的掌握度水平。'
+                );
+            } else {
+                alert('❌ 操作失败：' + result.message);
+            }
+        } catch (error) {
+            console.error('降低掌握度时出错：', error);
+            alert('❌ 操作时发生错误：' + error.message);
+        }
+    };
 })();
 
 
