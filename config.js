@@ -26,23 +26,27 @@ const CONFIG = {
         grammarpoint1_order: { 
             name: '语法题库1-句子成分篇-顺序模式', 
             url: 'assets/data/grammarpoint_upperpart_order.json',
-            outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
+            outline: 'assets/data/grammarpoint_upperpart_box_outline.md',
+            labelSortOrder: 'default'  // 'default': 按出现顺序, 'alphabetical': 按字母排序
         },
         // 可追加更多题库：
         grammarpoint1_reverse: { 
             name: '语法题库2-句子成分篇-倒叙模式', 
             url: 'assets/data/grammarpoint_upperpart_reverse.json',
-            outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
+            outline: 'assets/data/grammarpoint_upperpart_box_outline.md',
+            labelSortOrder: 'default'
         },
         grammarpoint2_order: { 
             name: '语法题库3-时态篇-顺序模式', 
             url: 'assets/data/grammarpoint_lowerpart_order.json',
-            outline: 'assets/data/grammarpoint_lowerpart_box_outline.md'
+            outline: 'assets/data/grammarpoint_lowerpart_box_outline.md',
+            labelSortOrder: 'default'
         },
         homework1_order: { 
             name: '作业练习1-词汇语法篇-顺序模式', 
             url: 'assets/data/homework1_order.json',
-            outline: 'assets/data/grammarpoint_upperpart_box_outline.md'
+            outline: 'assets/data/grammarpoint_upperpart_box_outline.md',
+            labelSortOrder: 'alphabetical'  // 使用按字母排序
         }
     },
     

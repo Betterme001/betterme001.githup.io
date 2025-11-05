@@ -3,6 +3,11 @@
 
 (function () {
     window.showManagementScreen = function showManagementScreen() {
+        // 停止完成屏幕计时并记录时间（如果计时器正在运行）
+        if (typeof window.stopCompletionScreenTimer === 'function') {
+            window.stopCompletionScreenTimer();
+        }
+        
         document.getElementById('managementScreen').style.display = 'block';
         var ss3 = document.getElementById('startScreen');
         if (ss3) ss3.style.display = 'none';
@@ -241,11 +246,21 @@
     };
 
     window.backToManagement = function backToManagement() {
+        // 停止完成屏幕计时并记录时间（如果计时器正在运行）
+        if (typeof window.stopCompletionScreenTimer === 'function') {
+            window.stopCompletionScreenTimer();
+        }
+        
         if (typeof window.updateTimeDisplay === 'function') window.updateTimeDisplay();
         var statsScreen = document.getElementById('statsScreen');
         if (statsScreen) statsScreen.style.display = 'none';
         var outlineScreen = document.getElementById('outlineScreen');
         if (outlineScreen) outlineScreen.style.display = 'none';
+        
+        // 隐藏完成屏幕
+        const completionScreen = document.getElementById('completionScreen');
+        if (completionScreen) completionScreen.classList.remove('show');
+        
         window.showManagementScreen();
     };
 
@@ -277,7 +292,7 @@
             screen.appendChild(bar);
         }
 
-        // 计算label集合，并按首次出现顺序排序
+        // 计算label集合，并按配置的排序方式排序
         const questions = Array.isArray(window.questions) ? window.questions : [];
         const seen = Object.create(null);
         const orderedLabels = [];
@@ -305,6 +320,17 @@
                 }
             });
         });
+        
+        // 根据当前题库的配置对labels进行排序
+        const currentBankId = window.currentBankId || CONFIG.DEFAULT_BANK_ID;
+        const bankConfig = CONFIG.BANKS && CONFIG.BANKS[currentBankId];
+        const sortOrder = (bankConfig && bankConfig.labelSortOrder) || 'default';
+        
+        if (sortOrder === 'alphabetical') {
+            // 按字母排序
+            orderedLabels.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+        }
+        // 如果 sortOrder === 'default'，保持原有的首次出现顺序（不排序）
 
         // 若无label则隐藏
         if (orderedLabels.length === 0) {

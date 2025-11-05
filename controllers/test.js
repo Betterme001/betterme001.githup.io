@@ -452,6 +452,11 @@
         if (typeof window.updateTimeDisplay === 'function') window.updateTimeDisplay();
         document.getElementById('testScreen').style.display = 'none';
         document.getElementById('completionScreen').classList.add('show');
+        
+        // 启动完成屏幕计时器
+        if (typeof window.startCompletionScreenTimer === 'function') {
+            window.startCompletionScreenTimer();
+        }
 
         // 完成后将进度条设为100%
         const pf = document.getElementById('progressFill');

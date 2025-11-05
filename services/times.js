@@ -93,6 +93,87 @@
             `;
         }
     };
+
+    // 完成屏幕计时器相关
+    window.completionScreenStartTime = null;
+    window.completionScreenTimerInterval = null;
+    window.completionScreenMaxTime = 60; // 最多1分钟（60秒）
+
+    // 开始完成屏幕计时
+    window.startCompletionScreenTimer = function startCompletionScreenTimer() {
+        // 清除之前的计时器（如果存在）
+        if (window.completionScreenTimerInterval) {
+            clearInterval(window.completionScreenTimerInterval);
+        }
+        
+        // 记录开始时间
+        window.completionScreenStartTime = new Date();
+        
+        // 更新显示
+        updateCompletionScreenTimeDisplay(0);
+        
+        // 每秒更新一次显示
+        window.completionScreenTimerInterval = setInterval(function() {
+            if (!window.completionScreenStartTime) return;
+            
+            const elapsed = Math.floor((new Date() - window.completionScreenStartTime) / 1000);
+            const displayTime = Math.min(elapsed, window.completionScreenMaxTime);
+            
+            updateCompletionScreenTimeDisplay(displayTime);
+            
+            // 如果达到上限，停止计时
+            if (elapsed >= window.completionScreenMaxTime) {
+                stopCompletionScreenTimer();
+            }
+        }, 1000);
+    };
+
+    // 停止完成屏幕计时并记录时间
+    window.stopCompletionScreenTimer = function stopCompletionScreenTimer() {
+        if (window.completionScreenTimerInterval) {
+            clearInterval(window.completionScreenTimerInterval);
+            window.completionScreenTimerInterval = null;
+        }
+        
+        if (!window.completionScreenStartTime) return 0;
+        
+        // 计算实际学习时间（最多1分钟）
+        const endTime = new Date();
+        const actualTime = Math.floor((endTime - window.completionScreenStartTime) / 1000);
+        const studyTime = Math.min(actualTime, window.completionScreenMaxTime);
+        
+        // 记录学习时间
+        const today = new Date();
+        const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+
+        if (window.reviewStore.meta.lastStudyDate !== todayStr) {
+            window.reviewStore.meta.todayStudyTime = studyTime;
+            window.reviewStore.meta.lastStudyDate = todayStr;
+        } else {
+            window.reviewStore.meta.todayStudyTime += studyTime;
+        }
+
+        window.reviewStore.meta.totalStudyTime += studyTime;
+        window.saveStore();
+        
+        // 重置开始时间
+        window.completionScreenStartTime = null;
+        
+        // 更新管理界面时间显示
+        if (typeof window.updateTimeDisplay === 'function') {
+            window.updateTimeDisplay();
+        }
+        
+        console.log(`完成屏幕学习时间记录：${studyTime}秒`);
+        return studyTime;
+    };
+
+    // 更新完成屏幕时间显示（如果需要的话，目前不显示在界面上）
+    function updateCompletionScreenTimeDisplay(seconds) {
+        // 界面不需要显示时间，所以这个函数暂时保留但不做任何操作
+        // 如果需要调试，可以在控制台输出
+        // console.log('完成屏幕查看时间：', seconds, '秒');
+    }
 })();
 
 
