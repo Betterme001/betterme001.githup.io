@@ -272,7 +272,7 @@
         window.sortByMastery = !window.sortByMastery;
         const btn = document.getElementById('sortByMasteryBtn');
         if (btn) {
-            btn.textContent = window.sortByMastery ? '取消排序' : '按掌握度排序';
+            btn.textContent = window.sortByMastery ? '取消排序' : '排序M';
             btn.style.background = window.sortByMastery ? '#e3f2fd' : '#fff';
         }
         // 重新显示题库
@@ -621,8 +621,8 @@
     window.handleResetMastery = function handleResetMastery(mode) {
         const modeText = mode === 'clear' ? '清空为0%' : '设置为50%';
         const warningText = mode === 'clear' 
-            ? '⚠️ 警告：此操作将清空所有题目的学习历史记录，掌握度将变为0%。\n\n此操作不可恢复，请谨慎操作！'
-            : '⚠️ 警告：此操作将重置所有题目的学习历史记录，掌握度将变为50%。\n\n原始学习记录将被清除，但可以通过后续复习重新提高掌握度。';
+            ? '⚠️ 警告：此操作将清空当前题库所有题目的学习历史记录，掌握度将变为0%。\n\n此操作不可恢复，请谨慎操作！'
+            : '⚠️ 警告：此操作将重置当前题库所有题目的学习历史记录，掌握度将变为50%。\n\n原始学习记录将被清除，但可以通过后续复习重新提高掌握度。';
         
         // 双重确认，避免误操作
         const confirm1 = window.confirm(
@@ -634,7 +634,7 @@
         }
         
         const confirm2 = window.confirm(
-            `⚠️ 最后确认：\n\n确定要将所有题目的掌握度${modeText}吗？\n\n点击"确定"将立即执行此操作。`
+            `⚠️ 最后确认：\n\n确定要将当前题库所有题目的掌握度${modeText}吗？\n\n点击"确定"将立即执行此操作。`
         );
         
         if (!confirm2) {
@@ -672,8 +672,8 @@
                     '✅ 操作完成！\n\n' +
                     result.message + '\n\n' +
                     (mode === 'clear' 
-                        ? '提示：所有题目的学习历史已清空，掌握度已重置为0%。'
-                        : '提示：所有题目的掌握度已设置为50%。通过后续复习可以重新提高掌握度。')
+                        ? '提示：当前题库所有题目的学习历史已清空，掌握度已重置为0%。'
+                        : '提示：当前题库所有题目的掌握度已设置为50%。通过后续复习可以重新提高掌握度。')
                 );
             } else {
                 alert('❌ 操作失败：' + result.message);

@@ -1492,5 +1492,563 @@
     "translation": "out of the question",
     "knowledge_point": "- 某些词或词组用或不用冠词，意思不同\n- 不可能的",
     "label": "冠词-冠词的有无区别-意义不同"
+  },
+  {
+    "question": "介词的三个功能",
+    "translation": "表示动作的方向，范围和程度；胶水词，连接不同的名词；与BE动词连用，代替动词",
+    "knowledge_point": "介词的三个功能：\n- 表示动作的方向，范围和程度；\n- 胶水词，连接不同的名词；\n- 与BE动词连用，代替动词",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "江南四大介词",
+    "translation": "on/at/to/in",
+    "knowledge_point": "江南四大介词 on/at/to/in",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词on的六种用法",
+    "translation": "在...上；上车/船/台；集中在...上；临界、接近、接壤；关于，就某一问题；与be连用作表语表状态",
+    "knowledge_point": "介词on的六种用法：\n- 在...上；\n- 上车/船/台；\n- 集中在...上；\n- 临界、接近、接壤；\n- 关于，就某一问题；\n- 与be连用作表语表状态",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词in的两种用法",
+    "translation": "在...里；在某人的身上，品质/气质/才华",
+    "knowledge_point": "介词in的两种用法：在...里；在某人的身上，品质/气质/才华",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词at的四种用法",
+    "translation": "时间点；地点；价格，速度；冲/朝着...(狭小的范围，精准的概念)",
+    "knowledge_point": "介词at的四种用法：时间点；地点；价格，速度；冲/朝着...(狭小的范围，精准的概念)",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "介词to的六种用法",
+    "translation": "到；朝向；到达；达到某种程度；对..；向；反应；和拍子，对...作出反应；as far as sth 到，达（某处）；表示两人或事物之间的关系",
+    "knowledge_point": "介词to的六种用法：到；朝向；到达；达到某种程度；对..；向；反应；和拍子，对...作出反应；as far as sth 到，达（某处）；表示两人或事物之间的关系",
+    "label": "介词-框架知识点"
+  },
+  {
+    "question": "去医院",
+    "translation": "go to the hospital",
+    "knowledge_point": "介词功能一：表示动作的方向、范围和程度",
+    "label": "介词-功能1-表示动作的方向，范围和程度"
+  },
+  {
+    "question": "看某人",
+    "translation": "look at someone",
+    "knowledge_point": "介词功能一：表示动作的方向、范围和程度",
+    "label": "介词-功能1-表示动作的方向，范围和程度"
+  },
+  {
+    "question": "狠狠地打了一拳",
+    "translation": "punch into the face",
+    "knowledge_point": "介词功能一：表示动作的方向、范围和程度",
+    "label": "介词-功能1-表示动作的方向，范围和程度"
+  },
+  {
+    "question": "这么多大型动物的种类",
+    "translation": "so many species of large animals",
+    "knowledge_point": "介词功能二：[胶水词]， 连接不同的名词",
+    "label": "介词-功能1-表示动作的方向，范围和程度"
+  },
+  {
+    "question": "这么多物种的消失",
+    "translation": "disappearance of so many species",
+    "knowledge_point": "介词功能二：[胶水词]， 连接不同的名词",
+    "label": "介词-功能1-表示动作的方向，范围和程度"
+  },
+  {
+    "question": "我支持你:",
+    "translation": "I am on your side.",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "我戒酒一周了:",
+    "translation": "I am alcoholic  [ˌælkəˈhɑːlɪk] off for a week",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "包在我身上（我来开门吧，我来接电话，我盯着这事呢）",
+    "translation": "I am on it",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "监控某人",
+    "translation": "I am on sb",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "为什么你总是管着我呢",
+    "translation": "Why are you always on me",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "极度兴奋",
+    "translation": "beside oneself（with joy/excitement）",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "喜欢某人",
+    "translation": "be into sb （like sb , have a crush on sb）",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "不当班",
+    "translation": "off duty[ˈduːti]",
+    "knowledge_point": "介词功能三： 与BE动词连用，代替动词",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "从be+介词表示动作，可以看出英语是___语言",
+    "translation": "英语是静态型语言，中文是动态性语言",
+    "knowledge_point": "",
+    "label": "介词-功能3-与be动词连用，代替动词"
+  },
+  {
+    "question": "埋冤某人",
+    "translation": "put the blame on sb",
+    "knowledge_point": "on : 1. 在...上",
+    "label": "介词-on在...上"
+  },
+  {
+    "question": "给某人压力",
+    "translation": "put the pressure on sb",
+    "knowledge_point": "on : 1. 在...上",
+    "label": "介词-on在...上"
+  },
+  {
+    "question": "搁置某项目",
+    "translation": "put the project on ice",
+    "knowledge_point": "on : 1. 在...上",
+    "label": "介词-on在...上"
+  },
+  {
+    "question": "寄希望于某人",
+    "translation": "place one's hopes on sb",
+    "knowledge_point": "- on : 在...上\n- hopes 可数",
+    "label": "介词-on在...上"
+  },
+  {
+    "question": "上公交车",
+    "translation": "get on the bus",
+    "knowledge_point": "on: 2.上车/船/台",
+    "label": "介词-on-上车/船/台"
+  },
+  {
+    "question": "上舞台",
+    "translation": "get on the stage",
+    "knowledge_point": "- on: 2.上车/船/台\n- stage fright.怯场",
+    "label": "介词-on-上车/船/台"
+  },
+  {
+    "question": "你能教教我怎么克服怯场吗",
+    "translation": "Could you teach me how to beat/overcome stage fright?",
+    "knowledge_point": "- beat stage fright.克服怯场\n- beat inflation 抑制通货澎涨\n- beat:  to get control of sth 控制",
+    "label": "介词-on-上车/船/台"
+  },
+  {
+    "question": "骑马:",
+    "translation": "ride on the horse",
+    "knowledge_point": "on: 2.上车/船/台",
+    "label": "介词-on-上车/船/台"
+  },
+  {
+    "question": "这些问题围绕在三个主要问题",
+    "translation": "These discussions focus on three main problems",
+    "knowledge_point": "介词on: 3.集中在。。。上",
+    "label": "介词-on-集中在...上"
+  },
+  {
+    "question": "每个练习针对一个不同的语法点",
+    "translation": "Every exercise focuses on a different grammar point",
+    "knowledge_point": "介词on: 3.集中在。。。上",
+    "label": "介词-on-集中在...上"
+  },
+  {
+    "question": "(房屋/城市) 在河边",
+    "translation": "on the river",
+    "knowledge_point": "介词on: 4.临界、接近、接壤，后面接“线状”的或者“带状”的东西",
+    "label": "介词-on-集中在...上"
+  },
+  {
+    "question": "在路边",
+    "translation": "on the road",
+    "knowledge_point": "介词on: 4.临界、接近、接壤，后面接“线状”的或者“带状”的东西",
+    "label": "介词-on-集中在...上"
+  },
+  {
+    "question": "在太平洋沿岸的国家， 环太平洋的国家",
+    "translation": "countries on the Pacific [pəˈsɪfɪk]",
+    "knowledge_point": "介词on: 4.临界、接近、接壤，后面接“线状”的或者“带状”的东西",
+    "label": "介词-on-集中在...上"
+  },
+  {
+    "question": "伦敦在泰晤士河畔.",
+    "translation": "London stands on the Thames [temz]",
+    "knowledge_point": "介词on: 4.临界、接近、接壤，后面接“线状”的或者“带状”的东西",
+    "label": "介词-on-集中在...上"
+  },
+  {
+    "question": "on 和about 的区别",
+    "translation": "on 专题性比较强，about 范围比较广",
+    "knowledge_point": "介词on-5. 关于，就某一问题",
+    "label": "介词-on关于"
+  },
+  {
+    "question": "中国对垃圾的战争是世界的战争.",
+    "translation": "China's War on Trash is the World's",
+    "knowledge_point": "介词on-5. 关于，就某一问题",
+    "label": "介词-on关于"
+  },
+  {
+    "question": "我从朋友中听到了很多关于她的事",
+    "translation": "I heard a lot about her from my friend",
+    "knowledge_point": "介词on-5.关于，就某一问题",
+    "label": "介词-on关于"
+  },
+  {
+    "question": "警惕/警戒.",
+    "translation": "be on alert",
+    "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "出差/假期",
+    "translation": "on business/on holiday",
+    "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "在上升/增加",
+    "translation": "on the decrease/increase",
+    "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "忙个不停",
+    "translation": "on the move/on the go",
+    "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "着火.",
+    "translation": "on fire",
+    "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "如坐针毡",
+    "translation": "on pins and needles",
+    "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "被某人想着，牵挂。",
+    "translation": "be on one's mind",
+    "knowledge_point": "5. on 与be 连用作表语表状态",
+    "label": "介词-on-与be 连用作表语表状态"
+  },
+  {
+    "question": "在床上",
+    "translation": "in the bed",
+    "knowledge_point": "in: 1. 在...里",
+    "label": "介词-in在...里"
+  },
+  {
+    "question": "在街上",
+    "translation": "in the street",
+    "knowledge_point": "in: 1. 在...里",
+    "label": "介词-in在...里"
+  },
+  {
+    "question": "镶嵌在墙里的镜子",
+    "translation": "The mirror hung [hʌŋ] in the wall",
+    "knowledge_point": "in: 1. 在...里",
+    "label": "介词-in在...里"
+  },
+  {
+    "question": "有成为音乐家的潜质",
+    "translation": "you have it in you to be a musician",
+    "knowledge_point": "in：2. 在某人的身上， /品质/气质/才华",
+    "label": "介词-in-在某人的身上， 品质/气质/才华"
+  },
+  {
+    "question": "如果你对我失去信心，请对别人保持信心",
+    "translation": "If you lose your faith in me, please keep your faith in people",
+    "knowledge_point": "in：2. 在某人的身上， /品质/气质/才华",
+    "label": "介词-in-在某人的身上， 品质/气质/才华"
+  },
+  {
+    "question": "你性子还挺刚烈的。（不是指内心的对立情绪）",
+    "translation": "You got a little fight in you,I like that",
+    "knowledge_point": "- in：2. 在某人的身上， /品质/气质/才华\n- fight： [ U ] the desire or ability to keep fighting for sth 斗志；战斗力",
+    "label": "介词-in-在某人的身上， 品质/气质/才华"
+  },
+  {
+    "question": "在六点钟",
+    "translation": "at six o clock",
+    "knowledge_point": "介词at：1. 时间点，at: 表示一个\"点\"",
+    "label": "介词-at-时间点"
+  },
+  {
+    "question": "在某地",
+    "translation": "at someplace",
+    "knowledge_point": "介词at：2. 地点，at: 表示一个\"点\"",
+    "label": "介词-at-地点"
+  },
+  {
+    "question": "不惜一切代价.",
+    "translation": "at any cost",
+    "knowledge_point": "介词at：3. 价格速度",
+    "label": "介词-at-价格/速度"
+  },
+  {
+    "question": "以。。速度",
+    "translation": "at the rate of",
+    "knowledge_point": "介词at：3. 价格速度",
+    "label": "介词-at-价格/速度"
+  },
+  {
+    "question": "他想不惜一切代价避免另一场大屠杀",
+    "translation": "He wants to avoid another bloodbath at any cost",
+    "knowledge_point": "介词at：3. 价格速度",
+    "label": "介词-at-价格/速度"
+  },
+  {
+    "question": "我们不会不惜任何代价让这种情况发生",
+    "translation": "we will not let this happen at any cost",
+    "knowledge_point": "介词at：3. 价格速度",
+    "label": "介词-at-价格/速度"
+  },
+  {
+    "question": "看着。。",
+    "translation": "look at",
+    "knowledge_point": "介词at-4. 冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "撇着。。",
+    "translation": "glance at",
+    "knowledge_point": "介词at-4. 冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "盯着。。",
+    "translation": "stare at",
+    "knowledge_point": "4. 介词at-冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "指。。",
+    "translation": "point at",
+    "knowledge_point": "4. 介词at-冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "向。。仍",
+    "translation": "throw at",
+    "knowledge_point": "介词at-4. 冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "冲。。笑，嘲笑",
+    "translation": "laugh at",
+    "knowledge_point": "介词at-4. 冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "冲。。大喊",
+    "translation": "shout at",
+    "knowledge_point": "介词at-4. 冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "瞄准",
+    "translation": "aim at",
+    "knowledge_point": "介词at-4. 冲/朝着。。(狭小的范围，精准的概念)",
+    "label": "介词-at-冲/朝着。。(狭小的范围，精准的概念)"
+  },
+  {
+    "question": "去上学.",
+    "translation": "go to school",
+    "knowledge_point": "to: 到；朝向；到达",
+    "label": "介词-to"
+  },
+  {
+    "question": "向右拐. turn to the right",
+    "translation": "turn to the right",
+    "knowledge_point": "to: 到；朝向；到达",
+    "label": "介词-to"
+  },
+  {
+    "question": "在某种程度上",
+    "translation": "to some extent",
+    "knowledge_point": "to:达到某种程度，reaching a particular state 到，达（某种状态）",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "感动某人到落泪",
+    "translation": "move sb. to tears",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "喝到死",
+    "translation": "drink to death",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "这些蔬菜烧的火候恰到好处。",
+    "translation": "The vegetables were cooked to perfection.",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "他把信撕碎了。",
+    "translation": "He tore the letter to pieces.",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "她唱着歌把孩子哄睡了。",
+    "translation": "She sang the baby to sleep.",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "那封信让她落泪了。",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "撕成碎片，表示最后的一种趋势",
+    "translation": "tear to pieces",
+    "knowledge_point": "介词to：达到某种程度",
+    "label": ""
+  },
+  {
+    "question": "他的表情由惊变喜",
+    "translation": "he letter reduced her to tears *(= made her cry)*",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
+  },
+  {
+    "question": "喝太多冰啤酒对你的健康有害",
+    "translation": "Drinking too much cold beer does harm to your health",
+    "knowledge_point": "to: 对..；向",
+    "label": "介词-to-对..；向（前面是动词）"
+  },
+  {
+    "question": "祝你生日快乐",
+    "translation": "Happy birthday to you",
+    "knowledge_point": "to: 对..；向",
+    "label": "介词-to-对..；向（前面是动词）"
+  },
+  {
+    "question": "跟你谈谈",
+    "translation": "talk to you",
+    "knowledge_point": "to: 对..；向",
+    "label": "介词-to-对..；向（前面是动词）"
+  },
+  {
+    "question": "整天刷手机可能会对人造成非常大的伤害",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "在昏暗的光线下阅读对眼睛有害",
+    "translation": "Indulging[ɪnˈdʌldʒɪŋ] in swiping  [swaɪp] the phone all day may do infinite [ˈɪnfɪnət] harm to people",
+    "knowledge_point": "to: 对..；向",
+    "label": "介词-to-对..；向（前面是动词）"
+  },
+  {
+    "question": "对...的反应",
+    "translation": "response to",
+    "knowledge_point": "to: 反应； 和拍子，对...作出反应",
+    "label": "介词-to-反应； 和拍子，对...作出反应"
+  },
+  {
+    "question": "随着音乐跳舞",
+    "translation": "dance to the music",
+    "knowledge_point": "to: 反应； 和拍子，对...作出反应",
+    "label": "介词-to-反应； 和拍子，对...作出反应"
+  },
+  {
+    "question": "伴着我的吉他歌唱",
+    "translation": "sing to my guitar",
+    "knowledge_point": "to: 反应； 和拍子，对...作出反应",
+    "label": "介词-to-反应； 和拍子，对...作出反应"
+  },
+  {
+    "question": "你这话上我怎么往下接？",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "我该对那说什么？",
+    "translation": "What the hell am I supposed to say to that?!",
+    "knowledge_point": "to: 反应； 和拍子，对...作出反应",
+    "label": "介词-to-反应； 和拍子，对...作出反应"
+  },
+  {
+    "question": "爬到黄山之巅",
+    "translation": "climb to the top of the Yellow Mountain",
+    "knowledge_point": "as far as sth 到，达（某处）",
+    "label": "介词-to as far as 到达（某处）"
+  },
+  {
+    "question": "她的长发一直垂到腰部",
+    "translation": "Her hair fell to her waist.",
+    "knowledge_point": "as far as sth 到，达（某处）",
+    "label": "介词-to as far as 到达（某处）"
+  },
+  {
+    "question": "牧场一直延伸到河边",
+    "translation": "The meadows lead down to the river",
+    "knowledge_point": "as far as sth 到，达（某处）",
+    "label": "介词-to as far as 到达（某处）"
+  },
+  {
+    "question": "她嫁给了一个意大利人",
+    "translation": "She's married to an Italian.",
+    "knowledge_point": "（表示两人或事物之间的关系）属于，归于，关于，对于",
+    "label": "介词-to-表示两人或事物之间的关系,属于，归于"
+  },
+  {
+    "question": "日本驻法大使",
+    "translation": "the Japanese ambassador [æmˈbæsədər] to France",
+    "knowledge_point": "（表示两人或事物之间的关系）属于，归于，关于，对于",
+    "label": "介词-to-表示两人或事物之间的关系,属于，归于"
+  },
+  {
+    "question": "这个门的钥匙",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "解决这个问题的办法",
+    "translation": "the solution to this problem",
+    "knowledge_point": "表示两人或事物之间的关系：属于，归于，关于，对于",
+    "label": ""
+  },
+  {
+    "question": "某人的奴隶",
+    "translation": "the key to the door",
+    "knowledge_point": "（表示两人或事物之间的关系）属于，归于，关于，对于",
+    "label": "介词-to-表示两人或事物之间的关系,属于，归于"
   }
 ]

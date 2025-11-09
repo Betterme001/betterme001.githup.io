@@ -332,7 +332,7 @@
   {
     "question": "名词前可以加多个形容词",
     "translation": "We need to get there in the shortest possible time",
-    "knowledge_point": "possible 可能的，这里adj, 类似的还有This is the best possible outcome.\n- 名词前可以加多个形容词",
+    "knowledge_point": "possible 可能的，这里adj 后置,  修饰的前面的shortest, 类似的还有This is the best possible outcome.\n- 名词前可以加多个形容词",
     "label": "最高级+possible"
   },
   {
@@ -462,7 +462,7 @@
     "label": "系动词"
   },
   {
-    "question": "这是冠词表类别的用法",
+    "question": "聪明人从不生气",
     "translation": "The wise man never gets angry",
     "knowledge_point": "这是冠词表类别的用法，用冠词加名词表类别，有四种方法：\n- 定冠词the+单数可数名词、不定冠词a/an+单数可数名词、名词的复数（也就是零冠词）the+adj；\n- 下面都可以：a wise man /the wise man/ wise men/ the wise\n- 可以用a wise man, the wise man, wise men都是可以的，都表示这一类；\n- the wise表示一类人，这里用复数；\n- The wise man用单数",
     "label": "the"
@@ -504,8 +504,8 @@
     "label": "spare; 双宾语"
   },
   {
-    "question": "spare的用法",
-    "translation": "spare",
+    "question": "我是想休息一下，可眼下找不出时间",
+    "translation": "I'd love to have a break, but I can't spare the time just now",
     "knowledge_point": "- adj. 备用的，外加的；不用的，闲置的；空闲的；\n- v. 抽出，拿出（时间、金钱等）；\n- n. 备用品；（车辆或机器的）零件，备件",
     "label": "spare"
   },
@@ -516,15 +516,33 @@
     "label": "half-finished"
   },
   {
+    "question": "它大约在北京和上海的中间。",
+    "translation": "It's about halfway between Beijing and Shanghai.",
+    "knowledge_point": "内部关系：动作；句子成分：主谓状",
+    "label": "half-finished"
+  },
+  {
     "question": "在仪式进行到一半时离开了",
     "translation": "He left halfway through the ceremony",
-    "knowledge_point": "- halfway adv. at an equal distance between two points; in the middle of a period of time 在…的中间；在中途；到一半；\n- 2. part of the way towards doing or achieving sth 部分地做（或达到）…",
+    "knowledge_point": "- 句子成分： 主谓状，这里halfway副词，through the ceremony是介词短语作状语修饰halfway\n- halfway adv. at an equal distance between two points; in the middle of a period of time 在…的中间；在中途；到一半；\n- 2. part of the way towards doing or achieving sth 部分地做（或达到）…",
     "label": "halfway"
+  },
+  {
+    "question": "这个项目早在最后期限之前就完成了。",
+    "translation": "The project was completed long before the deadline.",
+    "knowledge_point": "- 句子成分： 主谓状，这里long副词，长久地， before the deadline.是介词短语作状语修饰long",
+    "label": ""
+  },
+  {
+    "question": "他在开会前不久到达。",
+    "translation": "He arrived shortly before the meeting.",
+    "knowledge_point": "- 句子成分： 主谓状，这里shortly副词，不久地， before the meeting是介词短语作状语修饰shortly",
+    "label": ""
   },
   {
     "question": "这只是部分地解释了实际发生的事",
     "translation": "This only goes halfway to explaining what really happened",
-    "knowledge_point": "- halfway adv. part of the way towards doing or achieving sth 部分地做（或达到）…",
+    "knowledge_point": "- 主谓状\n- halfway adv. **~ to/towards sth | ~ to/towards doing sth:**  part of the way towards doing or achieving sth 部分地做（或达到）…",
     "label": "halfway"
   },
   {
@@ -674,14 +692,14 @@
   {
     "question": "恐怕他已经江郎才尽了",
     "translation": "I am afraid he is at his wits' end",
-    "knowledge_point": "内部关系: 描述；句子成分：主系表，宾语从句；at his wits' end 俗语",
-    "label": "名词的格"
+    "knowledge_point": "- 内部关系: 描述；句子成分：主系表，宾语从句；at his wits' end 俗语\n- ( wits ) [ pl. ] your ability to think quickly and clearly and to make good decisions 理解力；颖悟力；头脑；智力；\n- at his wits' end；",
+    "label": "名词的格; wit"
   },
   {
-    "question": "wits的用法",
-    "translation": "wits",
-    "knowledge_point": "- ( wits ) [ pl. ] your ability to think quickly and clearly and to make good decisions 理解力；颖悟力；头脑；智力；\n- at his wits' end；",
-    "label": "wits"
+    "question": "才思敏捷、聪颖的女子",
+    "translation": "a woman of wit and intelligence",
+    "knowledge_point": "- [ U sing. ] the ability to say or write things that are both clever and amusing 措辞巧妙的能力；风趣；才思",
+    "label": "wit"
   },
   {
     "question": "他们比我们说英语流利",
@@ -722,7 +740,7 @@
   {
     "question": "咱们在商场附近的那家星巴克见吧",
     "translation": "Shall we meet at the Starbucks near the shopping mall",
-    "knowledge_point": "- 内部关系：动作；句子成分：主谓状；\n- at 表示地点，in 表示在里面；shopping mall 购物中心；\n- stall 摊位，小摊\n- shopping mall 商场；mall = shopping mall",
+    "knowledge_point": "- 内部关系：动作；句子成分：主谓状；\n- at 表示地点，in 表示在里面；shopping mall 购物中心；\n- stall 摊位，小摊\n- shopping mall 商场；mall = shopping mall\n- meet 有",
     "label": "stall/mall"
   },
   {
@@ -732,8 +750,8 @@
     "label": "next to"
   },
   {
-    "question": "a bit的用法",
-    "translation": "a bit=a little = a little bit",
+    "question": "这条裤子有点紧",
+    "translation": "These trousers are a bit tight.",
     "knowledge_point": "- 1. ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- 2. ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离；\n- 3. [ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块",
     "label": "a bit"
   },
@@ -750,20 +768,20 @@
     "label": "seem; 系动词"
   },
   {
-    "question": "seem的用法",
-    "translation": "seem",
+    "question": "当时这主意好像不错",
+    "translation": "It seemed like a good idea at the time.",
     "knowledge_point": "- ~ (to sb) (to be) sth | ~ like sth ( not used in the progressive tenses 不用于进行时 ) to give the impression of being or doing sth （涉及推断）好像，似乎，看来；SYN appear",
     "label": "seem"
   },
   {
-    "question": "定语从句中why的用法",
-    "translation": "",
+    "question": "请告诉我你缺席的原因",
+    "translation": "Please tell me the reason why(that/省略) you were absent",
     "knowledge_point": "- 在定语从句中，reason why比reason that更为常见，why是关系副词，本身没有词汇意义，只起引导定语从句的作用，可以省略，可以用that代替；\n- 定语从句：下面三种都对，连接代词作原因：",
     "label": "定语从句why"
   },
   {
     "question": "他们为何被击败的这一问题得到了解答",
-    "translation": "The question why they were defeated was answered",
+    "translation": "The question why they were defeated  [dɪˈfiːtɪd] was answered",
     "knowledge_point": "why引导的同位语从句，在这种情况中，why是连接副词，词义为\"为什么\"，前面的同位语是表\"疑问\"的词语，why不可以省略；",
     "label": "同位语从句why"
   },
@@ -781,7 +799,7 @@
   },
   {
     "question": "你能否得到这工作应该与你的年龄无关",
-    "translation": "our age shouldn't make any difference to whether you get the job or not",
+    "translation": "Your age shouldn't make any difference to whether you get the job or not",
     "knowledge_point": "- to have an effect/no effect on sb/sth 有（或没有、有些等）作用，关系，影响；",
     "label": "make difference"
   },
@@ -818,8 +836,14 @@
   {
     "question": "我们只得把婚期推迟到九月。",
     "translation": "We’ve had to put off our wedding until September.",
-    "knowledge_point": "- to postpone or cancel a meeting or an arrangement that you have made with sb 推迟；取消\n- put off后面通常用until/till，很少用to",
+    "knowledge_point": "- to postpone or cancel a meeting or an arrangement that you have made with sb 推迟；取消\n- put off后面通常用until/till，很少用to\n- have had to 不得不一直（“一直到现在都不得不“，had to是过去不得不\n- 整个句子的意思是：我们（从过去的某个时间点起）就不得不将婚礼推迟到九月，并且这个“被迫推迟”的状态一直持续影响到现在。\n- **使用 \"have had to\" 而不是简单的 \"had to\" 是为了强调：**",
     "label": "put off"
+  },
+  {
+    "question": "他不得不一直为了备考努力学习",
+    "translation": "She **has had to** study very hard for the exam.",
+    "knowledge_point": "- have had to 不得不一直（“一直到现在都不得不“，had to是过去不得不\n- （她为了考试不得不非常用功地学习。）-> 备考期间一直如此。",
+    "label": ""
   },
   {
     "question": "你知道最让我们惊讶的是什么吗",
@@ -840,8 +864,8 @@
     "label": "exactly"
   },
   {
-    "question": "not exactly的用法",
-    "translation": "not exactly",
+    "question": "这一点也不美，是吗",
+    "translation": "It's not exactly beautiful, is it? *(= it's ugly)*",
     "knowledge_point": "- 1.（说反话时）根本不，决不，一点也不；\n- 2.（纠正对方刚说过的话）不完全",
     "label": "exactly"
   },
@@ -852,15 +876,15 @@
     "label": ""
   },
   {
-    "question": "have no idea的用法",
-    "translation": "have no idea",
-    "knowledge_point": "- Do you have any idea what it was like, Sherlock? 你知道那是什么感觉吗，夏洛克？；\n- You have no idea how much havoc I can cause 你无法想象我能造成多么大的破坏；\n- I had no idea that she was unhappy 我不知道她不高兴",
+    "question": "你知道那是什么感觉吗，夏洛克？；",
+    "translation": "Do you have any idea what it was like, Sherlock?",
+    "knowledge_point": "- Do you have any idea what it was like, Sherlock?\n- You have no idea how much havoc [ˈhævək] I can cause 你无法想象我能造成多么大的破坏；\n- I had no idea that she was unhappy 我不知道她不高兴",
     "label": "have no idea"
   },
   {
-    "question": "most作为副词的用法",
-    "translation": "most",
-    "knowledge_point": "- most 作为副词，可以与两个或两个以上音节的形容词或副词连用构成最高级；\n- most作副词，还表示「程度上最大，最多，最高」，是much的最高级，the most 修饰动作；非正式英语中，the常常省略",
+    "question": "你们大多数人都知道，我已经决定辞职了。",
+    "translation": "As most of you know, I've decided to resign.",
+    "knowledge_point": "- most 作为代词，表示大多数\n- most 作为副词，可以与两个或两个以上音节的形容词或副词连用构成最高级；\n- most作副词，还表示「程度上最大，最多，最高」，是much的最高级，the most 修饰动作；非正式英语中，the常常省略",
     "label": "most"
   },
   {
@@ -870,8 +894,8 @@
     "label": "get in touch/contact"
   },
   {
-    "question": "contact的用法",
-    "translation": "contact [ˈkɑːntækt]",
+    "question": "我整天一直在设法与你联系",
+    "translation": "I've been trying to contact  [ˈkɑːntækt]you all day.",
     "knowledge_point": "- 1. [ U ] ~ (with sb) | ~ (between A and B) the act of communicating with sb, especially regularly （尤指经常的）联系，联络；\n- 2. [ U ] the state of touching sth 触摸；接触；\n- 3. [ C ] a person that you know, especially sb who can be helpful to you in your work 熟人；（尤指）社会关系；\n- v. [ VN ] to communicate with sb, for example by telephone or letter 联系，联络（如用电话或信件）",
     "label": "get in touch/contact"
   },
@@ -912,22 +936,16 @@
     "label": "quit和resign"
   },
   {
-    "question": "quit的用法",
-    "translation": "quit",
+    "question": "不给我加薪我就辞职；",
+    "translation": "If I don't get more money I'll quit",
     "knowledge_point": "- If I don't get more money I'll quit 不给我加薪我就辞职；\n- He has decided to quit as manager of the team 他已决定辞掉球队经理的职务；\n- I've quit smoking 我戒了烟；\n- He quit the show last year because of bad health 去年他因身体欠佳而退出了表演",
     "label": "quit和resign"
   },
   {
-    "question": "resign的用法",
-    "translation": "resign",
-    "knowledge_point": "~ (from sth) | ~ (as sth) to officially tell sb that you are leaving your job, an organization, etc. 辞职；辞去（某职务）；\n- He resigned as manager after eight years 八年后，他辞去了经理的职务；\n- My father resigned his directorship last year 我父亲去年辞去了董事的职务",
+    "question": "我父亲去年辞去了董事的职务",
+    "translation": "My father resigned his directorship last year",
+    "knowledge_point": "resign:  V/VN\n- V:  ~ (from sth) | ~ (as sth) to officially tell sb that you are leaving your job, an organization, etc. 辞职；辞去（某职务）；",
     "label": "quit和resign"
-  },
-  {
-    "question": "honey的用法",
-    "translation": "honey",
-    "knowledge_point": "- [ U ] a sweet sticky yellow substance made by bees that is spread on bread, etc. like jam 蜂蜜\n- [ C ] ( informal ) a way of addressing sb that you like or love （爱称）亲爱的，宝贝\n- [ C ] ( informal ) a person that you like or love and think is very kind 可爱的人\n- Have you seen my keys, honey? 你见到我的钥匙了吗，宝贝？\n- He can be a real honey when he wants to be. 他高兴的时候挺招人喜欢的",
-    "label": "honey"
   },
   {
     "question": "主语从句后置的规则",
@@ -942,8 +960,8 @@
     "label": "do"
   },
   {
-    "question": "join的用法",
-    "translation": "join",
+    "question": "他们可以申请加入这个组织",
+    "translation": "They may apply to join the organization",
     "knowledge_point": "- join: to become a member of an organization, a company, a club, etc. 成为…的一员；参加；加入\n- They may apply to join the organization 他们可以申请加入这个组织\n- I've joined an aerobics class. 我参加了有氧健身班\n- She joined the company three months ago. 她三个月前进了这家公司",
     "label": "attend/join/join in"
   },
@@ -954,8 +972,8 @@
     "label": "attend/join/join in"
   },
   {
-    "question": "join in的用法",
-    "translation": "join in",
+    "question": "我应该参加更多活动",
+    "translation": "I should join in more activities",
     "knowledge_point": "- join in：to take part in an activity with other people 参加，加入（活动）\n- ˌjoin ˈin (sth/doing sth)| ˌjoin ˈin (with sb/sth) 后面加活动，join 后面加组织，人们（成为其中一员）",
     "label": "attend/join/join in"
   },
@@ -972,8 +990,8 @@
     "label": "attend/join/join in"
   },
   {
-    "question": "attend的用法",
-    "translation": "attend",
+    "question": "我们被迫参加浪费时间的会议",
+    "translation": "We were made to attend meetings that wasted time",
     "knowledge_point": "attend: to be present at an event 出席；参加",
     "label": "attend/join/join in"
   },
@@ -1003,7 +1021,7 @@
   },
   {
     "question": "植╱动物 ,海洋╱池塘生物",
-    "translation": "plant/animal life；marine/pond life",
+    "translation": "plant/animal life；marine [məˈriːn]/pond[pɑːnd] life",
     "knowledge_point": "- life 四个意思（生命（所有动物），人命（人），生物，人生）\n- **LIVING THINGS 生物**\n- life 义项之二：[U] living things 生物；活物\n- 常见搭配：plant/animal/marine/pond life",
     "label": "life"
   },
@@ -1035,7 +1053,7 @@
     "question": "他一句话没有说，就离开了房间",
     "translation": "She left the room without saying a word",
     "knowledge_point": "",
-    "label": "动名词"
+    "label": "动名词作宾语"
   },
   {
     "question": "他忘了给我的生日礼物，我很生气",
@@ -1123,7 +1141,7 @@
   },
   {
     "question": "他无法忍受失败",
-    "translation": "He can't endure being defeated / He can't endure to be defeated",
+    "translation": "He can't endure being defeated [dɪˈfiːtɪd] / He can't endure to be defeated",
     "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
     "label": "endure"
   },
@@ -1376,7 +1394,7 @@
   {
     "question": "健康饮食有助于身体抗感染",
     "translation": "A healthy diet should help your body resist infection.",
-    "knowledge_point": "resist 4. [ VN ] to not be harmed or damaged by sth 使不受…的伤害；抗（伤害）",
+    "knowledge_point": "resist 4. [ VN ] to not be harmed or damaged by sth 使不受…的伤害；抗（伤害）\n- should 是理应当的意思，“健康的饮食**应该能**帮助你的身体抵抗感染。” （表达一种合理、预期的结果）\n- 用can 也可以，表示一种能力。不能用could，表示推测时，是一种不确定的可能",
     "label": "resist"
   },
   {
@@ -1494,12 +1512,6 @@
     "label": "不定式作宾语; enlightening"
   },
   {
-    "question": "一段关于动物园工作的具有启发性的讲话",
-    "translation": "an enlightening talk on the work done at the zoo",
-    "knowledge_point": "- enlightening 让人受启发的",
-    "label": "enlightening"
-  },
-  {
     "question": "开明的见解/态度/想法",
     "translation": "enlightened[ɪnˈlaɪt(ə)nd] opinions/attitudes/ideas",
     "knowledge_point": "- enlightened [usually before noun] (approving) having or showing an understanding of people's needs, a situation, etc. that is not based on old-fashioned attitudes and prejudice 开明的；有见识的；摆脱偏见的",
@@ -1531,7 +1543,7 @@
   },
   {
     "question": "很多成年人现在仍然依赖自己的孩子来操作电脑",
-    "translation": "Many adults still depend on their children to work the computer",
+    "translation": "Many adults[əˈdʌlts] still depend on their children to work the computer",
     "knowledge_point": "- work the computer 操作电脑",
     "label": "work"
   },
@@ -1603,19 +1615,19 @@
   },
   {
     "question": "逝去的年轻时光",
-    "translation": "vanished [ˈvænɪʃt] youth",
+    "translation": "vanished [ˈvænɪʃt] youth [juːθ]",
     "knowledge_point": "- youth 可以理解为青春\n- 考察点：youth vanished 过去分词作定语，过去分词：不及物动词，已经完成",
     "label": "过去分词作定语; youth"
   },
   {
     "question": "他年轻时很有音乐天才",
-    "translation": "He had been a talented musician in his youth",
-    "knowledge_point": "- [U] the time of life when a person is young, especially the time before a child becomes an adult 青年时期（尤指成年以前）",
+    "translation": "He had been a talented musician [mjuˈzɪʃ(ə)n] in his youth",
+    "knowledge_point": "- [U] the time of life when a person is young, especially the time before a child becomes an adult 青年时期（尤指成年以前）\n- 这里用had been 是过去完成时，代表过去的过去（正常应该会有个过去的参照点，比如When I met him in 1980, he was a lawyer. But I knew he **had been** a talented musician in his youth）所有没有参照点，用was也可以。",
     "label": "youth"
   },
   {
     "question": "她很年轻，然而干这份工作已有经验，这是很难得的",
-    "translation": "She brings to the job a rare combination of youth and experience",
+    "translation": "She brings to the job a rare combination [ˌkɑːmbɪˈneɪʃ(ə)n] of youth and experience",
     "knowledge_point": "- [U] the quality or state of being young 年轻；青春；朝气\n- 尾大原则，正常是bring sth to sth , 这里把to sth提到前面了",
     "label": "youth; 尾大原则"
   },
@@ -1644,9 +1656,9 @@
     "label": "分词作定语"
   },
   {
-    "question": "有条理的思路",
+    "question": "有条理的想法",
     "translation": "organized ideas",
-    "knowledge_point": "- organized ideas 过去分词作定语，被动进行\n- organized：arranged or planned in the way mentioned 有条理的；有安排的",
+    "knowledge_point": "- organized ideas 过去分词作定语，被动进行\n- organized：arranged or planned in the way mentioned 有条理的；有安排的\n- idea: a plan, thought or suggestion, especially about what to do in a particular situation",
     "label": "分词作定语; organized"
   },
   {
@@ -1813,8 +1825,8 @@
   },
   {
     "question": "我觉得他将来会成为冠军",
-    "translation": "I can see a future champion in him",
-    "knowledge_point": "- 基本盘一致，这里解析用了比喻（figure of speech)的方法：I can see",
+    "translation": "I can see a future champion [ˈtʃæmpiən] in him",
+    "knowledge_point": "- 基本盘一致，这里用了比喻（figure of speech)的方法：I can see\n- future 将来的",
     "label": "in"
   },
   {
@@ -1912,5 +1924,239 @@
     "translation": "Water boils at 100 degrees centigrade [ˈsentɪɡreɪd]",
     "knowledge_point": "- 这里英语习惯用动宾关系（老师说）\n- centigrade [ˈsentɪɡreɪd] adj. 摄氏度的\n- boiling point 沸点\n- the boiling point of water is 100 degrees centigrade",
     "label": "at"
+  },
+  {
+    "question": "我到那后给你打电话",
+    "translation": "I will call you when I get there/ I will call you as soon as I get there",
+    "knowledge_point": "- will 将来时，表意愿",
+    "label": "will"
+  },
+  {
+    "question": "如果我看到 Will 的话我会请他喝两杯的",
+    "translation": "I will buy Will a drink if I see him",
+    "knowledge_point": "- will 将来时，表意愿\n- treat sb to sth: ~ sb/yourself (to sth) to pay for sth that sb/you will enjoy and that you do not usually have or do 招待；款待；请（客）；买（可享受的东西）\n- meet: [ no passive ] to be in the same place as sb by chance and talk to them 相遇；相逢；遇见",
+    "label": "will"
+  },
+  {
+    "question": "我父母仍然把我当成孩子",
+    "translation": "My parents still treat me like a child",
+    "knowledge_point": "- treat: ~ sb/sth (with/as/like sth) to behave in a particular way towards sb/sth 以…态度对待；以…方式对待",
+    "label": "treat"
+  },
+  {
+    "question": "对待人持有尊敬、体谅、怀疑等",
+    "translation": "to treat people with respect/consideration/suspicion, etc.",
+    "knowledge_point": "- treat: ~ sb/sth (with/as/like sth) to behave in a particular way towards sb/sth 以…态度对待；以…方式对待",
+    "label": "treat"
+  },
+  {
+    "question": "他获释出狱时被当成英雄看待",
+    "translation": "He was treated as a hero on his release from prison",
+    "knowledge_point": "- treat: ~ sb/sth (with/as/like sth) to behave in a particular way towards sb/sth 以…态度对待；以…方式对待",
+    "label": "treat"
+  },
+  {
+    "question": "我决定把他的话当作戏言",
+    "translation": "I decided to treat his remark as a joke",
+    "knowledge_point": "- treat: ~ sth as sth to consider sth in a particular way 把…看作；把…视为",
+    "label": "treat"
+  },
+  {
+    "question": "她因中暑而接受治疗",
+    "translation": "She was treated for sunstroke",
+    "knowledge_point": "- treat: ~ sb (for sth) (with sth) to give medical care or attention to a person, an illness, an injury, etc. 医疗；医治；治疗",
+    "label": "treat"
+  },
+  {
+    "question": "别担心费用，我来替你付",
+    "translation": "Don't worry about the cost—I'll treat you",
+    "knowledge_point": "- will 表意愿\n- treat: ~ sb/yourself (to sth) to pay for sth that sb/you will enjoy and that you do not usually have or do 招待；款待；请（客）；买（可享受的东西）\n- treat sb to sth",
+    "label": "will; treat"
+  },
+  {
+    "question": "在阅览室时应保持安静",
+    "translation": "Please keep quiet when you are in the reading room",
+    "knowledge_point": "- silent: ( of a person 人 ) not speaking 不说话的；沉默的\n- quiet: making very little noise 轻声的；轻柔的；安静的\n- calm:",
+    "label": "quiet/silent/calm"
+  },
+  {
+    "question": "飞往洛杉矶的航班 13 点起飞",
+    "translation": "The flight to Los Angeles starts /leaves/departs at 13:00",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：主定，谓， 状\n- 应该说1 p.m.，不能说13 p.m.",
+    "label": "flight"
+  },
+  {
+    "question": "光阴似水，时不我待",
+    "translation": "Time and tide wait for no man",
+    "knowledge_point": "- 一般现在时\n- tide: [ C U ] a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls 潮；潮汐；潮水\n- The tide is in/out. 涨╱退潮了",
+    "label": "一般现在时; tide"
+  },
+  {
+    "question": "太阳东升西落",
+    "translation": "The sun rises in the east and sets in the west",
+    "knowledge_point": "- 中文我们说\"太阳从东边升起\"实际上暗含了太阳东升西落的运行轨迹，所以用介词\"从\"\n- 而英文中rise并不涉及这样一个travel from the east to the west的过程，rise只表示太阳从地平线上某一个点升起来了，这个点所在的方向是东方，所以用介词in",
+    "label": "in"
+  },
+  {
+    "question": "他们明晚坐火车去上海",
+    "translation": "They leave for Shanghai by train tomorrow evening",
+    "knowledge_point": "- 一般现在时表将来：按照计划\n- 乘坐交通工具：by train/ on a train/ on the train",
+    "label": "一般现在时表将来"
+  },
+  {
+    "question": "人生如朝露",
+    "translation": "Life is transient [ˈtrænʃənt]",
+    "knowledge_point": "- transient /ˈtrænʃnt/ continuing for only a short time 短暂的；转瞬即逝的；倏忽",
+    "label": "transient"
+  },
+  {
+    "question": "他总是迟到",
+    "translation": "He is always late",
+    "knowledge_point": "- 在late表示迟到这个词义的时候，它是形容词性，所以是描述，主系表\n- late:",
+    "label": "late"
+  },
+  {
+    "question": "婚前和婚后是有区别的",
+    "translation": "There's a difference before and after marriage",
+    "knowledge_point": "- difference后面用介词作定语，比如between, before and after",
+    "label": "difference"
+  },
+  {
+    "question": "两千年前，他是一个哲学家",
+    "translation": "He was a philosopher two thousand years ago",
+    "knowledge_point": "- 句子成分：主系表状",
+    "label": ""
+  },
+  {
+    "question": "你做的那个结论是基于什么？",
+    "translation": "What is your conclusion based on",
+    "knowledge_point": "- 错误的：what do you make the conclusion that is based on?\n- 特殊疑问句不能对宾语从句的内容进行提问，语法上貌似没有错误，不过显得有点语序混乱不清楚，不好理解。",
+    "label": ""
+  },
+  {
+    "question": "我早就告诉过你（可你就是不听）",
+    "translation": "I told you so",
+    "knowledge_point": "- 过去时，表示已经告诉过",
+    "label": "tell"
+  },
+  {
+    "question": "我对你有过信心",
+    "translation": "I had faith in you",
+    "knowledge_point": "- 也可以用confidence/ believed in 但是 faith 用的更多\n- faith: [ U ] ~ (in sb/sth) trust in sb's ability or knowledge; trust that sb/sth will do what has been promised 信任；相信；信心",
+    "label": "faith"
+  },
+  {
+    "question": "队员都信赖他们的教练",
+    "translation": "The players all have confidence in their manager",
+    "knowledge_point": "- confidence: 1. belief in others对他人的信心\n- [ U ] ~ (in sb/sth) the feeling that you can trust, believe in and be sure about the abilities or good qualities of sb/sth 信心；信任；信赖",
+    "label": "confidence"
+  },
+  {
+    "question": "对政府缺乏信任",
+    "translation": "a lack of confidence in the government",
+    "knowledge_point": "- confidence: 1. belief in others对他人的信心\n- [ U ] ~ (in sb/sth) the feeling that you can trust, believe in and be sure about the abilities or good qualities of sb/sth 信心；信任；信赖",
+    "label": "confidence"
+  },
+  {
+    "question": "他有把握地回答了那些问题",
+    "translation": "He answered the questions with confidence",
+    "knowledge_point": "- confidence: 2. BELIEF IN YOURSELF 对自己的信心\n- [ U ] a belief in your own ability to do things and be successful 自信心；把握",
+    "label": "confidence"
+  },
+  {
+    "question": "他们不能肯定他经过那场事故后还能行走",
+    "translation": "They could not say with confidence that he would be able to walk again after the accident",
+    "knowledge_point": "- confidence: 3. FEELING CERTAIN 感到有把握\n- [ U ] the feeling that you are certain about sth 把握；肯定",
+    "label": "confidence"
+  },
+  {
+    "question": "伊娃对我透露了他们俩的关系这个秘密",
+    "translation": "Eva told me about their relationship in confidence",
+    "knowledge_point": "- confidence: TRUST 信任\n- [ U ] a feeling of trust that sb will keep information private （对某人会保守秘密的）信任，信赖",
+    "label": "confidence"
+  },
+  {
+    "question": "女孩子们相互吐露自己的心事",
+    "translation": "The girls exchanged confidences",
+    "knowledge_point": "- confidence: [ C ] ( formal ) a secret that you tell sb （向某人透露的）秘密，机密",
+    "label": "confidence"
+  },
+  {
+    "question": "我对你有信心—我知道你会干好的",
+    "translation": "I have great faith in you—I know you'll do well",
+    "knowledge_point": "- faith: [ U ] ~ (in sb/sth) trust in sb's ability or knowledge; trust that sb/sth will do what has been promised 信任；相信；信心",
+    "label": "faith"
+  },
+  {
+    "question": "信仰比理智更有力",
+    "translation": "Faith is stronger than reason",
+    "knowledge_point": "- faith: [ U sing. ] strong religious belief 宗教信仰\n- to lose your faith 失去信仰",
+    "label": "faith"
+  },
+  {
+    "question": "基督教",
+    "translation": "the Christian faith",
+    "knowledge_point": "- faith: [ C ] a particular religion （某一）宗教",
+    "label": "faith"
+  },
+  {
+    "question": "他们交出武器以示诚意",
+    "translation": "They handed over the weapons as a gesture of good faith",
+    "knowledge_point": "- faith: [ U ] ( good ~ ) the intention to do sth right 诚意；善意\n- gesture: [ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作",
+    "label": "faith"
+  },
+  {
+    "question": "橱窗里的灯灭了",
+    "translation": "The lights in the window went out",
+    "knowledge_point": "- 灯灭了，这里侧重灭了的瞬间，侧重于动作，所用动作关系，went out, 转述，过去时，那会灭了\n- 词汇辨析：",
+    "label": "go out"
+  },
+  {
+    "question": "他晚上多半在外喝酒",
+    "translation": "He goes out drinking most evenings",
+    "knowledge_point": "- go out: (1) to leave your house to go to a social event 出门参加社交活动；外出交际；外出娱乐",
+    "label": "go out"
+  },
+  {
+    "question": "请柬发出去了吗？",
+    "translation": "Have the invitations gone out yet?",
+    "knowledge_point": "- go out: (3) to be sent 送出；发出；派出",
+    "label": "go out"
+  },
+  {
+    "question": "局长已经辞职的消息公开了",
+    "translation": "Word went out that the director had resigned",
+    "knowledge_point": "- go out: (5) when news or information goes out, it is announced or published （新闻或消息）发布，公布，发表",
+    "label": "go out"
+  },
+  {
+    "question": "这儿是我们换道的地方吗？",
+    "translation": "Is this where we turn off?",
+    "knowledge_point": "- turn off: to leave a road in order to travel on another 拐弯；转入另一条路",
+    "label": "turn off"
+  },
+  {
+    "question": "我听不懂讲课，所以也就不听了",
+    "translation": "I couldn't understand the lecture so I just turned off",
+    "knowledge_point": "- turn off: to stop listening to or thinking about sb/sth 不再听；不再想",
+    "label": "turn off"
+  },
+  {
+    "question": "大选中的两位候选人都让人觉得扫兴",
+    "translation": "People had been turned off by both candidates in the election",
+    "knowledge_point": "- turn sb←→off: (1) to make sb feel bored or not interested 使厌烦；使失去兴趣",
+    "label": "turn off"
+  },
+  {
+    "question": "关上灯",
+    "translation": "to turn off the light",
+    "knowledge_point": "- turn sth←→off: to stop the flow of electricity, gas, water, etc. by moving a switch, button, etc. 关掉，截断（电流、煤气、水等）",
+    "label": "turn off"
+  },
+  {
+    "question": "睡觉前请关上电视",
+    "translation": "Please turn the television off before you go to bed",
+    "knowledge_point": "- turn sth←→off: to stop the flow of electricity, gas, water, etc. by moving a switch, button, etc. 关掉，截断（电流、煤气、水等）",
+    "label": "turn off"
   }
 ]

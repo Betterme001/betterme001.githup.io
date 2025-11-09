@@ -244,7 +244,7 @@
         window.saveStore();
 
         const modeText = mode === 'clear' ? '清空为0%' : '设置为50%';
-        const message = `已处理 ${processedCount} 个题目，成功${modeText} ${resetCount} 个题目`;
+        const message = `当前题库：已处理 ${processedCount} 个题目，成功${modeText} ${resetCount} 个题目`;
         console.log(message);
         
         return {

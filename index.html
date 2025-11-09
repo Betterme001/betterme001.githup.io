@@ -109,24 +109,20 @@
 
         <!-- 题库展示屏幕 -->
         <div class="library-screen" id="libraryScreen">
-            <div style="display:flex; justify-content: space-between; align-items:center; padding:8px;">
+            <div style="display:flex; justify-content: space-between; align-items:center; padding:8px; flex-wrap: wrap; gap:8px;">
                 <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-                <div style="display:flex; align-items:center; gap:12px;">
-                    <button id="sortByMasteryBtn" onclick="toggleSortByMastery()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer;">按掌握度排序</button>
-                    <button id="clearAllFavoritesBtn" onclick="clearAllFavorites()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; color:#d32f2f;">取消全部收藏</button>
+                <div style="display:flex; align-items:center; gap:8px; flex-wrap: wrap;">
+                    <button class="mgmt-btn" onclick="handleResetMastery('clear')" style="background: #f44336; font-size: 0.9rem; padding: 4px 8px; border:none; border-radius:4px; color:#fff; cursor:pointer;">
+                        清空M
+                    </button>
+                    <button class="mgmt-btn" onclick="handleResetMastery('set50')" style="background: #2196F3; font-size: 0.9rem; padding: 4px 8px; border:none; border-radius:4px; color:#fff; cursor:pointer;">
+                        50%M
+                    </button>
+                    <button id="sortByMasteryBtn" onclick="toggleSortByMastery()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer;">排序M</button>
+                    <button id="clearAllFavoritesBtn" onclick="clearAllFavorites()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; color:#d32f2f;">取消收藏</button>
                     <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px;">
-                        <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 只看收藏
+                        <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 收藏
                     </label>
-                </div>
-            </div>
-            <div style="padding:8px 12px; border-bottom:1px solid #e0e0e0; background:#f8f9fa;">
-                <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-                    <button class="mgmt-btn" onclick="handleResetMastery('clear')" style="background: #f44336; font-size: 0.9rem; padding: 6px 12px; border:none; border-radius:4px; color:#fff; cursor:pointer;">
-                        清空所有掌握度
-                    </button>
-                    <button class="mgmt-btn" onclick="handleResetMastery('set50')" style="background: #2196F3; font-size: 0.9rem; padding: 6px 12px; border:none; border-radius:4px; color:#fff; cursor:pointer;">
-                        设置所有为50%
-                    </button>
                 </div>
             </div>
             <div class="library-list" id="libraryList">

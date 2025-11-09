@@ -81,10 +81,11 @@
          2. 特定句型
             1. It is no good/use/ 做什么没有用的
             2. It is a waste of time/life doing   做。。。浪费时间（生命）的
-            3. There is no doing sth 不能（强调事实）。。
+            3. There is no doing sth 不能（强调事实）。。(近义词：It is impossible todo /It is unlikely that)
             4. It helped doing sth：
                - It helped being able to talk about it. 能谈谈这件事很有好处。
             5. it is hard enough: doing/todo ，已经很难了
+            6. There is no point (in) doing 做什么事毫无意义
       2. 作宾语（动词宾语，介词宾语）
          1. 动名词作并宾语的动词有哪些:  admit/advise/ appreciate/avoid/consider/deny/discuss/risk/mind...
 
@@ -117,12 +118,15 @@
 
    1. 充当的成分：主宾表定状补
 
-      1. 主语(It 后面词性，相比名词性从句少了过去分词和名词)
+      1. 主语(It 后面词性，相比名词性从句少了过去分词)
 
-         1. It is adj/n to do..
-         2. It is adj 不定式的逻辑主语for/of todo
+         1. It is adj 不定式的逻辑主语for/of todo
             1. of 前的形容词多用来说明人的性格或行为表现：
-               - brave, careful, careless, clever, cruel, foolish, generous, kind, modest, nice, polite,rude,selfish,silly, stupid, thoughtful.
+               - thoughtful, generous, kind, sweet, nice, brave, careful, careless, clever, cruel, foolish modest, polite, rude, selfish, silly, stupid
+            2. for 前的形容词多用来说明todo 本身：
+               - hard, difficult, necessary
+         2. It is n to do
+            1. It is my duty to take care of you 
          3. It 动词 todo,  
             - It takes two  to tango. 
 
@@ -257,118 +261,8 @@
 
          - two-faced person 两面三刀
 
-7. 介词
 
-   1. 三个功能：
-
-      1. 表示动作的方向，范围和程度
-         - go to hospital
-         - look at someone
-         - punch into the face.
-      2. [胶水词]，连接不同的名词
-         - disappearance of so many species
-      3. 与BE动词连用，代替动词
-         - I am on your side。支持你
-         - I‘m on sb 监控某人
-         - I am alcoholic  [ˌælkəˈhɑːlɪk] off for a week  我戒酒一周了
-
-   2. 江南四大介词 on/at/to/in
-
-      1. on 
-
-         1. 在...上
-            - put the project on ice
-            - put the blame on sb
-            - place one's hopes on sb
-         2. 上车/船/台：get on the bus 
-            3. 集中...上
-               - The discussion focused on three main problems.
-               - Each exercise focuses on a different grammar point
-            4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
-               - be on the river (房屋/城市) 在河边
-               - be on the road 在路边
-            5. 关于，就某一问题
-               - China's War on Trash Is the World‘s
-         3. on与be 连用作表语，表状态式
-            - be on business/ holiday  出差/假期
-            - be on pins and needles。如坐针毡
-            - be on one's mind. 被某人想着，牵挂。
-
-
-         2. in 
-
-            1. 在...里
-
-               - in the bed/ the street
-
-               - the mirror hung in the wall  这是嵌在墙里的镜子
-
-            2. 在某人的身上， 品质/气质/才华
-
-               - you have it in you to be a musician (it 形式宾语，宾语后置)
-
-
-         3. at 表示一个“点”，狭小的范围，精准的概念
-            1. 时间点 at six o clock
-
-            2. 地点
-
-            3. 价格，速度 
-
-               - at any cost
-
-               - sea levels are rising at the rate of almost 2mm（millimeter） a year;
-
-            4. 冲/朝着..(狭小的范围，精准的概念) @sb
-
-               - look at  看着。。
-               - glance at  撇着。。
-               - laugh at 冲。。笑，嘲笑
-
-
-         4. to
-
-            1. 到；朝向；到达
-
-               - go to school 方向
-               - turn to the right. 方向
-
-            2. 达到某种数字、金额
-
-            3. 达到某种程度
-
-               - to some extent 在某种程度
-
-               - move sb. to tears   感动某人到落泪
-
-               - drink to death 喝到死
-
-            4. 对..；向（注意to前面是动词）
-
-               - do harm to
-               - talk to you 
-
-            5. 反应； 和拍子，对。。作出反应
-
-               - dance to the music
-               - sing to my guitar
-               - What the hell am I supposed to say to that?!
-
-            6. as far as sth 到，达（某处）
-
-               - climb to the top of the Yellow Mountain
-               - Her hair fell to her waist. 
-               - The meadows lead down to the river. 
-
-            7. used to show a relationship between one person or thing and another 表示两人或事物之间的关系）属于，归于，关于，对于（字典第19条）注意to前面是名词）
-
-               - the slave to/of sb 
-               - the Japanese ambassador [æmˈbæsədər] to France 日本驻法大使
-
-               - the key to the door 这个门的钥匙
-
-
-8. 定语
+7. 定语
 
    1. 词间的修饰：
 
@@ -396,53 +290,55 @@
          - I have a letter to write
          - the quickest way to travel
 
-   2. 句子作定语
 
-      1. 关系词
-         1. 关系代词：who, whom, whose, which, that, as
-         2. 关系副词 ：where, when, why
+      2. 句子作定语
 
-      2. when引导定语从句，先行词必须是表示时间的名词（day/year/time)且必须在从句中作状语
+         1. 关系词
+            1. 关系代词：who, whom, whose, which, that, as
+            2. 关系副词 ：where, when, why
 
-         - I'll never forget the day when I met you
-         - There will come a time when you will be responsible for our people
-         - Any advice for meetings where  big decisions need to be made 
+         2. when引导定语从句，先行词必须是表示时间的名词（day/year/time)且必须在从句中作状语
 
-      3. where 引导的定语从句，先行词必须是表示地点的名词（place, house等）且必须在从句中作状语
+            - I'll never forget the day when I met you
+            - There will come a time when you will be responsible for our people
+            - Any advice for meetings where  big decisions need to be made 
 
-         - Is there a place where I can learn grammar
-         - I don't want to be a part of a world where being kind is a weakness
-         - Any advice for meetings where  big decisions need to be made 
+         3. where 引导的定语从句，先行词必须是表示地点的名词（place, house等）且必须在从句中作状语
 
-      4. 有时关系代词前会有介词（了解即可）
+            - Is there a place where I can learn grammar
+            - I don't want to be a part of a world where being kind is a weakness
+            - Any advice for meetings where  big decisions need to be made 
 
-         - The girl with whom you were talking is my cup of tea
+         4. 有时关系代词前会有介词（了解即可）
 
-      5. which 和 that？基本可以通用，但以下情况必须使用that
+            - The girl with whom you were talking is my cup of tea
 
-         1. 先行词是all, much, little,few, the one等不定代词，或是由no-, every-, some-, any- 组成的词（ 如something, nothing ,everything), 关系代词一般只用that, 不用which.
+         5. which 和 that？基本可以通用，但以下情况必须使用that
 
-            - Not all that shine is gold
+            1. 先行词是all, much, little,few, the one等不定代词，或是由no-, every-, some-, any- 组成的词（ 如something, nothing ,everything), 关系代词一般只用that, 不用which.
 
-            - The correct method is all that matters 
-            - All that matters is(What is the most important/The most important thing )
-            - What he said has nothing that is usefull.
+               - Not all that shine is gold
 
-         2. 先行词前被any, only, all ,every, no ,some ,much, few, little，序数词，最高级，the last 等修饰时，关系代词一般只用that, 不用which.
+               - The correct method is all that matters 
+               - All that matters is(What is the most important/The most important thing )
+               - What he said has nothing that is usefull.
 
-            - You are the last person that  I want to see
-            - Meeting you has been the best thing that could happen to me
+            2. 先行词前被any, only, all ,every, no ,some ,much, few, little，序数词，最高级，the last 等修饰时，关系代词一般只用that, 不用which.
 
-      6. 超级好用的as：用来代替整个主句，语义延展更广
+               - You are the last person that  I want to see
+               - Meeting you has been the best thing that could happen to me
 
-         - As is so often pointed out,AI is two-edged sword which can be used equally for good or evil
-         - As is well known
-         - As is often the case 
-         - As ofter happens
-         - As is hoped
-         - As is usual with sb
+         6. 超级好用的as：用来代替整个主句，语义延展更广
 
-9. 状语
+            - As is so often pointed out,AI is two-edged sword which can be used equally for good or evil
+            - As is well known
+            - As is often the case 
+            - As ofter happens
+            - As is hoped
+            - As is usual with sb
+
+
+8. 状语
 
    1. 副词作状语
       - talk loudly
@@ -530,32 +426,32 @@
 
             - Whenever you  say" I love you", mean it. Whenever you say "I'm sorry", look the person right in the eyes.
 
-10. 补语
+9. 补语
 
-    1. 形容词作宾补
-       - I found the classroom empty
+   1. 形容词作宾补
+      - I found the classroom empty
 
-    2. 名词作宾补
+   2. 名词作宾补
 
-       - At the meeting we elected him monitor
-       - I consider your brother a clever boy
+      - At the meeting we elected him monitor
+      - I consider your brother a clever boy
 
-    3. 不定式作宾补
+   3. 不定式作宾补
 
-       - Our father will not allow us to play in the street.
+      - Our father will not allow us to play in the street.
 
-       - We believe him to be guilty
+      - We believe him to be guilty
 
-    4. 现在分词作宾补
+   4. 现在分词作宾补
 
-       - We heard him singing in the hall
-       - I found those students studying very hard
+      - We heard him singing in the hall
+      - I found those students studying very hard
 
-    5. 过去分词作宾补
+   5. 过去分词作宾补
 
-       - I heard it spoken of in the next room.
+      - I heard it spoken of in the next room.
 
-    6. 主语补足语
+   6. 主语补足语
 
-       - He was seen playing basketball yesterday.
-       - He was found dead in a Berlin hotel room
+      - He was seen playing basketball yesterday.
+      - He was found dead in a Berlin hotel room
