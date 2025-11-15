@@ -564,6 +564,12 @@ body.top-align .container {
     display: flex; 
 }
 
+/* 确保 statsScreen 使用 flex 布局 */
+#statsScreen[style*="display: block"],
+#statsScreen[style*="display:block"] {
+    display: flex !important;
+}
+
 /* 题库顶部改为左上角返回箭头，无需占位标题区 */
 .library-header { display: none; }
 
@@ -574,6 +580,15 @@ body.top-align .container {
     flex: 1;                    /* 占据剩余空间 */
     min-height: 0;              /* 允许flex子项缩小 */
     overflow-y: auto;
+    max-height: 100%;
+}
+
+/* 确保 statsList 可以滚动 */
+#statsList {
+    overflow-y: auto !important;
+    max-height: 100%;
+    flex: 1;
+    min-height: 0;
 }
 
 /* 顶部区域防止收缩 */
@@ -1361,6 +1376,11 @@ body.top-align .container {
 
 .stats-content {
     padding: 12px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    overflow: hidden;
 }
 
 .chart-container {
@@ -1388,8 +1408,8 @@ body.top-align .container {
 }
 
 .heatmap-square {
-    width: 56px;
-    height: 56px;
+    width: 42px;
+    height: 42px;
     border-radius: 0;
     border: 1px solid rgba(0,0,0,0.06);
     box-shadow: 0 0 0 1px rgba(255,255,255,0.4) inset;
@@ -1464,8 +1484,8 @@ body.top-align .container {
     }
     
     .heatmap-square {
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
     
     .legend-items {
@@ -1488,8 +1508,8 @@ body.top-align .container {
     }
     
     .heatmap-square {
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
     
     .legend-item {

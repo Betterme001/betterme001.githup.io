@@ -79,18 +79,83 @@
         return `${minutes}分钟`;
     };
 
-    // 渲染管理界面时间显示
+    // 渲染管理界面时间显示（修改为合并所有题库）
     window.updateTimeDisplay = function updateTimeDisplay() {
-        const todayTime = window.reviewStore.meta.todayStudyTime || 0;
-        const todayQuestions = window.reviewStore.meta.todayQuestionCount || 0;
+        // 计算今天的实时统计（所有题库）
+        let todayStudyTime = 0;
+        let todayQuestionCount = 0;
+        
+        const today = new Date();
+        const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+        
+        // 遍历所有题库，累加今日学习时间和题目数量
+        Object.keys(CONFIG.BANKS).forEach(bankId => {
+            try {
+                const key = `${CONFIG.STORAGE_KEY_PREFIX}:${bankId}`;
+                const raw = localStorage.getItem(key);
+                if (raw) {
+                    const bankData = JSON.parse(raw);
+                    const meta = bankData.meta || {};
+                    // 只累加今天的统计数据（如果lastStudyDate是今天）
+                    if (meta.lastStudyDate === todayStr) {
+                        todayStudyTime += meta.todayStudyTime || 0;
+                        todayQuestionCount += meta.todayQuestionCount || 0;
+                    }
+                }
+            } catch (e) {
+                console.warn(`读取题库 ${bankId} 今日数据失败:`, e);
+            }
+        });
+        
+        // 获取昨天的学习时间（合并所有题库）
+        let yesterdayStudyTime = 0;
+        let yesterdayQuestionCount = 0;
+        const yesterday = new Date(today);
+        yesterday.setDate(yesterday.getDate() - 1);
+        const yesterdayStr = `${yesterday.getFullYear()}-${String(yesterday.getMonth()+1).padStart(2,'0')}-${String(yesterday.getDate()).padStart(2,'0')}`;
+        
+        // 使用合并后的统计数据获取昨天的数据
+        if (typeof window.mergeAllBankStats === 'function') {
+            const mergedStats = window.mergeAllBankStats();
+            if (mergedStats[yesterdayStr]) {
+                yesterdayStudyTime = mergedStats[yesterdayStr].studyTime || 0;
+                yesterdayQuestionCount = mergedStats[yesterdayStr].questionCount || 0;
+            }
+        }
+        
         const timeInfo = document.getElementById('timeInfo');
         if (timeInfo) {
             timeInfo.innerHTML = `
                 <div class="time-stats">
-                    <div class="time-item">今日学习：${window.formatTime(todayTime)}</div>
-                    <div class="time-item">今日题目：${todayQuestions} 道</div>
+                    <div class="time-item">今日学习：${window.formatTime(todayStudyTime)}</div>
+                    <div class="time-item">今日题目：${todayQuestionCount} 道</div>
                 </div>
             `;
+        }
+        
+        // 更新历史列表（如果存在）- 显示昨天的学习数据
+        const historyList = document.getElementById('historyList');
+        if (historyList) {
+            historyList.innerHTML = '';
+            
+            // 显示昨天的学习数据
+            if (yesterdayStudyTime > 0 || yesterdayQuestionCount > 0) {
+                const yesterdayItem = document.createElement('div');
+                yesterdayItem.className = 'history-item';
+                yesterdayItem.innerHTML = `
+                    <div style="display:flex;gap:12px;">
+                        <div style="width:120px;">${yesterdayStr.replace(/-/g,'')}</div>
+                        <div style="width:120px;">${window.formatTime(yesterdayStudyTime)}</div>
+                        <div style="width:120px;">${yesterdayQuestionCount} 道</div>
+                    </div>
+                `;
+                historyList.appendChild(yesterdayItem);
+            } else {
+                const emptyItem = document.createElement('div');
+                emptyItem.className = 'history-item';
+                emptyItem.textContent = '暂无历史学习记录';
+                historyList.appendChild(emptyItem);
+            }
         }
     };
 

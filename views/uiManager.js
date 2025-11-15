@@ -166,8 +166,8 @@
         document.body.classList.add('top-align');
         document.body.classList.add('library-mode');
 
-        // 默认显示曲线图模式
-        window.switchStatsMode('chart');
+        // 默认显示热力图模式
+        window.switchStatsMode('heatmap');
     };
 
     // 渲染统计列表（修改为合并所有题库）

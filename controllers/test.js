@@ -49,9 +49,22 @@
         const meta = window.reviewStore.meta || { globalProgressIndex: 0, lastSessionDate: '' };
         let startIndex;
         if (meta.lastSessionDate !== todayStr) {
-            startIndex = meta.globalProgressIndex >= CONFIG.REVIEW_BACK_RANGE ? meta.globalProgressIndex - CONFIG.REVIEW_BACK_RANGE : 0;
+            // 新的一天：从昨天学习数量的中间位置开始
+            const yesterdayCount = meta.yesterdayQuestionCount || 0;
+            const backRange = Math.floor(yesterdayCount / 2); // 昨天学习数量的一半（向下取整）
+            
+            if (meta.globalProgressIndex >= backRange) {
+                startIndex = meta.globalProgressIndex - backRange;
+                console.log(`新的一天开始学习：昨天学习了 ${yesterdayCount} 道题目，从位置 ${startIndex} 开始（往回退 ${backRange} 个）`);
+            } else {
+                // 如果往回退会小于0，则从0开始
+                startIndex = 0;
+                console.log(`新的一天开始学习：昨天学习了 ${yesterdayCount} 道题目，但当前位置 ${meta.globalProgressIndex} 小于回退范围 ${backRange}，从位置 0 开始`);
+            }
+            
             meta.lastSessionDate = todayStr;
         } else {
+            // 同一天，继续从 globalProgressIndex 开始
             startIndex = total > 0 ? (meta.globalProgressIndex % total) : 0;
         }
         window.reviewStore.meta = meta;

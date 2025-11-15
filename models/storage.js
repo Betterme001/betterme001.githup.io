@@ -26,6 +26,7 @@ window.loadStore = function loadStore(bankId) {
         if (!window.reviewStore.meta.todayQuestionIds) window.reviewStore.meta.todayQuestionIds = [];
         if (typeof window.reviewStore.meta.globalProgressIndex !== 'number') window.reviewStore.meta.globalProgressIndex = 0;
         if (typeof window.reviewStore.meta.reviewProgress !== 'number') window.reviewStore.meta.reviewProgress = 0;
+        if (typeof window.reviewStore.meta.yesterdayQuestionCount !== 'number') window.reviewStore.meta.yesterdayQuestionCount = 0;
         
         // 检查是否需要每日重置
         window.checkAndResetDailyStats();
@@ -53,11 +54,16 @@ window.checkAndResetDailyStats = function checkAndResetDailyStats() {
     if (window.reviewStore.meta.lastStudyDate !== todayStr) {
         console.log(`新的一天开始：${todayStr}，重置今日学习数据`);
         
+        // 保存昨天的学习数量（在重置 todayQuestionCount 之前）
+        const yesterdayCount = window.reviewStore.meta.todayQuestionCount || 0;
+        window.reviewStore.meta.yesterdayQuestionCount = yesterdayCount;
+        console.log(`昨天学习了 ${yesterdayCount} 道题目`);
+        
         // 记录昨天的数据（用于历史统计）
         if (window.reviewStore.meta.lastStudyDate) {
             window.recordDailyStats(window.reviewStore.meta.lastStudyDate, {
                 studyTime: window.reviewStore.meta.todayStudyTime || 0,
-                questionCount: window.reviewStore.meta.todayQuestionCount || 0
+                questionCount: yesterdayCount
             });
         }
         
@@ -108,6 +114,7 @@ window.clearProgress = function clearProgress() {
             lastStudyDate: '', 
             todayQuestionCount: 0, 
             todayQuestionIds: [],
+            yesterdayQuestionCount: 0,
             dailyStats: dailyStats // 保留历史学习数据
         } 
     };
@@ -129,6 +136,7 @@ window.clearAllData = function clearAllData() {
                 lastStudyDate: '', 
                 todayQuestionCount: 0, 
                 todayQuestionIds: [],
+                yesterdayQuestionCount: 0,
                 dailyStats: {}
             } 
         };

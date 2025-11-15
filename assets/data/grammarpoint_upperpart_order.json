@@ -379,7 +379,7 @@
   },
   {
     "question": "谓语动词有哪些 ，其后的宾语从句的引导词that 通常不可省略（15个）",
-    "translation": "",
+    "translation": "agree, argue(争论)，hold,learn,maintain,observe,contend,conceive,reckon,remark,state, know, suggest,assume,announce,indicate['indikeit]",
     "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
     "label": "名词性从句-三种形式"
   },
@@ -499,21 +499,21 @@
   },
   {
     "question": "他的父母一直 **maintain that** 保持健康的作息和心态比熬夜更重要。",
-    "translation": "His parents always **maintain that** maintaining a healthy schedule and mindset is more important than staying up late.",
-    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
+    "translation": "His parents always **maintain [meɪnˈteɪn] that** maintaining a healthy schedule and mindset is more important than staying up late.",
+    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略\n- maintain 1. 坚持主张\n- maintain  2. 维持保持\n- maintain a healthy schedule\n- maintain a balance保持平衡\n- mindset  [ˈmaɪndset]观念模式，a conservative[kənˈsɜːrvətɪv] mindset 保守的思维模式",
     "label": "名词性从句-三种形式"
   },
   {
     "question": "我 **observe that** 他最近做模拟题时比以前更加从容了。",
     "translation": "I **observe that** he is much calmer when doing practice tests now than before.",
     "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
-    "label": "名词性从句-三种形式"
+    "label": "名词性从句-三种形式; 状语-状语从句-比较状语从句"
   },
   {
     "question": "有些同学 **contend that**at（主张/争辩） 主科的重要性远远超过副科。",
     "translation": "Some classmates **contend that** the importance of core subjects far exceeds that of minor subjects.",
     "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
-    "label": "名词性从句-三种形式"
+    "label": "名词性从句-三种形式; 状语-状语从句-比较状语从句"
   },
   {
     "question": "很难 **conceive that** （构想/认为）在一年前，他还是个对学习不太上心的学生。",
@@ -523,8 +523,8 @@
   },
   {
     "question": "我 **reckon that** （认为）以他现在的努力程度，考上理想的大学问题不大。",
-    "translation": "I **reckon that** with his current effort, he stands a good chance of getting into his ideal university。",
-    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
+    "translation": "I **reckon that** with his current [ˈkɜːrənt] effort, he stands a good chance of getting into his ideal university。",
+    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略\n- stand a good chance of doing 很大机会做某事",
     "label": "名词性从句-三种形式"
   },
   {
@@ -548,7 +548,7 @@
   {
     "question": "几次模拟考试的成绩都 **suggest that** （表明）他的复习方法是有效的。",
     "translation": "His grades in several mock exams all **suggest that** his review method is effective.",
-    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
+    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略\n- mock: 仿真的，模拟的：\n- a mock interview/examination *(= used to practise for the real one)* 模拟面试╱考试\n- suggest 表明",
     "label": "名词性从句-三种形式"
   },
   {
@@ -559,13 +559,13 @@
   },
   {
     "question": "校长在晨会上将 **announce that** 学校会为高三学生提供心理咨询服务。",
-    "translation": "The principal will **announce that** the school will provide psychological counseling services for senior three students.",
-    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
+    "translation": "The principal will **announce that** the school will provide psychological  [ˌsaɪkəˈlɑːdʒɪk(ə)l] counseling[ˈkaʊnslɪŋ] services for senior three students.",
+    "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略\n- senior three  高三，senior 名词作定语\n- senior school/junior school. 高中/初中， 形容词",
     "label": "名词性从句-三种形式"
   },
   {
     "question": "所有的迹象都 **indicate that** （表明）他正朝着正确的方向稳步前进。",
-    "translation": "",
+    "translation": "All the signs **indicate that** he is steadily[ˈstedəli] moving in the right direction.",
     "knowledge_point": "名词性从句三种形式之一陈述句， 谓语后面的that， 不可以省略",
     "label": ""
   },
@@ -597,7 +597,7 @@
     "question": "她来不来都没有关系",
     "translation": "Whether she comes or not makes no difference.",
     "knowledge_point": "- 名词性从句三种形式之一一般疑问句句， whther 和if\n- 也可以用主语从句后置：It makes no difference whether she comes or not makes no difference.",
-    "label": "名词性从句-三种形式"
+    "label": "名词性从句-三种形式; make no difference"
   },
   {
     "question": "请告诉我你是否想加入我们。",
@@ -837,19 +837,19 @@
     "question": "没有差别 ，无所谓",
     "translation": "It makes no difference that",
     "knowledge_point": "- 名词性从句充当的成分——主宾表同\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句-作主语-It 不及物动词"
+    "label": "名词性从句-作主语-It 不及物动词; make no difference"
   },
   {
     "question": "即使他道歉了也无济于事，信任已经破裂了。",
     "translation": "**It makes no difference that** he apologized; the trust is already broken.",
     "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**",
-    "label": "名词性从句-作主语-It 固定搭配"
+    "label": "名词性从句-作主语-It 固定搭配; make no difference"
   },
   {
     "question": "下雨也无所谓，户外活动将按计划进行。",
     "translation": "**It makes no difference that** it's raining; the outdoor event will go on as planned.",
-    "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**",
-    "label": "名词性从句-作主语-It 固定搭配"
+    "knowledge_point": "- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， **固定搭配**\n- will  将来时，主观意愿",
+    "label": "名词性从句-作主语-It 固定搭配; make no difference"
   },
   {
     "question": "无需担心，大可不必",
@@ -954,9 +954,9 @@
     "label": "动名词-作主语"
   },
   {
-    "question": "。。。不可能的",
-    "translation": "There is no doing sth （=It is impossible to do)",
-    "knowledge_point": "动名词作主语, 特定句型",
+    "question": "。。。不能的",
+    "translation": "There is no doing sth",
+    "knowledge_point": "动名词作主语, 特定句型\n- It is impossible to do = It is unlikely that 不可能的\n- There is no doing sth 比impossible和unlikely 更坚定，侧重于事实",
     "label": "动名词-作主语"
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "question": "不带to的不定式的情况",
     "translation": "",
-    "knowledge_point": "- 在口语中，动词原形come和go后可接不带to的不定式。 Go tell her.Come have a drink.\n- 在had better, had best, would rather, would rather...than, would sooner, would sooner...than,cannot but, cannot choose but, cannot help but等结构后直接跟动词原形或not+动词原形。\n- 如不定式前有行为动词do，那么在表语从句中的不定式和介词except或but之后的不定式可不带to。\n- 在一些固定搭配中用不带to的不定式。let go/ hear say/ made belive",
+    "knowledge_point": "- 1. 在口语中，动词原形come和go后可接不带to的不定式。 Go tell her.Come have a drink.\n- 2. 在had better, had best, would rather, would rather...than, would sooner, would sooner...than,cannot but, cannot choose but, cannot help but等结构后直接跟动词原形或not+动词原形。\n- 3. 如不定式前有行为动词do，那么在表语从句中的不定式和介词except或but之后的不定式可不带to。\n- 4. 在一些固定搭配中用不带to的不定式。let go/ hear say/ made belive",
     "label": "不定式-框架知识点"
   },
   {
@@ -1516,12 +1516,6 @@
     "translation": "为了避免重复上文中出现过的动词，可以用不定式符号to来代替上文中出现过的不定式结构",
     "knowledge_point": "- 在助动词或情态动词之后，如begoing to, used to, have to, ought to, be able to, be about to等。\n- 在want,decide, like, love, hope, wish, mean, refuse, try等动词之后。\n- 在做宾语补足语的ask, tell, order, advise, persuade, warn, wish, permit, allow, forbid等动词之后。\n- 在对话的答语中的happy, glad, eager, anxious, willing, ready, pleased, afraid等形容词之后。",
     "label": "不定式-框架知识点"
-  },
-  {
-    "question": "5.1.1 不定式作主语-It is adj.+todo",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
   },
   {
     "question": "破镜难圆:",
@@ -1549,8 +1543,14 @@
   },
   {
     "question": "你想的真周到，还送花来:",
-    "translation": "",
+    "translation": "It was so thoughtful of you to send me the flowers.",
     "knowledge_point": "- 不定式的逻辑主语\n- 2. It is adj + of + 人 + to do，of 前的形容词多用来说明人的性格或行为表现",
+    "label": "不定式-作主语"
+  },
+  {
+    "question": "你真是太好了,  还 告诉我这些",
+    "translation": "It's so kind of you to tell me this.",
+    "knowledge_point": "- 不定式的逻辑主语\n- 2. It is adj + of + 人 + to do，of 前的形容词多用来说明人的性格或行为表现\n- kind:~ (to sb/sth) | ~ (of sb) (to do sth) caring about others; gentle, friendly and generous 体贴的；慈祥的；友好的；宽容的\n- a very kind and helpful person 肯帮忙的好人\n- a kind action/gesture/comment 友好的行为╱姿态╱评论",
     "label": "不定式-作主语"
   },
   {
@@ -1921,14 +1921,14 @@
   },
   {
     "question": "他从自行车上摔下来摔断了腿。",
-    "translation": "He fell off his bike to break his leg.",
-    "knowledge_point": "- 2.不定式作结果状语",
-    "label": "不定式-作状语-结果状语"
+    "translation": "He fell off his bike, breaking his leg/He fell off his bike to break his leg",
+    "knowledge_point": "- 2.不定式作结果状语\n- 这句话其实用 分词作状语感觉更好，但是两者都对",
+    "label": "不定式-作状语-结果状语; 分词作结果状语"
   },
   {
     "question": "**听你这口气**，希望我们是在一个队伍。不管怎样，很期待**和每一位社交**",
     "translation": "Well, **to hear you talk like that** ,let's just say I hope we are **on** the same team. Either way ,I'm really looking forward to  **socializing with everyone**",
-    "knowledge_point": "3.不定式作原因状语",
+    "knowledge_point": "3.不定式作原因状语\n- Either way 不管怎样\n- look forward to doing. 期望做某事",
     "label": "不定式-作状语-原因状语"
   },
   {
@@ -1963,8 +1963,8 @@
   },
   {
     "question": "听到这个消息，他愉悦的跳了起来",
-    "translation": "He jumped with joy to hear the news",
-    "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词",
+    "translation": "Hearing the news, He jumped with joy/He jumped with joy to hear the news",
+    "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词\n- 这句话用分词作状语，感觉更好，但是两者都对",
     "label": "不定式-作状语-原因状语"
   },
   {
@@ -2132,7 +2132,7 @@
   {
     "question": "我不会让这个广为流传的谎言继续下去",
     "translation": "What I don't do is perpetuate[pərˈpetʃueɪt] a culturally [ˈkʌltʃərəli]-endorsed lie",
-    "knowledge_point": "如不定式前有行为动词do，那么在表语从句中的不定式，介词except 和but之后的不定式可不带to",
+    "knowledge_point": "如不定式前有行为动词do，那么在表语从句中的不定式，介词except 和but之后的不定式可不带to\n- perpetuate v. 使持续，使长久（尤指不好的事物）\n- culturally [pərˈpetʃueɪt] adv. 从文化角度\n- endorsed  [ɪnˈdɔːrst] v. 支持，赞同\n- culturally-endorsed  副词+动词ed 的分词，newly built 新建的， good looking 外表好看的",
     "label": "不定式-不带to的不定式"
   },
   {
@@ -2595,109 +2595,109 @@
     "question": "好看的女孩",
     "translation": "good-looking girl",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "新建的旅馆",
     "translation": "newly-built hotel",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "持久的影响",
     "translation": "long-lasting effects",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "没完没了的抱怨",
     "translation": "never-ending complaints",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "努力工作的人们",
     "translation": "hard-working people",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "水覆盖的土地",
     "translation": "water-covered land",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "耗时的工作",
     "translation": "time-consuming work",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "耗钱的",
     "translation": "money-consuming",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "热爱自由的的人们.",
     "translation": "freedom-loving people",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "吃人的怪兽",
     "translation": "human-eating monster",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "破纪录的战斗.",
     "translation": "record[ˈrekɔːd]-breaking fight",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "人造卫星",
     "translation": "man-made satellite",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "人造纤维",
     "translation": "man-made fiber[ˈfaɪbər]",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "国有企业",
     "translation": "state-owned enterprise",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "华为举办的活动",
     "translation": "Huawei-held activity",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "以美国为首的组织.",
     "translation": "US-led organization",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "自制的食物.",
     "translation": "home-made food",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "手工的.",
     "translation": "hand-made",
     "knowledge_point": "分词形容词形式1: 名词/副词+分词",
-    "label": "分词形容词-名词/副词+分词"
+    "label": "分词形容词-名词+分词"
   },
   {
     "question": "快节奏的生活.",

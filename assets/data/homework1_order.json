@@ -198,15 +198,9 @@
     "label": ""
   },
   {
-    "question": "它是顺时针方向的",
-    "translation": "It's like in the direction of clock-wise",
-    "knowledge_point": "like介词；介词后面也可以加介词短语，like in the movies就是这样的，也是属于介词短语，作表语",
-    "label": "介词like"
-  },
-  {
     "question": "生活不像电影里那样",
     "translation": "Life isn't like in the movies",
-    "knowledge_point": "like介词；介词后面也可以加介词短语，like in the movies就是这样的，也是属于介词短语，作表语",
+    "knowledge_point": "like介词；介词后面也可以加介词短语，like in the movies就是这样的，like也是属于介词短语，作表语",
     "label": "介词like"
   },
   {
@@ -375,7 +369,7 @@
     "question": "他们暂时待在北京",
     "translation": "They are staying in Beijing",
     "knowledge_point": "内部关系：动作；句子成分：主谓状；应该加一个temporally吧，for tempont；老师说有点画蛇添足的意味，be doing；这里是stay. 注意staying和living的区别",
-    "label": "现在进行时"
+    "label": "现在进行时表示临时"
   },
   {
     "question": "你能借给我那本英汉字典吗",
@@ -386,7 +380,7 @@
   {
     "question": "还是你认为他应该在职业生涯上再进一步？",
     "translation": "Do you think he can or should be further ahead career-wise?",
-    "knowledge_point": "career-wise职业角度上",
+    "knowledge_point": "- career-wise职业角度上,adv\n- ahead adv 向前， further adv修饰ahead 更进一步",
     "label": "career-wise"
   },
   {
@@ -603,7 +597,7 @@
     "question": "他的耐心使他非常适合做客服工作。",
     "translation": "His patience makes him well-**suited for** customer service.",
     "knowledge_point": "suited for 内在的相容性，是否天生匹配、能良好适应(性格，天赋，本身的性质)",
-    "label": "分词形容词; suited和suitable"
+    "label": "分词形容词-副词+分词; suited和suitable"
   },
   {
     "question": "suited for和suitable for的区别",
@@ -637,7 +631,7 @@
   },
   {
     "question": "空气中弥漫着湿土的香气",
-    "translation": "The air was sweet with smell of wet mud.",
+    "translation": "The air was sweet with a smell of wet mud.",
     "knowledge_point": "- having a pleasant smell 香的；芳香的；芬芳的 = frangrant；\n- containing, or tasting as if it contains, a lot of sugar 含糖的；甜的",
     "label": "sweet"
   },
@@ -751,9 +745,45 @@
   },
   {
     "question": "这条裤子有点紧",
-    "translation": "These trousers are a bit tight.",
-    "knowledge_point": "- 1. ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- 2. ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离；\n- 3. [ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块",
+    "translation": "These trousers/pants are a bit tight.",
+    "knowledge_point": "- 1. ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- 2. ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离；",
     "label": "a bit"
+  },
+  {
+    "question": "[ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "trousers 只有复数形式=pants 更简单",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "这些裤子旧了",
+    "translation": "These trousers are old/These pants are old",
+    "knowledge_point": "- trousers 只有复数形式=pants 更简单\n- trousers 一般是指这一条，也可以指多条，看语境，比如可以说These trousers are all old. 加一个all\n- 类似的词还有jeans牛仔裤/shorts 短裤都是复数名词，要用are, 但实际是指一条",
+    "label": ""
+  },
+  {
+    "question": "我的眼镜在哪儿呢？",
+    "translation": "Where are my glasses?",
+    "knowledge_point": "- glasses 代表一副眼镜\n- 也可以说**a new pair of glasses**.",
+    "label": ""
+  },
+  {
+    "question": "这把剪刀不快",
+    "translation": "**These scissors[ˈsɪzərz]** aren‘t sharp.",
+    "knowledge_point": "",
+    "label": ""
+  },
+  {
+    "question": "也可以说**a new pair of [ˈsɪzərz]**.",
+    "translation": "",
+    "knowledge_point": "",
+    "label": ""
   },
   {
     "question": "他就是我昨天见的那个人",
@@ -951,7 +981,7 @@
     "question": "主语从句后置的规则",
     "translation": "主语从句后置",
     "knowledge_point": "- 大多数主语从句都可以用 it 代替, 作形式主语, 把主语从句置于句尾\n- that 引导的主语从句可用 it 代替, that 不可省\n- 但是,当 what 引导的主语从句表示\"……的东西\"时,一般不用 it 作形式主语\n- whatever, whoever, whichever 一般也不用 it 作形式主语\n- who引导的主语从句，可以后置，也可以不后置，这两个句子都是可以的",
-    "label": "主语从句"
+    "label": ""
   },
   {
     "question": "问题是他能不能做",
@@ -991,7 +1021,7 @@
   },
   {
     "question": "我们被迫参加浪费时间的会议",
-    "translation": "We were made to attend meetings that wasted time",
+    "translation": "We were made to attend time-wasting meetings",
     "knowledge_point": "attend: to be present at an event 出席；参加",
     "label": "attend/join/join in"
   },
@@ -1329,7 +1359,7 @@
     "question": "喜剧演员",
     "translation": "a comic actor/comic [ˈkɑːmɪk]/comedian [kəˈmiːdiən]",
     "knowledge_point": "- comical /ˈkɒmɪkl/ ( old-fashioned ) funny or amusing because of being strange or unusual 可笑的；滑稽的；有趣的\n- comical（较旧/书面）：因奇特或反常而“可笑/滑稽”的\n- comic  adj: [ only before noun ] connected with comedy[ˈkɑːmədi]喜剧 (= entertainment that is funny and that makes people laugh) 喜剧的\n- comic [ˈkɑːmɪk] n: an entertainer who makes people laugh by telling jokes or funny stories 喜剧演员 SYN comedian.",
-    "label": "comic[ˈkɑːmɪk]"
+    "label": "comic"
   },
   {
     "question": "他们可以申请加入这个组织",
@@ -1339,7 +1369,7 @@
   },
   {
     "question": "我参加了有氧健身班",
-    "translation": "I've joined an aerobics class",
+    "translation": "I've joined an aerobics[eˈroʊbɪks] class",
     "knowledge_point": "",
     "label": "join"
   },
@@ -1399,7 +1429,7 @@
   },
   {
     "question": "她是这项工作最合适的人选。",
-    "translation": "She's the ideal candidate['kændideit] for the job.",
+    "translation": "She's the ideal candidate[ˈkændɪdət]for the job.",
     "knowledge_point": "idea [adj] ~ (for sth) perfect; most suitable 完美的；理想的；最合适的",
     "label": "ideal"
   },
@@ -1521,13 +1551,13 @@
     "question": "他太粗心了，居然犯这样愚蠢的错误",
     "translation": "It was very careless of him to make such silly mistakes",
     "knowledge_point": "- to do 作宾语，宾语后置",
-    "label": "不定式作主语; careless"
+    "label": "不定式作主语"
   },
   {
     "question": "为什么要为这些鸡毛蒜皮的小事烦心",
     "translation": "Why worry about such trifles [ˈtraɪflz]?",
     "knowledge_point": "- trifles 琐事，小事",
-    "label": "trifles"
+    "label": "省略to的不定式"
   },
   {
     "question": "我认为说话时嘴里塞满食物是不礼貌的",
@@ -1562,14 +1592,14 @@
   {
     "question": "看到有辆车过来了，他们就站到了路边",
     "translation": "Seeing a car coming, they stepped aside",
-    "knowledge_point": "- 内部关系：时间状语，主谓状\n- coming 分词作补语\n- stand 是个静态过程，step 是个动态过程",
+    "knowledge_point": "- 内部关系：时间状语，主谓状， 分词时间状语一般先于主句发生\n- coming 分词作补语\n- stand 是个静态过程，step 是个动态过程",
     "label": "现在分词作时间状语"
   },
   {
     "question": "从窗户往外看，我们看见一只正在叫唤的狗",
     "translation": "Looking out through the window, we saw a barking dog",
-    "knowledge_point": "- outside",
-    "label": "现在分词作状语; outside/out; from/through"
+    "knowledge_point": "- 分词的时间状语一般先于主句发生\n- outside",
+    "label": "现在分词作时间状语; outside/out; from/through"
   },
   {
     "question": "站到悬崖上，我感到很紧张",
@@ -1617,7 +1647,7 @@
     "question": "逝去的年轻时光",
     "translation": "vanished [ˈvænɪʃt] youth [juːθ]",
     "knowledge_point": "- youth 可以理解为青春\n- 考察点：youth vanished 过去分词作定语，过去分词：不及物动词，已经完成",
-    "label": "过去分词作定语; youth"
+    "label": "不及物动词的分词形式; youth"
   },
   {
     "question": "他年轻时很有音乐天才",
@@ -1647,43 +1677,43 @@
     "question": "正在凋谢的花",
     "translation": "fading flowers",
     "knowledge_point": "- 过去分词：不及物动词，主动进行，正在进行，现在分词作定语\n- flowers faded.\n- 已经凋谢的花",
-    "label": "分词作定语"
+    "label": "不及物动词的分词形式"
   },
   {
     "question": "已经凋谢的花",
     "translation": "faded flowers",
     "knowledge_point": "- 过去分词：不补及物动词，主动进行，已经完成，过去分词作定语\n- flowers faded.\n- 已经凋谢的花",
-    "label": "分词作定语"
+    "label": "不及物动词的分词形式"
   },
   {
     "question": "有条理的想法",
     "translation": "organized ideas",
     "knowledge_point": "- organized ideas 过去分词作定语，被动进行\n- organized：arranged or planned in the way mentioned 有条理的；有安排的\n- idea: a plan, thought or suggestion, especially about what to do in a particular situation",
-    "label": "分词作定语; organized"
+    "label": "及物动词的过去分词; organized"
   },
   {
     "question": "精心策划的运动",
     "translation": "a carefully organized campaign",
     "knowledge_point": "- organized：arranged or planned in the way mentioned 有条理的；有安排的",
-    "label": "分词作定语; organized"
+    "label": "及物动词的过去分词; organized"
   },
   {
     "question": "井然有序的办公室",
     "translation": "a well-organized office",
     "knowledge_point": "- organized：arranged or planned in the way mentioned 有条理的；有安排的",
-    "label": "分词形容词; organized"
+    "label": "分词形容词-副词+分词; organized"
   },
   {
     "question": "武装部队",
     "translation": "armed forces",
     "knowledge_point": "- armed forces 武装部队",
-    "label": "分词作定语"
+    "label": "及物动词的过去分词"
   },
   {
     "question": "熏鱼",
     "translation": "smoked fish",
     "knowledge_point": "- smoked 表示熏制的",
-    "label": "过去分词作定语; smoked"
+    "label": "及物动词的过去分词; smoked"
   },
   {
     "question": "熏肉",
@@ -1701,7 +1731,7 @@
     "question": "计划经济",
     "translation": "planned [plænd] economy[ɪˈkɑːnəmi]",
     "knowledge_point": "- planned economy, 过去分词作定语，被动进行",
-    "label": "过去分词作定语"
+    "label": "及物动词的过去分词"
   },
   {
     "question": "他很高兴看到母亲在家里受到很好的照顾",
@@ -1713,25 +1743,25 @@
     "question": "你去参加下周华为公司举办的活动吗",
     "translation": "Are you going to attend the Huawei-organized activity to be held next week?",
     "knowledge_point": "- to be done 将来时\n- Huawei-organized 表示被动, 分词短语",
-    "label": "分词形容词; 不定式作定语"
+    "label": "分词形容词-名词+分词; 不定式作定语"
   },
   {
     "question": "他特别壮/他是一个身材魁梧的人",
     "translation": "He is a powerfully-built man",
     "knowledge_point": "- 将词汇进行灵活地组合才是王道\n- build 建造，增强，可以是体魄这样抽象的东西，如build yourself up 使更强壮\n- 因此，build 作动词引申为\"增强体魄；增强体格\"\n- 故，powerfully-built 字面\"体格被建造得很强大\" --》\"身材魁梧\"\n- 这里是\"副词+过去分词\"的用法\n- body build 体型",
-    "label": "分词形容词"
+    "label": "分词形容词-副词+分词"
   },
   {
     "question": "没有你陪伴，我不敢去那里",
     "translation": "I dare not go there without you accompanying me",
     "knowledge_point": "- 内部关系：句子成分：主谓状 动名词作介词宾语\n- accompany 是及物动词，及物动词需要加宾语\n- don't dare to go (实义动词) = dare not go (情态动词)",
-    "label": "with+动名词"
+    "label": "with伴随状语"
   },
   {
     "question": "这话说出来非得罪人不可",
     "translation": "This cannot be said without some getting angry",
     "knowledge_point": "- 双重否定表示强调，肯定\n- some 此处是不定代词，代表一些人，是getting angry的逻辑主语",
-    "label": "with+动名词"
+    "label": "with伴随状语"
   },
   {
     "question": "开车的时候不要查看微信消息",
@@ -1868,14 +1898,20 @@
   {
     "question": "新款下月上市",
     "translation": "The new model goes on sale next month",
-    "knowledge_point": "- on sale (1) available to be bought, especially in a shop/store （常用于商店）出售，上市",
+    "knowledge_point": "- on sale (1) available to be bought, especially in a shop/store （常用于商店）出售，上市\n- for sale 待售， on sale 1. 打折，2上市出售\n- go : used in many expressions to show that sb/sth has reached a particular state/is no longer in a particular state 进入…状态；处于…状况；脱离…状态",
     "label": "on sale"
   },
   {
     "question": "所有录像设备今明两天降价出售",
     "translation": "All video equipment is on sale today and tomorrow",
-    "knowledge_point": "- on sale (2) (especially NAmE SAfrE) being offered at a reduced price 折价销售；减价出售",
+    "knowledge_point": "- on sale (2) (especially NAmE SAfrE) being offered at a reduced price 折价销售；减价出售\n- 这里equipment作为不可数名词来讲，谓语动词用单数，类似的还有**luggage / baggage**，**furniture**\n- All the old **furniture is** for sale.\n- His **luggage is** still at the airport.\n- 注意：Three pieces of equipment **are** for sale\n- Two pieces of furniture are new.\n- His three pieces of luggage are over the weight limit.",
     "label": "on sale"
+  },
+  {
+    "question": "他的行李还在机场。",
+    "translation": "His **luggage is** still at the airport.",
+    "knowledge_point": "equipment/furniture/luggage/baggage 都是单数不可数名词",
+    "label": ""
   },
   {
     "question": "在你们这群人中有一个是间谍",
@@ -1922,7 +1958,7 @@
   {
     "question": "水的沸点是100度",
     "translation": "Water boils at 100 degrees centigrade [ˈsentɪɡreɪd]",
-    "knowledge_point": "- 这里英语习惯用动宾关系（老师说）\n- centigrade [ˈsentɪɡreɪd] adj. 摄氏度的\n- boiling point 沸点\n- the boiling point of water is 100 degrees centigrade",
+    "knowledge_point": "- 这里英语习惯用动宾关系（老师说）\n- centigrade [ˈsentɪɡreɪd] adj. =Celsius, 摄氏度的， 这里是形容词做后置定语.“°C”, C就是centigrade的意思。\n- boiling point 沸点\n- the boiling point of water is 100 degrees centigrade",
     "label": "at"
   },
   {
@@ -1952,13 +1988,13 @@
   {
     "question": "他获释出狱时被当成英雄看待",
     "translation": "He was treated as a hero on his release from prison",
-    "knowledge_point": "- treat: ~ sb/sth (with/as/like sth) to behave in a particular way towards sb/sth 以…态度对待；以…方式对待",
+    "knowledge_point": "- treat: ~ sb/sth (with/as/like sth) to behave in a particular way towards sb/sth 以…态度对待；以…方式对待\n- on 7. immediately after sth 就在…之后；一…就\n- Please report to reception on arrival. 到达后请立即到接待处报到。",
     "label": "treat"
   },
   {
     "question": "我决定把他的话当作戏言",
     "translation": "I decided to treat his remark as a joke",
-    "knowledge_point": "- treat: ~ sth as sth to consider sth in a particular way 把…看作；把…视为",
+    "knowledge_point": "- treat: ~ sth as sth to consider sth in a particular way 把…看作；把…视为\n- remark: 评论，言论",
     "label": "treat"
   },
   {
@@ -1981,15 +2017,15 @@
   },
   {
     "question": "飞往洛杉矶的航班 13 点起飞",
-    "translation": "The flight to Los Angeles starts /leaves/departs at 13:00",
-    "knowledge_point": "- 内部关系：动作\n- 句子成分：主定，谓， 状\n- 应该说1 p.m.，不能说13 p.m.",
+    "translation": "The flight to Los Angeles['ændʒələs] starts /leaves/departs/takes off at 13:00",
+    "knowledge_point": "- 内部关系：动作\n- 句子成分：主定，谓， 状\n- 可以说13 o'clock,  1 p.m.，不能说13 p.m.",
     "label": "flight"
   },
   {
     "question": "光阴似水，时不我待",
     "translation": "Time and tide wait for no man",
     "knowledge_point": "- 一般现在时\n- tide: [ C U ] a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls 潮；潮汐；潮水\n- The tide is in/out. 涨╱退潮了",
-    "label": "一般现在时; tide"
+    "label": "一般现在时"
   },
   {
     "question": "太阳东升西落",
@@ -2037,7 +2073,7 @@
     "question": "我早就告诉过你（可你就是不听）",
     "translation": "I told you so",
     "knowledge_point": "- 过去时，表示已经告诉过",
-    "label": "tell"
+    "label": ""
   },
   {
     "question": "我对你有过信心",
@@ -2101,9 +2137,15 @@
   },
   {
     "question": "他们交出武器以示诚意",
-    "translation": "They handed over the weapons as a gesture of good faith",
-    "knowledge_point": "- faith: [ U ] ( good ~ ) the intention to do sth right 诚意；善意\n- gesture: [ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作",
+    "translation": "They handed over the weapons [ˈwepənz] as a gesture of good faith",
+    "knowledge_point": "- faith: [ U ] ( good ~ ) the intention to do sth right 诚意；善意\n- gesture: [ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作\n- hand over :",
     "label": "faith"
+  },
+  {
+    "question": "她辞职了，由一位比她年轻的同事接任。",
+    "translation": "She resigned and handed over to one of her younger colleagues.",
+    "knowledge_point": "",
+    "label": ""
   },
   {
     "question": "橱窗里的灯灭了",
@@ -2114,19 +2156,19 @@
   {
     "question": "他晚上多半在外喝酒",
     "translation": "He goes out drinking most evenings",
-    "knowledge_point": "- go out: (1) to leave your house to go to a social event 出门参加社交活动；外出交际；外出娱乐",
+    "knowledge_point": "- go out: (2) to leave your house to go to a social event 出门参加社交活动；外出交际；外出娱乐",
     "label": "go out"
   },
   {
     "question": "请柬发出去了吗？",
     "translation": "Have the invitations gone out yet?",
-    "knowledge_point": "- go out: (3) to be sent 送出；发出；派出",
+    "knowledge_point": "- go out: (3) to be sent 送出；发出；派出\n- invite [ɪnˈvaɪt] v. 邀请\n- invitation[,invi'teiʃən] n. 邀请;请柬\n- innovation[ˌɪnəˈveɪʃ(ə)n] 创新",
     "label": "go out"
   },
   {
     "question": "局长已经辞职的消息公开了",
     "translation": "Word went out that the director had resigned",
-    "knowledge_point": "- go out: (5) when news or information goes out, it is announced or published （新闻或消息）发布，公布，发表",
+    "knowledge_point": "- go out: (4) when news or information goes out, it is announced or published （新闻或消息）发布，公布，发表\n- word 这里是[ sing. ] a piece of information or news 信息；消息\n- The word is they've split up. 据说他们离异了。\n- words 说的话，可数名词 She left without a word\n- 这里that 同位语，尾大原则，放到最后",
     "label": "go out"
   },
   {
@@ -2143,7 +2185,7 @@
   },
   {
     "question": "大选中的两位候选人都让人觉得扫兴",
-    "translation": "People had been turned off by both candidates in the election",
+    "translation": "People had been turned off by both candidates [ˈkændədets] in the election",
     "knowledge_point": "- turn sb←→off: (1) to make sb feel bored or not interested 使厌烦；使失去兴趣",
     "label": "turn off"
   },
@@ -2158,5 +2200,407 @@
     "translation": "Please turn the television off before you go to bed",
     "knowledge_point": "- turn sth←→off: to stop the flow of electricity, gas, water, etc. by moving a switch, button, etc. 关掉，截断（电流、煤气、水等）",
     "label": "turn off"
+  },
+  {
+    "question": "当我们爬上黄山之巅时，看到了云海的壮观景象",
+    "translation": "We had a grand view of a sea of clouds when we climbed to the top of the Yellow Mountain",
+    "knowledge_point": "- to 表示延伸\n- when we climbed  也可以用分词作时间状语Climbing to / Having climbed to",
+    "label": "to"
+  },
+  {
+    "question": "今年冬天我打算买一件貂皮外套",
+    "translation": "I am going to buy a mink jacket/coat this winter",
+    "knowledge_point": "- be going to 表示打算\n- jacket: a piece of clothing worn on the top half of the body over a shirt, etc. that has sleeves and fastens down the front; a short, light coat 夹克衫；短上衣\n- coat: a piece of outdoor clothing that is worn over other clothes to keep warm or dry. Coats have sleeves and may be long or short. 外套；外衣；大衣",
+    "label": "be going to"
+  },
+  {
+    "question": "车要翻了",
+    "translation": "The car is going to turn over",
+    "knowledge_point": "- be going to 表示有迹象的预测，超出能力范围\n- flip: to turn over into a different position with a sudden quick movement; to make sth do this （使）快速翻转，迅速翻动",
+    "label": "be going to"
+  },
+  {
+    "question": "我会在10分钟后回来",
+    "translation": "I will be back in ten minutes",
+    "knowledge_point": "- in 查字典代表一段时间以后, after a particular length of time 在（某段时间）之后\n- In+时间段，1. 表示在…内的时候，意思是 during a period of time, 在…期间，",
+    "label": ""
+  },
+  {
+    "question": "除非有什么意想不到的事发生，不然我会在几个小时内回来的",
+    "translation": "Unless something unexpected comes up, I will be back within a couple hours",
+    "knowledge_point": "- 十分钟之内回来，应该用within\n- within 表示在某个时间范围内",
+    "label": ""
+  },
+  {
+    "question": "我上了公共汽车。过了一会儿，公共汽车停了下来",
+    "translation": "I got on the bus. After some time, the bus stopped",
+    "knowledge_point": "- after+时间段 最典型的用法是表示\"过去\"之后，具体可以分为两种情况：a. 过去之后到过去；b. 过去之后到目前, 这里是a\n- You haven’t changed a bit after all these years. (过去之后到现在)",
+    "label": ""
+  },
+  {
+    "question": "这么多年过去了，你一点也没变",
+    "translation": "You haven't changed a bit after all these years",
+    "knowledge_point": "- after+时间段 最典型的用法是表示\"过去\"之后，具体可以分为两种情况：a. 过去之后到过去；b. 过去之后到目前，  这里是b\n- You haven't changed a bit after all these years. (过去之后到现在)",
+    "label": ""
+  },
+  {
+    "question": "他在25岁生日那天结婚；两周后，他离婚了",
+    "translation": "He got married on his 25th birthday; two weeks later he was divorced",
+    "knowledge_point": "- 时间段+later 最典型的用法是表示\"过去\"之后或\"将来\"之后，但不能表示\"现在\"之后\n- \"两周后\"的时间参照点是25岁生日，是过去的时间点，所以是过去之后",
+    "label": "多久之后"
+  },
+  {
+    "question": "他下星期一来，他妻子三天后到",
+    "translation": "He'll come next Monday, and his wife will arrive three days later",
+    "knowledge_point": "- 时间段+later 最典型的用法是表示\"过去\"之后或\"将来\"之后，但不能表示\"现在\"之后\n- \"三天后\"的时间参照点是下周一，是将来的时间点，也就是将来之后",
+    "label": "多久之后"
+  },
+  {
+    "question": "我们打算在这儿支帐篷",
+    "translation": "We will/are going to put up the tent here",
+    "knowledge_point": "- 句子成分：主谓宾状\n- 如何开车，突然看的一个比较好的地方，就用will, 表示临时的意愿\n- 如果开车之前，就已经计划好了，说明打算一番了，用be going to",
+    "label": "be going to"
+  },
+  {
+    "question": "你去野营度假吗",
+    "translation": "Do you go camping?",
+    "knowledge_point": "- camping [U] living in a tent, etc. on holiday/vacation 野营度假\n- Do you go camping? 你去野营度假吗？\n- a camping trip 野营旅行\n- go. ~ for sth to leave a place or travel to a place in order to take part in an activity or a sport 去参加，去从事（某项活动或运动）\n- go swimming/shopping/fishing",
+    "label": "camp"
+  },
+  {
+    "question": "我在田野里露营过夜",
+    "translation": "I camped overnight in a field",
+    "knowledge_point": "- camp v. [V] to put up a tent and live in it for a short time 宿营；露营",
+    "label": "camp"
+  },
+  {
+    "question": "咱们回营地吧",
+    "translation": "Let's return to camp",
+    "knowledge_point": "- camp n. [C U] a place where people live temporarily in tents or temporary buildings 营地",
+    "label": "camp"
+  },
+  {
+    "question": "我们属于彼此对立的阵营",
+    "translation": "We were in opposing camps",
+    "knowledge_point": "- camp [C] a group of people who have the same ideas about sth and oppose people with other ideas 阵营（指观点相同且与持不同观点者对立的集团）",
+    "label": "camp"
+  },
+  {
+    "question": "抗议者们已在许多主要十字路口搭建了路障",
+    "translation": "Protesters have been putting up barricades[ˈbærɪkeɪdz] across a number of major intersections",
+    "knowledge_point": "- (1) to raise sth or put it in a higher position 提升；使升高",
+    "label": "put up"
+  },
+  {
+    "question": "贴出通知",
+    "translation": "to put up a notice",
+    "knowledge_point": "",
+    "label": "put up"
+  },
+  {
+    "question": "今天下午有一场足球赛",
+    "translation": "There is going to /will be a football match this afternoon",
+    "knowledge_point": "- there is going to be 表示按照计划\n- there will be 表示说话人主观意愿，这里用going/will 不是很明显\n- 也可以理解为按\"时间表\"发生，用一般现在时",
+    "label": "be going to"
+  },
+  {
+    "question": "今晚有空吗",
+    "translation": "will you be free/available tonight?",
+    "knowledge_point": "- will 表示打算，意愿",
+    "label": "will"
+  },
+  {
+    "question": "他会来吗",
+    "translation": "will he come?",
+    "knowledge_point": "- will 表示打算，意愿",
+    "label": "will"
+  },
+  {
+    "question": "念念不忘，必有回响",
+    "translation": "Something that stays in your mind will someday spring up in your life",
+    "knowledge_point": "- stays in your mind 在你脑海中\n- spring up 出现\n- will 推测：这里表示说话者主观认为",
+    "label": "will"
+  },
+  {
+    "question": "上周一整周我都一直在家待着",
+    "translation": "I was staying at home all last week",
+    "knowledge_point": "- 过于一直：过去进行时\n- \"上周\" 过去时\n- \"在家呆着\"并非一直，是有限时间的，\"待一周\"所以用\"进行\"\n- 过去进行时：表示一段时间一直\n- 用过去一般时，也可以，只是过去整个阶段，但是不强调\"一直在做的\"的状态，缺少动态感。进行时，强调\"进行\"的状态\n- eg: He was watching TV all evening",
+    "label": "过去进行时"
+  },
+  {
+    "question": "你大前天跟 Jim 都说了什么",
+    "translation": "What did you say to Jim three days ago?",
+    "knowledge_point": "- 前天是2天前，大前天就是3天前\n- 有did 了，后面的动词要用原型",
+    "label": "three days ago"
+  },
+  {
+    "question": "我打算下个月去曼谷",
+    "translation": "I am going to go to Bangkok next month",
+    "knowledge_point": "- Bangkok 曼谷\n- be going to 是时态，是打算，后面还有加go to 一定要注意\n- I am going to Bangkok 语法也对。但不是不符合题意。现在进行时表将来，马上要去了，确确实实要去了\n- be going to go to. 将来时，表计划，但是也有不能去的可能",
+    "label": "be going to"
+  },
+  {
+    "question": "在那唱歌的那个男的是他女婿",
+    "translation": "The man singing over there is his son-in-law",
+    "knowledge_point": "- 现在分词作定语，修饰the man",
+    "label": "分词作定语"
+  },
+  {
+    "question": "如果你之前没有考试没考好，那么你现在应该改变学习方法了",
+    "translation": "If you failed the exam, it's time to change your study method",
+    "knowledge_point": "- 对过去的条件状语从句，过去的假设用过去时\n- 这个句子是真实的，所以直接表达就可以，if you failed... it's time...",
+    "label": "过去时"
+  },
+  {
+    "question": "什么是幸福？我认为它是你能做喜欢并且擅长的事情",
+    "translation": "What is happiness?  I think it is that you can do the things that you like and are good at",
+    "knowledge_point": "- 定语从句，that you like and are good at 修饰the things",
+    "label": "定语从句"
+  },
+  {
+    "question": "她所能想到的获得足够钱的唯一办法就是卖掉她的头发",
+    "translation": "The only way to get enough money (that) she thought of was to sell her hair",
+    "knowledge_point": "- 定语从句，(that) she thought of 修饰the only way\n- 这里有多个定语成分，only, to do, 和定语从句",
+    "label": "定语从句"
+  },
+  {
+    "question": "他刚走",
+    "translation": "He has just gone",
+    "knowledge_point": "- gone 相比于left ，多了一层去往目的地隐含含义\n- leave: to go away from a person or a place 离开（某人或某处）",
+    "label": "go"
+  },
+  {
+    "question": "他离开一小时了",
+    "translation": "He's been gone an hour (= he left an hour ago)",
+    "knowledge_point": "- for an hour 介词短语作状语，an hour名词短语直接作状语\n- 注意这里是been gone,  gone 是瞬间动词不能接for时间\n- 英语中的名词或名词短语有时可用作状语,如时间名词, 数量名词,距离名词等",
+    "label": "go; 时间名词作状语"
+  },
+  {
+    "question": "他走了很长时间了（还没有回来）",
+    "translation": "He has been gone for a long time",
+    "knowledge_point": "- 我理解此时a long time 是不确定的时间，前面就需要加for, 如果是确定时间 就可以省略for",
+    "label": "go; 时间名词作状语"
+  },
+  {
+    "question": "他在那里呆了 5 天",
+    "translation": "He stayed there five days",
+    "knowledge_point": "- 时间名词作状语，five days 直接作状语",
+    "label": "时间名词作状语"
+  },
+  {
+    "question": "我从来没听说过他",
+    "translation": "I have never heard of him",
+    "knowledge_point": "- never 频率副词，表示一次也没有，I have never 比 I have not 更强调一次没有\n- not at any time; not on any occasion 从不；绝不；从未；未曾",
+    "label": "never"
+  },
+  {
+    "question": "他从来没去过那",
+    "translation": "He has never been there",
+    "knowledge_point": "- never 频率副词，表示一次也没有\n- be: [V, adv./prep.] to be located; to be in a place 位于；在（某处）",
+    "label": "never; have been"
+  },
+  {
+    "question": "这是我第一次来这",
+    "translation": "This is the first time that I've been here",
+    "knowledge_point": "- 这里强调来这的经历，感慨(比如很紧张）。所以用了现在完成时\n- 但是如果不强调经历的话，下面也是对的",
+    "label": "have been"
+  },
+  {
+    "question": "树叶在空中飘然下落",
+    "translation": "The leaves are falling in the air",
+    "knowledge_point": "- 现在进行时表示正在进行的动作",
+    "label": "现在进行时"
+  },
+  {
+    "question": "她看着空中飘然下落的叶子（用定语从句解决）",
+    "translation": "She is looking at the leaves which are falling in the air",
+    "knowledge_point": "- 定语从句，which are falling in the air 修饰the leaves",
+    "label": "定语从句"
+  },
+  {
+    "question": "她看着空中飘然下落的叶子（用分词解决）",
+    "translation": "She is looking at the falling leaves in the air./leaves falling in the air",
+    "knowledge_point": "- 现在分词作定语，falling leaves 或 leaves falling in the air",
+    "label": "分词作定语"
+  },
+  {
+    "question": "秋天来了，又是一个落叶纷飞的季节",
+    "translation": "Autumn has come. It is a season of falling leaves",
+    "knowledge_point": "- of 胶水词",
+    "label": "of"
+  },
+  {
+    "question": "冬天已经来了，春天还会远吗",
+    "translation": "Winter has come. Can spring be far behind?",
+    "knowledge_point": "- behind 在后面",
+    "label": "状语-副词修饰副词"
+  },
+  {
+    "question": "去年我参观了黄山，我发现它真的很美",
+    "translation": "Last year I visited Yellow Mountain, I found it was really beautiful",
+    "knowledge_point": "- 你的句子是find+宾语从句的结构，用is也是可以的，但是最好是was\n- 通常，宾语从句是和主语的时态保持一致的，但也有特殊情况，比如宾语从句的内容是客观真理或者一个人经常性的习惯特点或者宾从的内容目前仍然属实，也就是你的提问里理解的这个情况，那么宾语从句里可以用一般现在时，所以这个题用is也是可以的\n- 但是也要注意，常用的还是主谓保持一致，主句用一般过去时，从句也用过去的某种时态，所以最好用was",
+    "label": "宾语从句的时态"
+  },
+  {
+    "question": "从上周日开始，这每天都下雨",
+    "translation": "It has rained here everyday since last Sunday",
+    "knowledge_point": "- 现在完成时，表示从过去某个时间点开始一直持续到现在的动作",
+    "label": "现在完成时"
+  },
+  {
+    "question": "这每天都下雨",
+    "translation": "It rains(here) every day",
+    "knowledge_point": "- 一般现在时，表示经常性的动作或状态",
+    "label": "一般现在时"
+  },
+  {
+    "question": "我已经改变主意了",
+    "translation": "I've changed my mind",
+    "knowledge_point": "- mind: [C] your thoughts, interest, etc. 心思\n- 这里不能用过去完成时，过去完成时表示过去的过去",
+    "label": "mind/idea"
+  },
+  {
+    "question": "我不在乎他在做什么或已经做了什么",
+    "translation": "I don't care what he is doing or has done",
+    "knowledge_point": "- 名词性从句，what的第二个意思：what=the thing that",
+    "label": "名词性从句"
+  },
+  {
+    "question": "我联系不到他，他去西藏了",
+    "translation": "I can't get in touch with him, he has gone to Tibet",
+    "knowledge_point": "- been to 去过（已经回来了）\n- can 情态动词，表示当下的能力",
+    "label": "go/been to"
+  },
+  {
+    "question": "往事如烟，已消失",
+    "translation": "The past has vanished like smoke",
+    "knowledge_point": "- 强调基于现在之前发生的，有一个持续的过程。所以用现在完成时",
+    "label": "现在完成时"
+  },
+  {
+    "question": "我只是见她眼熟，但是没说过话",
+    "translation": "I simply know her by sight. but I have never spoken to her",
+    "knowledge_point": "- know sb by sight. 见过某人\n- have not 和 have never 有什么区别？",
+    "label": "现在完成时"
+  },
+  {
+    "question": "看╱听╱尝起来熟悉",
+    "translation": "sth look/sound/taste familiar",
+    "knowledge_point": "- sth is familiar to sb, 事情对某人司空见惯，习以为常",
+    "label": "familiar"
+  },
+  {
+    "question": "你熟悉他们使用的计算机软件吗",
+    "translation": "Are you familiar with the computer software they use?",
+    "knowledge_point": "- sb be familiar with sth 熟悉某物",
+    "label": "familiar"
+  },
+  {
+    "question": "我们到那的时候，动车已经开了",
+    "translation": "When we got there, the bullet train had left",
+    "knowledge_point": "- 过去完成时：过去的过去",
+    "label": "过去完成时"
+  },
+  {
+    "question": "她本打算是要去机场送你的",
+    "translation": "She had meant/intended to see you off at the airport",
+    "knowledge_point": "- 过去完成时：本打算\n- 这句话不是虚拟，（和现实相反）\n- 但是这里had meant 说明还是有这个打算的\n- 机场airport\n- 在机场：at the airport, 查了下也有in the airport。但是比较少\n- at后面加时间/地点",
+    "label": "过去完成时"
+  },
+  {
+    "question": "她意识到她犯了个错",
+    "translation": "She realized that she had made a mistake",
+    "knowledge_point": "- 过去完成时：过去的过去",
+    "label": "过去完成时"
+  },
+  {
+    "question": "他本想帮你的，但当时没时间",
+    "translation": "He had wanted to help you, but he had no time then",
+    "knowledge_point": "- 过去完成时：本打算",
+    "label": "过去完成时"
+  },
+  {
+    "question": "我们到电影院时，电影已经开始了",
+    "translation": "The film had already begun by the time we got to the cinema",
+    "knowledge_point": "- 过去完成时：过去的过去\n- by the time 到...时候",
+    "label": "过去完成时"
+  },
+  {
+    "question": "郎朗的音乐会将在 8 点半开始，你到那之前他都演完了",
+    "translation": "Lang Lang's concert will begin/begins at half past eight. He will have ended it before you arrive",
+    "knowledge_point": "- half past eight 八点半\n- end it 完成它\n- 我用的 do it, 没有完成的意思",
+    "label": "将来完成时"
+  },
+  {
+    "question": "后天早上 6 点过来接我，到时我已经吃完饭了",
+    "translation": "Pick me up at 6 a.m. the day after tomorrow. I will have had breakfast by then",
+    "knowledge_point": "- 后天：the day after tomorrow\n- 吃完饭，用将来完成时，就能表示干了什么事，例如I have married, He has died. 表示做了什么事\n- eat breakfast这个词也有，但是have breakfast 比较地道。这里用将来完成时，将来已经做了\n- 到时，是by then，不是then\n- 完成时，本身就有完成的意思，所以可以不用finish 也可以。(finish my meal)",
+    "label": "将来完成时"
+  },
+  {
+    "question": "自从有了孩子，我一直睡得不好",
+    "translation": "Since I had the baby, I haven't been sleeping well",
+    "knowledge_point": "- had the baby 这里是\"生\"的意思，但是男的也可以用这句话。如果男的接受不了，男的可以说\"we had the baby\"\n- since 后面一般用于过去时，发生在过去",
+    "label": "现在完成进行时"
+  },
+  {
+    "question": "这雨下了多久了（说话的时候还在下）",
+    "translation": "How long has it been raining",
+    "knowledge_point": "- 现在完成进行时，表示从过去开始一直持续到现在并且还在进行的动作",
+    "label": "现在完成进行时"
+  },
+  {
+    "question": "他刚一直在跟朋友们喝酒，现在烂醉如泥",
+    "translation": "He is dead drunk. He has been drinking with his friends",
+    "knowledge_point": "- 烂醉如泥：dead drunk\n- dead: completely; exactly 完全地；全然地；确实地 （一般修饰 adj, 前面有be)",
+    "label": "dead; 现在完成进行时"
+  },
+  {
+    "question": "什么味啊这是？你刚抽烟了",
+    "translation": "What's that smell, You've been smoking?",
+    "knowledge_point": "- 解析，用的肯定句表示疑问",
+    "label": "现在完成进行时"
+  },
+  {
+    "question": "我早就想见你",
+    "translation": "I have been wanting to see you",
+    "knowledge_point": "- 现在完成时 第二点：最近一段时间内正在做的事，\"我一直想要\"，\"我早就想做\"",
+    "label": "现在完成进行时"
+  },
+  {
+    "question": "肯定是遥控器坏了",
+    "translation": "There must be something wrong with the remote control",
+    "knowledge_point": "- must 表示推测",
+    "label": "must"
+  },
+  {
+    "question": "我找不着钥匙了，一定是落车上了",
+    "translation": "I can't find my key. I must have left it in the car",
+    "knowledge_point": "- 主谓状，in the car 状语不是补语\n- in the car这是地点状语，看一下leave的牛津释义第8条，表示忘了带，丢下，也就是go away from a place without taking sth with you，离开某处忘了随身带走某物，也就是说，离开的时候把钥匙落下在车里，不是补语\n- put sth in someplace后面的介词短语也是地点状语，把某物放在了某处\n- let sb do sth这是补语，leave sb adj/doing/to do sth这时候的adj，doing sth，to do sth 等这些是补语，表示让。。。处于某一种状态",
+    "label": "must have done"
+  },
+  {
+    "question": "你用的着这么辛苦吗",
+    "translation": "Need you work so hard?",
+    "knowledge_point": "- Need 本色：需要，用得着\n- need 作为动词，多用肯定句，表示需要（require sth, should or have to do sth), 作为情态动词，多用于表示是否必要（necessary）",
+    "label": "need"
+  },
+  {
+    "question": "你当时不必这么匆忙",
+    "translation": "You needn't have hurried (= it was not necessary for you to hurry, but you did)",
+    "knowledge_point": "- need modal verb 必要\n- ~ (not) do sth | ~ (not) have done sth (BrE) used to state that sth is/was not necessary or that only very little is/was necessary; used to ask if sth is/was necessary （表示没有必要或询问是否有必要）需要(可以看出来，多用于否定句，和疑问句)",
+    "label": "need"
+  },
+  {
+    "question": "两情若是久长时，又岂在朝朝暮暮",
+    "translation": "If love between both sides can last for aye, why need they stay together night and day?",
+    "knowledge_point": "- for aye 永远地\n- for aye 是古英语，现在英语中很少用\n- two people -> both sides\n- night and day, 日日夜夜\n- need 必要",
+    "label": "need"
+  },
+  {
+    "question": "没有必要告诉他",
+    "translation": "She doesn't need to be told/She needn't be told",
+    "knowledge_point": "- doesn't need to do 为实义动词，非常常见，是现代英语的标准用法,中性、口语化、通用\n- needn't 第二句谓情态动词，不常见，英式英语会使用，比较正式、简洁、带权威感\n- 掌握doesn't need to 就够了",
+    "label": "need"
   }
 ]

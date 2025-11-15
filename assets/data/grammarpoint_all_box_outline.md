@@ -875,18 +875,22 @@
             - put the blame on sb
             - place one's hopes on sb
          2. 上车/船/台：get on the bus 
-            3. 集中...上
-               - The discussion focused on three main problems.
-               - Each exercise focuses on a different grammar point
-            4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
-               - be on the river (房屋/城市) 在河边
-               - be on the road 在路边
-            5. 关于，就某一问题
-               - China's War on Trash Is the World‘s
-         3. on与be 连用作表语，表状态式
+         3. 集中...上
+            - The discussion focused on three main problems.
+            - Each exercise focuses on a different grammar point
+         4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
+            - be on the river (房屋/城市) 在河边
+            - be on the road 在路边
+         5. 关于，就某一问题
+            - China's War on Trash Is the World‘s
+         6. on与be 连用作表语，表状态式
             - be on business/ holiday  出差/假期
             - be on pins and needles。如坐针毡
             - be on one's mind. 被某人想着，牵挂。
+         7. immediately after sth 就在…之后；一…就
+            - On arriving home I discovered they had gone.
+            - Please report to reception on arrival. 
+            - There was a letter waiting for him on his return. 
 
       2. in 
 
@@ -906,11 +910,12 @@
             - at any cost
 
             - sea levels are rising at the rate of almost 2mm（millimeter） a year;
+
          4. 冲/朝着..(狭小的范围，精准的概念) @sb
 
-               - look at  看着。。
-               - glance at  撇着。。
-               - laugh at 冲。。笑，嘲笑
+            - look at  看着。。
+            - glance at  撇着。。
+            - laugh at 冲。。笑，嘲笑
       4. to
 
          1. 到；朝向；到达

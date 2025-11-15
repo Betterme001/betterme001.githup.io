@@ -109,21 +109,19 @@
 
         <!-- 题库展示屏幕 -->
         <div class="library-screen" id="libraryScreen">
-            <div style="display:flex; justify-content: space-between; align-items:center; padding:8px; flex-wrap: wrap; gap:8px;">
+            <div style="display:flex; align-items:center; padding:8px; gap:8px; flex-wrap: wrap;">
                 <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-                <div style="display:flex; align-items:center; gap:8px; flex-wrap: wrap;">
-                    <button class="mgmt-btn" onclick="handleResetMastery('clear')" style="background: #f44336; font-size: 0.9rem; padding: 4px 8px; border:none; border-radius:4px; color:#fff; cursor:pointer;">
-                        清空M
-                    </button>
-                    <button class="mgmt-btn" onclick="handleResetMastery('set50')" style="background: #2196F3; font-size: 0.9rem; padding: 4px 8px; border:none; border-radius:4px; color:#fff; cursor:pointer;">
-                        50%M
-                    </button>
-                    <button id="sortByMasteryBtn" onclick="toggleSortByMastery()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer;">排序M</button>
-                    <button id="clearAllFavoritesBtn" onclick="clearAllFavorites()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; color:#d32f2f;">取消收藏</button>
-                    <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px;">
-                        <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 收藏
-                    </label>
-                </div>
+                <button class="mgmt-btn" onclick="handleResetMastery('clear')" style="background: #f44336; font-size: 0.9rem; padding: 4px 8px; border:1px solid #ccc; border-radius:4px; color:#fff; cursor:pointer; height:auto; line-height:normal;">
+                    清空M
+                </button>
+                <button class="mgmt-btn" onclick="handleResetMastery('set50')" style="background: #2196F3; font-size: 0.9rem; padding: 4px 8px; border:1px solid #ccc; border-radius:4px; color:#fff; cursor:pointer; height:auto; line-height:normal;">
+                    50%M
+                </button>
+                <button id="sortByMasteryBtn" onclick="toggleSortByMastery()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; height:auto; line-height:normal;">排序M</button>
+                <button id="clearAllFavoritesBtn" onclick="clearAllFavorites()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; color:#d32f2f; height:auto; line-height:normal;">取消收藏</button>
+                <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px; margin:0;">
+                    <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 收藏
+                </label>
             </div>
             <div class="library-list" id="libraryList">
                 <!-- 题库内容将在这里动态生成 -->
@@ -135,8 +133,8 @@
             <div class="stats-header">
                 <button class="icon-back stats-back-btn" aria-label="返回" onclick="backToManagement()">←</button>
                 <div class="stats-mode-buttons">
-                    <button class="mode-btn active" data-mode="chart" onclick="switchStatsMode('chart')">曲线图</button>
-                    <button class="mode-btn" data-mode="heatmap" onclick="switchStatsMode('heatmap')">热力图</button>
+                    <button class="mode-btn active" data-mode="heatmap" onclick="switchStatsMode('heatmap')">热力图</button>
+                    <button class="mode-btn" data-mode="chart" onclick="switchStatsMode('chart')">曲线图</button>
                     <button class="mode-btn" data-mode="list" onclick="switchStatsMode('list')">列表</button>
                 </div>
             </div>
@@ -144,7 +142,7 @@
                 <div class="library-list" id="statsList" style="display: none;">
                     <!-- 学习统计将在这里动态生成 -->
                 </div>
-                <div class="chart-container" id="chartContainer">
+                <div class="chart-container" id="chartContainer" style="display: none;">
                     <canvas id="statsChart"></canvas>
                 </div>
                 <div class="heatmap-container" id="heatmapContainer" style="display: none;">
