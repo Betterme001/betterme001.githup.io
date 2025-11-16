@@ -665,15 +665,6 @@ body.top-align .container {
 .library-screen .icon-back { margin: 0; } /* 题库界面顶对齐，去掉默认外边距 */
 
 /* 复选框样式 - 护眼绿色主题 */
-#favOnlyToggle {
-    accent-color: #4a7c59; /* 护眼绿色复选框 */
-    transform: scale(1.1);
-}
-
-#favOnlyToggle + label {
-    color: #2d4a2d; /* 深绿色文字 */
-    font-weight: 500;
-}
 .icon-back:hover {
     transform: translateY(-1px);
     box-shadow: 0 4px 10px rgba(0,0,0,0.25);

@@ -176,13 +176,13 @@
   {
     "question": "昨晚我睡了5个小时",
     "translation": "I slept for five hours last night",
-    "knowledge_point": "- 表示过去发生的重复活动\n- 与现在无任何关系",
+    "knowledge_point": "- 表示过去发生的短暂动作\n- 与现在无任何关系",
     "label": "时态-一般过去时"
   },
   {
     "question": "我在北京呆过三年",
     "translation": "I lived in Beijing for three years",
-    "knowledge_point": "- 表示过去发生的重复活动\n- 与现在无任何关系",
+    "knowledge_point": "- 表示过去发生的短暂动作\n- 与现在无任何关系",
     "label": "时态-一般过去时"
   },
   {
@@ -1506,9 +1506,9 @@
     "label": "介词-框架知识点"
   },
   {
-    "question": "介词on的六种用法",
-    "translation": "在...上；上车/船/台；集中在...上；临界、接近、接壤；关于，就某一问题；与be连用作表语表状态",
-    "knowledge_point": "介词on的六种用法：\n- 在...上；\n- 上车/船/台；\n- 集中在...上；\n- 临界、接近、接壤；\n- 关于，就某一问题；\n- 与be连用作表语表状态",
+    "question": "介词on的七种用法",
+    "translation": "在...上；上车/船/台；集中在...上；临界、接近、接壤；关于，就某一问题；与be连用作表语表状态；立即",
+    "knowledge_point": "介词on的七种用法：\n- 在...上；\n- 上车/船/台；\n- 集中在...上；\n- 临界、接近、接壤；\n- 关于，就某一问题；\n- 与be连用作表语表状态\n- 立即",
     "label": "介词-框架知识点"
   },
   {
@@ -1531,7 +1531,7 @@
   },
   {
     "question": "去医院",
-    "translation": "go to the hospital",
+    "translation": "go to hospital",
     "knowledge_point": "介词功能一：表示动作的方向、范围和程度",
     "label": "介词-功能1-表示动作的方向，范围和程度"
   },
@@ -1740,7 +1740,7 @@
     "label": "介词-on-与be 连用作表语表状态"
   },
   {
-    "question": "着火.",
+    "question": "着火",
     "translation": "on fire",
     "knowledge_point": "介词on-6.on 与be 连用作表语表状态",
     "label": "介词-on-与be 连用作表语表状态"
@@ -1926,21 +1926,21 @@
     "label": "介词-to-到达某种程度"
   },
   {
-    "question": "那封信让她落泪了。",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
+    "question": "那封信让她落泪了",
+    "translation": "The letter reduced her to tears *(= made her cry)*",
+    "knowledge_point": "to:达到某种程度",
+    "label": "介词-to-到达某种程度"
   },
   {
     "question": "撕成碎片，表示最后的一种趋势",
     "translation": "tear to pieces",
     "knowledge_point": "介词to：达到某种程度",
-    "label": ""
+    "label": "介词-to-到达某种程度"
   },
   {
     "question": "他的表情由惊变喜",
-    "translation": "he letter reduced her to tears *(= made her cry)*",
-    "knowledge_point": "to:达到某种程度",
+    "translation": "His expression changed from amazement to joy",
+    "knowledge_point": "介词to：reaching a particular state 到，达（某种状态）",
     "label": "介词-to-到达某种程度"
   },
   {
@@ -1963,9 +1963,9 @@
   },
   {
     "question": "整天刷手机可能会对人造成非常大的伤害",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
+    "translation": "Reading in dim light does harm to eyes",
+    "knowledge_point": "介词to：对..；向",
+    "label": "介词-to-对..；向（前面是动词）"
   },
   {
     "question": "在昏暗的光线下阅读对眼睛有害",
@@ -1993,9 +1993,9 @@
   },
   {
     "question": "你这话上我怎么往下接？",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
+    "translation": "What should I say to that？",
+    "knowledge_point": "介词to：反应；和拍子，对..作出反应",
+    "label": "介词-to-反应； 和拍子，对...作出反应"
   },
   {
     "question": "我该对那说什么？",
@@ -2035,20 +2035,20 @@
   },
   {
     "question": "这个门的钥匙",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
+    "translation": "the key to the door",
+    "knowledge_point": "（表示两人或事物之间的关系）属于，归于，关于，对于",
+    "label": "介词-to-表示两人或事物之间的关系,属于，归于"
   },
   {
     "question": "解决这个问题的办法",
     "translation": "the solution to this problem",
     "knowledge_point": "表示两人或事物之间的关系：属于，归于，关于，对于",
-    "label": ""
+    "label": "介词-to-表示两人或事物之间的关系,属于，归于"
   },
   {
     "question": "某人的奴隶",
-    "translation": "the key to the door",
-    "knowledge_point": "（表示两人或事物之间的关系）属于，归于，关于，对于",
+    "translation": "the slave to/of sb",
+    "knowledge_point": "表示两人或事物之间的关系：属于，归于，关于，对于",
     "label": "介词-to-表示两人或事物之间的关系,属于，归于"
   }
 ]

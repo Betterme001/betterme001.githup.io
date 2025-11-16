@@ -315,7 +315,7 @@
     "question": "我尽量客气地请他把香烟掐了",
     "translation": "I asked him in the nicest possible way to put his cigarette [ˈsɪɡəret] out",
     "knowledge_point": "- nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的\n- possible 可能的，这里adj, 类似的还有This is the best possible outcome.\n- 名词前可以加多个形容词",
-    "label": "nice"
+    "label": "nice; 动词不定式作定语"
   },
   {
     "question": "这是可能得到的最好结果了",
@@ -324,16 +324,16 @@
     "label": "最高级+possible"
   },
   {
-    "question": "名词前可以加多个形容词",
+    "question": "我们需要在尽可能短的时间内到达那里",
     "translation": "We need to get there in the shortest possible time",
     "knowledge_point": "possible 可能的，这里adj 后置,  修饰的前面的shortest, 类似的还有This is the best possible outcome.\n- 名词前可以加多个形容词",
-    "label": "最高级+possible"
+    "label": "最高级+possible; to"
   },
   {
     "question": "我向经理发牢骚，他很宽容",
     "translation": "I complained to the manager and he was very nice about it",
     "knowledge_point": "nice [naɪs] ~ (to sb) | ~ of sb (to do sth) | ~ (about sth) kind; friendly 好心的；和蔼的；友好的",
-    "label": "nice"
+    "label": "nice; to"
   },
   {
     "question": "他是个非常高尚的人",
@@ -357,7 +357,7 @@
     "question": "我生病时他对我关怀备至。",
     "translation": "He was very good to me when I was ill.",
     "knowledge_point": "good [ɡʊd] 2. ~ (to sb) | ~ (of sb) (to do sth) willing to help; showing kindness to other people 助人为乐的；心地善良的；好心的",
-    "label": "good"
+    "label": "good; to"
   },
   {
     "question": "我得请一周的假，同事们对此非常谅解",
@@ -387,7 +387,7 @@
     "question": "你提供包邮吗",
     "translation": "Do you offer free delivery",
     "knowledge_point": "- postage邮资，邮费；一定面额的邮票；邮寄，邮递；pay postage更多指向邮政；Do you offer free delivery表达更准去\n- could有请求，意愿的成分，你能提供邮费吗， 这里用都do比较合适；\n- 为什么这里不用the free delivery？answer: delivery表示泛指的递送时，是不可数名词，表示具体的递送时，是可数名词，这里没有加冠词是因为表示的是泛指～",
-    "label": ""
+    "label": "do you/could you区别"
   },
   {
     "question": "他的头发已经白了",
@@ -423,7 +423,7 @@
     "question": "我今天下午要去理发",
     "translation": "I'm having my hair cut this afternoon",
     "knowledge_point": "[ U C ] the substance that looks like a mass of fine threads growing especially on the head; one of these threads growing on the body of people and some animals 毛发；（尤指）头发\n- have 做， 此处是进行时表示将来，类似meeting, coming",
-    "label": "hair"
+    "label": "hair; 进行时表将来"
   },
   {
     "question": "我的汤里有根毛",
@@ -513,37 +513,37 @@
     "question": "它大约在北京和上海的中间。",
     "translation": "It's about halfway between Beijing and Shanghai.",
     "knowledge_point": "内部关系：动作；句子成分：主谓状",
-    "label": "half-finished"
+    "label": "half-finished; 状语-介词短语修饰副词"
   },
   {
     "question": "在仪式进行到一半时离开了",
     "translation": "He left halfway through the ceremony",
     "knowledge_point": "- 句子成分： 主谓状，这里halfway副词，through the ceremony是介词短语作状语修饰halfway\n- halfway adv. at an equal distance between two points; in the middle of a period of time 在…的中间；在中途；到一半；\n- 2. part of the way towards doing or achieving sth 部分地做（或达到）…",
-    "label": "halfway"
+    "label": "halfway; 状语-介词短语修饰副词"
   },
   {
     "question": "这个项目早在最后期限之前就完成了。",
     "translation": "The project was completed long before the deadline.",
     "knowledge_point": "- 句子成分： 主谓状，这里long副词，长久地， before the deadline.是介词短语作状语修饰long",
-    "label": ""
+    "label": "状语-介词短语修饰副词"
   },
   {
     "question": "他在开会前不久到达。",
     "translation": "He arrived shortly before the meeting.",
     "knowledge_point": "- 句子成分： 主谓状，这里shortly副词，不久地， before the meeting是介词短语作状语修饰shortly",
-    "label": ""
+    "label": "状语-介词短语修饰副词"
   },
   {
     "question": "这只是部分地解释了实际发生的事",
     "translation": "This only goes halfway to explaining what really happened",
-    "knowledge_point": "- 主谓状\n- halfway adv. **~ to/towards sth | ~ to/towards doing sth:**  part of the way towards doing or achieving sth 部分地做（或达到）…",
-    "label": "halfway"
+    "knowledge_point": "- 主谓状\n- halfway adv. **~ to/towards sth | ~ to/towards doing sth:**  part of the way towards doing or achieving sth 部分地做（或达到）…\n- to:  as far as",
+    "label": "halfway; to; 状语-介词短语修饰副词"
   },
   {
     "question": "你还把他当朋友吗",
     "translation": "Do you still consider him a friend of yours",
     "knowledge_point": "句子成分：主状谓宾，宾补；\n- treat sb sth 指行为 behave, 款待某人；\n- consider指想法 think of；\n- regard sb as 一般接as；\n- a friend of yours 双重所有格，比yours更强调所有关系",
-    "label": ""
+    "label": "宾补; 双重所有格"
   },
   {
     "question": "别把桌子弄脏了",
@@ -573,7 +573,7 @@
     "question": "音乐很轻柔，让我们很放松",
     "translation": "The soft music made us relaxed",
     "knowledge_point": "内部关系：主谓；句子成分：主谓宾宾补；\n- soft 光线，色彩，声音；",
-    "label": ""
+    "label": "soft"
   },
   {
     "question": "get的词性",
@@ -621,7 +621,7 @@
     "question": "我从来没见过这么甜蜜、幸福的笑容",
     "translation": "I have never seen a smile so sweet and happy",
     "knowledge_point": "- 内部关系：动作；句子成分：主谓宾定；\n- 左二右六的二，是指种类，所以，可以说 (such a)(sweet and happy) smile；\n- 现在完成时，表示到现在为止，都没有看过，表示到目前为止\n- sweet: ( especially *BrE* ) ( especially of children or small things 尤指儿童或小物品 ) attractive 惹人喜爱的；可爱的\n- You look sweet in this photograph. 你这张照片照得很可爱",
-    "label": "形容词作定语"
+    "label": "形容词作定语; sweet"
   },
   {
     "question": "甜润的嗓音",
@@ -735,55 +735,37 @@
     "question": "咱们在商场附近的那家星巴克见吧",
     "translation": "Shall we meet at the Starbucks near the shopping mall",
     "knowledge_point": "- 内部关系：动作；句子成分：主谓状；\n- at 表示地点，in 表示在里面；shopping mall 购物中心；\n- stall 摊位，小摊\n- shopping mall 商场；mall = shopping mall\n- meet 有",
-    "label": "stall/mall"
+    "label": "stall/mall; meet/see; at"
   },
   {
     "question": "坐在我旁边的女孩有一点晕机",
     "translation": "The girl sitting next to me was a bit airsick",
-    "knowledge_point": "- 内部关系：描述；句子成分: 主定系表；\n- next to 比near 跟近；由远到近：near/by/besides/next to\n- 过去时，这里是转述，彼时彼刻的一个状态；",
-    "label": "next to"
+    "knowledge_point": "- 内部关系：描述；句子成分: 主定系表；\n- next to 比near 跟近；由远到近：near/by/besides/next to\n- 过去时，这里是转述，彼时彼刻的一个状态；\n- to:  ~ the sth (of sth) located in the direction mentioned from sth 位于…方向",
+    "label": "next to; a bit"
   },
   {
     "question": "这条裤子有点紧",
     "translation": "These trousers/pants are a bit tight.",
-    "knowledge_point": "- 1. ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- 2. ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离；",
-    "label": "a bit"
-  },
-  {
-    "question": "[ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
-  },
-  {
-    "question": "trousers 只有复数形式=pants 更简单",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
+    "knowledge_point": "- ( a bit ) [ sing. ] ( used as an adverb 用作副词 ) ( especially BrE ) rather 有点儿；稍微 = a little = a little bit；\n- ( a bit ) [ sing. ] ( especially BrE ) a short time or distance 稍顷；短距离\n- [ C ] ~ of sth ( especially BrE ) a small amount or piece of sth 小量；小块\n- trousers 只有复数形式=pants， pants更简单且口语中更常用",
+    "label": "a bit; 复数名词"
   },
   {
     "question": "这些裤子旧了",
     "translation": "These trousers are old/These pants are old",
     "knowledge_point": "- trousers 只有复数形式=pants 更简单\n- trousers 一般是指这一条，也可以指多条，看语境，比如可以说These trousers are all old. 加一个all\n- 类似的词还有jeans牛仔裤/shorts 短裤都是复数名词，要用are, 但实际是指一条",
-    "label": ""
+    "label": "复数名词表示单数"
   },
   {
     "question": "我的眼镜在哪儿呢？",
     "translation": "Where are my glasses?",
     "knowledge_point": "- glasses 代表一副眼镜\n- 也可以说**a new pair of glasses**.",
-    "label": ""
+    "label": "复数名词表示单数"
   },
   {
     "question": "这把剪刀不快",
     "translation": "**These scissors[ˈsɪzərz]** aren‘t sharp.",
-    "knowledge_point": "",
-    "label": ""
-  },
-  {
-    "question": "也可以说**a new pair of [ˈsɪzərz]**.",
-    "translation": "",
-    "knowledge_point": "",
-    "label": ""
+    "knowledge_point": "也可以说**a new pair of [ˈsɪzərz]**.",
+    "label": "复数名词表示单数"
   },
   {
     "question": "他就是我昨天见的那个人",
@@ -867,13 +849,13 @@
     "question": "我们只得把婚期推迟到九月。",
     "translation": "We’ve had to put off our wedding until September.",
     "knowledge_point": "- to postpone or cancel a meeting or an arrangement that you have made with sb 推迟；取消\n- put off后面通常用until/till，很少用to\n- have had to 不得不一直（“一直到现在都不得不“，had to是过去不得不\n- 整个句子的意思是：我们（从过去的某个时间点起）就不得不将婚礼推迟到九月，并且这个“被迫推迟”的状态一直持续影响到现在。\n- **使用 \"have had to\" 而不是简单的 \"had to\" 是为了强调：**",
-    "label": "put off"
+    "label": "put off; have had to"
   },
   {
     "question": "他不得不一直为了备考努力学习",
     "translation": "She **has had to** study very hard for the exam.",
     "knowledge_point": "- have had to 不得不一直（“一直到现在都不得不“，had to是过去不得不\n- （她为了考试不得不非常用功地学习。）-> 备考期间一直如此。",
-    "label": ""
+    "label": "have had to"
   },
   {
     "question": "你知道最让我们惊讶的是什么吗",
@@ -885,13 +867,13 @@
     "question": "最让我们惊讶的是他的口音",
     "translation": "What suprised us most is his accent",
     "knowledge_point": "内部关系：描述；句子成分：主系表, 名词性从句\n- 这里what 的意思是the thing that",
-    "label": "most"
+    "label": "most; what"
   },
   {
     "question": "那正是我想要的",
     "translation": "That's exactly what I want",
     "knowledge_point": "exactly 恰恰；not exactlly 不完全是，不见得",
-    "label": "exactly"
+    "label": "exactly; what"
   },
   {
     "question": "这一点也不美，是吗",
@@ -903,7 +885,7 @@
     "question": "喜欢一个人和爱一个人有天壤之别",
     "translation": "there is a world of difference between liking someone or loving someone",
     "knowledge_point": "喜欢一个人和爱一个人有天壤之别",
-    "label": ""
+    "label": "动名词; 介词of"
   },
   {
     "question": "你知道那是什么感觉吗，夏洛克？；",
@@ -921,7 +903,7 @@
     "question": "问题是我们能否联系得上她",
     "translation": "The question is whether we can get in touch with her",
     "knowledge_point": "- 内部关系：描述；句子成分：主系表；\n- can 本色2 能力（有做。。的潜力，具备做某事的条件，强调能力而不强调具体动作；\n- contact sb!= get in touch with sb；get in touch with 是联系上某人；contact 是联系某人，不强调联系上，只是联系本身的行文",
-    "label": "get in touch/contact"
+    "label": "get in touch/contact; can本色2 能力"
   },
   {
     "question": "我整天一直在设法与你联系",
@@ -1095,7 +1077,7 @@
     "question": "被爱给予你力量",
     "translation": "Being loved gives you strength",
     "knowledge_point": "- 忘记了动词的单复数，注意动词的时态，和单复数\n- strength：是体力意志力\n- power: 权利，控制力",
-    "label": "系表的动名词"
+    "label": "动名词的被动式"
   },
   {
     "question": "他正考虑在海淀买个房子",
@@ -1113,7 +1095,7 @@
     "question": "减肥这件事其实就是自我控制的问题",
     "translation": "Losing weight is a matter of disciplining yourself actually",
     "knowledge_point": "- disciplining 是 discipline 的动名词\n- discipline v. ~ yourself to control the way you behave and make yourself do things that you believe you should do 自我控制；严格要求（自己）\n- matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情",
-    "label": "discipline"
+    "label": "discipline; matter"
   },
   {
     "question": "他规定自己每周至少锻炼三次",
@@ -1137,7 +1119,7 @@
     "question": "她因为原则问题而辞职",
     "translation": "She resigned over a matter of principle",
     "knowledge_point": "matter :[ sing. ] a situation that involves sth or depends on sth 关乎…的事情\n- over: because of or concerning sth; about sth 由于；关于, 通常用于争议，分歧",
-    "label": "matter"
+    "label": "matter; over"
   },
   {
     "question": "他因为和老板的一次争执而辞职了",
@@ -1173,7 +1155,7 @@
     "question": "他无法忍受失败",
     "translation": "He can't endure being defeated [dɪˈfiːtɪd] / He can't endure to be defeated",
     "knowledge_point": "endure: to experience and deal with sth that is painful or unpleasant, especially without complaining 忍耐；忍受 SYN bear",
-    "label": "endure"
+    "label": "动名词的被动式; endure"
   },
   {
     "question": "这种痛苦几乎使他无法忍受",
@@ -1203,7 +1185,7 @@
     "question": "他遭受的苦难不堪回首。",
     "translation": "His sufferings don't bear thinking about *(= because they are so terrible)*",
     "knowledge_point": "2. not ~ sth/doing sth： to not be suitable for sth 不适于某事（或做某事）",
-    "label": "bear"
+    "label": "bear; 动名词的主动表被动"
   },
   {
     "question": "父母是否应当负担全部学费？",
@@ -1245,7 +1227,7 @@
     "question": "计算机使得人类的工作效率有了极大的飞跃",
     "translation": "The computer makes possible a marvelous[ˈmɑːrvələs] leap in human proficiency[prəˈfɪʃ(ə)nsi] 熟练，精通（计算机使人类熟练程度的巨大飞跃成为可能）",
     "knowledge_point": "- 句子成分：主谓宾补 宾\n- make possible 使成为可能\n- make possible 使成为可能。宾补提前是为了平衡句子结构\n- marvelous 巨大的",
-    "label": "宾补"
+    "label": "宾补; 尾大原则"
   },
   {
     "question": "这个问题需要好好讨论下",
@@ -1269,7 +1251,7 @@
     "question": "他的麻烦是，一切办法都试过了，却还是不成功",
     "translation": "His trouble is having tried every means and being still unsuccessful",
     "knowledge_point": "动名词的完成时，和并列结构的动名词\n- 其实having 和being 前面都隐含一个his，表示逻辑主语，being 一般现在表示不成功的状态，而不能用failing, 是瞬间动词，不能表示当下的状态。",
-    "label": "动名词的完成时"
+    "label": "动名词的完成时; 系动词的进行时"
   },
   {
     "question": "这个电影值得多看几遍",
@@ -1316,7 +1298,7 @@
   {
     "question": "最重要的是要清楚你到底想成为一个什么样的人",
     "translation": "What matters most is to figure out what kind of person you are going to be",
-    "knowledge_point": "- are going to be 计划成为什么人\n- What matters most is = The most important thing is\n- 这里的what 其实是指 后面的表语。what matters most 是名词性从句 作主语",
+    "knowledge_point": "- are going to be 计划成为什么人\n- What matters most is = The most important thing is\n- 这里的what 其实是指 后面的表语。what matters most 是名词性从句 作主语，\n- 前面的what 是the thing that matter, 后面的的what 是什么的意思",
     "label": "what matters"
   },
   {
@@ -1503,19 +1485,19 @@
     "question": "你那时离开非常明智。",
     "translation": "It was very wise to leave when you did.",
     "knowledge_point": "- ( of actions and behaviour 行动和行为 ) sensible; based on good judgement 明智的；高明的；有判断力\n- do when you did: \"你当时做什么\"，强调那个**时间点**做了什么， leave when you did, 你那个时间点离开\n- invest when you did， 你那个时间点投资（真是太牛了）",
-    "label": "wise"
+    "label": "wise; do when you did"
   },
   {
     "question": "这步棋太高了！你在那个时候投资正是最佳时机。",
     "translation": "That was a brilliant move! **It was the perfect time to invest when you did.**",
     "knowledge_point": "do when you did: \"你当时做什么\"，强调那个**时间点**做了什么",
-    "label": ""
+    "label": "do when you did"
   },
   {
     "question": "我真不该对她说那些。**我在那个时候开口说话真是太蠢了。**",
     "translation": "I shouldn't have said that to her. **It was really stupid to speak up when I did.**",
     "knowledge_point": "do when you did: \"你当时做什么\"，强调那个**时间点**做了什么",
-    "label": ""
+    "label": "do when you did"
   },
   {
     "question": "谈正事",
@@ -1569,7 +1551,7 @@
     "question": "我教给他如何使用这台咖啡机",
     "translation": "I've shown him how to work the coffee machine",
     "knowledge_point": "- 现在完成时，强调他现在学会了（学的很好），对现在的影响\n- 用过去时表示过的一个画面也可以",
-    "label": "不定式作宾语"
+    "label": "不定式作宾语; work"
   },
   {
     "question": "很多成年人现在仍然依赖自己的孩子来操作电脑",
@@ -1611,7 +1593,7 @@
     "question": "他从自行车上摔下来了，划破了腿",
     "translation": "He fell off the bike, cutting his leg",
     "knowledge_point": "- 内部关系：句子成分：主谓状，结果状语\n- 这里应该是摔的过程中，划破了腿，而不是，摔下来之后，划破了腿所以应该是主动\n- \"从自行车上摔下来\"，\"划破腿\"，是摔下来的一个结果\n- 此处是表示结果状语\n- 也可以He cut his leg, falling off from the bike\n- 此处现在分词表示时间状语\n- 分词作状语：时间，原因，结果，条件\n- fall off: 从“平面的边缘或顶部“跌落：fall off the bed/chair/bike/a cliff\n- fall off: 从“一个点、高度“ 离开：fall from grace 失宠/fall from the sky/horse",
-    "label": "现在分词作结果状语"
+    "label": "现在分词作结果状语; fall"
   },
   {
     "question": "从马上摔下来，他输了比赛",
@@ -1719,7 +1701,7 @@
     "question": "熏肉",
     "translation": "smoked bacon",
     "knowledge_point": "- smoked 表示熏制的f",
-    "label": "smoked"
+    "label": "及物动词的过去分词; smoked"
   },
   {
     "question": "熏鹅",
@@ -1827,7 +1809,7 @@
     "question": "我就指望你帮我了",
     "translation": "I'm counting on you to help me",
     "knowledge_point": "- count on 指望，依靠\n- be counting on 表示现在这个情况，我只能靠你了，进行时有临时性，且带有情绪投入。\n- 一般时表示永久不合适。\n- 将来时没有现在进行时紧急",
-    "label": "on"
+    "label": "on; 正在进行时"
   },
   {
     "question": "她对你有好感，你知道的",
@@ -1887,7 +1869,7 @@
     "question": "我是不会听那些八卦的",
     "translation": "I will close my ears to the gossip",
     "knowledge_point": "- 这里是个idiom: close my ears to gossip",
-    "label": ""
+    "label": "to"
   },
   {
     "question": "飞往巴黎的航班目前正在打折",
@@ -1905,13 +1887,13 @@
     "question": "所有录像设备今明两天降价出售",
     "translation": "All video equipment is on sale today and tomorrow",
     "knowledge_point": "- on sale (2) (especially NAmE SAfrE) being offered at a reduced price 折价销售；减价出售\n- 这里equipment作为不可数名词来讲，谓语动词用单数，类似的还有**luggage / baggage**，**furniture**\n- All the old **furniture is** for sale.\n- His **luggage is** still at the airport.\n- 注意：Three pieces of equipment **are** for sale\n- Two pieces of furniture are new.\n- His three pieces of luggage are over the weight limit.",
-    "label": "on sale"
+    "label": "on sale; 单数名词"
   },
   {
     "question": "他的行李还在机场。",
     "translation": "His **luggage is** still at the airport.",
     "knowledge_point": "equipment/furniture/luggage/baggage 都是单数不可数名词",
-    "label": ""
+    "label": "at; 单数名词"
   },
   {
     "question": "在你们这群人中有一个是间谍",
@@ -1989,7 +1971,7 @@
     "question": "他获释出狱时被当成英雄看待",
     "translation": "He was treated as a hero on his release from prison",
     "knowledge_point": "- treat: ~ sb/sth (with/as/like sth) to behave in a particular way towards sb/sth 以…态度对待；以…方式对待\n- on 7. immediately after sth 就在…之后；一…就\n- Please report to reception on arrival. 到达后请立即到接待处报到。",
-    "label": "treat"
+    "label": "treat; on"
   },
   {
     "question": "我决定把他的话当作戏言",
@@ -2019,7 +2001,7 @@
     "question": "飞往洛杉矶的航班 13 点起飞",
     "translation": "The flight to Los Angeles['ændʒələs] starts /leaves/departs/takes off at 13:00",
     "knowledge_point": "- 内部关系：动作\n- 句子成分：主定，谓， 状\n- 可以说13 o'clock,  1 p.m.，不能说13 p.m.",
-    "label": "flight"
+    "label": "flight; 一般现在时表将来"
   },
   {
     "question": "光阴似水，时不我待",
@@ -2139,13 +2121,13 @@
     "question": "他们交出武器以示诚意",
     "translation": "They handed over the weapons [ˈwepənz] as a gesture of good faith",
     "knowledge_point": "- faith: [ U ] ( good ~ ) the intention to do sth right 诚意；善意\n- gesture: [ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作\n- hand over :",
-    "label": "faith"
+    "label": "faith; hand over"
   },
   {
     "question": "她辞职了，由一位比她年轻的同事接任。",
     "translation": "She resigned and handed over to one of her younger colleagues.",
     "knowledge_point": "",
-    "label": ""
+    "label": "hand over"
   },
   {
     "question": "橱窗里的灯灭了",
@@ -2169,7 +2151,7 @@
     "question": "局长已经辞职的消息公开了",
     "translation": "Word went out that the director had resigned",
     "knowledge_point": "- go out: (4) when news or information goes out, it is announced or published （新闻或消息）发布，公布，发表\n- word 这里是[ sing. ] a piece of information or news 信息；消息\n- The word is they've split up. 据说他们离异了。\n- words 说的话，可数名词 She left without a word\n- 这里that 同位语，尾大原则，放到最后",
-    "label": "go out"
+    "label": "go out; 尾大原则"
   },
   {
     "question": "这儿是我们换道的地方吗？",
@@ -2223,25 +2205,25 @@
     "question": "我会在10分钟后回来",
     "translation": "I will be back in ten minutes",
     "knowledge_point": "- in 查字典代表一段时间以后, after a particular length of time 在（某段时间）之后\n- In+时间段，1. 表示在…内的时候，意思是 during a period of time, 在…期间，",
-    "label": ""
+    "label": "多久之后"
   },
   {
     "question": "除非有什么意想不到的事发生，不然我会在几个小时内回来的",
     "translation": "Unless something unexpected comes up, I will be back within a couple hours",
     "knowledge_point": "- 十分钟之内回来，应该用within\n- within 表示在某个时间范围内",
-    "label": ""
+    "label": "多久之后"
   },
   {
     "question": "我上了公共汽车。过了一会儿，公共汽车停了下来",
     "translation": "I got on the bus. After some time, the bus stopped",
     "knowledge_point": "- after+时间段 最典型的用法是表示\"过去\"之后，具体可以分为两种情况：a. 过去之后到过去；b. 过去之后到目前, 这里是a\n- You haven’t changed a bit after all these years. (过去之后到现在)",
-    "label": ""
+    "label": "多久之后"
   },
   {
     "question": "这么多年过去了，你一点也没变",
     "translation": "You haven't changed a bit after all these years",
     "knowledge_point": "- after+时间段 最典型的用法是表示\"过去\"之后，具体可以分为两种情况：a. 过去之后到过去；b. 过去之后到目前，  这里是b\n- You haven't changed a bit after all these years. (过去之后到现在)",
-    "label": ""
+    "label": "多久之后"
   },
   {
     "question": "他在25岁生日那天结婚；两周后，他离婚了",
@@ -2432,7 +2414,7 @@
   {
     "question": "冬天已经来了，春天还会远吗",
     "translation": "Winter has come. Can spring be far behind?",
-    "knowledge_point": "- behind 在后面",
+    "knowledge_point": "- behind 在后面\n- be +far behind",
     "label": "状语-副词修饰副词"
   },
   {

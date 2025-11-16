@@ -873,7 +873,7 @@
     "question": "我认为人体是导体 这个事是真的",
     "translation": "I believe it true that the human body is a conductor",
     "knowledge_point": "- 名词性从句作宾语从句\n- it 形式宾语，名词性从句后置",
-    "label": "名词性从句-作宾语-It 固定搭配"
+    "label": "名词性从句-作宾语"
   },
   {
     "question": "听着，你知道它像什么吗",
@@ -885,37 +885,37 @@
     "question": "你知道你做了什么吗",
     "translation": "Do you have any idea what you've done",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句-作同位语-It 固定搭配"
+    "label": "名词性从句-作同位语"
   },
   {
     "question": "听着，你知道那是什么感觉吗。",
     "translation": "Listen, do you have any idea  what it was like.",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句-作同位语-It 固定搭配"
+    "label": "名词性从句-作同位语"
   },
   {
     "question": "听到他们队赢了的消息，他们很高兴",
     "translation": "They were delighted at the news that their team had won",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句-作同位语-It 固定搭配"
+    "label": "名词性从句-作同位语"
   },
   {
     "question": "这是让他们高兴的消息",
     "translation": "This is the news that makes them happy",
     "knowledge_point": "- 名词性从句充当定语从句\n- that 在定语从句中充当成分，在同位语里不充当成分",
-    "label": "名词性从句-作同位语-It 固定搭配"
+    "label": "定语从句"
   },
   {
     "question": "请告诉我你缺席的原因",
     "translation": "Please tell me the reason why you were absent（=Please tell me the reason that your were absent ）",
     "knowledge_point": "名词性从句充当定语从句， 名词充当状语",
-    "label": "名词性从句-作同位语-It 固定搭配"
+    "label": "名词性从句-作同位语"
   },
   {
     "question": "我们不去，只是因为我们负担不起（负担不起就是原因本身）",
     "translation": "We aren't going for the simple reason that we can't affor it.",
     "knowledge_point": "名词性从句充当同位语从句",
-    "label": "名词性从句-作同位语-It 固定搭配"
+    "label": "名词性从句-作同位语"
   },
   {
     "question": "动名词可以充当的成分",
@@ -1965,7 +1965,7 @@
     "question": "听到这个消息，他愉悦的跳了起来",
     "translation": "Hearing the news, He jumped with joy/He jumped with joy to hear the news",
     "knowledge_point": "- 3.不定式作原因状语\n- Sb be +adj. to do/have done…。adj通常是情绪动词\n- 这句话用分词作状语，感觉更好，但是两者都对",
-    "label": "不定式-作状语-原因状语"
+    "label": "不定式-作状语-原因状语; 分词作状语"
   },
   {
     "question": "看他搞笑的表情，她放生大笑",
@@ -2133,7 +2133,7 @@
     "question": "我不会让这个广为流传的谎言继续下去",
     "translation": "What I don't do is perpetuate[pərˈpetʃueɪt] a culturally [ˈkʌltʃərəli]-endorsed lie",
     "knowledge_point": "如不定式前有行为动词do，那么在表语从句中的不定式，介词except 和but之后的不定式可不带to\n- perpetuate v. 使持续，使长久（尤指不好的事物）\n- culturally [pərˈpetʃueɪt] adv. 从文化角度\n- endorsed  [ɪnˈdɔːrst] v. 支持，赞同\n- culturally-endorsed  副词+动词ed 的分词，newly built 新建的， good looking 外表好看的",
-    "label": "不定式-不带to的不定式"
+    "label": "不定式-不带to的不定式; 分词形容词-副词+分词"
   },
   {
     "question": "这小姑娘不知道是哭好还是笑好",
@@ -2156,6 +2156,12 @@
   {
     "question": "他松开了绳子",
     "translation": "He let go the rope",
+    "knowledge_point": "在一些固定搭配中用不带to的不定式",
+    "label": "不定式-不带to的不定式"
+  },
+  {
+    "question": "该忘掉过去了",
+    "translation": "It's time to let go of the past.",
     "knowledge_point": "在一些固定搭配中用不带to的不定式",
     "label": "不定式-不带to的不定式"
   },
@@ -2204,7 +2210,7 @@
   {
     "question": "她必须走，但你没有必要",
     "translation": "She must go but you don't have to",
-    "knowledge_point": "不定式符号to 的单独使用：1. 在助动词或情态动词之后，如be going to, used to, have to, ought to, be able to, be about to等",
+    "knowledge_point": "不定式符号to 的单独使用：1. 在助动词或情态动词之后，如be going to, used to, have to, ought to, be able to, be about to等\n- don't have to 没必要\n- mustn't 禁止，不准，这里用don't have to比较合适",
     "label": "不定式-不带do的不定式"
   },
   {
@@ -2347,8 +2353,8 @@
   },
   {
     "question": "分词的思维",
-    "translation": "现在分词：主动进行，正在发生；过去分词：被动进行，已经完成",
-    "knowledge_point": "分词的思维：现在分词：主动进行，正在发生；过去分词：被动进行，已经完成",
+    "translation": "及物动词的分词：看和主语的主被动关系；不及物动词的分词：看时态是否进行还是已经完成",
+    "knowledge_point": "- 及物动词的分词：看和主语的主被动关系\n- 不及物动词的分词：看时态是否进行还是已经完成",
     "label": "分词-框架知识点"
   },
   {
@@ -2368,18 +2374,6 @@
     "translation": "名词/副词+分词；形容词+名词ed；数次+名词ed",
     "knowledge_point": "分词形容词：名词/副词+分词；形容词+名词ed；数次+名词ed",
     "label": "分词-框架知识点"
-  },
-  {
-    "question": "分词思维",
-    "translation": "doing/done",
-    "knowledge_point": "- 现在分词：主动进行，正在发生；\n- 过去分词：被动进行，已经完成",
-    "label": "分词-分词作定语"
-  },
-  {
-    "question": "分词可以充当的成分：",
-    "translation": "doing/done",
-    "knowledge_point": "定语/状语",
-    "label": "分词-分词作定语"
   },
   {
     "question": "旭日：",
@@ -2462,61 +2456,61 @@
   {
     "question": "吃着火锅唱着歌，突然我们被麻匪劫了",
     "translation": "Eating hot pot and singing songs, suddenly we were robbed by bandits",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向伴随）",
     "label": "分词-分词作状语"
   },
   {
     "question": "他们有说有笑的进入了教室",
     "translation": "They went into the classroom laughing and talking",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向伴随）",
     "label": "分词-分词作状语"
   },
   {
     "question": "用电脑的时候，必须输入密码",
     "translation": "When using the computer, you have to enter the password",
-    "knowledge_point": "分词",
+    "knowledge_point": "分词作状语（偏向时间）",
     "label": "分词-分词作状语"
   },
   {
     "question": "再给我5分钟，我就能完成",
     "translation": "Given five more minutes, I will get it done",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向条件）",
     "label": "分词-分词作状语"
   },
   {
     "question": "和你比，我还差得远",
     "translation": "Compared with you, I still have a long way to go",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向条件）",
     "label": "分词-分词作状语"
   },
   {
     "question": "从国贸3楼顶望去，整个城市景色更漂亮",
     "translation": "Seen from the top of the China World Trade Center Tower 3, the city looks more beautiful to us",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向条件和时间）",
     "label": "分词-分词作状语"
   },
   {
     "question": "听了这些，我怀疑爱情永存的概念仍然有用。",
     "translation": "Hearing all this,I wonder if this idea of love affair that lasts forever is still relevant[ˈreləvənt] to us.(Before Midnight)",
-    "knowledge_point": "分词作状语",
-    "label": "分词-分词作状语"
+    "knowledge_point": "分词作状语（偏向原因和时间）\n- 在见识了爱情和关系的复杂现实之后，我们所向往和歌颂的那种‘海枯石烂’的理想爱情，也许只是一个过时的童话。它可能根本无法解决我们当下面对的真实问题，甚至可能是一种束缚。\n- 这里if 代表是否的意思，我怀疑。。是否和我们有关，也就是怀疑”爱情恒久远“的存在性",
+    "label": "分词-分词作状语; 名词性从句-三种形式"
   },
   {
     "question": "每当我深处困境，母亲玛丽就会出现在我面前，说着充满智慧的话语：顺其自然。",
     "translation": "When I find myself in times of touble, Mother Mary comes to me, speaking words of wisdom, let it be (The Beatles,Let It Be)",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向伴随）",
     "label": "分词-分词作状语"
   },
   {
     "question": "要是一巴掌扇过去，我会割到我的手《夏洛克》",
     "translation": "I could cut myself slapping that face",
-    "knowledge_point": "- 分词作状语\n- lower v. 降低 low adj. 低的",
+    "knowledge_point": "- 分词作状语（偏向假设）\n- lower v. 降低 low adj. 低的",
     "label": "分词-分词作状语"
   },
   {
     "question": "看到老板走过，他压低了嗓音",
     "translation": "Seeing the manager passing by, he lowered his voice",
-    "knowledge_point": "分词作状语",
+    "knowledge_point": "分词作状语（偏向原因）",
     "label": "分词-分词作状语"
   },
   {

@@ -111,16 +111,16 @@
         <div class="library-screen" id="libraryScreen">
             <div style="display:flex; align-items:center; padding:8px; gap:8px; flex-wrap: wrap;">
                 <button class="icon-back" aria-label="返回" onclick="backToManagement()">←</button>
-                <button class="mgmt-btn" onclick="handleResetMastery('clear')" style="background: #f44336; font-size: 0.9rem; padding: 4px 8px; border:1px solid #ccc; border-radius:4px; color:#fff; cursor:pointer; height:auto; line-height:normal;">
+                <button class="mgmt-btn" onclick="handleResetMastery('clear')" style="background: #f44336; font-size: 0.9rem; padding: 2px 8px; border:1px solid #ccc; border-radius:4px; color:#fff; cursor:pointer; height:auto; line-height:normal;">
                     清空M
                 </button>
-                <button class="mgmt-btn" onclick="handleResetMastery('set50')" style="background: #2196F3; font-size: 0.9rem; padding: 4px 8px; border:1px solid #ccc; border-radius:4px; color:#fff; cursor:pointer; height:auto; line-height:normal;">
+                <button class="mgmt-btn" onclick="handleResetMastery('set50')" style="background: #2196F3; font-size: 0.9rem; padding: 2px 8px; border:1px solid #ccc; border-radius:4px; color:#fff; cursor:pointer; height:auto; line-height:normal;">
                     50%M
                 </button>
                 <button id="sortByMasteryBtn" onclick="toggleSortByMastery()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; height:auto; line-height:normal;">排序M</button>
-                <button id="clearAllFavoritesBtn" onclick="clearAllFavorites()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; color:#d32f2f; height:auto; line-height:normal;">取消收藏</button>
-                <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px; margin:0;">
-                    <input type="checkbox" id="favOnlyToggle" onchange="showQuestionBank()" /> 收藏
+                <button id="clearAllFavoritesBtn" onclick="clearAllFavorites()" style="padding:4px 8px; border:1px solid #ccc; border-radius:4px; background:#fff; font-size:0.9rem; cursor:pointer; color:#d32f2f; height:auto; line-height:normal;">清空收藏</button>
+                <label style="font-size:0.95rem; color:#333; display:flex; align-items:center; gap:6px; margin:0; cursor:pointer;">
+                    <span id="favStarIcon" onclick="toggleFavFilter();" style="font-size:1.2rem; color:#ffa500; user-select:none;">☆</span>
                 </label>
             </div>
             <div class="library-list" id="libraryList">

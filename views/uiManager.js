@@ -2,6 +2,8 @@
 // 由 services/uiManager.js 移动
 
 (function () {
+    // 收藏筛选状态（全局变量）
+    window.favFilterEnabled = false;
     window.showManagementScreen = function showManagementScreen() {
         // 停止完成屏幕计时并记录时间（如果计时器正在运行）
         if (typeof window.stopCompletionScreenTimer === 'function') {
@@ -51,8 +53,14 @@
         if (!libraryList) return;
         libraryList.innerHTML = '';
 
-        const favOnlyToggle = document.getElementById('favOnlyToggle');
-        const favOnly = favOnlyToggle ? favOnlyToggle.checked : false;
+        // 获取收藏筛选状态
+        const favOnly = window.favFilterEnabled || false;
+        
+        // 更新五角星图标显示
+        const favStarIcon = document.getElementById('favStarIcon');
+        if (favStarIcon) {
+            favStarIcon.textContent = favOnly ? '★' : '☆';
+        }
 
         const labelFilter = window.currentLabelFilter || null;
 
@@ -738,6 +746,15 @@
         } catch (error) {
             console.error('降低掌握度时出错：', error);
             alert('❌ 操作时发生错误：' + error.message);
+        }
+    };
+
+    // 切换收藏筛选状态
+    window.toggleFavFilter = function toggleFavFilter() {
+        window.favFilterEnabled = !window.favFilterEnabled;
+        // 刷新题库显示
+        if (typeof window.showQuestionBank === 'function') {
+            window.showQuestionBank();
         }
     };
 })();
