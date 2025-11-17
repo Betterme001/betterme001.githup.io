@@ -259,6 +259,11 @@
             window.stopCompletionScreenTimer();
         }
         
+        // 停止盒子学习计时
+        if (typeof window.stopBoxStudy === 'function') {
+            window.stopBoxStudy();
+        }
+        
         if (typeof window.updateTimeDisplay === 'function') window.updateTimeDisplay();
         var statsScreen = document.getElementById('statsScreen');
         if (statsScreen) statsScreen.style.display = 'none';
@@ -460,6 +465,11 @@
         const outlineScreen = document.getElementById('outlineScreen');
         if (outlineScreen) {
             outlineScreen.style.display = 'block';
+        }
+        
+        // 开始盒子学习计时
+        if (typeof window.startBoxStudy === 'function') {
+            window.startBoxStudy();
         }
         
         // 设置标题

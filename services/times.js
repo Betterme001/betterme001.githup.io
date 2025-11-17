@@ -239,6 +239,232 @@
         // 如果需要调试，可以在控制台输出
         // console.log('完成屏幕查看时间：', seconds, '秒');
     }
+
+    // ==================== 盒子学习时间统计 ====================
+    
+    // 盒子学习状态
+    window.boxStudyState = {
+        startTime: null,              // 当前段的开始时间
+        lastActivityTime: null,       // 最后一次操作时间
+        isPaused: false,              // 是否暂停
+        isActive: false,              // 是否在盒子中
+        saveCounter: 0                // 保存计数器（用于30秒保存）
+    };
+    
+    window.boxStudyMainTimer = null;  // 主计时器
+
+    // 主计时器（每秒执行）
+    function boxStudyMainTimerTick() {
+        if (!window.boxStudyState.isActive) return;
+        
+        const now = Date.now();
+        const lastActivity = window.boxStudyState.lastActivityTime;
+        
+        // 如果暂停，清零计数器并返回
+        if (window.boxStudyState.isPaused) {
+            window.boxStudyState.saveCounter = 0;
+            return;
+        }
+        
+        // 1. 检查超时（30秒无操作）
+        if (now - lastActivity >= 30000) {
+            // 暂停计时（不保存时间，因为用户已经30秒无操作，这段时间不应该算作学习时间）
+            window.boxStudyState.isPaused = true;
+            window.boxStudyState.saveCounter = 0; // 清零计数器
+            // 重置开始时间，这样恢复时从0开始计时
+            console.log(`重置 startTime 为 null（暂停时）`);
+            window.boxStudyState.startTime = null;
+            const pauseDuration = Math.floor((now - lastActivity) / 1000);
+            console.log(`盒子学习已暂停：30秒无操作（实际无操作时长：${pauseDuration}秒），不记录学习时间`);
+            return;
+        }
+        
+        // 2. 每32秒保存一次（作为备份）
+        window.boxStudyState.saveCounter++;
+        if (window.boxStudyState.saveCounter >= 32) {
+            saveBoxCurrentSegment();
+            window.boxStudyState.saveCounter = 0;
+        }
+    }
+
+    // 保存当前段的学习时间到 localStorage
+    function saveBoxCurrentSegment() {
+        if (!window.boxStudyState.startTime) return;
+        
+        const now = Date.now();
+        // 计算当前段的学习时间（秒）
+        const segmentTime = Math.floor((now - window.boxStudyState.startTime) / 1000);
+        
+        if (segmentTime <= 0) return;
+        
+        // 获取今天的日期字符串
+        const today = new Date();
+        const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+        
+        // 确保 reviewStore 已加载
+        if (!window.reviewStore || !window.reviewStore.meta) {
+            if (typeof window.loadStore === 'function') {
+                window.loadStore(window.currentBankId);
+            }
+        }
+        
+        // 检查是否是新的一天
+        if (window.reviewStore.meta.lastStudyDate !== todayStr) {
+            // 新的一天，重置今日学习时间
+            window.reviewStore.meta.todayStudyTime = segmentTime;
+            window.reviewStore.meta.lastStudyDate = todayStr;
+        } else {
+            // 同一天，累加学习时间
+            window.reviewStore.meta.todayStudyTime += segmentTime;
+        }
+        
+        // 更新总学习时间
+        window.reviewStore.meta.totalStudyTime += segmentTime;
+        
+        // 保存到 localStorage
+        if (typeof window.saveStore === 'function') {
+            window.saveStore();
+        }
+        
+        // 更新界面显示
+        if (typeof window.updateTimeDisplay === 'function') {
+            window.updateTimeDisplay();
+        }
+        
+        // 重新设置开始时间（为下一段做准备）
+        const newStartTime = new Date(now).toLocaleTimeString();
+        console.log(`设置 startTime = ${newStartTime}（保存后，为下一段做准备）`);
+        window.boxStudyState.startTime = now;
+        
+        console.log(`盒子学习时间已保存：${segmentTime}秒，今日累计：${window.reviewStore.meta.todayStudyTime}秒`);
+    }
+
+    // 开始盒子学习计时
+    window.startBoxStudy = function startBoxStudy() {
+        // 清理之前的计时器（如果存在）
+        if (window.boxStudyMainTimer) {
+            clearInterval(window.boxStudyMainTimer);
+            window.boxStudyMainTimer = null;
+        }
+        
+        // 初始化状态
+        const startTime = Date.now();
+        const startTimeStr = new Date(startTime).toLocaleTimeString();
+        window.boxStudyState = {
+            startTime: startTime,
+            lastActivityTime: startTime,
+            isPaused: false,
+            isActive: true,
+            saveCounter: 0
+        };
+        
+        // 启动主计时器（每秒执行）
+        window.boxStudyMainTimer = setInterval(boxStudyMainTimerTick, 1000);
+        
+        // 监听用户操作
+        setupBoxActivityListeners();
+        
+        console.log(`盒子学习计时已开始，startTime = ${startTimeStr}`);
+    };
+
+    // 停止盒子学习计时
+    window.stopBoxStudy = function stopBoxStudy() {
+        // 保存最后一段
+        if (window.boxStudyState.isActive && !window.boxStudyState.isPaused) {
+            saveBoxCurrentSegment();
+        }
+        
+        // 清理定时器
+        if (window.boxStudyMainTimer) {
+            clearInterval(window.boxStudyMainTimer);
+            window.boxStudyMainTimer = null;
+        }
+        
+        // 移除事件监听
+        removeBoxActivityListeners();
+        
+        // 重置状态
+        window.boxStudyState.isActive = false;
+        window.boxStudyState.isPaused = false;
+        
+        console.log('盒子学习计时已停止');
+    };
+
+    // 用户操作时调用（恢复计时）
+    window.onBoxUserActivity = function onBoxUserActivity() {
+        if (!window.boxStudyState.isActive) return;
+        
+        window.boxStudyState.lastActivityTime = Date.now();
+        
+        // 如果之前暂停，恢复计时
+        if (window.boxStudyState.isPaused) {
+            // 重新设置开始时间（关键！）
+            const resumeTime = Date.now();
+            const resumeTimeStr = new Date(resumeTime).toLocaleTimeString();
+            console.log(`设置 startTime = ${resumeTimeStr}（恢复时，重新开始计时）`);
+            window.boxStudyState.startTime = resumeTime;
+            window.boxStudyState.isPaused = false;
+            window.boxStudyState.saveCounter = 0; // 重置保存计数器
+            console.log('盒子学习已恢复，重新开始计时');
+        }
+    };
+
+    // 设置用户操作监听
+    function setupBoxActivityListeners() {
+        // 监听滚动、点击、键盘事件
+        const events = ['scroll', 'click', 'keydown', 'mousemove'];
+        events.forEach(eventType => {
+            document.addEventListener(eventType, window.onBoxUserActivity, { passive: true });
+        });
+    }
+
+    // 移除用户操作监听
+    function removeBoxActivityListeners() {
+        const events = ['scroll', 'click', 'keydown', 'mousemove'];
+        events.forEach(eventType => {
+            document.removeEventListener(eventType, window.onBoxUserActivity);
+        });
+    }
+
+    // 页面卸载时保存（防止刷新丢失数据）
+    window.addEventListener('beforeunload', function() {
+        if (window.boxStudyState && window.boxStudyState.isActive && !window.boxStudyState.isPaused) {
+            // 同步保存（不能使用异步操作）
+            if (window.boxStudyState.startTime) {
+                const now = Date.now();
+                const segmentTime = Math.floor((now - window.boxStudyState.startTime) / 1000);
+                
+                if (segmentTime > 0) {
+                    // 直接操作 localStorage（同步）
+                    try {
+                        const today = new Date();
+                        const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+                        
+                        const currentBankId = window.currentBankId || CONFIG.DEFAULT_BANK_ID;
+                        const key = `${CONFIG.STORAGE_KEY_PREFIX}:${currentBankId}`;
+                        const raw = localStorage.getItem(key);
+                        
+                        if (raw) {
+                            const data = JSON.parse(raw);
+                            if (!data.meta) data.meta = {};
+                            
+                            if (data.meta.lastStudyDate !== todayStr) {
+                                data.meta.todayStudyTime = segmentTime;
+                                data.meta.lastStudyDate = todayStr;
+                            } else {
+                                data.meta.todayStudyTime = (data.meta.todayStudyTime || 0) + segmentTime;
+                            }
+                            
+                            data.meta.totalStudyTime = (data.meta.totalStudyTime || 0) + segmentTime;
+                            localStorage.setItem(key, JSON.stringify(data));
+                        }
+                    } catch (e) {
+                        console.warn('页面卸载时保存盒子学习时间失败:', e);
+                    }
+                }
+            }
+        }
+    });
 })();
 
 
