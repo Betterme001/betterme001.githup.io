@@ -60,6 +60,7 @@
    2. 名词性有哪几种形式：陈述句，一般疑问句，特殊疑问句
 
       1. 陈述句
+
          1. that 通常不可省略: 有哪些谓语动词其后的宾语从句的引导词that 通常不可省略：
             1. agree, argue(争论),hold,learn,maintain,observe,
             2. contend,conceive,reckon,remark,state, know, 
@@ -67,11 +68,11 @@
          2. that 通常可省略: 主句谓语动词有哪些 ，其后的宾语从句的引导词that 通常可省略：
             1. think, suppose,presume,dare,say
 
-      3. 一般疑问句：
+      2. 一般疑问句：
 
          1. 一句话总结whether和if 的区别：whether可以引导主宾表同，if只能引导动词的宾语从句
 
-      4. 特殊疑问句
+      3. 特殊疑问句
 
          1. what 引导的名词性从句的两种用法：
 
@@ -135,7 +136,6 @@
    1. 动名词可以充当的成分：主宾表定，宾补
 
       1. 作主语，
-
          1. 句首: 
             - Building rapport[ræ'pɔ:t] is essential
          2. 特定句型
@@ -148,12 +148,11 @@
             6. There is no point (in) doing 做什么事毫无意义
 
       2. 作宾语（动词宾语，介词宾语）
-
          1. 动名词作并宾语的动词有哪些:  admit/advise/ appreciate/avoid/consider/deny/discuss/risk/mind...
 
             - He can't resist showing us his face
 
-         2.  介词宾语：
+         2. 介词宾语：
 
             - I'm still **scared about** not getting  the best deal
 
@@ -214,16 +213,16 @@
          - He deserves shooting first.
 
 
-      4. 动名词完成式：动名词的动作在谓语动作之前发生 having done
+         4. 动名词完成式：动名词的动作在谓语动作之前发生 having done
 
-         - He denied having been there
-         - I regretted not having studied English well
+            - He denied having been there
+            - I regretted not having studied English well
 
-      5. 系动词的动名词：being+adj，更强调“人的动作”
+         5. 系动词的动名词：being+adj，更强调“人的动作”
 
-         - The best policy is being honest
+            - The best policy is being honest
 
-         - His trouble is having tried every means and being still unsuccessful
+            - His trouble is having tried every means and being still unsuccessful
 
 
 5. 不定式
@@ -248,7 +247,6 @@
             - It takes two  to tango. 
 
       2. 宾语
-
              1. 动词+to do
                 - He promised not to tell anyone about this
              2. 动词+疑问词when/how/which等）+to do
@@ -411,7 +409,6 @@
 6. 分词
 
    1. 分词的思维：
-
       1. 及物动词的分词：看和主语的主被动关系
       2. 不及物动词的分词：看时态是否进行还是已经完成
 
@@ -538,51 +535,51 @@
          - I have a letter to write
          - the quickest way to travel
 
-       2. 句子作定语
+     2. 句子作定语
 
-          1. 关系词
-             1. 关系代词：who, whom, whose, which, that, as
-             2. 关系副词 ：where, when, why
+        1. 关系词
+           1. 关系代词：who, whom, whose, which, that, as
+           2. 关系副词 ：where, when, why
 
-          2. when引导定语从句，先行词必须是表示时间的名词（day/year/time)且必须在从句中作状语
+        2. when引导定语从句，先行词必须是表示时间的名词（day/year/time)且必须在从句中作状语
 
-             - I'll never forget the day when I met you
-             - There will come a time when you will be responsible for our people
-             - Any advice for meetings where  big decisions need to be made 
+           - I'll never forget the day when I met you
+           - There will come a time when you will be responsible for our people
+           - Any advice for meetings where  big decisions need to be made 
 
-          3. where 引导的定语从句，先行词必须是表示地点的名词（place, house等）且必须在从句中作状语
+        3. where 引导的定语从句，先行词必须是表示地点的名词（place, house等）且必须在从句中作状语
 
-             - Is there a place where I can learn grammar
-             - I don't want to be a part of a world where being kind is a weakness
-             - Any advice for meetings where  big decisions need to be made 
+           - Is there a place where I can learn grammar
+           - I don't want to be a part of a world where being kind is a weakness
+           - Any advice for meetings where  big decisions need to be made 
 
-          4. 有时关系代词前会有介词（了解即可）
+        4. 有时关系代词前会有介词（了解即可）
 
-             - The girl with whom you were talking is my cup of tea
+           - The girl with whom you were talking is my cup of tea
 
-          5. which 和 that？基本可以通用，但以下情况必须使用that
+        5. which 和 that？基本可以通用，但以下情况必须使用that
 
-             1. 先行词是all, much, little,few, the one等不定代词，或是由no-, every-, some-, any- 组成的词（ 如something, nothing ,everything), 关系代词一般只用that, 不用which.
+           1. 先行词是all, much, little,few, the one等不定代词，或是由no-, every-, some-, any- 组成的词（ 如something, nothing ,everything), 关系代词一般只用that, 不用which.
 
-                - Not all that shine is gold
+              - Not all that shine is gold
 
-                - The correct method is all that matters 
-                - All that matters is(What is the most important/The most important thing )
-                - What he said has nothing that is usefull.
+              - The correct method is all that matters 
+              - All that matters is(What is the most important/The most important thing )
+              - What he said has nothing that is usefull.
 
-             2. 先行词前被any, only, all ,every, no ,some ,much, few, little，序数词，最高级，the last 等修饰时，关系代词一般只用that, 不用which.
+           2. 先行词前被any, only, all ,every, no ,some ,much, few, little，序数词，最高级，the last 等修饰时，关系代词一般只用that, 不用which.
 
-                - You are the last person that  I want to see
-                - Meeting you has been the best thing that could happen to me
+              - You are the last person that  I want to see
+              - Meeting you has been the best thing that could happen to me
 
-          6. 超级好用的as：用来代替整个主句，语义延展更广
+        6. 超级好用的as：用来代替整个主句，语义延展更广
 
-             - As is so often pointed out,AI is two-edged sword which can be used equally for good or evil
-             - As is well known
-             - As is often the case 
-             - As ofter happens
-             - As is hoped
-             - As is usual with sb
+           - As is so often pointed out,AI is two-edged sword which can be used equally for good or evil
+           - As is well known
+           - As is often the case 
+           - As ofter happens
+           - As is hoped
+           - As is usual with sb
 
 
 8. 状语
@@ -603,7 +600,6 @@
       - He has never been there
 
    3. 介词词组作状语
-
       -  I live quite near my office 地点
       -  It's only between you and me
       -  He knows what will happen in the future. 时间
@@ -623,17 +619,13 @@
       - He arrived shortly before the meeting.
 
    6. 不定时做状语
-
       - We'd better go early so as to catch the train.
 
    7. 分词作状语
-
       - That's the man who sits down with me and our girls for dinner nearly every night, patiently answering their questions about issues in the news and strategizing[ˈstrætəˌdʒaɪz] about middle school friendships
 
    8. 状语从句
-
       1. 地点状语从句: where+陈述句
-
          - Now, Stay exactly where you stand
          - Go back where you come from
          - Where there is will, there is a way
@@ -643,15 +635,12 @@
          - Personality begins where comparison ends
 
       2. 目的状语： so that, in order that, so as to
-
          - Planning is bringing the future into the present so that you can do something about it now/take actions.
 
       3. 结果状语从句
-
          - It is raining so hard that we can hardly move forward
 
       4. 方式状语从句 as ,like ,as if ,as though
-
          - I should have done it as you said
          - He treats the boy as if/as though he were his son.
          - Love like you've never been hurt.
@@ -659,18 +648,14 @@
          - Live like it's heaven on earth. 
 
       5. 比较状语从句
-
          1. as+形容词/副词+as
-
             - English is not as difficult as you think, it requires patience and time.
 
          2. than 同类事物的比较
-
             - I love you than he does
             - I love you than him
 
          3. 倍数
-
             1. 倍数+比较级 结构 A is three times bigger than B
                - The blue table is three times bigger than the green one
             2. 倍数+as..as 结构 A is three times as big as B
@@ -701,7 +686,6 @@
             - We thought that since we were in the area, we'd stop by and have a look
 
       8. 时间状语从句
-
          1. 先后发生：从句先发生。when
 
             - We started our lunch when the boss left
@@ -748,590 +732,591 @@
       - He was seen playing basketball yesterday.
       - He was found dead in a Berlin hotel room
 
-1. 时态
+10. 时态
 
-   1. 16种时态：
+    1. 16种时态：
 
-      1. 时：现在时，过去时，将来时，过去将来时
+       1. 时：现在时，过去时，将来时，过去将来时
 
-      2. 态：一般态，进行态，完成态，完成进行态
+       2. 态：一般态，进行态，完成态，完成进行态
 
-   2. 一般态
+    2. 一般态
 
-      1. 一般现在
+       1. 一般现在
 
-         【核心思维】：贯穿整个时空（不论过去现在和将来）
+          【核心思维】：贯穿整个时空（不论过去现在和将来）
 
-         【标签】：海枯石烂
+          【标签】：海枯石烂
 
-         - Diamond is forvever
-         - He lives in Beijing
+          - Diamond is forvever
+          - He lives in Beijing
 
-         1. 表示普遍的事实和真理（稳定，反复发生）
+          1. 表示普遍的事实和真理（稳定，反复发生）
 
-            - Knowledge is power
-            - Opportunities[ˌɑːpərˈtuːnətiz] always favor the prepared minds  
-            - Men never change, they just get better at keeping secrets
+             - Knowledge is power
+             - Opportunities[ˌɑːpərˈtuːnətiz] always favor the prepared minds  
+             - Men never change, they just get better at keeping secrets
 
-         2. 反复发生的动作（习惯）（稳定，反复发生）
+          2. 反复发生的动作（习惯）（稳定，反复发生）
 
-            - He always stays up late
-            - I like classical music
-            - I brush my teeth twice a day at least
+             - He always stays up late
+             - I like classical music
+             - I brush my teeth twice a day at least
 
-         3. 正在发生的动作（以there 或here 开头）
+          3. 正在发生的动作（以there 或here 开头）
 
-            - Here comes your husband
+             - Here comes your husband
 
-            - There goes the bus
+             - There goes the bus
 
-         4. 表示将来的动作
+          4. 表示将来的动作
 
-            1. 在条件，让步（哪怕，退一步）,时间状语从句， 假设的时候，主将从现
-               - Tell me when he come back
-               - Tell will I am not here if he looks for me
-            2. 表示按计划发生，或是时间表规定
-               - The meeting starts at 5 pm.
-               - The airplane takes off at 9 am.
-               - They leave for Shanghai by train tomorrow evenning
+             1. 在条件，让步（哪怕，退一步）,时间状语从句， 假设的时候，主将从现
+                - Tell me when he come back
+                - Tell will I am not here if he looks for me
+             2. 表示按计划发生，或是时间表规定
+                - The meeting starts at 5 pm.
+                - The airplane takes off at 9 am.
+                - They leave for Shanghai by train tomorrow evenning
 
-      2. 一般过去
+       2. 一般过去
 
-         【核心思维】： 动作在过去某个时间发生并完结，与现在无任何关系
+          【核心思维】： 动作在过去某个时间发生并完结，与现在无任何关系
 
-         【标签】：往事已矣，该翻篇就翻篇
+          【标签】：往事已矣，该翻篇就翻篇
 
-         1. 表示过去发生的短暂动作
-            - I saw him at Chongwenmen yesterday
-            - I began learn English ten years ago
-            - He was only nine when his father passed away/died
-            - I slept for five hours last night
-            - I loved you
-            - We were friends
-            - Sorry, I didn't know you were his friend
-         2. 表示过去发生的重复活动
-            - My father always took me out for dinner.
+          1. 表示过去发生的短暂动作
+             - I saw him at Chongwenmen yesterday
+             - I began learn English ten years ago
+             - He was only nine when his father passed away/died
+             - I slept for five hours last night
+             - I loved you
+             - We were friends
+             - Sorry, I didn't know you were his friend
+          2. 表示过去发生的重复活动
+             - My father always took me out for dinner.
 
-      3. 一般将来
+       3. 一般将来
 
-         【核心思维】：预测，计划打算
+          【核心思维】：预测，计划打算
 
-         1. 预测方面
-            1. will :偏重意愿，侧重说话人主观认为或相信会发生
+          1. 预测方面
+             1. will :偏重意愿，侧重说话人主观认为或相信会发生
 
-            2. be going to
+             2. be going to
 
-               1. 有迹象表明会发生
+                1. 有迹象表明会发生
 
-                  - It is going to rain.
+                   - It is going to rain.
 
-                  - Look at your watch, we are going to be late
+                   - Look at your watch, we are going to be late
 
-               2. 超出说话者的控制范围
+                2. 超出说话者的控制范围
 
-                  - I feel cold, I am going to have a fever
+                   - I feel cold, I am going to have a fever
 
-         2. 计划打算方面: be going to 重计划 VS will 重意愿。
-            1. be going to 要好好打算，计划，表示经过一番思考
-               - He is going to learning English online
-               - I am going to buy a car
-               - I am going to go to Bangkok next month
-            2. will: 说话时瞬间的临时决定
-               - The phone is ringing, I will get it 
-               - There aren't any eggs left,I will buy some.
+          2. 计划打算方面: be going to 重计划 VS will 重意愿。
+             1. be going to 要好好打算，计划，表示经过一番思考
+                - He is going to learning English online
+                - I am going to buy a car
+                - I am going to go to Bangkok next month
+             2. will: 说话时瞬间的临时决定
+                - The phone is ringing, I will get it 
+                - There aren't any eggs left,I will buy some.
 
-         3. be about to  (5 分钟内)
+          3. be about to  (5 分钟内)
 
-            - The film is about to start
+             - The film is about to start
 
-            - The beverage you are about enjoy is extremely hot. Be careful.
+             - The beverage you are about enjoy is extremely hot. Be careful.
 
-   3. 进行态
+    3. 进行态
 
-      1. 现在进行
-         1. 说话或现在阶段正在进行的动作
-            - He is talking with the general manager
-            - We are dying
-         2. 状态变化
-            - It is getting dark
-            - Parents are getting older
-         3. 系动词be 的进行时+形容词 表示*暂时出现*的某种*状态或品质*，含有讽刺、不满、厌烦等意
-            - you are being foolish
-            - I am being polite
-         4. 瞬间动词 进行时表将来
+       1. 现在进行
+          1. 说话或现在阶段正在进行的动作
+             - He is talking with the general manager
+             - We are dying
+          2. 状态变化
+             - It is getting dark
+             - Parents are getting older
+          3. 系动词be 的进行时+形容词 表示*暂时出现*的某种*状态或品质*，含有讽刺、不满、厌烦等意
+             - you are being foolish
+             - I am being polite
+          4. 瞬间动词 进行时表将来
 
-            - The summer is coming
-            - I am coming 
-      2. 过去进行
-         1. 过去有限时间内一直
-            - I was staying at home all last week
-         2. 与一般过去时是好朋友（长动作用进行，短动作用过去）
-            - I cut my finger when I was cooking
-      3. 将来进行
-         1. 将来进行时：侧重对客观事实的描述和展示
-            - He won't be coming to  the party
-            - He won't come to  the party
-         2. 表示客气，面对比较尊重，下级对领导等。
-            - How will you be paying 
-            - When will you be meeting Zhangsan
+             - The summer is coming
+             - I am coming 
+       2. 过去进行
+          1. 过去有限时间内一直
+             - I was staying at home all last week
+          2. 与一般过去时是好朋友（长动作用进行，短动作用过去）
+             - I cut my finger when I was cooking
+       3. 将来进行
+          1. 将来进行时：侧重对客观事实的描述和展示
+             - He won't be coming to  the party
+             - He won't come to  the party
+          2. 表示客气，面对比较尊重，下级对领导等。
+             - How will you be paying 
+             - When will you be meeting Zhangsan
 
-   4. 完成态
+    4. 完成态
 
-      【核心思维】：回首往事
+       【核心思维】：回首往事
 
-      1. 现在完成（3种形式）
+       1. 现在完成（3种形式）
 
-         1. 1.发生在过去的动作一直延续到当下【延续性动词】，延续的动作+延续的时间=动作一直延续了。。。
+          1. 1.发生在过去的动作一直延续到当下【延续性动词】，延续的动作+延续的时间=动作一直延续了。。。
 
-            1. since + 时间点/从句
-            2. for + 时间段
-            3. 到目前为止：until now, up to now, so far.
+             1. since + 时间点/从句
+             2. for + 时间段
+             3. 到目前为止：until now, up to now, so far.
 
-            - I have lived in Beijing for 10  years
-            - I have waited here since this morning
+             - I have lived in Beijing for 10  years
+             - I have waited here since this morning
 
-         2. 2.表示做过了什么，不能加延续的时间
+          2. 2.表示做过了什么，不能加延续的时间
 
-            - I have worked here 我在这工作过（所以..)
-            - She has read all these books here  他读过这里所有的书
-            - We've all been in love。我们都爱过
+             - I have worked here 我在这工作过（所以..)
+             - She has read all these books here  他读过这里所有的书
+             - We've all been in love。我们都爱过
 
-         3. 3.(发生在过去并结束的)动作产生的结果延续到了当下【瞬间动词】come，go, die, marry,（产生的影响延续到现在，绵绵无绝期），这些瞬间动词，不能加延续的时间
+          3. 3.(发生在过去并结束的)动作产生的结果延续到了当下【瞬间动词】come，go, die, marry,（产生的影响延续到现在，绵绵无绝期），这些瞬间动词，不能加延续的时间
 
-            - She has married. 他已经结婚了
-            - She has been married. 他结过婚（现在离婚了）
-            - I have  been young  我都年轻过
-            - She has been married for 10 years 他结婚十年了
-            - He's been gone an hour (= he left an hour ago). 他离开一小时了
+             - She has married. 他已经结婚了
+             - She has been married. 他结过婚（现在离婚了）
+             - I have  been young  我都年轻过
+             - She has been married for 10 years 他结婚十年了
+             - He's been gone an hour (= he left an hour ago). 他离开一小时了
 
-         4. 【注意】：短暂动词不能接时间长度，需要转变成延续性动词 be+过去分词。
+          4. 【注意】：短暂动词不能接时间长度，需要转变成延续性动词 be+过去分词。
 
-         5. 【现在完成时和现在一般时的区别】：完成时过去的动作与现在有关系，有言外之意，对现在有影响。
+          5. 【现在完成时和现在一般时的区别】：完成时过去的动作与现在有关系，有言外之意，对现在有影响。
 
-            - I am married
+             - I am married
 
-            - I have married
+             - I have married
 
-         6. 【现在完成时和过去一般时的区别】：一般过去时动作在过去发生的，与现在无任何关系。
+          6. 【现在完成时和过去一般时的区别】：一般过去时动作在过去发生的，与现在无任何关系。
 
-            - I have worked here.
+             - I have worked here.
 
-            - I worked here
+             - I worked here
 
-      2. 过去完成
+          7. 【 by/till/untill/before 的区别】
 
-         1. 1.一个动作在过去某一点以前结束。
-            - They  had got everything ready before I came
-         2. 2.表示非真实的过去，意为”本来要。。。" ，这样的动词有哪些
-            - I had intended to see you, but I was too busy.
+             - by 在。。之前， 包括当前时间点，通常用于完成时
+             - before在。。之前， 不包括当前时间点，通常用一般时
 
-         3. 【过去完成时表示非真实和虚拟的区别】：过去完成时，是真有的这个想法，虚拟是没有做过
+             - till/untill 在。。。之前，一直。。（直到。。才）前面通常是延续性动词；not unitll
 
-      3. 将来完成
+         2. 过去完成
 
-         - Until the end of this month, we will have studied here for three years.
+            1. 1.一个动作在过去某一点以前结束。
+               - They  had got everything ready before I came
+            2. 2.表示非真实的过去，意为”本来要。。。" ，这样的动词有哪些
+               - I had intended to see you, but I was too busy.
 
-      4. 【 by/till/untill/before 的区别】
+            3. 【过去完成时表示非真实和虚拟的区别】：过去完成时，是真有的这个想法，虚拟是没有做过
 
-         - by 在。。之前， 包括当前时间点，通常用于完成时
 
-         - before在。。之前， 不包括当前时间点，通常用一般时
+           3. 将来完成
 
-         - till/untill 在。。。之前，一直。。（直到。。才）前面通常是延续性动词；not unitll
+              - Until the end of this month, we will have studied here for three years.
 
-   5. 完成进行
+    5. 完成进行态
 
-      【核心思维】：动作到目前为止尚未完成
+       【核心思维】：动作到目前为止尚未完成
 
-      1. 现在完成进行
-         1. 动作从过去某时开始“一直持续”到现在并可能继续持续下去(根据上下文)
-            - I have been waiting this for years.
-            - You have been saying that for two years, when are you gonna put it into practice
-         2. 最近一段时间内正在持续的事情（"口语中常说"：“我一直想要...","我早就想做..."）
-            - I've been giving a good deal of thought
-            - I have been meaning to talk with you.
-         3. 说话之前在进行的动作（ 刚刚还在进行，但到说话时停止了），“刚一直”
-            - Look at you, you are sweating[ˈswetɪŋ]. , what have you been doing?
-            - Your eyes are red, you've been crying.
-         4. 断断续续，多次发生 （ 短暂动词放到完成进行时，表示多次发生，靠次数取胜 ）
-            - I have been coming to Beijing for 5 years.
-      2. 过去完成进行
-         - I had been missing you before I saw you
-      3. 将来完成进行
-         - I will have been studying English for 100 days by tomorrow.
+       1. 现在完成进行
+          1. 动作从过去某时开始“一直持续”到现在并可能继续持续下去(根据上下文)
+             - I have been waiting this for years.
+             - You have been saying that for two years, when are you gonna put it into practice
+          2. 最近一段时间内正在持续的事情（"口语中常说"：“我一直想要...","我早就想做..."）
+             - I've been giving a good deal of thought
+             - I have been meaning to talk with you.
+          3. 说话之前在进行的动作（ 刚刚还在进行，但到说话时停止了），“刚一直”
+             - Look at you, you are sweating[ˈswetɪŋ]. , what have you been doing?
+             - Your eyes are red, you've been crying.
+          4. 断断续续，多次发生 （ 短暂动词放到完成进行时，表示多次发生，靠次数取胜 ）
+             - I have been coming to Beijing for 5 years.
+       2. 过去完成进行
+          - I had been missing you before I saw you
+       3. 将来完成进行
+          - I will have been studying English for 100 days by tomorrow.
 
-2. 情态动词
+11. 情态动词
 
-   1. 情态动词汇总
+    1. 情态动词汇总
 
-      | 情态动词     | 情态动词短语             |
-      | ------------ | ------------------------ |
-      | must         | have(got) to             |
-      | will/would   | be going to              |
-      | shall/should | be supposed to /ought to |
-      | can/could    | be able to               |
-      | may/might    | be allowed to            |
-      | need         | /                        |
-      | dare         | /                        |
-      | /            | would rather             |
-      | /            | had better               |
+       | 情态动词     | 情态动词短语             |
+       | ------------ | ------------------------ |
+       | must         | have(got) to             |
+       | will/would   | be going to              |
+       | shall/should | be supposed to /ought to |
+       | can/could    | be able to               |
+       | may/might    | be allowed to            |
+       | need         | /                        |
+       | dare         | /                        |
+       | /            | would rather             |
+       | /            | had better               |
 
-   2. 核心思维：推测本色虚拟
+    2. 核心思维：推测本色虚拟
 
-      1. 推测
+       1. 推测
 
-         1. 对现在的推测有哪些情态动词
+          1. 对现在的推测有哪些情态动词
 
-            - must do/should do/could do/may(might) do
+             - must do/should do/could do/may(might) do
 
-            - cant't/shouldn't/couldn't/may(might) not
+             - cant't/shouldn't/couldn't/may(might) not
 
-         2. 对将来的推测有哪些情态动词
+          2. 对将来的推测有哪些情态动词
 
-            - will do/should do/could do/may(might) do
-            - won't/shouldn't/couldn't/may(might) not
+             - will do/should do/could do/may(might) do
+             - won't/shouldn't/couldn't/may(might) not
 
-         3. 对过去的推测有哪些情态动词
+          3. 对过去的推测有哪些情态动词
 
-            - must have done/ should have done/could have done/may(might) have done
+             - must have done/ should have done/could have done/may(might) have done
 
-            - cant' have/shouldn't have/could't have/may(might) not have done
+             - cant' have/shouldn't have/could't have/may(might) not have done
 
-         4. 对此时此刻的推测有哪些情态动词
+          4. 对此时此刻的推测有哪些情态动词
 
-            - must be doing /should be doing /could be doing /may(might) be doing
-            - can't be doing /shouldn't be doing/couldn't be doing/may(might) be doing
+             - must be doing /should be doing /could be doing /may(might) be doing
+             - can't be doing /shouldn't be doing/couldn't be doing/may(might) be doing
 
-      2. 本色：情态动词本身的意思
+       2. 本色：情态动词本身的意思
 
-      3. 虚拟：虚拟语气
+       3. 虚拟：虚拟语气
 
-         1. 本能做但没做：（could/should/might/would/ought to have done).
+          1. 本能做但没做：（could/should/might/would/ought to have done).
 
-            1. Might  have  done 过去应该做，而没做的事
-               - I might have got into trouble（我险些弄出麻烦来）
-               - He might have tried this medicine
-            2. could have done 表示过去能做，而没做的事, 有一种对过去未付诸实施的事情的惋惜，或委婉的批评
-               - I could have done better
-            3. should have done 表示应该作的事而没有做，表示意外，不满或批评。
-               - We should have done as you said
-            4. would have done：表达未实现的意愿或结果
-               - If I had known you were waiting, I **would have hurried**.
+             1. Might  have  done 过去应该做，而没做的事
+                - I might have got into trouble（我险些弄出麻烦来）
+                - He might have tried this medicine
+             2. could have done 表示过去能做，而没做的事, 有一种对过去未付诸实施的事情的**惋惜**，或委婉的批评
+                - I could have done better
+             3. should have done 表示应该作的事而没有做，表示**意外，不满或批评。**
+                - We should have done as you said
+             4. would have done：表达未实现的意愿或结果
+                - If I had known you were waiting, I **would have hurried**.
 
-         2. 不该做却做了：（shouldn't/needn't/ought not to )
+          2. 不该做却做了：（shouldn't/needn't/ought not to )
 
-            - I shouldn't have told you
+             - I shouldn't have told you
 
-            
+             
 
-   3. will-would
+    3. will-would
 
-      1. will
-         1. 推测：对将来的一种推测（自信心最强）
-            - We will win
-            - This play will be popular in China
-         2. 本色：意愿 ：
-            - Who is knocking at the door?  That'll be Frank, I will open it.
-            - I won't resort to lying.
-            - Will you marry me 
-      2. would
-         1. 推测：对未来不太确定的推测
-            - Tomorrow would be fine
-         2. 本色1：委婉的意愿、请求、希望...会
-            - Would you mind if I ask you a question
-         3. 本色2：表示过去的某种习惯
-            - When I was young, I'd listen to the radio, waiting for my favorite song
-            - When I was yong, My mother would read me a story in the evening.
+       1. will
+          1. 推测：对将来的一种推测（自信心最强）
+             - We will win
+             - This play will be popular in China
+          2. 本色：意愿 ：
+             - Who is knocking at the door?  That'll be Frank, I will open it.
+             - I won't resort to lying.
+             - Will you marry me 
+       2. would
+          1. 推测：对未来不太确定的推测
+             - Tomorrow would be fine
+          2. 本色1：委婉的意愿、请求、希望...会
+             - Would you mind if I ask you a question
+          3. 本色2：表示过去的某种习惯
+             - When I was young, I'd listen to the radio, waiting for my favorite song
+             - When I was yong, My mother would read me a story in the evening.
 
-   4. may - might
+    4. may - might
 
-      1. may
-         1. 推测: 可能，或许
-            - It may be 10 o'clock
-         2. 本色：表示许可
-            - May I come in
-            - You may not smoke here
-            - Now you may kiss the bride.
-      2. might 和may 同义，语气更委婉
-         - He might have left yesterday 他可能昨天走的
-         - You must have been dosed[doʊst] with it elsewhere
+       1. may
+          1. 推测: 可能，或许
+             - It may be 10 o'clock
+          2. 本色：表示许可
+             - May I come in
+             - You may not smoke here
+             - Now you may kiss the bride.
+       2. might 和may 同义，语气更委婉
+          - He might have left yesterday 他可能昨天走的
+          - You must have been dosed[doʊst] with it elsewhere
 
-   5. can-could
+    5. can-could
 
-      1. can
-         1. 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测
-            - That can't be Mary—she's in New York. 
-            - He can't have slept through all that noise. 
-         2. 本色：能力 （有做。。的潜力，具备做某事的条件，强调能力而不强调具体动作）
-            - I can speak Italian.
-            - Can you get it done?
-         3. 本色：可能---理论上的可能，偶然的可能（与说话现状无关，“有时可能会”）used to say what sb/sth is often like
-            - Winter there can be very cold
-            - Man can be as cruel as wild beats
-      2. could
-         1. 推测：表示不确定的可能 
-            - Look at those dark clouds, it cloud start raining at any minutes.
-            - Look at those dark clouds. It is going to start raing at any minues
-         2. 本色：过去的能力
-            - I could drink 14 bottles of beer when I was young.
-            - could 和was able to 的区别是，was able to 表示确实做了
-              - I was able to get a job last week(确实找到工作了)
+       1. can
+          1. 推测：can 只有在否定时表推测，即can't 才能表示推测，can不表示推测
+             - That can't be Mary—she's in New York. 
+             - He can't have slept through all that noise. 
+          2. 本色：能力 （有做。。的潜力，具备做某事的条件，强调能力而不强调具体动作）
+             - I can speak Italian.
+             - Can you get it done?
+          3. 本色：可能---理论上的可能，偶然的可能（与说话现状无关，“有时可能会”）used to say what sb/sth is often like
+             - Winter there can be very cold
+             - Man can be as cruel as wild beats
+       2. could
+          1. 推测：表示不确定的可能 
+             - Look at those dark clouds, it cloud start raining at any minutes.
+             - Look at those dark clouds. It is going to start raing at any minues
+          2. 本色：过去的能力
+             - I could drink 14 bottles of beer when I was young.
+             - could 和was able to 的区别是，was able to 表示确实做了
+               - I was able to get a job last week(确实找到工作了)
 
-3. 倒装
+12. 倒装
 
-   1. 倒装两种形式：
-      1. 完全倒装：谓语完全在主语的前面，御驾亲征
-      2. 部分倒装：谓语不动，助动词/情态动词放在前面
+    1. 倒装两种形式：
+       1. 完全倒装：谓语完全在主语的前面，御驾亲征
+       2. 部分倒装：谓语不动，助动词/情态动词放在前面
 
-   2. 助动词有哪些：
+    2. 助动词有哪些：
 
-      1. be(am is are): Jim is cring
+       1. be(am is are): Jim is cring
 
-      2. do don't did didn't :
+       2. do don't did didn't :
 
-      3. have, haven't
+       3. have, haven't
 
-   3. 倒装的四种常见句型：
+    3. 倒装的四种常见句型：
 
-      1. 以here,there,now, then的完全倒装
+       1. 以here,there,now, then的完全倒装
 
-         - Here comes you wife
+          - Here comes you wife
 
-         - Now comes your turn 
+          - Now comes your turn 
 
-      2. so/nor/neither  开头的回应短语
+       2. so/nor/neither  开头的回应短语
 
-         - A:He can speak English B: so can I
+          - A:He can speak English B: so can I
 
-         - A: You shouldn't be here. B: neither should you
+          - A: You shouldn't be here. B: neither should you
 
-      3. 表示祝愿
+       3. 表示祝愿
 
-         - May you succeed
-         - May you be prosperous[ˈprɑːspərəs].
-         - Long live the Peoples Republic of China
-         - Long live the friendship
-         - Long live you
+          - May you succeed
+          - May you be prosperous[ˈprɑːspərəs].
+          - Long live the Peoples Republic of China
+          - Long live the friendship
+          - Long live you
 
-      4. 表示感叹
+       4. 表示感叹
 
-         - What a brave boy he is
-         - How brave the boy is
+          - What a brave boy he is
+          - How brave the boy is
 
-4. 冠词
+13. 冠词
 
-   1. 定冠词the
+    1. 定冠词the
 
-      1. 独一无二
+       1. 独一无二
 
-         -  the moon/sun/earth/world/universe
-         -  the People's Republic of China
+          -  the moon/sun/earth/world/universe
+          -  the People's Republic of China
 
-      2. 表示一类人
+       2. 表示一类人
 
-         - Yellow seats are reserved for Seniors, Children, Pregnant women, the Sick and the Disabled.
+          - Yellow seats are reserved for Seniors, Children, Pregnant women, the Sick and the Disabled.
 
-      3. 可数名词前定冠词表示某个，或某些特定的人或事物：
+       3. 可数名词前定冠词表示某个，或某些特定的人或事物：
 
-         A. Lucy divided the apples into two halves.
+          A. Lucy divided the apples into two halves.
 
-   2. 不定冠词a/an
+    2. 不定冠词a/an
 
-      1. 表示“一个”的时候，a/an强调种类，类属而非数量
-         - This is a monkey
-      2. one更强调数量 更强调“一”的概念
-         - One punch man
-         - I can beat him down at one blow[bləu].
+       1. 表示“一个”的时候，a/an强调种类，类属而非数量
+          - This is a monkey
+       2. one更强调数量 更强调“一”的概念
+          - One punch man
+          - I can beat him down at one blow[bləu].
 
-   3. 用冠词和不用冠词的意义区别
+    3. 用冠词和不用冠词的意义区别
 
-      1. 不加冠词强调功能，加了冠词强调地点
-         - 去上学/去学校 （可以捡瓶子）go to school/go to the school
-         - 在上学/在学校 in school/in the school
-         - 去看病/去医院 go to hospital/go to the hospital
-         - 住院/在医院（可能上班）in hospital/in the hospital
-         - 出海/去海边 go to sea/go to the sea
-         - 茫然不知所措/在海边 at sea/at the sea
-         - 执政，掌权/在办公室  in office/in the office
-         - 去睡觉/去床上 go to bed/go to the bed
-         - 入狱/去监狱 go to prison/go to the prison
-      2. 物质名词不用冠词，若用，则具体化
-         - 玻璃/一只玻璃杯/这只玻璃杯. glass/ a glass/the glass
-         - 铁/熨斗/镣铐 iron/an iron/irons
-      3. 某些词或词组用或不用冠词，意思不同
-         - 经验/一种经历. experience/ an experience
-         - 我们中间的三个人 three of us  我们三个人（ 我们总共就三个人）the three of us
-         - 毫无疑问  out of question/不可能的（常作表语）out of the question
-
-5. 介词
-
-   1. 三个功能：
-
-      1. 表示动作的方向，范围和程度
+       1. 不加冠词强调功能，加了冠词强调地点
+          - 去上学/去学校 （可以捡瓶子）go to school/go to the school
+          - 在上学/在学校 in school/in the school
+          - 去看病/去医院 go to hospital/go to the hospital
+          - 住院/在医院（可能上班）in hospital/in the hospital
+          - 出海/去海边 go to sea/go to the sea
+          - 茫然不知所措/在海边 at sea/at the sea
+          - 执政，掌权/在办公室  in office/in the office
+          - 去睡觉/去床上 go to bed/go to the bed
+          - 入狱/去监狱 go to prison/go to the prison
+       2. 物质名词不用冠词，若用，则具体化
+          - 玻璃/一只玻璃杯/这只玻璃杯. glass/ a glass/the glass
+          - 铁/熨斗/镣铐 iron/an iron/irons
+       3. 某些词或词组用或不用冠词，意思不同
+          - 经验/一种经历. experience/ an experience
+          - 我们中间的三个人 three of us  我们三个人（ 我们总共就三个人）the three of us
+          - 毫无疑问  out of question/不可能的（常作表语）out of the question
+
+14. 介词
+
+    1. 三个功能：
+
+       1. 表示动作的方向，范围和程度
 
-         - go to hospital
-         - look at someone
-         - punch into the face.
+          - go to hospital
+          - look at someone
+          - punch into the face.
 
-      2. [胶水词]，连接不同的名词
-
-         - so many species of large animals
-
-         - disappearance of so many species
-
-      3. 与BE动词连用，代替动词
+       2. [胶水词]，连接不同的名词
+
+          - so many species of large animals
+
+          - disappearance of so many species
+
+       3. 与BE动词连用，代替动词
 
-         - I am on your side 支持你
-         - I‘m on sb 监控某人
-         - I am alcoholic  [ˌælkəˈhɑːlɪk] off for a week  我戒酒一周了
-         - beside oneself（with joy/excitement）
-         - be into sb （like sb , have a crush on sb）
-         - on/off duty[ˈduːti] ：working/not working at a particular time 值（或下）班；值（或不值）勤
-         - It's only between you and me
-         - He was in floods of tears on the phone
+          - I am on your side 支持你
+          - I‘m on sb 监控某人
+          - I am alcoholic  [ˌælkəˈhɑːlɪk] off for a week  我戒酒一周了
+          - beside oneself（with joy/excitement）
+          - be into sb （like sb , have a crush on sb）
+          - on/off duty[ˈduːti] ：working/not working at a particular time 值（或下）班；值（或不值）勤
+          - It's only between you and me
+          - He was in floods of tears on the phone
 
-   2. 江南四大介词 on/at/to/in
+    2. 江南四大介词 on/at/to/in
 
-      1. on 
+       1. on 
 
-         1. 在...上
-            - put the project on ice
-            - put the pressure on sb
-            - put the blame on sb
-            - place one's hopes on sb
-         2. 上车/船/台：
-            - get on the bus 
-            - ride on the bus
-            - ride on the horse
-            - get on the stage
-         3. 集中...上
-            - The discussion focused on three main problems.
-            - Each exercise focuses on a different grammar point
-         4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
-            - be on the river (房屋/城市) 在河边
-            - be on the road 在路边
-            - countries on the Pacific [pəˈsɪfɪk] 环太平洋的国家
-            - London stands on the Thames [temz] 伦敦在泰晤士河畔.
-         5. 关于，就某一问题
-            - China's War on Trash Is the World‘s
-            - I heard a lot about her from my friend
-         6. on与be 连用作表语，表状态式
-            - be on business/ holiday  出差/假期
-            - be on pins and needles。如坐针毡
-            - be on one's mind. 被某人想着，牵挂。
-            - be on alert 警惕/警戒.
-            - on the decrease/increase 在上升/增加
-            - on the move/on the go on 忙个不停
-            - on fire 着火
-            - on sale/on special offer
-         7. immediately after sth 就在…之后；一…就
-
-            - On arriving home I discovered they had gone.
-
-            - Please report to reception on arrival. 
-
-            - There was a letter waiting for him on his return. 
-      2. in 
-
-         1. 在...里
-            1. in the bed
-            2. in the street
-            3. I camped overnight in a field
-            4. We were in opposing camps
-            5. the mirror hung in the wall  这是嵌在墙里的镜子
-            6. She is looking at the falling leaves in the air
-         2. 在某人的身上， 品质/气质/才华
-            1. you have it in you to be a musician (it 形式宾语，宾语后置)
-            2. please keep your faith in people
-            3. I can see a future champion [ˈtʃæmpiən] in him
-         3. in 在一段时间内
-            - We need to get there in the shortest possible time
-            - in spring/summer/autumn/winter
-            - in the morning/afternoon/evening
-         4. in 在一段时间后
-            - I will be back in ten minutes
-            - I'll be down in a minute(马上）. I'm doing my hair
-         5. within 在一段时间内
-            - Unless something unexpected comes up, I will be back within a couple hours
-      3. at 表示一个“点”，狭小的范围，精准的概念
-         1. 时间点 
-            - at six o'clock
-            - at the last moment
-            - at the beginning of the meeting
-            - It seemed like a good idea at the time. 
-         2. 地点 
-            - at home
-            - at the Starbucks
-            - at the airport
-         3. 价格，速度 
-
-            - at any cost
-
-            - sea levels are rising at the rate of almost 2mm（millimeter） a year;
-         4. 冲/朝着..(狭小的范围，精准的概念) @sb
-
-            - look at  看着。。
-            - glance at  撇着。。
-            - stare at 盯着。。
-            - shout at 冲。。大喊
-            - laugh at 冲。。笑，嘲笑
-      4. to
-
-         1. 方向（到；朝向；到达）
-
-            - go to school 方向
-            - turn to the right. 方向
-         2. 达到某种数字、金额
-         3. reaching a particular state 达到某种程度
-
-            - to some extent 在某种程度
-
-            - move sb. to tears   感动某人到落泪
-
-            - drink to death 喝到死
-
-            - The vegetables were cooked to perfection
-
-            - tear to pieces
-         4. used to show the person or thing that receives sth 对..；向（注意to前面是动词）
-
-            - do harm to
-            - talk to you 
-            - I complained to the manager and he was very nice about it
-            - I am deeply grateful to my parents. 我对父母是感恩戴德
-            - The rain didn't make much difference to the game
-            - They may apply to join the organization
-         5. 反应； 和拍子，对。。作出反应
-            - dance to the music
-            - sing to my guitar
-            - What the hell am I supposed to say to that?!
-         6. as far as sth 到，达（某处）
-
-            - climb to the top of the Yellow Mountain
-            - Her hair fell to her waist. 
-            - The meadows lead down to the river. 
-            - This only goes halfway to explaining what really happened(比喻)
-            - We had a grand view of a sea of clouds when we climbed to the top of the Yellow Mountain
-         7. used to show a relationship between one person or thing and another 表示两人或事物之间的关系）属于，归于，关于，**对于**（字典第19条）注意to前面是名词）"..的"， “对于”， 我理解“对象状语”
-            - the slave to/of sb 
-            - the solution to this problem
-            - the key to the door 这个门的钥匙
-            - the Japanese ambassador [æmˈbæsədər] to France 日本的驻法大使
-            - She's married to an Italian.
-            - We've conquered outer space, but inner space is still a mystery to many of us
-            - I am new to the town
-            - I will close my ears to the gossip
-
-6. 其他语法点整理
-   1. 尾大原则：
-      1. 名词性从句的主语从句：It is 过去分词/adj/noun/动词/+ that(特殊疑问句)
-      2. 名词性从句的宾语从句：动词+ it +adj(宾补)+that(宾语)
-      3. to do 的主语后置: It is adj/noun/动词/+ to do
-      4. to do 的宾语后置:  动词+ it +adj(宾补)+to do(宾语)
-         - He feel it challenging[ˈtʃælɪndʒɪŋ] to be a marketing manager
-      5. 宾语过长后置：动词+to sb+宾语
-         - He presented to the committee a detailed plan for the new project. 
-         - She brings to the job a rare combination [ˌkɑːmbɪˈneɪʃ(ə)n] of youth and experience
-      6. 宾语过长后置：动词+宾补+宾语
-         - The computer makes possible a marvelous[ˈmɑːrvələs] leap in human proficiency[prəˈfɪʃ(ə)nsi] 
+          1. 在...上
+             - put the project on ice
+             - put the pressure on sb
+             - put the blame on sb
+             - place one's hopes on sb
+          2. 上车/船/台：
+             - get on the bus 
+             - ride on the bus
+             - ride on the horse
+             - get on the stage
+          3. 集中...上
+             - The discussion focused on three main problems.
+             - Each exercise focuses on a different grammar point
+          4. 临界、接近、接壤，后面接“线状”的或者“带状”的东西
+             - be on the river (房屋/城市) 在河边
+             - be on the road 在路边
+             - countries on the Pacific [pəˈsɪfɪk] 环太平洋的国家
+             - London stands on the Thames [temz] 伦敦在泰晤士河畔.
+          5. 关于，就某一问题
+             - China's War on Trash Is the World‘s
+             - I heard a lot about her from my friend
+          6. on与be 连用作表语，表状态式
+             - be on business/ holiday  出差/假期
+             - be on pins and needles。如坐针毡
+             - be on one's mind. 被某人想着，牵挂。
+             - be on alert 警惕/警戒.
+             - on the decrease/increase 在上升/增加
+             - on the move/on the go on 忙个不停
+             - on fire 着火
+             - on sale/on special offer
+          7. immediately after sth 就在…之后；一…就
+
+             - On arriving home I discovered they had gone.
+
+             - Please report to reception on arrival. 
+
+             - There was a letter waiting for him on his return. 
+       2. in 
+
+          1. 在...里
+             1. in the bed
+             2. in the street
+             3. I camped overnight in a field
+             4. We were in opposing camps
+             5. the mirror hung in the wall  这是嵌在墙里的镜子
+             6. She is looking at the falling leaves in the air
+          2. 在某人的身上， 品质/气质/才华
+             1. you have it in you to be a musician (it 形式宾语，宾语后置)
+             2. please keep your faith in people
+             3. I can see a future champion [ˈtʃæmpiən] in him
+          3. in 在一段时间内
+             - We need to get there in the shortest possible time
+             - in spring/summer/autumn/winter
+             - in the morning/afternoon/evening
+          4. in 在一段时间后
+             - I will be back in ten minutes
+             - I'll be down in a minute(马上）. I'm doing my hair
+          5. within 在一段时间内
+             - Unless something unexpected comes up, I will be back within a couple hours
+       3. at 表示一个“点”，狭小的范围，精准的概念
+          1. 时间点 
+             - at six o'clock
+             - at the last moment
+             - at the beginning of the meeting
+             - It seemed like a good idea at the time. 
+          2. 地点 
+             - at home
+             - at the Starbucks
+             - at the airport
+          3. 价格，速度 
+
+             - at any cost
+
+             - sea levels are rising at the rate of almost 2mm（millimeter） a year;
+          4. 冲/朝着..(狭小的范围，精准的概念) @sb
+
+             - look at  看着。。
+             - glance at  撇着。。
+             - stare at 盯着。。
+             - shout at 冲。。大喊
+             - laugh at 冲。。笑，嘲笑
+       4. to
+
+          1. 方向（到；朝向；到达）
+
+             - go to school 方向
+             - turn to the right. 方向
+          2. 达到某种数字、金额
+          3. reaching a particular state 达到某种程度
+
+             - to some extent 在某种程度
+
+             - move sb. to tears   感动某人到落泪
+
+             - drink to death 喝到死
+
+             - The vegetables were cooked to perfection
+
+             - tear to pieces
+          4. used to show the person or thing that receives sth 对..；向（注意to前面是动词）
+
+             - do harm to
+             - talk to you 
+             - I complained to the manager and he was very nice about it
+             - I am deeply grateful to my parents. 我对父母是感恩戴德
+             - The rain didn't make much difference to the game
+             - They may apply to join the organization
+          5. 反应； 和拍子，对。。作出反应
+             - dance to the music
+             - sing to my guitar
+             - What the hell am I supposed to say to that?!
+          6. as far as sth 到，达（某处）
+
+             - climb to the top of the Yellow Mountain
+             - Her hair fell to her waist. 
+             - The meadows lead down to the river. 
+             - This only goes halfway to explaining what really happened(比喻)
+             - We had a grand view of a sea of clouds when we climbed to the top of the Yellow Mountain
+          7. used to show a relationship between one person or thing and another 表示两人或事物之间的关系）属于，归于，关于，**对于**（字典第19条）注意to前面是名词）"..的"， “对于”， 我理解“对象状语”
+             - the slave to/of sb 
+             - the solution to this problem
+             - the key to the door 这个门的钥匙
+             - the Japanese ambassador [æmˈbæsədər] to France 日本的驻法大使
+             - She's married to an Italian.
+             - We've conquered outer space, but inner space is still a mystery to many of us
+             - I am new to the town
+             - I will close my ears to the gossip
+
+15. 其他语法点整理
+
+    1. 尾大原则：
+       1. 名词性从句的主语从句：It is 过去分词/adj/noun/动词/+ that(特殊疑问句)
+       2. 名词性从句的宾语从句：动词+ it +adj(宾补)+that(宾语)
+       3. to do 的主语后置: It is adj/noun/动词/+ to do
+       4. to do 的宾语后置:  动词+ it +adj(宾补)+to do(宾语)
+          - He feel it challenging[ˈtʃælɪndʒɪŋ] to be a marketing manager
+       5. 宾语过长后置：动词+to sb+宾语
+          - He presented to the committee a detailed plan for the new project. 
+          - She brings to the job a rare combination [ˌkɑːmbɪˈneɪʃ(ə)n] of youth and experience
+       6. 宾语过长后置：动词+宾补+宾语
+          - The computer makes possible a marvelous[ˈmɑːrvələs] leap in human proficiency[prəˈfɪʃ(ə)nsi] 
 

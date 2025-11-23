@@ -327,7 +327,7 @@
     "question": "我们需要在尽可能短的时间内到达那里",
     "translation": "We need to get there in the shortest possible time",
     "knowledge_point": "possible 可能的，这里adj 后置,  修饰的前面的shortest, 类似的还有This is the best possible outcome.\n- 名词前可以加多个形容词",
-    "label": "最高级+possible; to"
+    "label": "最高级+possible"
   },
   {
     "question": "我向经理发牢骚，他很宽容",
@@ -513,31 +513,31 @@
     "question": "它大约在北京和上海的中间。",
     "translation": "It's about halfway between Beijing and Shanghai.",
     "knowledge_point": "内部关系：动作；句子成分：主谓状",
-    "label": "half-finished; 状语-介词短语修饰副词"
+    "label": "half-finished; 状语-副词修饰介词短语"
   },
   {
     "question": "在仪式进行到一半时离开了",
     "translation": "He left halfway through the ceremony",
     "knowledge_point": "- 句子成分： 主谓状，这里halfway副词，through the ceremony是介词短语作状语修饰halfway\n- halfway adv. at an equal distance between two points; in the middle of a period of time 在…的中间；在中途；到一半；\n- 2. part of the way towards doing or achieving sth 部分地做（或达到）…",
-    "label": "halfway; 状语-介词短语修饰副词"
+    "label": "halfway; 状语-副词修饰介词短语"
   },
   {
     "question": "这个项目早在最后期限之前就完成了。",
     "translation": "The project was completed long before the deadline.",
     "knowledge_point": "- 句子成分： 主谓状，这里long副词，长久地， before the deadline.是介词短语作状语修饰long",
-    "label": "状语-介词短语修饰副词"
+    "label": "状语-副词修饰介词短语"
   },
   {
     "question": "他在开会前不久到达。",
     "translation": "He arrived shortly before the meeting.",
     "knowledge_point": "- 句子成分： 主谓状，这里shortly副词，不久地， before the meeting是介词短语作状语修饰shortly",
-    "label": "状语-介词短语修饰副词"
+    "label": "状语-副词修饰介词短语"
   },
   {
     "question": "这只是部分地解释了实际发生的事",
     "translation": "This only goes halfway to explaining what really happened",
     "knowledge_point": "- 主谓状\n- halfway adv. **~ to/towards sth | ~ to/towards doing sth:**  part of the way towards doing or achieving sth 部分地做（或达到）…\n- to:  as far as",
-    "label": "halfway; to; 状语-介词短语修饰副词"
+    "label": "halfway; to; 状语-副词修饰介词短语"
   },
   {
     "question": "你还把他当朋友吗",
@@ -734,8 +734,8 @@
   {
     "question": "咱们在商场附近的那家星巴克见吧",
     "translation": "Shall we meet at the Starbucks near the shopping mall",
-    "knowledge_point": "- 内部关系：动作；句子成分：主谓状；\n- at 表示地点，in 表示在里面；shopping mall 购物中心；\n- stall 摊位，小摊\n- shopping mall 商场；mall = shopping mall\n- meet 有",
-    "label": "stall/mall; meet/see; at"
+    "knowledge_point": "- 内部关系：动作；句子成分：主谓状；\n- at 表示地点，in 表示在里面；shopping mall 购物中心；\n- stall 摊位，小摊\n- shopping mall 商场；mall = shopping mall\n- meet 有\n- 1.偶然遇见，Did you meet anyone in town? 你在城里碰见什么人了吗？\n- 2.通过安排（约定）的见面 , 本例句就是\n- 3.初次见面（glad to meet you)",
+    "label": "meet/see; at"
   },
   {
     "question": "坐在我旁边的女孩有一点晕机",
@@ -1261,7 +1261,7 @@
   },
   {
     "question": "我不得不停下手中的事，去看微信消息",
-    "translation": "I have to stop to check the messages on WebChat",
+    "translation": "I have to stop to check the messages on WeChat",
     "knowledge_point": "- 句子成分: 主谓状\n- stop to do 本身就是停下手中事，去做什么。所以这里不用stop what I am doing就可以\n- on在这里的意思是 by means of sth; using sth, 借助/通过/使用（工具等），类似的还有on the internet，所以是可以的\n- WeChat messages也可以，比如可以说to send a WeChat message",
     "label": "stop to do"
   },
@@ -1994,7 +1994,7 @@
   {
     "question": "在阅览室时应保持安静",
     "translation": "Please keep quiet when you are in the reading room",
-    "knowledge_point": "- silent: ( of a person 人 ) not speaking 不说话的；沉默的\n- quiet: making very little noise 轻声的；轻柔的；安静的\n- calm:",
+    "knowledge_point": "- silent: ( of a person 人 ) not speaking 不说话的；沉默的\n- quiet: making very little noise 轻声的；轻柔的；安静的\n- calm: 1. not excited, nervous or upset 镇静的；沉着的\n- Try to remain calm. 尽量保持冷静。\n- calm:  2. ( of the sea 海洋 ) without large waves 风平浪静的\n- calm:  3. ( of the weather 天气 ) without wind 无风的\n- 例：a calm, cloudless day 晴朗无风的一天",
     "label": "quiet/silent/calm"
   },
   {
@@ -2120,7 +2120,7 @@
   {
     "question": "他们交出武器以示诚意",
     "translation": "They handed over the weapons [ˈwepənz] as a gesture of good faith",
-    "knowledge_point": "- faith: [ U ] ( good ~ ) the intention to do sth right 诚意；善意\n- gesture: [ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作\n- hand over :",
+    "knowledge_point": "- faith: [ U ] ( good ~ ) the intention to do sth right 诚意；善意\n- gesture: [ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作\n- hand over :\n- ##### ˌ1. hand sb/sth←→ˈover (to sb) 2. to give sth/sb officially or formally to another person 把某事物╱某人正式交给（某人）\n- They handed the weapons over to the police. 他们把武器交给了警方。\n- ##### 2. hand sth←→ˈover (to sb)| ˌhand ˈover (to sb)| ˌhand sth ˈover (to sb) to give sb else your position of power or the responsibility for sth 把（权力或责任）移交给（某人）\n- She resigned and handed over to one of her younger colleagues. 她辞职了，由一位比她年轻的同事接任。\n- He finally handed over his responsibility for the company last year. 他终于在去年交出了公司的职",
     "label": "faith; hand over"
   },
   {
@@ -2210,7 +2210,7 @@
   {
     "question": "除非有什么意想不到的事发生，不然我会在几个小时内回来的",
     "translation": "Unless something unexpected comes up, I will be back within a couple hours",
-    "knowledge_point": "- 十分钟之内回来，应该用within\n- within 表示在某个时间范围内",
+    "knowledge_point": "- 十分钟之内回来，应该用within\n- within 表示在某个时间范围内\n- come up :\n- PHRASAL VERB If something comes up, it happens unexpectedly. 意外发生",
     "label": "多久之后"
   },
   {
@@ -2228,7 +2228,7 @@
   {
     "question": "他在25岁生日那天结婚；两周后，他离婚了",
     "translation": "He got married on his 25th birthday; two weeks later he was divorced",
-    "knowledge_point": "- 时间段+later 最典型的用法是表示\"过去\"之后或\"将来\"之后，但不能表示\"现在\"之后\n- \"两周后\"的时间参照点是25岁生日，是过去的时间点，所以是过去之后",
+    "knowledge_point": "- 时间段+later 最典型的用法是表示\"过去\"之后或\"将来\"之后，但不能表示\"现在\"之后\n- \"两周后\"的时间参照点是25岁生日，是过去的时间点，所以是过去之后\n- 过去之后，这里=after two weeks",
     "label": "多久之后"
   },
   {
@@ -2268,7 +2268,7 @@
     "label": "camp"
   },
   {
-    "question": "抗议者们已在许多主要十字路口搭建了路障",
+    "question": "抗议者们一直在许多主要十字路口搭建了路障",
     "translation": "Protesters have been putting up barricades[ˈbærɪkeɪdz] across a number of major intersections",
     "knowledge_point": "- (1) to raise sth or put it in a higher position 提升；使升高",
     "label": "put up"
@@ -2384,7 +2384,7 @@
   {
     "question": "这是我第一次来这",
     "translation": "This is the first time that I've been here",
-    "knowledge_point": "- 这里强调来这的经历，感慨(比如很紧张）。所以用了现在完成时\n- 但是如果不强调经历的话，下面也是对的",
+    "knowledge_point": "- 这里强调来这的经历，感慨(比如很紧张）。所以用了现在完成时\n- 但是如果不强调经历的话，下面也是对的\n- This is my first time to be here\n- This is my first time visiting here\n- it/this/that is the first/second… time that… 从句用现在完成时，表示到说话为止动作发生过几次",
     "label": "have been"
   },
   {
@@ -2504,12 +2504,12 @@
   {
     "question": "我们到电影院时，电影已经开始了",
     "translation": "The film had already begun by the time we got to the cinema",
-    "knowledge_point": "- 过去完成时：过去的过去\n- by the time 到...时候",
+    "knowledge_point": "- 过去完成时：过去的过去\n- by 更适合完成时态。 before 用一般时的比较多。\n- By 包括当前时间，before 不包括当前时间\n- by 是介词不能引导从句， 引导从句，需要用by the time.\n- by the time 到...时候=when",
     "label": "过去完成时"
   },
   {
     "question": "郎朗的音乐会将在 8 点半开始，你到那之前他都演完了",
-    "translation": "Lang Lang's concert will begin/begins at half past eight. He will have ended it before you arrive",
+    "translation": "Lang Lang's concert will begin/begins at half past eight. He will have finished his performance it before you arrive",
     "knowledge_point": "- half past eight 八点半\n- end it 完成它\n- 我用的 do it, 没有完成的意思",
     "label": "将来完成时"
   },
@@ -2540,13 +2540,13 @@
   {
     "question": "什么味啊这是？你刚抽烟了",
     "translation": "What's that smell, You've been smoking?",
-    "knowledge_point": "- 解析，用的肯定句表示疑问",
+    "knowledge_point": "- 解析，用的肯定句表示疑问\n- 现在完成进行时：刚一直",
     "label": "现在完成进行时"
   },
   {
     "question": "我早就想见你",
     "translation": "I have been wanting to see you",
-    "knowledge_point": "- 现在完成时 第二点：最近一段时间内正在做的事，\"我一直想要\"，\"我早就想做\"",
+    "knowledge_point": "- 现在完成时 第二点：最近一段时间内正在做的事，\"我一直想要\"，\"我早就想做\"\n- 现在完成进行时：一直想要，早就想",
     "label": "现在完成进行时"
   },
   {
@@ -2584,5 +2584,347 @@
     "translation": "She doesn't need to be told/She needn't be told",
     "knowledge_point": "- doesn't need to do 为实义动词，非常常见，是现代英语的标准用法,中性、口语化、通用\n- needn't 第二句谓情态动词，不常见，英式英语会使用，比较正式、简洁、带权威感\n- 掌握doesn't need to 就够了",
     "label": "need"
+  },
+  {
+    "question": "她愿意嫁给我",
+    "translation": "She will marry me",
+    "knowledge_point": "- will 不是将来时，是情态动词，表示意愿",
+    "label": "will/would"
+  },
+  {
+    "question": "她说她愿意嫁给我",
+    "translation": "She said(that) she would marry me",
+    "knowledge_point": "- would 表示过去的意愿",
+    "label": "will/would"
+  },
+  {
+    "question": "你愿意给我们分享一下你的想法吗",
+    "translation": "Will you share your ideas with us?/Would you like to share your ideas with us?",
+    "knowledge_point": "- will 表示意愿\n- would 表达请求时更加客气委婉\n- 用would表示客气地请求，词典相似例句：Would you open the door for me, please?\n- Would you like也同样表达愿意，喜欢，或者是客气的建议或者邀请\n- idear: [ C ] ~ (for sth) | ~ (of sth) | ~ (of doing sth) a plan, thought or suggestion, especially about what to do in a particular situation 想法；构思；主意",
+    "label": "will/would"
+  },
+  {
+    "question": "稍后再试或许是明智的",
+    "translation": "It might be an idea to try again later",
+    "knowledge_point": "- It might be an idea = It would be sensible[ˈsensəb(ə)l]\n- might 表示推测，可能性较小\n- idea [ C ] ~ (for sth) | ~ (of sth) | ~ (of doing sth) a plan, thought or suggestion, especially about what to do in a particular situation 想法；构思；主意",
+    "label": "might"
+  },
+  {
+    "question": "他们勤奋地工作，以便能过上更好的日子",
+    "translation": "They work hard in order that they may/can/will live a better life",
+    "knowledge_point": "- life [ C ] a person's experiences during their life; the activities that form a particular part of a person's life 个人生活；个人经历；个人生活某一方面的活动\n- He has had a good life. 他一直过着优裕的生活",
+    "label": "life"
+  },
+  {
+    "question": "艰难╱安逸舒适的生活",
+    "translation": "a hard/an easy life",
+    "knowledge_point": "- life [ C ] a person's experiences during their life; the activities that form a particular part of a person's life 个人生活；个人经历；个人生活某一方面的活动\n- He has had a good life. 他一直过着优裕的生活",
+    "label": "life"
+  },
+  {
+    "question": "你介不介意和别人同住一个房间",
+    "translation": "Would you mind sharing a room?",
+    "knowledge_point": "- would you mind 表示客气的请求\n- mind doing sth 介意做某事",
+    "label": "will/would"
+  },
+  {
+    "question": "有坚定信念的人才能成功",
+    "translation": "He who has strong convictions will succeed",
+    "knowledge_point": "- will 情态动词表示推测，强力相信，注定，肯定\n- conviction 用复数比较合适，因为没有指明是哪一种conviction，类似于ideas\n- conviction [ C U ] ~ (that...) a strong opinion or belief 坚定的看法（或信念）\n- strong political/moral convictions 坚定不移的政治╱道德信念",
+    "label": "will/would; conviction"
+  },
+  {
+    "question": "最终一切都会好起来的坚定信念",
+    "translation": "a conviction that all would be well in the end",
+    "knowledge_point": "- conviction [ C U ] ~ (that...) a strong opinion or belief 坚定的看法（或信念）\n- well: [ not before noun ] in a good state or position 状态良好；情况良好\n- It seems that all is not well at home. 看来家中并非事事如意。\n- All's well that ends well  *(= used when sth has ended happily, even though you thought it might not)* . 结果好就算一切都好。",
+    "label": "conviction; well"
+  },
+  {
+    "question": "结果好就算一切都好",
+    "translation": "All's well that ends well  *(= used when sth has ended happily, even though you thought it might not)*",
+    "knowledge_point": "- well: [ not before noun ] in a good state or position 状态良好；情况良好",
+    "label": "well"
+  },
+  {
+    "question": "他以前在那工作时，总是去拐角处的那家咖啡店",
+    "translation": "When he worked there, he would go to that coffee shop at the corner",
+    "knowledge_point": "- would: used for talking about things that often happened in the past （带出过去常见的情况）总是，老是\n- When my parents were away, my grandmother would take care of me. 我父母外出的时候，总是祖母照看我\n- at the corner 介词短语作定语\n- at the corner 在拐角\n- in the corner 在角落里",
+    "label": "would; at the corner"
+  },
+  {
+    "question": "我们必须找工作，不像你可以去你的家族企业",
+    "translation": "We have to look for jobs, unlike you who can go to your family business",
+    "knowledge_point": "- unlike 介词，表示不像，与...不同",
+    "label": "unlike"
+  },
+  {
+    "question": "食物是你能买到的最密切的东西……不像衣服和鞋子是外在的，食物进入你的身体，塑造你成为什么样的人",
+    "translation": "Food is the most intimate [ˈɪntɪmət] thing you can buy... Unlike clothes and shoes that dress the outside, food goes into your body and builds who you become",
+    "knowledge_point": "- intimate /ˈɪntɪmət/ ( of a link between things 事物间的联系 ) very close 密切的；紧密的\n- an intimate connection between class and educational success 社会阶层和优良教育之间的密切联系\n- unlike 介词，表示不像，与...不同",
+    "label": "unlike"
+  },
+  {
+    "question": "你一定在想心事",
+    "translation": "You must be thinking about something",
+    "knowledge_point": "- must 表示推测，用于肯定句\n- 这里用 think about something，字典里除了what do you think, what do you think about 没有看到think +n 的例句",
+    "label": "must"
+  },
+  {
+    "question": "他现在会不会在咖啡店等咱们呢",
+    "translation": "Could he be waiting for us at the coffee shop?",
+    "knowledge_point": "- may 作推测讲，一般用于肯定句，用于疑问句时，表示许可，通常用于第一人称\n- 表示猜测时需要用could，不能用can\n- wait 可以作及物，也可以作不及物，看字典里大多数是for sb. 只有一个及物动词：I waited my chance and slipped out when no one was looking. 我等待时机，趁没人注意时溜了出去\n- in 表示空间里，at 表示地点，这里没有说在咖啡店里，用at 比较合适",
+    "label": "could; at"
+  },
+  {
+    "question": "你已经工作了一整天了。你一定特别累",
+    "translation": "You have been working all day, you must be exhausted",
+    "knowledge_point": "- 虽然这里不再工作了，但还是用的现在完成进行时。说明过去刚刚一直持续的工作\n- must 表示推测，用于肯定句",
+    "label": "现在完成进行时; must"
+  },
+  {
+    "question": "机器运转时门必须关闭",
+    "translation": "Door must be closed when machine is in operation",
+    "knowledge_point": "- 这句话是标识。没有特指那个门，贴到哪里就是哪里的门\n- shut 和closed 作为关的动作都可以，但是作为状态来讲，closed比较多，closed 有adj词性\n- must意思是\"必须，应该\"表示义务，命令或者要求；\"have to\"则表示\"由于客观条件而需要做的事\"，这句话是一些公共设施的标识，是客观的命令或者要求，只能用\"must\"；不过在众多的例句当中，另外没有看到have to用物做主语的现象，have to都是人做主语\n- XX be in operation 运转\n- gate 大门，door 小门，这里door 比较合适",
+    "label": "must"
+  },
+  {
+    "question": "菲利普进了自己的房间，随手把门关上",
+    "translation": "Philip went into his room and shut the door behind him",
+    "knowledge_point": "- shut: 1. to make sth close; to become closed 关闭；关上；合上\n- She shut her eyes and fell asleep immediately. 她闭上眼，立刻就睡着了\n- The window won't shut. 这窗子关不上",
+    "label": "shut"
+  },
+  {
+    "question": "这些门都是自动开关的",
+    "translation": "The doors open and shut automatically",
+    "knowledge_point": "- shut: 1. to make sth close; to become closed 关闭；关上；合上\n- She shut her eyes and fell asleep immediately. 她闭上眼，立刻就睡着了\n- The window won't shut. 这窗子关不上",
+    "label": "shut"
+  },
+  {
+    "question": "那家银行4点钟关门",
+    "translation": "The bank shuts at 4",
+    "knowledge_point": "- shut: 2. ( BrE ) when a shop/store, restaurant, etc. shuts or when sb shuts it, it stops being open for business and you cannot go into it （使）停止营业，关门，打烊",
+    "label": "shut"
+  },
+  {
+    "question": "这不准养宠物",
+    "translation": "You may not keep pets here./You are not allowed to keep pets here",
+    "knowledge_point": "- mustn't 比较冲\n- may not 委婉的不准，不能\n- keep pets 养宠物",
+    "label": "may not"
+  },
+  {
+    "question": "有时候她会在那里一坐就是几个小时，什么也不做",
+    "translation": "She would sit there for hours sometimes, doing nothing at all",
+    "knowledge_point": "- \"would\"和\"sometimes\"的搭配非常地道、自然。它们不仅不冲突，反而经常一起使用，来精确地描述一种过去的习惯\n- \"would\"在描述过去习惯时的核心含义。它并不表示\"总是\"或\"持续不断地\"，而是表示在过去的一段时间里，某个动作会反复发生。这种重复性本身就可以是有间隔的、不连续的\n- \"sometimes\"这类频度副词（如 often, frequently, now and then 等）就起到了重要的修饰作用，它们指明了动作发生的具体频率\n- for several hours=for hours 更简单\n- at all：（否定句）根本；究竟\n- at all: in any way or respect to the least extent or degree under any circumstances\n- eg: doesn't smoke at all\n- 状语：there：地点状语；for hours：时间状语；sometimes：状语表频率；doing nothing at all：状语表伴随",
+    "label": "would sometimes"
+  },
+  {
+    "question": "当她遇到麻烦时，有时会来找我帮忙",
+    "translation": "When she was in trouble, she would sometimes come to me for help",
+    "knowledge_point": "- would 表示过去习惯性的动作\n- sometimes 频度副词，修饰动作发生的频率\n- \"would\"和\"sometimes\"的搭配非常地道、自然\n- come：to move to or towards a person or place 来",
+    "label": "would sometimes; come"
+  },
+  {
+    "question": "她乘公共汽车来上班。",
+    "translation": "She comes to work by bus.",
+    "knowledge_point": "- come：to move to or towards a person or place 来\n- work: n. 工作地点[ U ] ( used without *the* 不与the连用 ) the place where you do your job 工作地点；工作单位；工作场所\n- I go to work at 8 o'clock. 我8点钟去上班。\n- When do you leave for work ? 你什么时候去上班？",
+    "label": "come"
+  },
+  {
+    "question": "在假日里，他常常会去河边钓鱼",
+    "translation": "On holidays, he would often go fishing by the river",
+    "knowledge_point": "- would 表示过去习惯性的动作\n- often 频度副词，修饰动作发生的频率\n- \"would\"和\"often\"的搭配非常地道、自然",
+    "label": "would often"
+  },
+  {
+    "question": "请你帮我把这个快递发了行吗",
+    "translation": "Would/Could you help me send this express?",
+    "knowledge_point": "- express没有中文名词的\"快递\"的意思，对应中文名词的快递，实际上是包裹\"package\"",
+    "label": "express"
+  },
+  {
+    "question": "发快递可以有几种表达呢",
+    "translation": "Could you help me express this?/Could you help me send this by express?/Could you help me send this express?",
+    "knowledge_point": "- Could you help me express this? 此时express是动词\n- Could you help me send this by express? 此时express是名词\n- Could you help me send this express? 此时express是副词",
+    "label": "express"
+  },
+  {
+    "question": "你有个快递，来取一下",
+    "translation": "You have a package. Come and pick it up",
+    "knowledge_point": "- package 包裹，对应中文名词的快递\n- pick up 取，拿",
+    "label": "package"
+  },
+  {
+    "question": "将货物、信件等物品送达到这些物品原本被要求发送给的那个或那些人",
+    "translation": "deliver: to take goods, letters, etc. to the person or people they have been sent to",
+    "knowledge_point": "- they have been sent to 定语从句，东西已经被发出送给的那些人\n- 省略的关系代词：这个定语从句完整的形式应该是 \"...the person or people to whom they have been sent\"。在英语中，当关系代词在定语从句中作介词的宾语时，介词可以后置，同时关系代词\"whom\"（指人）或\"which\"（指物）可以省略。因此，常见的写法就是省略后的 \"...the person or people they have been sent to\"\n- 被动语态：\"have been sent\"是现在完成时的被动语态，强调\"货物、信件\"是\"被发送\"这一动作的承受者，而动作的执行者（是谁发送的）在这里并不重要",
+    "label": "定语从句"
+  },
+  {
+    "question": "我们承诺在48小时内送到",
+    "translation": "We promise to deliver within 48 hours",
+    "knowledge_point": "- deliver 本身就有送到的意思，而不只是发出",
+    "label": "deliver"
+  },
+  {
+    "question": "你能把烟掐了吗?(比较客气的)",
+    "translation": "Would /Could you put out the cigarette, please",
+    "knowledge_point": "- May 用于疑问句中，表示\"征求许可\"，用于第一人称，不可以用于第二人称\n- 第一人称的请求常用\"may，might，could，can\"；第二人称的请求常用\"would，could，will，can\"\n- 第一人称：May/can/could I\n- 第二人称： would/can/could you\n- can/could 第一人称和第二人称都可以",
+    "label": "would"
+  },
+  {
+    "question": "A: 对不起，先生，我知道你有权在这抽烟，但请你把烟掐了好吗?你的烟味直冲着往我这来; B: 哦，不好意思。我这是在吸烟区，而且是我先来的。你要是不介意的话，你可以 去那边的无烟区。",
+    "translation": "A:  Excuse me, sir. I realize(that) you have the right to smoke here. But could you put out your cigarette,please?Your smoke is coming right at us;  B:  Well, sorry. I am in the smoking section, and I was here before you. If you wouldn't mind, you could go to the non-smoking section.",
+    "knowledge_point": "- is coming right at us: 这里不是表示将来，也可以表现现在进行时\n- was here before you 过去的动作（过去比你先来），但我一开始的理解现在也在这里，这是现在的状态\n- 烟冲我们来，\"表示精准的范围\"，用at 完美破解\n- 双方都比较客气，用比较客气的情态动词。(would， could)\n- If you wouldn't mind 如果你不介意的话\n- non-smoking section 无烟区",
+    "label": "would; at; 现在进行时"
+  },
+  {
+    "question": "你可能把包丢在餐厅里了吧",
+    "translation": "Could you have left your bag in the dinning-hall?",
+    "knowledge_point": "- 这里不能用may，may 作为推测通常用于肯定句，在疑问句中，表示本色\"允许，可以\"",
+    "label": "过去的猜测"
+  },
+  {
+    "question": "她说他可能误了航班",
+    "translation": "She said he might have missed the plane",
+    "knowledge_point": "- 这里由于是她说他误了航班，推测不太拿得准，所以用might 更贴切\n- flight plane都可以做航班讲",
+    "label": "过去的猜测"
+  },
+  {
+    "question": "我本来应该早点来的，但路上特别堵",
+    "translation": "I should have come earlier, but I got stuck in traffic",
+    "knowledge_point": "- 用should或者could都可以的\n- 答案这里用的是情态动词表虚拟的用法，\"本应该早来\"，说明实际并没有早来，是虚拟的情况，所以用情态动词表虚拟\n- 与过去事实相反的情况用would have done，有时可换用 should, could 或 might\n- 交通堵塞:traffic jam/ traffic congestion",
+    "label": "情态动词的虚拟语气"
+  },
+  {
+    "question": "约翰可能在事故中受了重伤",
+    "translation": "John could have been seriously hurt in the accident",
+    "knowledge_point": "- could/may/might have done 表示推测，没有明显的区别，可以自行选择\n- accent[ˈæksent] 口音\n- accident 事故\n- seriously hurt 重伤\n- injured： physically hurt; having an injury 受伤的；有伤的。用在这里也可以\n- injured： ( of a person or their feelings 人或感情 ) upset or offended because sth unfair has been done 委屈的；受到伤害的\n- an injured look/tone 委屈的样子╱语调\n- injured pride 受伤的自尊心",
+    "label": "情态动词的虚拟语气"
+  },
+  {
+    "question": "受伤的自尊心",
+    "translation": "injured pride",
+    "knowledge_point": "- injured： ( of a person or their feelings 人或感情 ) upset or offended because sth unfair has been done 委屈的；受到伤害的",
+    "label": "injured"
+  },
+  {
+    "question": "窗户怎么是开着的? 一定有贼闯进来了",
+    "translation": "Why are the windows open? A burglar must have broken in/There must have been a burglar who broke in",
+    "knowledge_point": "- 注意：这里不是现在完成时哦，是对过去动作的一个猜测，和完成时没有关系\n- 闯进来： break in 更合适\n- thief: a person who steals sth from another person or place 贼；小偷；窃贼\n- burglar: a person who enters a building illegally in order to steal 破门盗贼；入室窃贼\n- burglar 这里更合适",
+    "label": "过去的猜测"
+  },
+  {
+    "question": "我本可以走另一条路的",
+    "translation": "I might have taken another path",
+    "knowledge_point": "- take 字典里有 chose 的意思，CHOOSE/BUY 选择；购买\n- [ VN ] to choose, buy or rent sth 选中；买下；租用\n- I'll take the grey jacket. 我要那件灰色夹克衫",
+    "label": "情态动词的虚拟语气"
+  },
+  {
+    "question": "我准是瘦了不少，你看我这裤子现在多肥",
+    "translation": "I must have lost some weight. Look, how baggy my pants are",
+    "knowledge_point": "- 这里是过去瘦的下来的，侧重于瘦下来的过程，也许一个月前就瘦下来了。所以是推测过去\n- 英国用trousers，美国用pants\n- trousers： [ pl. ] ( especially BrE ) ( NAmE usually also pants ) a piece of clothing that covers the body from the waist down and is divided into two parts to cover each leg separately 裤子\n- baggy=loose. ( of clothes 衣服 ) fitting loosely 宽松的\n- a baggy T-shirt 宽松的T恤衫\n- lose some weight 瘦了\n- 这道题说明，当用系动词和动宾时表达式，用到的时态可能不一样\n- must become thinner = must have lost some weight\n- 例如： He is not successful =  He didn't succeed",
+    "label": "过去的猜测"
+  },
+  {
+    "question": "钱没了!会是谁拿的呢",
+    "translation": "The money has disappeared! Who could have taken it?",
+    "knowledge_point": "- is gone 不合适，表示用完了，用光了\n- has gone 可以\n- 字典：25.[ V ] to stop existing; to be lost or stolen 不复存在；不见了；丢失；失窃\n- gone: 1( of a thing 物品 ) used up 用完了；用光了\n- 例：'Where's the coffee?' 'It's all gone.' \"咖啡在哪儿？\"\"喝光了。\"\n- gone: 2( of a person 人 ) having left a place; away from a place 走了；离开了；不在\n- 例：'Is Tom here?' 'No, he was gone before I arrived'. \"汤姆在这儿吗？\"\"不在，我来之前他就走了。\"\n- gone: 3( formal ) used to say that a particular situation no longer exists 不复存在；一去不复返\n- 例：The days are gone when you could leave your door unlocked at night. 夜不闭户的时代已经一去不复返了",
+    "label": "过去的猜测; gone"
+  },
+  {
+    "question": "“汤姆在这儿吗？”“不在，我来之前他就走了。”",
+    "translation": "‘Is Tom here?’ ‘No, he was gone before I arrived’.",
+    "knowledge_point": "gone.( of a person 人 ) having left a place; away from a place 走了；离开了；不在",
+    "label": "gone"
+  },
+  {
+    "question": "你想去哪就去哪的的日子一去不反了",
+    "translation": "The days are gone when you could go wherever you wanted",
+    "knowledge_point": "gone: ( *formal* ) used to say that a particular situation no longer exists 不复存在；一去不复返",
+    "label": "gone"
+  },
+  {
+    "question": "那个人是个圆脸",
+    "translation": "That's a round-faced guy",
+    "knowledge_point": "- round-faced 圆脸的，分词形容词结构",
+    "label": "分词形容词-形容+名词ed"
+  },
+  {
+    "question": "他是个很好共事的人",
+    "translation": "He is a pleasant fellow to work with",
+    "knowledge_point": "- pleasant: 1. enjoyable, pleasing or attractive 令人愉快的；可喜的；宜人的；吸引人的\n- 例子：What a pleasant surprise! 这真是一桩令人又惊又喜的事\n- pleasant: 2. ~ (to sb) friendly and polite 友好的；和善的；文雅的\n- 例子：a pleasant young man 彬彬有礼的年轻人\n- get along（well) with 与...和睦相处，...进展\n- easy-going： relaxed and happy to accept things without worrying or getting angry 悠闲的；随和的；不慌不忙的\n- She was easy-going on the whole， 总的来说，她还是很随和的\n- 没有easy going with",
+    "label": "pleasant"
+  },
+  {
+    "question": "我需要一杯提神的咖啡",
+    "translation": "I need a cup of coffee to refresh myself with",
+    "knowledge_point": "- 这里to refresh myself with 作定语，如果不用with也可以，就是不定式作目的状语\n- fresh: （1）adj: ( usually of food 通常指食物 ) recently produced or picked and not frozen, dried or preserved in tins or cans 新鲜的；新产的；刚摘的\n- fresh: （2）adv : fresh out of sth ( informal ) ( especially NAmE ) having recently finished a supply of sth 刚用完（或售完等）\n- Sorry, we're fresh out of milk. 对不起，牛奶我们刚卖完",
+    "label": "不定式作定语; fresh"
+  },
+  {
+    "question": "对不起，牛奶我们刚卖完",
+    "translation": "Sorry, we're fresh out of milk.",
+    "knowledge_point": "fresh: （2）adv : fresh out of sth ( informal ) ( especially NAmE ) having recently finished a supply of sth 刚用完（或售完等）",
+    "label": "fresh"
+  },
+  {
+    "question": "把那个卷尺递给我一下",
+    "translation": "Pass me the measuring tape",
+    "knowledge_point": "- rule是规则，ruler是直尺，tape 卷尺\n- ruler: a straight strip of wood, plastic or metal, marked in centimetres or inches, used for measuring or for drawing straight lines 直尺\n- rolling：[ only before noun ] 1.( of hills or countryside 丘陵或乡村 ) having gentle slopes 起伏的 - rolling hills 起伏的群山\n- rolling: 2.done in regular stages or at regular intervals over a period of time 规则的；周而复始的 - 例：a rolling program of reform 逐步推进的改革计划",
+    "label": "tape"
+  },
+  {
+    "question": "他这个人多才多艺",
+    "translation": "He is a man of many talents",
+    "knowledge_point": "- talent 是名词：[ C U ] ~ (for sth) a natural ability to do sth well 天才；天资；天赋\n- a man of many talents 多才多艺的男子\n- have great artistic talent 很有艺术天赋\n- [ U C ] people or a person with a natural ability to do sth well 有才能的人；人才；天才\n- He is a great talent. 他是个了不起的人才\n- [ U ] ( BrE ) ( slang ) people who are sexually attractive （统称）性感的人\n- He likes to spend his time chatting up the local talent. 他喜欢把时间花在和当地的妞儿搭讪上\n- talented [ˈtæləntɪd] having a natural ability to do sth well 有才能的；天才的；有才干\n- 也可以用 with talents，和of talents 的区别是，with 表示具有，of 把名词转换成了形容词，这里用of 更好",
+    "label": "of形容词"
+  },
+  {
+    "question": "他可能是个工作狂(不用 He may be，还能怎么说?)  +",
+    "translation": "There is a possibility that he is a workaholic",
+    "knowledge_point": "- 同位语从句\n- 也可以用主语从句：It is possible that he is a workaholic",
+    "label": "同位语从句"
+  },
+  {
+    "question": "我定了一个海景房",
+    "translation": "I booked a flat/room with views over the sea",
+    "knowledge_point": "- over：prep. from one side of sth to the other; across sth 从一边到另一边；穿越\n- 侧重从这边到那边一收眼底\n- a bridge over the river 横跨河面的桥",
+    "label": "over"
+  },
+  {
+    "question": "他们放眼望去，把公园美丽的景色尽收眼底",
+    "translation": "They had a wonderful view over the park",
+    "knowledge_point": "- over：prep. from one side of sth to the other; across sth 从一边到另一边；穿越\n- 侧重从这边到那边一收眼底",
+    "label": "over"
+  },
+  {
+    "question": "他是个正直的人",
+    "translation": "He is a man of integrity",
+    "knowledge_point": "- 就像of many talents 名词变成形容词",
+    "label": "of形容词"
+  },
+  {
+    "question": "他借给我一本书消磨时间",
+    "translation": "He lent me a book to kill time with",
+    "knowledge_point": "- 句子成分：主谓间宾直宾\n- to kill time with 不定式作定语",
+    "label": "双宾语/不定式作定语"
+  },
+  {
+    "question": "我觉得这张照片里我的脸有点虚",
+    "translation": "I think(that) my face in this picture is a bit out of focus",
+    "knowledge_point": "- out of focus： 焦点没对准-》虚\n- 不能用unfocused\n- unfocused: 1. ( especially of eyes 尤指眼睛 ) not looking at a particular thing or person; not having been focused 目光分散的；漫不经心的 - an unfocused look 一副心不在焉的样子\n- unfocused: 2. ( of plans, work, etc. 计划、工作等 ) not having a clear aim or purpose; not well organized or clear 目的不明确的；组织不严密的；松散的 - The research is too unfocused to have any significant impact. 这一次的研究太零散，难以发挥重大的作用\n- 不能用blurred\n- blurred [blɜːrd]/fuzzy[ˈfʌzi]：模糊的原因有很多，可能遇到水了。反映不出来，题目的\"虚\"",
+    "label": "out of focus"
+  },
+  {
+    "question": "一副心不在焉的样子",
+    "translation": "an unfocused look",
+    "knowledge_point": "- unfocused: ( especially of eyes 尤指眼睛 ) not looking at a particular thing or person; not having been focused 目光分散的；漫不经心的",
+    "label": "unfocused"
+  },
+  {
+    "question": "这一次的研究太零散，难以发挥重大的作用",
+    "translation": "The research is too unfocused to have any significant impact",
+    "knowledge_point": "- unfocused: ( of plans, work, etc. 计划、工作等 ) not having a clear aim or purpose; not well organized or clear 目的不明确的；组织不严密的；松散",
+    "label": "unfocused"
   }
 ]

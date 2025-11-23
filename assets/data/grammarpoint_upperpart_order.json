@@ -644,43 +644,43 @@
   {
     "question": "还没有决定",
     "translation": "It is not decided that",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "knowledge_point": "- 名词性从句充当的成分——主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
     "label": "名词性从句-作主语-It is 过去分词"
   },
   {
-    "question": "众所周知",
-    "translation": "It is universally believed that",
+    "question": "人们普遍认为教育是国家繁荣的关键。",
+    "translation": "**It is universally believed that** education is the key to a nation's prosperity.",
+    "knowledge_point": "- 名词性从句充当的成分—主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "label": "名词性从句-作主语-It is 过去分词; to"
+  },
+  {
+    "question": "众所周知，交通事故的主要原因是酒后驾车和超速行驶。",
+    "translation": "It is well known that the main cause of road accidents is drunk driving and driving with over-speed.",
     "knowledge_point": "- 名词性从句充当的成分—主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
     "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "需要被讨论的是",
     "translation": "It is to be discussed that",
-    "knowledge_point": "- 名词性从句充当的成分—主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "knowledge_point": "- 名词性从句充当的成分-主语-It is 过去分词\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
     "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "必须指出的是",
     "translation": "It must be pointed out that",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "knowledge_point": "- 名词性从句充当的成分-主语-It is 过去分词\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
     "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "人们发现晚睡确实对减肥有影响",
     "translation": "It has been found that  staying up late does have effect on losing  weight.",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "knowledge_point": "- 名词性从句充当的成分-主语-It is 过去分词\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配\n-  does have effect on losing  weight = does affect weight loss",
     "label": "名词性从句-作主语-It is 过去分词"
   },
   {
     "question": "据说你要在线学英语",
     "translation": "It is said that you will learn English online",
-    "knowledge_point": "- 名词性从句充当的成分——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
-    "label": "名词性从句-作主语-It is 过去分词"
-  },
-  {
-    "question": "人们发现晚睡确实对减肥有影响",
-    "translation": "It has been found that staying up late does affect weight loss",
-    "knowledge_point": "- 名词性从句-作主语——主宾表同之主语\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
+    "knowledge_point": "- 名词性从句充当的成分-主语-It is 过去分词\n- 作主语的5种形式：It is 过去分词/adj/n/ 不及物动词+that， 固定搭配",
     "label": "名词性从句-作主语-It is 过去分词"
   },
   {
@@ -1808,7 +1808,7 @@
   {
     "question": "他能和人相处是他的主要优势",
     "translation": "His ability to get along with people is his main advantage",
-    "knowledge_point": "- 不定式作定语，4. 同位关系：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。\n- able to do sth",
+    "knowledge_point": "- 不定式作定语，4. 同位关系：某些动词或形容词后可接不定式时，它相应的同根名词也常用不定式做定语。\n- able to do sth\n-  get along with 与...和睦相处",
     "label": "不定式-作定语-同位关系"
   },
   {
@@ -1863,7 +1863,7 @@
     "question": "他准备得如此充分，以至于轻松通过了考试。",
     "translation": "**He prepared **so thoroughly [ˈθɜːrəli]**as to pass** the exam with ease.",
     "knowledge_point": "- 2.不定式作结果状语\n- (1) so... as to do",
-    "label": "不定式-作状语-结果状语"
+    "label": "不定式-作状语-结果状语; pass"
   },
   {
     "question": "我们还没蠢到竟会相信他。",
@@ -2203,7 +2203,7 @@
   },
   {
     "question": "为啥不休息下",
-    "translation": "Why not take a Why not take a break 为啥不休息下",
+    "translation": "Why not take a break 为啥不休息下",
     "knowledge_point": "- 动词不定式的特殊句型 why (not) do\n- break 比rest 更短短暂，课件休息用break",
     "label": "不定式-不带to的不定式"
   },
@@ -2234,7 +2234,7 @@
   {
     "question": "你的工作完成了吗？没有，但我希望已经完成了",
     "translation": "Did you finish the work？No,but I hoped to have",
-    "knowledge_point": "- 不定式符号to 的单独使用：5. 如果动词不定式是to be或to have，则一般不省\n- I hoped to have -> I hoped to have (finished)",
+    "knowledge_point": "- 不定式符号to 的单独使用：5. 如果动词不定式是to be或to have，则一般不省\n- I hoped to have -> I hoped to have (finished)\n- 这里用过去时hoped 的原因是：表示“过去未实现的愿望”\n- **希望的时间**：这个希望存在于过去。\n- **希望的结果**：这个希望没有实现。",
     "label": "不定式-不带do的不定式"
   },
   {
@@ -2343,13 +2343,13 @@
     "question": "值得在你生命中的，是那些在困难时刻帮助你，并在度过困难后与你一同微笑的人",
     "translation": "The only people worthy to be in your life are the ones that help you through hard times, and laugh with you after the hard times pass",
     "knowledge_point": "与worth相似的worthy却不一样，其后不接动名词而接不定式(若接动名词则其前应有介词of)，且要用被动式表示被动含义",
-    "label": "不定式-不定式的被动式"
+    "label": "不定式-不定式的被动式; pass"
   },
   {
     "question": "我想现在的苦楚，若比将来要显于我们的荣耀，就不足介意了",
-    "translation": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us",
-    "knowledge_point": "与worth相似的worthy却不一样，其后不接动名词而接不定式(若接动名词则其前应有介词of)，且要用被动式表示被动含义",
-    "label": "不定式-不定式的被动式"
+    "translation": "I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us",
+    "knowledge_point": "- 与worth相似的worthy却不一样，其后不接动名词而接不定式(若接动名词则其前应有介词of)，且要用被动式表示被动含义\n- reckon: ( *informal* ) ( especially *BrE* ) to think sth or have an opinion about sth 想；认为\n- glory [ˈɡlɔːri] n. 光荣\n- glorious [ˈɡlɔːriəs] adj. 光荣的，值得称道的；辉煌的\n- reveal [rɪˈviːl] v. 揭示，透露, 展示\n- shall: 在现代英语中，shall和will的传统区别几乎不复存在。shall基本上不怎么用，尤其在北美英语中。shall目前只与I和we连用，且听起来常显得正式并过时。人们更可能说\n- 例：I’ll (= I will) be late. 我要迟到了\n- 在英国英语中，shall仍然与I和we连用，用于疑问句、提出建议或提供帮助。\n- 例：Shall we order some coffee? 我们要些咖啡好吗？",
+    "label": "不定式-不定式的被动式; shall"
   },
   {
     "question": "分词的思维",
@@ -2426,8 +2426,8 @@
   {
     "question": "我有个生意要谈, 可以给我一些建议吗",
     "translation": "I have **a business coming up** and could use some help with negotiating",
-    "knowledge_point": "分词作定语",
-    "label": "分词-分词作定语"
+    "knowledge_point": "分词作定语\n- come up 1） If something is coming up, it is about to happen or take place. 将发生\n- We do have elections coming up.\n- come up 2） If something comes up, it happens unexpectedly. 意外发生\n- I was delayed – something came up at home.我耽搁了–家里有事意外发生。",
+    "label": "分词-分词作定语; come up"
   },
   {
     "question": "吠犬不咬人",
@@ -2444,8 +2444,8 @@
   {
     "question": "他是最近几年变得富有的商人",
     "translation": "He‘s **a businessman growing rich** in recent years",
-    "knowledge_point": "分词作定语",
-    "label": "分词-分词作定语"
+    "knowledge_point": "分词作定语\n- in： 在一段时间内，in spring/summer/autumn/winter",
+    "label": "分词-分词作定语; in"
   },
   {
     "question": "奔涌吧，后浪, 我们在同一条奔涌的河流",
@@ -2474,7 +2474,7 @@
   {
     "question": "再给我5分钟，我就能完成",
     "translation": "Given five more minutes, I will get it done",
-    "knowledge_point": "分词作状语（偏向条件）",
+    "knowledge_point": "分词作状语（偏向条件）\n- 数词 + more + 名词= another+数词 + 名词: 额外的\n- more 这里是形容词，表示更多的，额外的",
     "label": "分词-分词作状语"
   },
   {
@@ -2510,8 +2510,20 @@
   {
     "question": "看到老板走过，他压低了嗓音",
     "translation": "Seeing the manager passing by, he lowered his voice",
-    "knowledge_point": "分词作状语（偏向原因）",
-    "label": "分词-分词作状语"
+    "knowledge_point": "分词作状语（偏向原因）\n- pass by：  经过；时间流逝\n- passers-by： 路人",
+    "label": "分词-分词作状语; pass"
+  },
+  {
+    "question": "然而，他们真的面对这样的现实的时候，已经很多年过去了。",
+    "translation": "Yet years pass by before they really face such reality",
+    "knowledge_point": "- pass [ V ] when time passes , it goes by 推移；逝去\n- Six months passed and we still had no news of them. 半年过去了，我们仍然没有他们的音讯。\n- pass [ V ]  to move past or to the other side of sb/sth 通过；走过\n- Several people were passing but nobody offered to help. 有几个人擦肩而过，却没有人主动提出帮助",
+    "label": "pass"
+  },
+  {
+    "question": "有几个人擦肩而过，却没有人主动提出帮助",
+    "translation": "Several people were passing but nobody offered to help.",
+    "knowledge_point": "- pass [ V ]  to move past or to the other side of sb/sth 通过；走过",
+    "label": "pass"
   },
   {
     "question": "非谓语动词作后置定语的三种被动结构",
@@ -2965,7 +2977,7 @@
   },
   {
     "question": "就像人们常说的，人工智能是把双刃剑",
-    "translation": "As is so often pointed out, AI is two-edged sword which can be used equally for good or evil",
+    "translation": "As is so often pointed out, AI is a two-edged sword [sɔːrd] which can be used equally for good or evil[ˈiːv(ə)l]",
     "knowledge_point": "- as用来代替整个主句，语义延展更广\n- point out 指出",
     "label": "定语-定语从句-as的用法"
   },
@@ -3006,19 +3018,13 @@
     "label": "定语-定语从句-as的用法"
   },
   {
-    "question": "状语从句的八种类型",
-    "translation": "地点状语从句；目的状语；结果状语从句；方式状语从句；比较状语从句；让步状语从句；原因状语从句；时间状语从句",
-    "knowledge_point": "状语从句的八种类型：地点状语从句；目的状语；结果状语从句；方式状语从句；比较状语从句；让步状语从句；原因状语从句；时间状语从句",
-    "label": "状语-框架知识点"
-  },
-  {
-    "question": "状语的五种形式",
+    "question": "可以充当状语的五种类型",
     "translation": "",
-    "knowledge_point": "状语的五种形式：\n- 副词作状语；\n- 介词词组作状语；\n- 不定式做状语；\n- 分词作状语；\n- 状语从句",
+    "knowledge_point": "- 副词作状语；\n- 介词词组作状语；\n- 不定式做状语；\n- 分词作状语；\n- 状语从句",
     "label": "状语-框架知识点"
   },
   {
-    "question": "状语从句的久种类型",
+    "question": "状语从句的九种类型",
     "translation": "",
     "knowledge_point": "状语从句的九种类型：\n- 地点状语从句；\n- 目的状语从句；\n- 结果状语从句；\n- 方式状语从句；\n- 比较状语从句；\n- 让步状语从句；\n- 原因状语从句；\n- 时间状语从句；\n- 对象状语从句；",
     "label": "状语-框架知识点"
@@ -3050,7 +3056,7 @@
   {
     "question": "我住得离办公室很近",
     "translation": "I live quite near my office",
-    "knowledge_point": "介词词组作状语",
+    "knowledge_point": "介词词组作状语\n- 程度副词修饰介词短语\n- far behind: 远远落后",
     "label": "状语-介词词组作状语"
   },
   {
@@ -3229,8 +3235,8 @@
   },
   {
     "question": "你解释得越准确，人们就越能理解你",
-    "translation": "The more exactly you explain, the clearer people will understand you",
-    "knowledge_point": "the more ..the more",
+    "translation": "The more exactly you explain, the clearly people will understand you",
+    "knowledge_point": "the more ..the more\n- exact: correct in every detail 精确的；准确的\n- accurate: correct and true in every detail 正确无误的",
     "label": "状语-状语从句-比较状语从句"
   },
   {
@@ -3357,7 +3363,7 @@
     "question": "随着时间的流逝，情况似乎有所好转",
     "translation": "As time passed, things seemed to get better",
     "knowledge_point": "同时发生：when, while(在。。期间),as",
-    "label": "状语-状语从句-时间状语从句"
+    "label": "状语-状语从句-时间状语从句; pass"
   },
   {
     "question": "给我打点话那时，我在睡觉呢",
@@ -3422,8 +3428,8 @@
   {
     "question": "会上我们选他当班长",
     "translation": "At the meeting we elected him monitor",
-    "knowledge_point": "名词作宾补；注意是At the meeting, 不是in the meeting",
-    "label": "补语-名词作宾补"
+    "knowledge_point": "名词作宾补；注意是At the meeting, 不是in the meeting\n- at the meeting 表示在会议上这个地点\n- in the meeting 表示在开会这个时间， I'll be in a meeting all morning—can you take my calls? 我一上午都要开会—你能不能帮我接一下电话？\n- at the hospital. 在医院这个地点\n- in the hospital：He works in a hospital\n- at he hospital：Let's meet at the hospital",
+    "label": "补语-名词作宾补; at"
   },
   {
     "question": "我认为你哥哥是一个聪明的男孩",
@@ -3432,8 +3438,8 @@
     "label": "补语-名词作宾补"
   },
   {
-    "question": "宾语是同做承受者",
-    "translation": "He gave me a book. 我，书都是承受者。补语不作动作的承认者",
+    "question": "他给我一本书",
+    "translation": "He gave me a book.",
     "knowledge_point": "宾语是同做承受者：He gave me a book. 我，书都是承受者。补语不作动作的承认者",
     "label": "补语-名词作宾补"
   },
@@ -3470,13 +3476,19 @@
   {
     "question": "我听到隔壁在讨论这个事",
     "translation": "I heard it spoken of in the next room",
-    "knowledge_point": "过去分词作宾补；隔壁 in the next room",
+    "knowledge_point": "过去分词作宾补；隔壁 in the next room\n- speak of 说到，谈及",
+    "label": "补语-过去分词作宾补"
+  },
+  {
+    "question": "说到旅游，你今年要去什么好玩的地方吗？",
+    "translation": "Speaking of travelling *(= referring back to a subject just mentioned)* , are you going anywhere exciting this year?",
+    "knowledge_point": "speak of 说到，谈及",
     "label": "补语-过去分词作宾补"
   },
   {
     "question": "昨天我看见他在打篮球",
     "translation": "I saw him playing basket ball yesterday",
-    "knowledge_point": "主语补足语的形式",
+    "knowledge_point": "主语补足语的形式\n- **\"see sb. doing sth.\" 强调“瞬间”或“片段”**这种结构表示你看到的是动作正在进行中的一个**片段或瞬间**。它并不关心动作是如何开始或如何结束的，只强调在“看见”的那个时间点上，动作正在发生。它常与表示某一具体时刻的时间状语连用，或者用于描述一个背景场景 。 例如：`I saw him playing basketball yesterday.`（我昨天看见他**正在**打篮球。）这句话暗示，当你看到他的时候，他正处于打篮球的过程中，你可能并没有看到他开始打或结束打的瞬间。\n- **\"see sb. do sth.\" 强调“全过程”或“习惯”**这种结构则侧重于看到动作的**完整过程**，或者将动作视为一个整体性、经常性发生的事件。它意味着你看到了动作从开始到结束的全部，或者你是在陈述一个“他打球”这个事实 。例如：`I saw him play basketball yesterday.`（我昨天看见他打篮球了。）这句话更侧重于“我目睹了他打篮球（这项活动/这个事实）”，可能意味着你看到了他从开始到结束的整个过程，或者仅仅是陈述“他打球了”这个事实。",
     "label": "补语-主语补足语"
   },
   {

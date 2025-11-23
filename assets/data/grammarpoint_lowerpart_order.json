@@ -428,8 +428,8 @@
   {
     "question": "他不会来参加聚会了（不愿意来）",
     "translation": "He won't come to the party",
-    "knowledge_point": "- 一般将来时：预测打算意愿\n- 表示不愿意\n- come to party=attend the party",
-    "label": "时态-将来进行时"
+    "knowledge_point": "- 一般将来时：预测打算意愿\n- 表示不愿意\n- come to party=attend the party\n- come: 3. ~ for/about sth | ~ to do sth to arrive somewhere in order to do sth or get sth 来做；来取；来拿",
+    "label": "时态-将来进行时; come"
   },
   {
     "question": "你打算怎么付呢",
@@ -637,8 +637,8 @@
   },
   {
     "question": "Bush：我们与你们的领导人进行了多次讨论，我重申支持一个中国政策。这是我的政府长期以来的政策，我没有改变它",
-    "translation": "We've had many discussions with your leaders, and I've reiterated support for One China policy. It's been my government's policy for a long period of time, and I haven't changed it",
-    "knowledge_point": "- 现在完成时：表示过去的动作对现在有影响\n- 有言外之意",
+    "translation": "We've had many discussions with your leaders, and I've reiterated[riˈɪtəreɪtɪd] support for One China policy. It's been my government's policy for a long period of time, and I haven't changed it",
+    "knowledge_point": "- 现在完成时：表示过去的动作对现在有影响\n- 有言外之意\n- reiterate. v. <正式>重申，反复说\n- a long period of time, 比较正式的场合， 口语上也可以用a long period或者a long time 代替。",
     "label": "时态-现在完成时"
   },
   {
@@ -667,13 +667,13 @@
   },
   {
     "question": "我本来希望你能来吃晚饭，但你没有出现",
-    "translation": "I had hoped that you would come to dinner, but you didn't show up",
-    "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
-    "label": "时态-过去完成时-本来要"
+    "translation": "",
+    "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法\n- come: 3. ~ for/about sth | ~ to do sth to arrive somewhere in order to do sth or get sth 来做；来取；来拿",
+    "label": "时态-过去完成时-本来要; come"
   },
   {
     "question": "A：你来中国开心吗？B：是的，确实，我本想去印尼的，但是到目前为止不后悔",
-    "translation": "Are you happy you came to China? Yes, indeed. I'd considered going to Indonesia, but I've never regretted my decision",
+    "translation": "Are you happy you came to China? Yes, indeed. I'd considered going to Indonesia[ˌɪndəˈniːʒə], but I've never regretted my decision",
     "knowledge_point": "- 时态-过去完成时: 用法2：表示非真实的过去，意为\"本来要...\"\n- 是真有的这个想法",
     "label": "时态-过去完成时-本来要"
   },
@@ -810,15 +810,15 @@
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
-    "question": "我最近一直在思考它",
-    "translation": "I've been giving a good deal of thought",
-    "knowledge_point": "- 最近一段时间内正在持续的事情",
+    "question": "我最近一直在思考你的提议",
+    "translation": "I've been giving a good deal of thought  to your proposal[prəˈpoʊz(ə)l]",
+    "knowledge_point": "- 最近一段时间内正在持续的事情\n- 通用动词：give/make /take /do",
     "label": "时态-现在完成进行时"
   },
   {
     "question": "如果伤到了你我很抱歉，但这些话我已经憋很久了",
     "translation": "I'm sorry if I hurt your feelings. I've been holding a lot of this in for a while",
-    "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"",
+    "knowledge_point": "- 最近一段时间内正在持续的事情\n- \"口语中常说\"：\"我一直想要...\",\"我早就想做...\"\n- hold sth in：to not express how you really feel 克制，忍住（真实感情）OPP：let sth out\n- 例：to hold in your feelings/anger 不流露感情；忍住怒火",
     "label": "时态-现在完成进行时-\"我一直想要...\",\"我早就想做...\""
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "question": "我的嗓子沙哑，因为我说得太多了",
-    "translation": "My throat is husky because I've been talking too much",
+    "translation": "My throat is husky [ˈhʌski] because I've been talking too much",
     "knowledge_point": "- 说话之前在进行的动作（刚刚还在进行，但到说话时停止了）\n- \"刚一直\"",
     "label": "时态-现在完成进行时-\"刚一直\""
   },
@@ -1507,26 +1507,26 @@
   },
   {
     "question": "介词on的七种用法",
-    "translation": "在...上；上车/船/台；集中在...上；临界、接近、接壤；关于，就某一问题；与be连用作表语表状态；立即",
+    "translation": "",
     "knowledge_point": "介词on的七种用法：\n- 在...上；\n- 上车/船/台；\n- 集中在...上；\n- 临界、接近、接壤；\n- 关于，就某一问题；\n- 与be连用作表语表状态\n- 立即",
     "label": "介词-框架知识点"
   },
   {
-    "question": "介词in的两种用法",
-    "translation": "在...里；在某人的身上，品质/气质/才华",
-    "knowledge_point": "介词in的两种用法：在...里；在某人的身上，品质/气质/才华",
+    "question": "介词in的四种用法",
+    "translation": "",
+    "knowledge_point": "- 在...里；\n- 在某人的身上，品质/气质/才华\n- 一段时间内 in autumn[ˈɔːtəm]\n- 一段时间后 in ten minutes",
     "label": "介词-框架知识点"
   },
   {
     "question": "介词at的四种用法",
-    "translation": "时间点；地点；价格，速度；冲/朝着...(狭小的范围，精准的概念)",
-    "knowledge_point": "介词at的四种用法：时间点；地点；价格，速度；冲/朝着...(狭小的范围，精准的概念)",
+    "translation": "",
+    "knowledge_point": "- 时间点；\n- 地点；\n- 价格，速度；\n- 冲/朝着...(狭小的范围，精准的概念)",
     "label": "介词-框架知识点"
   },
   {
     "question": "介词to的六种用法",
-    "translation": "到；朝向；到达；达到某种程度；对..；向；反应；和拍子，对...作出反应；as far as sth 到，达（某处）；表示两人或事物之间的关系",
-    "knowledge_point": "介词to的六种用法：到；朝向；到达；达到某种程度；对..；向；反应；和拍子，对...作出反应；as far as sth 到，达（某处）；表示两人或事物之间的关系",
+    "translation": "",
+    "knowledge_point": "- 到；朝向；到达；\n- 达到某种程度；\n- 对..；向；\n- 反应；和拍子，对...作出反应；\n- as far as sth 到，达（某处）；\n- 表示两人或事物之间的关系",
     "label": "介词-框架知识点"
   },
   {
@@ -1662,10 +1662,10 @@
     "label": "介词-on-上车/船/台"
   },
   {
-    "question": "这些问题围绕在三个主要问题",
+    "question": "这些讨论围绕在三个主要问题",
     "translation": "These discussions focus on three main problems",
-    "knowledge_point": "介词on: 3.集中在。。。上",
-    "label": "介词-on-集中在...上"
+    "knowledge_point": "介词on: 3.集中在。。。上\n- **不使用**\"the\"，表示问题是**首次提及或泛指**的。\n- **使用**\"the\"，表示问题是**双方已知的、特指的**。",
+    "label": "介词-on-集中在...上; the"
   },
   {
     "question": "每个练习针对一个不同的语法点",
@@ -1884,7 +1884,7 @@
     "label": "介词-to"
   },
   {
-    "question": "向右拐. turn to the right",
+    "question": "向右拐.",
     "translation": "turn to the right",
     "knowledge_point": "to: 到；朝向；到达",
     "label": "介词-to"
@@ -1921,7 +1921,7 @@
   },
   {
     "question": "她唱着歌把孩子哄睡了。",
-    "translation": "She sang the baby to sleep.",
+    "translation": "She sang[sæŋ] the baby to sleep.",
     "knowledge_point": "to:达到某种程度",
     "label": "介词-to-到达某种程度"
   },
@@ -1963,13 +1963,13 @@
   },
   {
     "question": "整天刷手机可能会对人造成非常大的伤害",
-    "translation": "Reading in dim light does harm to eyes",
+    "translation": "Indulging[ɪnˈdʌldʒɪŋ] in swiping  [swaɪp] the phone all day may do infinite [ˈɪnfɪnət] harm to people",
     "knowledge_point": "介词to：对..；向",
     "label": "介词-to-对..；向（前面是动词）"
   },
   {
     "question": "在昏暗的光线下阅读对眼睛有害",
-    "translation": "Indulging[ɪnˈdʌldʒɪŋ] in swiping  [swaɪp] the phone all day may do infinite [ˈɪnfɪnət] harm to people",
+    "translation": "Reading in dim light does harm to eyes",
     "knowledge_point": "to: 对..；向",
     "label": "介词-to-对..；向（前面是动词）"
   },

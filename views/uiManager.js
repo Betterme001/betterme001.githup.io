@@ -174,8 +174,171 @@
         document.body.classList.add('top-align');
         document.body.classList.add('library-mode');
 
+        // 检查是否需要从配置文件初始化
+        const statsInitialized = localStorage.getItem('stats_initialized');
+        if (!statsInitialized && CONFIG.STATS_INIT_FILE) {
+            // 从配置文件指定的文件自动初始化
+            window.loadStatsFromFile(CONFIG.STATS_INIT_FILE);
+        }
+
         // 默认显示热力图模式
         window.switchStatsMode('heatmap');
+    };
+
+    // 导出学习统计数据
+    window.exportStats = function exportStats() {
+        try {
+            // 获取合并后的统计数据
+            const mergedStats = window.mergeAllBankStats();
+            const todayStr = (() => {
+                const d = new Date();
+                return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+            })();
+
+            // 计算今天的实时统计（所有题库）
+            let todayStudyTime = 0;
+            let todayQuestionCount = 0;
+            
+            Object.keys(CONFIG.BANKS).forEach(bankId => {
+                try {
+                    const key = getStorageKey(bankId);
+                    const raw = localStorage.getItem(key);
+                    if (raw) {
+                        const bankData = JSON.parse(raw);
+                        const meta = bankData.meta || {};
+                        todayStudyTime += meta.todayStudyTime || 0;
+                        todayQuestionCount += meta.todayQuestionCount || 0;
+                    }
+                } catch (e) {
+                    console.warn(`读取题库 ${bankId} 今日数据失败:`, e);
+                }
+            });
+
+            // 合并今天的数据
+            const exportData = { ...mergedStats };
+            if (todayStudyTime > 0 || todayQuestionCount > 0) {
+                exportData[todayStr] = {
+                    studyTime: todayStudyTime,
+                    questionCount: todayQuestionCount,
+                    timestamp: Date.now()
+                };
+            }
+
+            // 转换为JSON字符串
+            const jsonStr = JSON.stringify(exportData, null, 2);
+            
+            // 创建Blob并下载
+            const blob = new Blob([jsonStr], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `学习统计_${todayStr.replace(/-/g, '')}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            alert('导出成功！');
+        } catch (e) {
+            console.error('导出失败:', e);
+            alert('导出失败：' + e.message);
+        }
+    };
+
+    // 从文件URL加载学习统计数据
+    window.loadStatsFromFile = function loadStatsFromFile(fileUrl) {
+        if (!fileUrl) {
+            console.warn('未指定初始化文件路径');
+            return;
+        }
+
+        fetch(fileUrl)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`加载文件失败: ${response.status} ${response.statusText}`);
+                }
+                return response.json();
+            })
+            .then(fileData => {
+                try {
+                    // 验证文件格式
+                    if (typeof fileData !== 'object' || Array.isArray(fileData)) {
+                        throw new Error('文件格式错误：应该是日期为键的对象');
+                    }
+
+                    // 获取localStorage中的当前数据
+                    const currentStats = window.mergeAllBankStats();
+                    const todayStr = (() => {
+                        const d = new Date();
+                        return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+                    })();
+
+                    // 合并数据：文件数据作为基础，localStorage数据补充（优先使用localStorage中较新的数据）
+                    const mergedData = { ...fileData };
+                    
+                    Object.keys(currentStats).forEach(date => {
+                        const fileStat = fileData[date];
+                        const currentStat = currentStats[date];
+                        
+                        // 如果localStorage中有该日期的数据，且时间戳更新，则使用localStorage的数据
+                        if (!fileStat || (currentStat.timestamp && fileStat.timestamp && currentStat.timestamp > fileStat.timestamp)) {
+                            mergedData[date] = currentStat;
+                        } else if (!fileStat) {
+                            // 如果文件中没有，但localStorage中有，则添加
+                            mergedData[date] = currentStat;
+                        }
+                    });
+
+                    // 将合并后的数据写回各个题库的localStorage
+                    Object.keys(CONFIG.BANKS).forEach(bankId => {
+                        try {
+                            const key = getStorageKey(bankId);
+                            const raw = localStorage.getItem(key);
+                            if (raw) {
+                                const bankData = JSON.parse(raw);
+                                if (!bankData.meta) bankData.meta = {};
+                                if (!bankData.meta.dailyStats) bankData.meta.dailyStats = {};
+                                
+                                // 将合并后的数据保存到该题库
+                                bankData.meta.dailyStats = { ...mergedData };
+                                
+                                localStorage.setItem(key, JSON.stringify(bankData));
+                            }
+                        } catch (e) {
+                            console.warn(`更新题库 ${bankId} 数据失败:`, e);
+                        }
+                    });
+
+                    // 更新全局统计
+                    if (window.globalStats) {
+                        window.globalStats.dailyStats = mergedData;
+                        window.saveGlobalStats();
+                    }
+
+                    // 标记为已初始化
+                    localStorage.setItem('stats_initialized', 'true');
+                    
+                    console.log('学习统计数据初始化成功：已从文件加载数据，并用localStorage中的数据进行了补充。');
+                    
+                    // 刷新统计显示
+                    if (typeof window.renderStatsList === 'function') {
+                        window.renderStatsList();
+                    }
+                    if (typeof window.renderStatsChart === 'function') {
+                        window.renderStatsChart();
+                    }
+                    if (typeof window.renderStatsHeatmap === 'function') {
+                        window.renderStatsHeatmap();
+                    }
+                } catch (e) {
+                    console.error('处理统计数据失败:', e);
+                }
+            })
+            .catch(error => {
+                console.warn('加载学习统计初始化文件失败:', error);
+                // 如果文件加载失败，标记为已初始化，避免重复尝试
+                localStorage.setItem('stats_initialized', 'true');
+            });
     };
 
     // 渲染统计列表（修改为合并所有题库）
