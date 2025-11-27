@@ -1,0 +1,284 @@
+[
+  {
+    "question": "Joey: 少来了，你和那个人一起出去！那男人一定有问题！",
+    "translation": "Joey: Come on, you're going out with the guy! There's gotta be something wrong",
+    "knowledge_point": "- gotta= have got to 不得不，一定； 这里There's gotta 是There has to\n- 这里=must， 相当于There must be something wrong with him!",
+    "label": "gotta; ep1"
+  },
+  {
+    "question": "Phoebe: 我只是不想你重蹈我和卡尔的覆辙",
+    "translation": "don't want her to go through what I went through with Carl",
+    "knowledge_point": "- go through经历",
+    "label": "名词性从句; ep1"
+  },
+  {
+    "question": "Monica: ok, 大家放松些，这甚至不是一个约会，这仅仅是两个人一起出去吃顿饭但不发生关系",
+    "translation": "Okay, everybody relax. This is not even a date. It's just two people",
+    "knowledge_point": "动名词作表语，动名词的逻辑主语",
+    "label": "动名词的逻辑主语; ep1"
+  },
+  {
+    "question": "Monica: (向大家解释）卡罗今天把她的东西搬走了",
+    "translation": "Carol moved her stuff out today.",
+    "knowledge_point": "- move out：If you move out, you stop living in a particular house or place and go to live somewhere else.",
+    "label": "过去时; ep1"
+  },
+  {
+    "question": "Ross: 别碰我的灵气就是了！Phoebe：好吧，保持晦气！",
+    "translation": "Ross: just leave my aura[ˈɔːrə] alone, okay?  Phoebe: Fine! Be murky[ˈmɜːrki]!",
+    "knowledge_point": "- aura[ˈɔːrə]灵光，灵气；\n- murky[ˈmɜːrki] ( of air, light, etc. 空气、光等 ) dark and unpleasant because of smoke, fog , etc. 昏暗的；阴暗的；朦胧的",
+    "label": "aura/murky; ep1"
+  },
+  {
+    "question": "Ross: 我不会的，去她的，她甩掉我！",
+    "translation": "No I don't, to hell with her, she left me!",
+    "knowledge_point": "to hell with sb 去他鬼的",
+    "label": "to hell with sb; ep1"
+  },
+  {
+    "question": "Joy: 而且你一直都不知道她是女同性恋者",
+    "translation": "And you never knew she was a lesbian [ˈlezbiən]",
+    "knowledge_point": "lesbian[ˈlezbiən] 女同性恋",
+    "label": "lesbian; ep1"
+  },
+  {
+    "question": "Ross: 没有！！行了吧？！为何大家都围着这个话",
+    "translation": "No!! Okay?! Why does everyone keep fixating on that? She didn't know,",
+    "knowledge_point": "fixate [ˈfɪkset] ：to focus one's gaze on. 关注",
+    "label": "fixate; ep1"
+  },
+  {
+    "question": "Rachel: 我意识到比起巴里，我更喜欢这个船形卤肉盘！我自己都吓了一跳，巴瑞多么像猪头先生。我一直都认为他很眼熟",
+    "translation": "I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew he looked familiar",
+    "knowledge_point": "- turn sb on: to make sb excited or interested, especially sexually 使性兴奋；使感兴趣",
+    "label": "turn on; freaked out; familiar; ep1"
+  },
+  {
+    "question": "Rachel: 我知道咱俩有点疏远了，但你是我认识的唯一一个住在这个城市的人。",
+    "translation": "I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
+    "knowledge_point": "- drift MOVE SLOWLY 缓缓流动\n- The crowd drifted away from the scene of the accident. 人群渐渐从事故现场散去\n- drift aˈpart：to become less friendly or close to sb 逐渐疏远\n- As children we were very close, but as we grew up we just drifted apart. 孩提时我们亲密无间，但随着年龄的增长我们就逐渐疏远了",
+    "label": "drift apart; ep1"
+  },
+  {
+    "question": "Rachel: 我希望这不会是个问题……",
+    "translation": "I was kinda hoping that wouldn't be an issue...",
+    "knowledge_point": "was hoping that本希望，表示与当前相反",
+    "label": "was hoping that; ep1"
+  },
+  {
+    "question": "Monica: : 我想我们已经确定谁和莫妮卡住在这里了……",
+    "translation": "Well, I guess we've established who's staying here with Monica...",
+    "knowledge_point": "establish 确立，确定，建立",
+    "label": "establish; ep1"
+  },
+  {
+    "question": "Monica: 听着，这样也许是最好的，你知道吗？独立，掌控自己的生活",
+    "translation": "look, this is probably for the best, y'know? Independence. Taking control of your life",
+    "knowledge_point": "this is probably for the best,这样也许是最好的，",
+    "label": ". take control of; ep1"
+  },
+  {
+    "question": "**Rachel:** Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!",
+    "translation": "**Rachel:** Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!",
+    "knowledge_point": "be headed for 朝……前进/移动",
+    "label": "be headed for; ep1"
+  },
+  {
+    "question": "Ross: 不管怎样，如果你今晚不想一个人呆着，乔伊和钱德会过来帮我组装新家具。",
+    "translation": "Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.",
+    "knowledge_point": "come ˈover (to...) to come to a place, especially sb's house, to visit for a short time （尤指到某人家中）短暂造访",
+    "label": "come over; ep1"
+  },
+  {
+    "question": "**Joey:** 嘿，如果你再这样，我们就走了。",
+    "translation": "**Joey:** Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.",
+    "knowledge_point": "I'm outta here! *(= I'm leaving now.)* 我要走了！",
+    "label": "outta; ep1"
+  },
+  {
+    "question": "**Chandler:** 是的，请不要破坏这一切的乐趣。",
+    "translation": "Yes, please don't spoil all this fun.",
+    "knowledge_point": "spoil all this fun. 破坏这一切的乐趣",
+    "label": "spoil; ep1"
+  },
+  {
+    "question": "Joey: 你昏头了",
+    "translation": "You got screwed[skruːd]",
+    "knowledge_point": "screwed[skruːd] 喝醉了",
+    "label": "screwed; ep1"
+  },
+  {
+    "question": "**Chandler:** I'm sorry, I didn't catch your name. Paul, was it?",
+    "translation": "**Chandler:** I'm sorry, I didn't catch your name. Paul, was it?",
+    "knowledge_point": "",
+    "label": "catch; ep1"
+  },
+  {
+    "question": "Paul: 我真是个白痴。当她开始一周去看四五次牙医的时候，我想我应该明白的。我是说，牙齿能有多干净？",
+    "translation": "Paul：I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?",
+    "knowledge_point": "- catch on ( *informal* ) to understand sth 理解\n- He is very quick to catch on to things. 他领悟能力很强",
+    "label": "catch on; ep1"
+  },
+  {
+    "question": "**Monica:** 我哥哥现在也在经历这些，他现在一团糟。你是怎么熬过来的？",
+    "translation": "My brother's going through that right now, he's such a mess. How did you get through it?",
+    "knowledge_point": "- go through经历，遭受\n- mess 一团糟",
+    "label": "go through; ep1"
+  },
+  {
+    "question": "**Paul:**  你可以试试不小心打碎她的贵重物品，比如她的手表",
+    "translation": "Well, you might try accidentally breaking something valuable of hers, say her watch",
+    "knowledge_point": "accidentally adv. 意外地，偶然地； 意外失误地",
+    "label": "accidentally; ep1"
+  },
+  {
+    "question": "**Monica:** You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel. **Paul:** Ooh, steer clear of you.",
+    "translation": "**Monica:** You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel. **Paul:** Ooh, steer clear of you.",
+    "knowledge_point": "- 这种 \"I verbed by ...\" 的结构（例如 I shredded by...）在口语中有时会出现，可以理解为 \"I shredded [是动词，后面需要接宾语]\" 和 \"by [宾语]\" 的结合，意思是“我对待...的方式是撕碎它”或“我通过撕碎...来行事”，但整体表达的就是“我撕碎了...”这个事实。虽然更标准、不会引起歧义的说法是 \"**I shredded my boyfriend's favorite bath towel**\"，但在快速的口语交流中，像剧本中这样的说法也能被理解。\n- steer clear of 避开你，小心你",
+    "label": "steer clear of; ep1"
+  },
+  {
+    "question": "Rachel: 我知道某个女孩会非常幸运地成为巴里·芬克尔太太，但那不是我。并非因为我对自己有清晰的认知，但你得给我个机会向你道歉",
+    "translation": "I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me. And not that I have any idea who me is right now, but you just have to give me a chance to say sorry.",
+    "knowledge_point": "- I have any idea who me is 我知道我是谁\n- **“Not that I have any idea who I am right now”**：这部分是**让步**，意思是“**倒不是说我此刻很清楚自己是谁**”或“**并非因为我对自己有清晰的认知**”。说话者先承认自己目前状态可能有些混乱或不确定。\n- **“but you just have to give me a chance to say sorry to you”**：这部分是**转折和主句**，引出**核心请求**——“**但你无论如何得给我个机会向你道歉**”。",
+    "label": "让步状语从句; ep1"
+  },
+  {
+    "question": "**Chandler:** 你曾拥有一个女人四年的爱，度过了四年亲密无间的时光，但最终她却伤了你的心，这就是我们（指他自己和乔伊）不投身严肃关系的原因",
+    "translation": "Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!",
+    "knowledge_point": "- **主干部分**：句子核心结构是 \"Four years of closeness and sharing..., and that is why we don't do it!\"。这是一个由 `and`连接的并列句。\n- **\"at the end of which\" 从句**：`which`是一个关系代词，指代前面的整个核心内容 \"four years of closeness and sharing\"。`at the end of which`作为一个整体，在从句中充当时间状语，意思是“在这段为期四年的亲密关系结束时”\n- **从句部分**：`she ripped your heart out`是定语从句的主体部分，紧接在 `at the end of which`之后，描述了在四年亲密关系结束时的具体行为。\n- rip out 扯掉",
+    "label": "rip out; ep1"
+  },
+  {
+    "question": "**Ross:** 我真的不知道我是饿了还是饥渴了。",
+    "translation": "I honestly don't know if I'm hungry or horny['hɔ:ni].",
+    "knowledge_point": "horny['hɔ:ni].adj. <非正式>（引起）性冲动的，欲火中烧的；",
+    "label": "horny; ep1"
+  },
+  {
+    "question": "**Paul:** 不，这更像是第五次约会才该说的那种秘密。",
+    "translation": "No, it's, it's more of a fifth date kinda revelation[ˌrevəˈleɪʃ(ə)n].",
+    "knowledge_point": "- more of a：表示“更像是”“更属于”，强调话题的敏感性。\n- fifth date：指第五次约会，暗示关系发展阶段（初期约会→逐步深入）。\n- kinda：口语化缩写（= kind of），意为“某种”“那种”。\n- revelation：原意“揭露秘密”，此处指“坦白隐私”或“重大倾诉”",
+    "label": "revelation; ep1"
+  },
+  {
+    "question": "**Paul:** 自从她离开了我，我就没法，....做爱了。",
+    "translation": "Well, ever since she left me, um, I haven't been able to, uh, perform....Sexually[ˈsekʃəli].",
+    "knowledge_point": "Sexually[ˈsekʃəli] adv. 性别地；两性之间地",
+    "label": "sexually; ep1"
+  },
+  {
+    "question": "**Ross:** Do the words 'Billy, don't be a hero' mean anything to you?",
+    "translation": "“比利，不要做英雄”这句话对你们有什么意义吗？",
+    "knowledge_point": "",
+    "label": "mean; ep1"
+  },
+  {
+    "question": "**Joey:** 听着，当你正在状态时，如果你想做个西式煎蛋卷之类的…",
+    "translation": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...",
+    "knowledge_point": "- **on a roll** ：字面：连续成功、势头正旺（如赌场连赢）。\n- 口语缩略 = \"have got to\" 或 \"going to\"，表\"必须做\"或\"突然想做\"",
+    "label": "on a roll; ep1"
+  },
+  {
+    "question": "**Paul:** 不，我告诉你，昨晚就像我所有的生日，两次毕业典礼，再加上《证人》里谷仓升起的场景。",
+    "translation": "No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn[bɑːrn] raising scene in *Witness*.",
+    "knowledge_point": "- barn[bɑːrn]谷仓\n- **both graduations\"**这里的“两次毕业”通常指**高中毕业**和**大学毕业**。在美国文化中，毕业典礼是标志人生进入新阶段的重大里程碑事件，充满了成就感和对未来的憧憬\n- **plus the barn raising scene in Witness\"（再加上《证人》里盖谷仓的场景）**：这是理解这句话的关键，也是一个非常地道的文化引用。它指的是1985年哈里森·福特主演的电影《证人》中的一个经典片段。在影片中，阿米什社区成员齐心协力，用传统方式在一天之内建起一座新谷仓。这个场景充满了**社区的温暖、协作的成就感和淳朴的欢乐**，是电影中代表和谐与幸福的标志性画面",
+    "label": "ep1"
+  },
+  {
+    "question": "**Joey:** 我不能忍受这种辱骂",
+    "translation": "I will not take this abuse",
+    "knowledge_point": "take this abuse 忍受这种侮辱",
+    "label": "abuse; ep1"
+  },
+  {
+    "question": "**Monica:** 我觉得我们有点超前了。",
+    "translation": "I think we are getting a little ahead of selves [selvz]here.",
+    "knowledge_point": "selves n. 自己，自我，我们自己",
+    "label": "selves; ep1"
+  },
+  {
+    "question": "**Frannie:** . 你在开玩笑吧？保罗是我的功劳。你知道吗，在我之前，他的乌龟都没有动过",
+    "translation": "Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years",
+    "knowledge_point": "- 这里的 **\"take credit for\"** 不能直接理解为“欠人情”，而是指“（因为某事）居功”、“认为某人的成功归功于我”。弗兰妮在这里是得意地宣称，**保罗的“复活”得归功于她**，是她结束了保罗自称的“两年休眠期”\n- 这是整句话的精髓，一个非常美式俚语、带有性暗示的比喻\n- **\"snap\"**：原意指“迅速的啪嗒声”或“活力”，在这里隐喻**性功能的活力与恢复**\n- **\"turtle\"**：乌龟。在这里是一个形象的双关语，暗指**男性生殖器**（特别是当其缩在壳里的状态，用来比喻性无能）\n- **\"no snap in his turtle\"**：直译是“他的乌龟没了活力”，实际意思是**他的“小兄弟”抬不起头来**，即指性无能",
+    "label": "take credit for; ep1"
+  },
+  {
+    "question": "**Ross:** 我想我们正在寻找一个比“让你上床”更复杂的答案。",
+    "translation": "I assume we're looking for an answer more sophisticated [səˈfɪstɪkeɪtɪd] than 'to get you into bed'.",
+    "knowledge_point": "",
+    "label": "形容词作定语; ep1"
+  },
+  {
+    "question": "**Monica:** 是我吗？我是不是有某种灯塔只有狗和有严重情绪问题的人才能听到？",
+    "translation": "Is it me? Is it like I have some sort of beacon[ˈbiːkən]  that only dogs and men with severe[sɪˈvɪr] emotional problems can hear?",
+    "knowledge_point": "beacon[ˈbiːkən]  灯塔",
+    "label": "beacon; ep1"
+  },
+  {
+    "question": "**Rachel:**我没受过什么训练！我今天被笑掉了12个面试。",
+    "translation": "I'm trained for nothing! I was laughed out of twelve interviews today.",
+    "knowledge_point": "laughed out 大声笑",
+    "label": "laugh out; ep1"
+  },
+  {
+    "question": "**Chandler:** 但你却出奇地乐观。",
+    "translation": "And yet you're surprisingly upbeat[ˈʌpbiːt] .",
+    "knowledge_point": "upbeat[ˈʌpbiːt] adj. 乐观的，积极向上的",
+    "label": "upbeat; ep1"
+  },
+  {
+    "question": "**Rachel:** 我是说，我可以随时停止充电。",
+    "translation": "I mean, I can stop charging anytime I want.",
+    "knowledge_point": "- charge [ VN ] ~ sth to sth to record the cost of sth as an amount that sb has to pay 把…记在账上；在某人账上记入\n- They charge the calls to their credit-card account. 他们用信用卡账户支付电话费\n- ( *NAmE* ) Don't worry. I'll charge it *(= pay by credit card)* . 别担心，我会用信用卡付款的。",
+    "label": "charge; ep1"
+  },
+  {
+    "question": "**Monica:** 拜托，你不能一辈子都靠父母生活。",
+    "translation": "C'mon, you can't live off your parents your whole life.",
+    "knowledge_point": "live off 靠...生活",
+    "label": "live off; ep1"
+  },
+  {
+    "question": "**Phoebe:** 让他喘口气，第一次独自生活很难。",
+    "translation": "Give her a break, it's hard being on your own for the first time.",
+    "knowledge_point": "on your own完全依靠自己",
+    "label": "on your own; ep1"
+  },
+  {
+    "question": "**Rachel:** 不，我还没准备好！我怎么可能准备好呢？“嗨,瑞秋!你准备好不带降落伞跳出飞机了吗？”拜托，我做不到！",
+    "translation": "No. No, no, I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute?\" Come on, I can't do this!",
+    "knowledge_point": "parachute[ˈpærəʃuːt]跳伞",
+    "label": "parachutee[ˈpærəʃuːt]; ep1"
+  },
+  {
+    "question": "**Rachel:**你们知道么?我想我们就到此为止吧。这是一种象征性的姿态",
+    "translation": "Y'know what? I think we can just leave it at that. It's kinda like a symbolic [sɪmˈbɑːlɪk] gesture",
+    "knowledge_point": "- symbolic [sɪmˈbɑːlɪk] \tadj. 用作象征的，被认为是象征的；有象征意义的；\n- gesture\n- 1.[ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作\n- 2.[ C ] something that you do or say to show a particular feeling or intention （表明感情或意图的）姿态，表示",
+    "label": "symbolic gesture; ep1"
+  },
+  {
+    "question": "**Monica:**You gonna crash on the couch？",
+    "translation": "You gonna crash on the couch？",
+    "knowledge_point": "- **crash**：此处为俚语，意为“临时借宿”“凑合睡一晚”（非正式场合的过夜）\n- **You gonna...?**：口语缩略形式，完整句为 **“Are you going to...?”**",
+    "label": "crash; ep1"
+  },
+  {
+    "question": "**Ross:** 你知道你可能不知道，高中的时候，我对你非常着迷。",
+    "translation": "Okay. You know you probably didn't know this, but back in high school, I had a, um, major crush on you.",
+    "knowledge_point": "have crush on sb",
+    "label": "have crush on sb; ep1"
+  },
+  {
+    "question": "**Ross:**  哦。听着，你觉得——尽量不要让我强烈的脆弱成为任何因素——你觉得我可以约你出去吗？吗?也许?-",
+    "translation": "Oh. Listen, do you think- and try not to let my intense vulnerability[ˌvʌlnərəˈbɪləti] become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
+    "knowledge_point": "- vulnerability[ˌvʌlnərəˈbɪləti] 弱点\n- ask out约某人出去",
+    "label": "vulnerability; ask out; ep1"
+  },
+  {
+    "question": "**Monica:** 等等，你怎么了？",
+    "translation": "Waitwait, what's with you?",
+    "knowledge_point": "what's with you = what's the deal",
+    "label": "ep1"
+  }
+]
