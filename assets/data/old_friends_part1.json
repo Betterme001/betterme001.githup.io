@@ -1,19 +1,19 @@
 [
   {
     "question": "Joey: 少来了，你和那个人一起出去！那男人一定有问题！",
-    "translation": "Joey: Come on, you're going out with the guy! There's gotta be something wrong",
-    "knowledge_point": "- gotta= have got to 不得不，一定； 这里There's gotta 是There has to\n- 这里=must， 相当于There must be something wrong with him!",
+    "translation": "Joey: Come on, you're going out with the guy! There's gotta be something wrong with him!",
+    "knowledge_point": "- gotta=got to/have got to 不得不，一定； 这里There's gotta 是There has got to\n- 这里=must， 相当于There must be something wrong with him!",
     "label": "gotta; ep1"
   },
   {
     "question": "Phoebe: 我只是不想你重蹈我和卡尔的覆辙",
-    "translation": "don't want her to go through what I went through with Carl",
+    "translation": "I don't want her to go through what I went through with Carl",
     "knowledge_point": "- go through经历",
     "label": "名词性从句; ep1"
   },
   {
     "question": "Monica: ok, 大家放松些，这甚至不是一个约会，这仅仅是两个人一起出去吃顿饭但不发生关系",
-    "translation": "Okay, everybody relax. This is not even a date. It's just two people",
+    "translation": "Okay, everybody relax. This is not even a date. It's just two people going out to dinner and not having sex.",
     "knowledge_point": "动名词作表语，动名词的逻辑主语",
     "label": "动名词的逻辑主语; ep1"
   },
@@ -30,8 +30,8 @@
     "label": "aura/murky; ep1"
   },
   {
-    "question": "Ross: 我不会的，去她的，她甩掉我！",
-    "translation": "No I don't, to hell with her, she left me!",
+    "question": "Ross: 去她的，她甩掉我！",
+    "translation": "To hell with her, she left me!",
     "knowledge_point": "to hell with sb 去他鬼的",
     "label": "to hell with sb; ep1"
   },
@@ -43,7 +43,7 @@
   },
   {
     "question": "Ross: 没有！！行了吧？！为何大家都围着这个话",
-    "translation": "No!! Okay?! Why does everyone keep fixating on that? She didn't know,",
+    "translation": "No!! Okay?! Why does everyone keep fixating [ˈfɪkset] on that? She didn't know,how should I know?",
     "knowledge_point": "fixate [ˈfɪkset] ：to focus one's gaze on. 关注",
     "label": "fixate; ep1"
   },
@@ -56,7 +56,7 @@
   {
     "question": "Rachel: 我知道咱俩有点疏远了，但你是我认识的唯一一个住在这个城市的人。",
     "translation": "I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
-    "knowledge_point": "- drift MOVE SLOWLY 缓缓流动\n- The crowd drifted away from the scene of the accident. 人群渐渐从事故现场散去\n- drift aˈpart：to become less friendly or close to sb 逐渐疏远\n- As children we were very close, but as we grew up we just drifted apart. 孩提时我们亲密无间，但随着年龄的增长我们就逐渐疏远了",
+    "knowledge_point": "- kinda “kinda” 在这里是 “kind of” 的常见口语化缩写，意思是 **“有点儿”、“有几分”**。它作为一个副词，用来修饰后面的动词短语 “drifted apart”，使整个陈述的语气变得更委婉、不那么绝对\n- It's kinda cold today.（今天有点冷。）\n- I kinda like this movie.（我有点喜欢这部电影。）\n- drift MOVE SLOWLY 缓缓流动\n- The crowd drifted away from the scene of the accident. 人群渐渐从事故现场散去\n- drift apart：to become less friendly or close to sb 逐渐疏远\n- As children we were very close, but as we grew up we just drifted apart. 孩提时我们亲密无间，但随着年龄的增长我们就逐渐疏远了",
     "label": "drift apart; ep1"
   },
   {
@@ -78,7 +78,7 @@
     "label": ". take control of; ep1"
   },
   {
-    "question": "**Rachel:** Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!",
+    "question": "Rachel: 我本来要去阿鲁巴度蜜月的，所以没事了！",
     "translation": "**Rachel:** Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!",
     "knowledge_point": "be headed for 朝……前进/移动",
     "label": "be headed for; ep1"
@@ -108,7 +108,7 @@
     "label": "screwed; ep1"
   },
   {
-    "question": "**Chandler:** I'm sorry, I didn't catch your name. Paul, was it?",
+    "question": "Chandler: 对不起，我没听清你的名字。保罗，是吗？",
     "translation": "**Chandler:** I'm sorry, I didn't catch your name. Paul, was it?",
     "knowledge_point": "",
     "label": "catch; ep1"
@@ -120,49 +120,49 @@
     "label": "catch on; ep1"
   },
   {
-    "question": "**Monica:** 我哥哥现在也在经历这些，他现在一团糟。你是怎么熬过来的？",
+    "question": "Monica: 我哥哥现在也在经历这些，他现在一团糟。你是怎么熬过来的？",
     "translation": "My brother's going through that right now, he's such a mess. How did you get through it?",
     "knowledge_point": "- go through经历，遭受\n- mess 一团糟",
     "label": "go through; ep1"
   },
   {
-    "question": "**Paul:**  你可以试试不小心打碎她的贵重物品，比如她的手表",
-    "translation": "Well, you might try accidentally breaking something valuable of hers, say her watch",
-    "knowledge_point": "accidentally adv. 意外地，偶然地； 意外失误地",
+    "question": "Paul:  你可以试试不小心打碎她的贵重物品，比如她的手表",
+    "translation": "Well, you might try accidentally[ˌæksɪˈdentəli] breaking something valuable of hers, say her watch",
+    "knowledge_point": "accidentally[ˌæksɪˈdentəli]  adv. 意外地，偶然地； 意外失误地",
     "label": "accidentally; ep1"
   },
   {
-    "question": "**Monica:** You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel. **Paul:** Ooh, steer clear of you.",
+    "question": "Monica: 你真的弄坏了她的表？哇!我做过的最糟糕的事就是，我撕碎了男友最喜欢的浴巾。保罗：哦，离你远点。",
     "translation": "**Monica:** You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel. **Paul:** Ooh, steer clear of you.",
     "knowledge_point": "- 这种 \"I verbed by ...\" 的结构（例如 I shredded by...）在口语中有时会出现，可以理解为 \"I shredded [是动词，后面需要接宾语]\" 和 \"by [宾语]\" 的结合，意思是“我对待...的方式是撕碎它”或“我通过撕碎...来行事”，但整体表达的就是“我撕碎了...”这个事实。虽然更标准、不会引起歧义的说法是 \"**I shredded my boyfriend's favorite bath towel**\"，但在快速的口语交流中，像剧本中这样的说法也能被理解。\n- steer clear of 避开你，小心你",
     "label": "steer clear of; ep1"
   },
   {
     "question": "Rachel: 我知道某个女孩会非常幸运地成为巴里·芬克尔太太，但那不是我。并非因为我对自己有清晰的认知，但你得给我个机会向你道歉",
-    "translation": "I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me. And not that I have any idea who me is right now, but you just have to give me a chance to say sorry.",
+    "translation": "I know that some girl is going to be incredibly[ɪnˈkredəbli] lucky to become Mrs. Barry Finkel, but it isn't me, it's not me. And not that I have any idea who me is right now, but you just have to give me a chance to apologize.",
     "knowledge_point": "- I have any idea who me is 我知道我是谁\n- **“Not that I have any idea who I am right now”**：这部分是**让步**，意思是“**倒不是说我此刻很清楚自己是谁**”或“**并非因为我对自己有清晰的认知**”。说话者先承认自己目前状态可能有些混乱或不确定。\n- **“but you just have to give me a chance to say sorry to you”**：这部分是**转折和主句**，引出**核心请求**——“**但你无论如何得给我个机会向你道歉**”。",
-    "label": "让步状语从句; ep1"
+    "label": "让步状语从句; to do作原因状语; ep1"
   },
   {
-    "question": "**Chandler:** 你曾拥有一个女人四年的爱，度过了四年亲密无间的时光，但最终她却伤了你的心，这就是我们（指他自己和乔伊）不投身严肃关系的原因",
+    "question": "Chandler: 你曾拥有一个女人四年的爱，度过了四年亲密无间的时光，但最终她却伤了你的心，这就是我们（指他自己和乔伊）不投身严肃关系的原因",
     "translation": "Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!",
     "knowledge_point": "- **主干部分**：句子核心结构是 \"Four years of closeness and sharing..., and that is why we don't do it!\"。这是一个由 `and`连接的并列句。\n- **\"at the end of which\" 从句**：`which`是一个关系代词，指代前面的整个核心内容 \"four years of closeness and sharing\"。`at the end of which`作为一个整体，在从句中充当时间状语，意思是“在这段为期四年的亲密关系结束时”\n- **从句部分**：`she ripped your heart out`是定语从句的主体部分，紧接在 `at the end of which`之后，描述了在四年亲密关系结束时的具体行为。\n- rip out 扯掉",
     "label": "rip out; ep1"
   },
   {
-    "question": "**Ross:** 我真的不知道我是饿了还是饥渴了。",
+    "question": "Ross: 我真的不知道我是饿了还是饥渴了。",
     "translation": "I honestly don't know if I'm hungry or horny['hɔ:ni].",
     "knowledge_point": "horny['hɔ:ni].adj. <非正式>（引起）性冲动的，欲火中烧的；",
     "label": "horny; ep1"
   },
   {
-    "question": "**Paul:** 不，这更像是第五次约会才该说的那种秘密。",
+    "question": "Paul:不，这更像是第五次约会才该说的那种秘密。",
     "translation": "No, it's, it's more of a fifth date kinda revelation[ˌrevəˈleɪʃ(ə)n].",
-    "knowledge_point": "- more of a：表示“更像是”“更属于”，强调话题的敏感性。\n- fifth date：指第五次约会，暗示关系发展阶段（初期约会→逐步深入）。\n- kinda：口语化缩写（= kind of），意为“某种”“那种”。\n- revelation：原意“揭露秘密”，此处指“坦白隐私”或“重大倾诉”",
+    "knowledge_point": "- more of a：表示“更像是”“更属于”，强调话题的敏感性。\n- fifth date：指第五次约会，暗示关系发展阶段（初期约会→逐步深入）。\n- kinda：口语化缩写（= kind of），意为“某种”“那种”。意为“一种第五次约会才会有的那种坦白”\n- revelation：原意“揭露秘密”，此处指“坦白隐私”或“重大倾诉”",
     "label": "revelation; ep1"
   },
   {
-    "question": "**Paul:** 自从她离开了我，我就没法，....做爱了。",
+    "question": "Paul: 自从她离开了我，我就没法，....做爱了。",
     "translation": "Well, ever since she left me, um, I haven't been able to, uh, perform....Sexually[ˈsekʃəli].",
     "knowledge_point": "Sexually[ˈsekʃəli] adv. 性别地；两性之间地",
     "label": "sexually; ep1"
@@ -176,7 +176,7 @@
   {
     "question": "**Joey:** 听着，当你正在状态时，如果你想做个西式煎蛋卷之类的…",
     "translation": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...",
-    "knowledge_point": "- **on a roll** ：字面：连续成功、势头正旺（如赌场连赢）。\n- 口语缩略 = \"have got to\" 或 \"going to\"，表\"必须做\"或\"突然想做\"",
+    "knowledge_point": "- gotta = have got to\n- **on a roll** ：字面：连续成功、势头正旺（如赌场连赢）。\n- 口语缩略 = \"have got to\" 或 \"going to\"，表\"必须做\"或\"突然想做\"",
     "label": "on a roll; ep1"
   },
   {
@@ -186,19 +186,19 @@
     "label": "ep1"
   },
   {
-    "question": "**Joey:** 我不能忍受这种辱骂",
+    "question": "Joey: 我不能忍受这种辱骂",
     "translation": "I will not take this abuse",
     "knowledge_point": "take this abuse 忍受这种侮辱",
     "label": "abuse; ep1"
   },
   {
-    "question": "**Monica:** 我觉得我们有点超前了。",
+    "question": "Monica: 我觉得我们有点超前了。",
     "translation": "I think we are getting a little ahead of selves [selvz]here.",
     "knowledge_point": "selves n. 自己，自我，我们自己",
     "label": "selves; ep1"
   },
   {
-    "question": "**Frannie:** . 你在开玩笑吧？保罗是我的功劳。你知道吗，在我之前，他的乌龟都没有动过",
+    "question": "Frannie: . 你在开玩笑吧？保罗是我的功劳。你知道吗，在我之前，他的乌龟都没有动过",
     "translation": "Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years",
     "knowledge_point": "- 这里的 **\"take credit for\"** 不能直接理解为“欠人情”，而是指“（因为某事）居功”、“认为某人的成功归功于我”。弗兰妮在这里是得意地宣称，**保罗的“复活”得归功于她**，是她结束了保罗自称的“两年休眠期”\n- 这是整句话的精髓，一个非常美式俚语、带有性暗示的比喻\n- **\"snap\"**：原意指“迅速的啪嗒声”或“活力”，在这里隐喻**性功能的活力与恢复**\n- **\"turtle\"**：乌龟。在这里是一个形象的双关语，暗指**男性生殖器**（特别是当其缩在壳里的状态，用来比喻性无能）\n- **\"no snap in his turtle\"**：直译是“他的乌龟没了活力”，实际意思是**他的“小兄弟”抬不起头来**，即指性无能",
     "label": "take credit for; ep1"
@@ -217,13 +217,13 @@
   },
   {
     "question": "**Rachel:**我没受过什么训练！我今天被笑掉了12个面试。",
-    "translation": "I'm trained for nothing! I was laughed out of twelve interviews today.",
+    "translation": "I'm trained for nothing! I was laughed [læft] out of twelve interviews today.",
     "knowledge_point": "laughed out 大声笑",
     "label": "laugh out; ep1"
   },
   {
     "question": "**Chandler:** 但你却出奇地乐观。",
-    "translation": "And yet you're surprisingly upbeat[ˈʌpbiːt] .",
+    "translation": "And yet you're surprisingly [sərˈpraɪzɪŋli] upbeat[ˈʌpbiːt] .",
     "knowledge_point": "upbeat[ˈʌpbiːt] adj. 乐观的，积极向上的",
     "label": "upbeat; ep1"
   },
@@ -234,33 +234,33 @@
     "label": "charge; ep1"
   },
   {
-    "question": "**Monica:** 拜托，你不能一辈子都靠父母生活。",
+    "question": "Monica: 拜托，你不能一辈子都靠父母生活。",
     "translation": "C'mon, you can't live off your parents your whole life.",
     "knowledge_point": "live off 靠...生活",
     "label": "live off; ep1"
   },
   {
-    "question": "**Phoebe:** 让他喘口气，第一次独自生活很难。",
+    "question": "Phoebe: 让他喘口气，第一次独自生活很难。",
     "translation": "Give her a break, it's hard being on your own for the first time.",
     "knowledge_point": "on your own完全依靠自己",
     "label": "on your own; ep1"
   },
   {
-    "question": "**Rachel:** 不，我还没准备好！我怎么可能准备好呢？“嗨,瑞秋!你准备好不带降落伞跳出飞机了吗？”拜托，我做不到！",
-    "translation": "No. No, no, I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute?\" Come on, I can't do this!",
+    "question": "Rachel: 不，我还没准备好！我怎么可能准备好呢？“嗨,瑞秋!你准备好不带降落伞跳出飞机了吗？”拜托，我做不到！",
+    "translation": "No. No, no, I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute[ˈpærəʃuːt]?\" Come on, I can't do this!",
     "knowledge_point": "parachute[ˈpærəʃuːt]跳伞",
-    "label": "parachutee[ˈpærəʃuːt]; ep1"
+    "label": "parachute; ep1"
   },
   {
-    "question": "**Rachel:**你们知道么?我想我们就到此为止吧。这是一种象征性的姿态",
+    "question": "Rachel:你们知道么?我想我们就到此为止吧。这是一种象征性的姿态",
     "translation": "Y'know what? I think we can just leave it at that. It's kinda like a symbolic [sɪmˈbɑːlɪk] gesture",
     "knowledge_point": "- symbolic [sɪmˈbɑːlɪk] \tadj. 用作象征的，被认为是象征的；有象征意义的；\n- gesture\n- 1.[ C U ] a movement that you make with your hands, your head or your face to show a particular meaning 手势；姿势；示意动作\n- 2.[ C ] something that you do or say to show a particular feeling or intention （表明感情或意图的）姿态，表示",
     "label": "symbolic gesture; ep1"
   },
   {
-    "question": "**Monica:**You gonna crash on the couch？",
+    "question": "Monica:你要睡在沙发上吗？",
     "translation": "You gonna crash on the couch？",
-    "knowledge_point": "- **crash**：此处为俚语，意为“临时借宿”“凑合睡一晚”（非正式场合的过夜）\n- **You gonna...?**：口语缩略形式，完整句为 **“Are you going to...?”**",
+    "knowledge_point": "- gonna = are going to/going to\n- **crash**：此处为俚语，意为“临时借宿”“凑合睡一晚”（非正式场合的过夜）\n- **You gonna...?**：口语缩略形式，完整句为 **“Are you going to...?”**",
     "label": "crash; ep1"
   },
   {
@@ -272,7 +272,7 @@
   {
     "question": "**Ross:**  哦。听着，你觉得——尽量不要让我强烈的脆弱成为任何因素——你觉得我可以约你出去吗？吗?也许?-",
     "translation": "Oh. Listen, do you think- and try not to let my intense vulnerability[ˌvʌlnərəˈbɪləti] become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
-    "knowledge_point": "- vulnerability[ˌvʌlnərəˈbɪləti] 弱点\n- ask out约某人出去",
+    "knowledge_point": "- vulnerability[ˌvʌlnərəˈbɪləti] 弱点\n- ask out约某人出去\n- if I asked you out 虚拟语气，在这句台词中，罗斯并不是在描述一个真实的过去事件。他是在此刻提出一个关于未来的、试探性的邀请。他用 \"if I asked you out\" 而不是 \"if I ask you out\"，是通过虚拟语气来实现一种“**距离效应**”\n- 使用过去时态，在心理上制造了一种距离，仿佛这个想法只是他脑海中的一个假设，而不是一个迫切的、当下的要求。\n- **让语气更委婉**：这种“距离”使得邀请听起来不那么直接和咄咄逼人，显得更加犹豫和谦逊，这正好符合罗斯当时紧张、害怕被拒绝的心理状态",
     "label": "vulnerability; ask out; ep1"
   },
   {
@@ -280,5 +280,143 @@
     "translation": "Waitwait, what's with you?",
     "knowledge_point": "what's with you = what's the deal",
     "label": "ep1"
+  },
+  {
+    "question": "**Chandler:** 我觉得对我们来说，接吻就像是开场表演，你知道吗？我的意思是，这就像在平克·弗洛伊德（Pink Floyd）出场之前，你必须坐着看完一场单口相声。",
+    "translation": "I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.",
+    "knowledge_point": "- opening act 开场表演",
+    "label": "opening act; ep2"
+  },
+  {
+    "question": "**Chandler:**我的意思是，我们在车里，我们在对抗交通……基本上就是努力保持清醒。",
+    "translation": "I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.",
+    "knowledge_point": "- **\"Fighting traffic\"**：堵车时的烦躁，隐喻男性在亲密行为后的疲惫和归心似箭。\n- **\"Trying to stay awake\"**：字面指开车时强打精神，实际暗示男性事后只想休息，而非继续温存",
+    "label": "ep2"
+  },
+  {
+    "question": "**Rachel:**  好吧，给你们个建议：把喜剧演员带回来。否则下次你会发现自己坐在家里，独自听那张专辑",
+    "translation": "Yeah, well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone",
+    "knowledge_point": "- 暗示男性若忽视情感需求，将面临“孤独听唱片”（即失去伴侣）的结果，为后续瑞秋独立女性形象的塑造埋下伏笔。",
+    "label": "album; ep2"
+  },
+  {
+    "question": "**Marsha:** 他在外面乱搞（用棍棒打其他女人的头），而她却坐在家里试图把地毯上的乳齿象味弄掉！",
+    "translation": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
+    "knowledge_point": "-  “He’s” 是 “He is” 的缩写。这里的 “is banging” 是现在进行时，表示他正在进行的动作。”out” 是副词，表示“在外面”的状态 。”bang ... over the head with a club” 描绘了用棍子击打头部的动作",
+    "label": "bang; ep2"
+  },
+  {
+    "question": "Ross：玛莎，这些是穴居人。好吧?他们有这样的问题：“哎呀，冰川越来越近了。”看到了吗?",
+    "translation": "Marsha, these are cave people. Okay? They have issues like 'Gee, that  glacier's getting kinda close.' See?",
+    "knowledge_point": "- Gee ，感叹词 (Interjection)，惊讶、诧异、兴奋、轻微的沮丧，\"Jesus\"（耶稣）的委婉说法，为了避免直接使用宗教名词",
+    "label": "Gee; ep2"
+  },
+  {
+    "question": "**Ross:** 要不我，呃，等到冰河世纪时候再找你……",
+    "translation": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.",
+    "knowledge_point": "- **\"How about I'll, uh, catch up with you...\"**：“要不我，呃，回头再找你……” 这是一种常见的、想要礼貌结束对话的开场白，但后面跟上一个荒谬的时间点，就让整个句子充满了讽刺。这实际上是一种拒绝继续交流的讽刺说法，意思是“**我们永远也达不成共识，所以这个话题永远不要再提了**”。",
+    "label": "ep2"
+  },
+  {
+    "question": "**Carol:** 马蒂还是很妄想症的",
+    "translation": "Marty's still totally paranoid.",
+    "knowledge_point": "",
+    "label": "paranoid; ep2"
+  },
+  {
+    "question": "Monica: （从乔伊手里接过一杯酒）你喝完了吗？Joey：是啊，抱歉，我咽得太慢了。",
+    "translation": "(taking a drink from Joey) Are you through with that?  Joey: Yeah, sorry, the swallowing slowed me down.",
+    "knowledge_point": "- 核心意思是**讽刺莫妮卡催促得太急，连完成吞咽动作这种基本的生理过程都显得“耽误时间”了**",
+    "label": "slow down; ep2"
+  },
+  {
+    "question": "**Chandler:** 哦，那是我的。我给自己写了张便条，然后我意识到我不需要它，所以我把它揉成一团，然后…",
+    "translation": "Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and..",
+    "knowledge_point": "- ball （使）成球状（或团块）\n- ball it up 形成球状：将某物形成球状。",
+    "label": "ball; ep2"
+  },
+  {
+    "question": "**Monica:**  抱歉，各位，我只是不想，让他们有藉题发挥的机会",
+    "translation": "Look , I'm sorry, guys, I just don't wanna give them any more ammunition [ˌæmjəˈnɪʃ(ə)n] than they already have.",
+    "knowledge_point": "ammunition [ˌæmjəˈnɪʃ(ə)n] （批评或辩论中攻击他人的）把柄，证据",
+    "label": "ammunition; ep2"
+  },
+  {
+    "question": "**Phoebe:** 莫妮卡——嗨！呃，莫妮卡，你有点吓到我了。我的意思是，你现在整个人慌慌张张、手忙脚乱的。状态不好",
+    "translation": "Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.",
+    "knowledge_point": "- **\"chaotic and twirly\"**：这是菲比独创的、非常形象的表达。`chaotic`意为“混乱的”，`twirly`本意是“旋转的”，这里生动地描绘了莫妮卡像无头苍蝇一样忙乱、团团转的样子。翻译成“慌慌张张、手忙脚乱”或“忙乱慌张的”非常贴切",
+    "label": "ep2"
+  },
+  {
+    "question": "**Monica:** 那是因为在我父母看来，罗斯是不会犯错的。你看，他是王子。显然他们在我出生前举行了盛大的仪式。",
+    "translation": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
+    "knowledge_point": "- do no wrong.不会犯错的",
+    "label": "as far as; ep2"
+  },
+  {
+    "question": "**Rachel:**  哦，好像我还不够害怕明天把它还给他……“嗨,巴里!还记得我吗?我就是那个在你全家面前践踏你的心的戴面纱的女孩！”哦，天哪，现在我要把戒指还回去了，没有戒指，这就更难了……",
+    "translation": "Oh, like I wasn't dreading  [ˈdredɪŋ]  tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
+    "knowledge_point": "- dread [dred] 畏惧，害怕\n- veil [veɪl] 面纱\n- stomp[stɑːmp] （尤指生气时）跺脚，重踩；跳顿足舞",
+    "label": "dread; ep2"
+  },
+  {
+    "question": "**Chandler:** 莫妮卡，你知道在千层面里找订婚戒指可不是这样的…",
+    "translation": "Now, Monica, you know that's not how you look for an engagement ring in a lasagne...",
+    "knowledge_point": "engagement 订婚戒指",
+    "label": "engagement; ep2"
+  },
+  {
+    "question": "**Ross:** 是的。这样做两个小时，你可能就和我现在一样了。",
+    "translation": "Yeah. Do that for another two hours, you might be where I am right about now.",
+    "knowledge_point": "",
+    "label": "where; ep2"
+  },
+  {
+    "question": "**Chandler: 跟罗斯这事儿一比，枕头那点烦恼是不是就显得微不足道了？**",
+    "translation": "Kinda puts that whole pillow thing in perspective, huh, Mon?",
+    "knowledge_point": "- `put something in perspective`：正确看待某事，认清其相对重要性\n- 钱德勒这句是典型的美式讽刺幽默，核心意思是：**“跟罗斯这事儿一比，枕头那点烦恼是不是就显得微不足道了？”**",
+    "label": "perspective; ep2"
+  },
+  {
+    "question": "**Rachel:**",
+    "translation": "Well now, how-how do you fit into this whole thing?",
+    "knowledge_point": "",
+    "label": "ep2"
+  },
+  {
+    "question": "**Ross:** 卡罗尔说她和苏珊想让我参与进来，但如果我觉得不舒服，我就不必参与了，基本上完全由我来决定。",
+    "translation": "Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved basically it's entirely up to me.",
+    "knowledge_point": "",
+    "label": "involved; ep2"
+  },
+  {
+    "question": "**Chandler:** 我的意思是，你的大部分工作已经完成了。",
+    "translation": "**Mr. Geller:** (To Ross) Do you remember the Ludwins? The big one had a thing",
+    "knowledge_point": "",
+    "label": "ep2; ep2"
+  },
+  {
+    "question": "**Monica:**我知道这听起来很自私，但是，你打算提起孩子和拉拉的事吗？因为我觉得这样可以减轻我的压力。",
+    "translation": "I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
+    "knowledge_point": "",
+    "label": "ep2"
+  },
+  {
+    "question": "Mr. Geller: …我读到这些女人试图拥有一切，我感谢上帝，《我们的小口琴》似乎没有这个问题。Monica：（拼命想转移话题）那么，罗斯，你怎么了？什么故事吗?（把胳膊肘伸进他手里。）没有新闻，没有趣闻轶事跟大家分享吗？",
+    "translation": "...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem. **Monica:** (trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?",
+    "knowledge_point": "",
+    "label": "ep2"
+  },
+  {
+    "question": "**Phoebe:** 是的。我们不说话。她是那种精力充沛，有事业心的人。",
+    "translation": "Yeah. We don't speak. She's like this high-powered, driven career type.",
+    "knowledge_point": "",
+    "label": "ep2"
+  },
+  {
+    "question": "**Ross:** 嗯，你可能想要避开“被甩”这个词。很有可能他会变成这样，一个支离破碎的人，所以你应该尽量不要看起来太棒，我知道这很难。",
+    "translation": "",
+    "knowledge_point": "",
+    "label": "ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2"
   }
 ]
