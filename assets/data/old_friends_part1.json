@@ -2,7 +2,7 @@
   {
     "question": "Joey: 少来了，你和那个人一起出去！那男人一定有问题！",
     "translation": "Joey: Come on, you're going out with the guy! There's gotta be something wrong with him!",
-    "knowledge_point": "- gotta=got to/have got to 不得不，一定； 这里There's gotta 是There has got to\n- 这里=must， 相当于There must be something wrong with him!",
+    "knowledge_point": "- gotta=got to/have got to 不得不，一定； 这里There's gotta 是There has got to\n- 这里=must， 相当于There must be something wrong with him!\n- go out with <俚>约会",
     "label": "gotta; ep1"
   },
   {
@@ -16,6 +16,18 @@
     "translation": "Okay, everybody relax. This is not even a date. It's just two people going out to dinner and not having sex.",
     "knowledge_point": "动名词作表语，动名词的逻辑主语",
     "label": "动名词的逻辑主语; ep1"
+  },
+  {
+    "question": "Chandler: 好了，我梦到回到了高中，我站在自助餐厅中间，我意识到我全身赤裸",
+    "translation": "Chandler: Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally…naked",
+    "knowledge_point": "cafeteria [ˌkæfəˈtɪriə]",
+    "label": "cafeteria; ep1"
+  },
+  {
+    "question": "Ross: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...",
+    "translation": "Ross: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...",
+    "knowledge_point": "intestine",
+    "label": "intestine; ep1"
   },
   {
     "question": "Monica: (向大家解释）卡罗今天把她的东西搬走了",
@@ -50,7 +62,7 @@
   {
     "question": "Rachel: 我意识到比起巴里，我更喜欢这个船形卤肉盘！我自己都吓了一跳，巴瑞多么像猪头先生。我一直都认为他很眼熟",
     "translation": "I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew he looked familiar",
-    "knowledge_point": "- turn sb on: to make sb excited or interested, especially sexually 使性兴奋；使感兴趣",
+    "knowledge_point": "- turn sb on: to make sb excited or interested, especially sexually 使性兴奋；使感兴趣\n- gravy n.肉汁\n- gravy boat（调味汁碗）",
     "label": "turn on; freaked out; familiar; ep1"
   },
   {
@@ -68,14 +80,14 @@
   {
     "question": "Monica: : 我想我们已经确定谁和莫妮卡住在这里了……",
     "translation": "Well, I guess we've established who's staying here with Monica...",
-    "knowledge_point": "establish 确立，确定，建立",
+    "knowledge_point": "- establish 确立，确定，建立\n- \"Well, it seems to Rachel that I have already agreed on the whole moving in thing( that is established an agreement on her moving in), although I have nothing to do with it\"",
     "label": "establish; ep1"
   },
   {
     "question": "Monica: 听着，这样也许是最好的，你知道吗？独立，掌控自己的生活",
     "translation": "look, this is probably for the best, y'know? Independence. Taking control of your life",
-    "knowledge_point": "this is probably for the best,这样也许是最好的，",
-    "label": ". take control of; ep1"
+    "knowledge_point": "- this is probably for the best,这样也许是最好的\n- be for the best 是一个极其口语化的表达法，表示某件事情可能并不像看上去那么糟，也颇有点良药虽苦，其利于病的意思，比如：I know it's hard for you to leave him, but it's for the best.",
+    "label": "for the best; ep1"
   },
   {
     "question": "Rachel: 我本来要去阿鲁巴度蜜月的，所以没事了！",
@@ -88,6 +100,12 @@
     "translation": "Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.",
     "knowledge_point": "come ˈover (to...) to come to a place, especially sb's house, to visit for a short time （尤指到某人家中）短暂造访",
     "label": "come over; ep1"
+  },
+  {
+    "question": "Ross: 我想呆在这，今天真的很漫长",
+    "translation": "Well actually thanks, but I think I'm just gonna hang out here tonight.It's been kinda a long day.",
+    "knowledge_point": "hang out here：呆在这儿。朋友之间相处，象FRIENDS他们一起喝咖啡，在MON家聊天之类的，都是hang out。",
+    "label": "hang out; ep1"
   },
   {
     "question": "**Joey:** 嘿，如果你再这样，我们就走了。",
@@ -106,6 +124,12 @@
     "translation": "You got screwed[skruːd]",
     "knowledge_point": "screwed[skruːd] 喝醉了",
     "label": "screwed; ep1"
+  },
+  {
+    "question": "这是《亲爱的日记》时刻",
+    "translation": "this is a Dear Diary moment.",
+    "knowledge_point": "a Dear Diary moment***\\*:\\**** when Americans keep the diary(n.日记), normally, the first words they write down must be “Dear Diary”, apparently, Chandler mocks Monica that she is so attracted to Paul with his stereotyped(adj.成年老调的) Chandler sarcastic tone.",
+    "label": "a Dear Diary moment; ep1"
   },
   {
     "question": "Chandler: 对不起，我没听清你的名字。保罗，是吗？",
@@ -130,6 +154,12 @@
     "translation": "Well, you might try accidentally[ˌæksɪˈdentəli] breaking something valuable of hers, say her watch",
     "knowledge_point": "accidentally[ˌæksɪˈdentəli]  adv. 意外地，偶然地； 意外失误地",
     "label": "accidentally; ep1"
+  },
+  {
+    "question": "Paul:",
+    "translation": "Me, I went for the watch.",
+    "knowledge_point": "- go for sth 选择\n- go for sb 袭击",
+    "label": "go for; ep1"
   },
   {
     "question": "Monica: 你真的弄坏了她的表？哇!我做过的最糟糕的事就是，我撕碎了男友最喜欢的浴巾。保罗：哦，离你远点。",
@@ -163,20 +193,20 @@
   },
   {
     "question": "Paul: 自从她离开了我，我就没法，....做爱了。",
-    "translation": "Well, ever since she left me, um, I haven't been able to, uh, perform....Sexually[ˈsekʃəli].",
-    "knowledge_point": "Sexually[ˈsekʃəli] adv. 性别地；两性之间地",
+    "translation": "Well, ever since she walked out on me, um, I haven't been able to, uh, perform....Sexually[ˈsekʃəli].",
+    "knowledge_point": "- Sexually[ˈsekʃəli] adv. 性别地；两性之间地\n- perform sexually  v.have a sex\n-  walked out on:  v.abandon;run out on 遗弃 抛弃[eg:He just walked out on his wife and family without saying a word]",
     "label": "sexually; ep1"
   },
   {
-    "question": "**Ross:** Do the words 'Billy, don't be a hero' mean anything to you?",
-    "translation": "“比利，不要做英雄”这句话对你们有什么意义吗？",
+    "question": "**Ross:** 比利，不要做英雄”这句话对你们没有什么意义吗？",
+    "translation": "Do the words 'Billy, don't be a hero' mean anything to you?“",
     "knowledge_point": "",
     "label": "mean; ep1"
   },
   {
     "question": "**Joey:** 听着，当你正在状态时，如果你想做个西式煎蛋卷之类的…",
-    "translation": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...",
-    "knowledge_point": "- gotta = have got to\n- **on a roll** ：字面：连续成功、势头正旺（如赌场连赢）。\n- 口语缩略 = \"have got to\" 或 \"going to\"，表\"必须做\"或\"突然想做\"",
+    "translation": "Listen, while you're on a roll, if you feel like you gotta make， like a Western omelet or something...",
+    "knowledge_point": "- gotta = have got to\n- **on a roll** ：字面：连续成功、势头正旺（如赌场连赢）。",
     "label": "on a roll; ep1"
   },
   {
@@ -247,7 +277,7 @@
   },
   {
     "question": "Rachel: 不，我还没准备好！我怎么可能准备好呢？“嗨,瑞秋!你准备好不带降落伞跳出飞机了吗？”拜托，我做不到！",
-    "translation": "No. No, no, I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute[ˈpærəʃuːt]?\" Come on, I can't do this!",
+    "translation": "No. I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute[ˈpærəʃuːt]?\" Come on, I can't do this!",
     "knowledge_point": "parachute[ˈpærəʃuːt]跳伞",
     "label": "parachute; ep1"
   },
@@ -270,63 +300,63 @@
     "label": "have crush on sb; ep1"
   },
   {
-    "question": "**Ross:**  哦。听着，你觉得——尽量不要让我强烈的脆弱成为任何因素——你觉得我可以约你出去吗？吗?也许?-",
-    "translation": "Oh. Listen, do you think- and try not to let my intense vulnerability[ˌvʌlnərəˈbɪləti] become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
-    "knowledge_point": "- vulnerability[ˌvʌlnərəˈbɪləti] 弱点\n- ask out约某人出去\n- if I asked you out 虚拟语气，在这句台词中，罗斯并不是在描述一个真实的过去事件。他是在此刻提出一个关于未来的、试探性的邀请。他用 \"if I asked you out\" 而不是 \"if I ask you out\"，是通过虚拟语气来实现一种“**距离效应**”\n- 使用过去时态，在心理上制造了一种距离，仿佛这个想法只是他脑海中的一个假设，而不是一个迫切的、当下的要求。\n- **让语气更委婉**：这种“距离”使得邀请听起来不那么直接和咄咄逼人，显得更加犹豫和谦逊，这正好符合罗斯当时紧张、害怕被拒绝的心理状态",
+    "question": "**Ross:**  哦。听着，尽量不要让我强烈的脆弱成为任何因素——你觉得我可以约你出去吗？吗?也许?-",
+    "translation": "Oh. Listen,Try not to let my intense vulnerability[ˌvʌlnərəˈbɪləti] become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
+    "knowledge_point": "- vulnerability[ˌvʌlnərəˈbɪləti] 弱点\n- ask out约某人出去\n- if I asked you out 虚拟语气，在这句台词中，罗斯并不是在描述一个真实的过去事件。他是在此刻提出一个关于未来的、试探性的邀请。他用 \"if I asked you out\" 而不是 \"if I ask you out\"，是通过虚拟语气来实现一种“**距离效应**”\n- 使用过去时态，在心理上制造了一种距离，仿佛这个想法只是他脑海中的一个假设，而不是一个迫切的、当下的要求。\n- **让语气更委婉**：这种“距离”使得邀请听起来不那么直接和咄咄逼人，显得更加犹豫和谦逊，这正好符合罗斯当时紧张、害怕被拒绝的心理状态\n- some time adv.在未来的某个时候",
     "label": "vulnerability; ask out; ep1"
   },
   {
     "question": "**Monica:** 等等，你怎么了？",
-    "translation": "Waitwait, what's with you?",
+    "translation": "Wait, what's with you?",
     "knowledge_point": "what's with you = what's the deal",
     "label": "ep1"
   },
   {
     "question": "**Chandler:** 我觉得对我们来说，接吻就像是开场表演，你知道吗？我的意思是，这就像在平克·弗洛伊德（Pink Floyd）出场之前，你必须坐着看完一场单口相声。",
-    "translation": "I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.",
+    "translation": "I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd[flɔɪd] comes out.",
     "knowledge_point": "- opening act 开场表演",
     "label": "opening act; ep2"
   },
   {
-    "question": "**Chandler:**我的意思是，我们在车里，我们在对抗交通……基本上就是努力保持清醒。",
-    "translation": "I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.",
-    "knowledge_point": "- **\"Fighting traffic\"**：堵车时的烦躁，隐喻男性在亲密行为后的疲惫和归心似箭。\n- **\"Trying to stay awake\"**：字面指开车时强打精神，实际暗示男性事后只想休息，而非继续温存",
-    "label": "ep2"
-  },
-  {
     "question": "**Rachel:**  好吧，给你们个建议：把喜剧演员带回来。否则下次你会发现自己坐在家里，独自听那张专辑",
-    "translation": "Yeah, well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone",
+    "translation": "Well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album['ælbəm] alone",
     "knowledge_point": "- 暗示男性若忽视情感需求，将面临“孤独听唱片”（即失去伴侣）的结果，为后续瑞秋独立女性形象的塑造埋下伏笔。",
     "label": "album; ep2"
   },
   {
+    "question": "**Rachel:**  他有一些烦恼",
+    "translation": "Well, she has issues.",
+    "knowledge_point": "- Well, she has issues: Issues在这里是烦恼、问题的意思，以后碰到别人好像闷闷不乐的时候，你就可以上前来上一句Do you have any issues?",
+    "label": "issues; ep2"
+  },
+  {
     "question": "**Marsha:** 他在外面乱搞（用棍棒打其他女人的头），而她却坐在家里试图把地毯上的乳齿象味弄掉！",
-    "translation": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
-    "knowledge_point": "-  “He’s” 是 “He is” 的缩写。这里的 “is banging” 是现在进行时，表示他正在进行的动作。”out” 是副词，表示“在外面”的状态 。”bang ... over the head with a club” 描绘了用棍子击打头部的动作",
+    "translation": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon[ˈmæstəˌdɑːn] smell out of the carpet [ˈkɑːrpɪt]!",
+    "knowledge_point": "-  “He’s” 是 “He is” 的缩写。这里的 “is banging” 是现在进行时，表示他正在进行的动作。”out” 是副词，表示“在外面”的状态 。”bang ... over the head with a club” 描绘了用棍子击打头部的动作\n-  mastodon[ˈmæstəˌdɑːn] n. [古生] 乳齿象；庞然大物\n-  bang v. 猛敲",
     "label": "bang; ep2"
   },
   {
     "question": "Ross：玛莎，这些是穴居人。好吧?他们有这样的问题：“哎呀，冰川越来越近了。”看到了吗?",
-    "translation": "Marsha, these are cave people. Okay? They have issues like 'Gee, that  glacier's getting kinda close.' See?",
+    "translation": "Marsha, these are cave [keɪv] people. Okay? They have issues like 'Gee, that  glacier's getting kinda close.' See?",
     "knowledge_point": "- Gee ，感叹词 (Interjection)，惊讶、诧异、兴奋、轻微的沮丧，\"Jesus\"（耶稣）的委婉说法，为了避免直接使用宗教名词",
     "label": "Gee; ep2"
   },
   {
     "question": "**Ross:** 要不我，呃，等到冰河世纪时候再找你……",
-    "translation": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.",
+    "translation": "How about I'll catch up with you in the Ice Age.",
     "knowledge_point": "- **\"How about I'll, uh, catch up with you...\"**：“要不我，呃，回头再找你……” 这是一种常见的、想要礼貌结束对话的开场白，但后面跟上一个荒谬的时间点，就让整个句子充满了讽刺。这实际上是一种拒绝继续交流的讽刺说法，意思是“**我们永远也达不成共识，所以这个话题永远不要再提了**”。",
     "label": "ep2"
   },
   {
     "question": "**Carol:** 马蒂还是很妄想症的",
-    "translation": "Marty's still totally paranoid.",
+    "translation": "Marty's still totally paranoid [ˈpærənɔɪd].",
     "knowledge_point": "",
     "label": "paranoid; ep2"
   },
   {
     "question": "Monica: （从乔伊手里接过一杯酒）你喝完了吗？Joey：是啊，抱歉，我咽得太慢了。",
     "translation": "(taking a drink from Joey) Are you through with that?  Joey: Yeah, sorry, the swallowing slowed me down.",
-    "knowledge_point": "- 核心意思是**讽刺莫妮卡催促得太急，连完成吞咽动作这种基本的生理过程都显得“耽误时间”了**",
+    "knowledge_point": "- 核心意思是**讽刺莫妮卡催促得太急，连完成吞咽动作这种基本的生理过程都显得“耽误时间”了**\n- through adj.[ not before noun ] ~ (with sth/sb) ( especially *NAmE* ) used to show that you have finished using sth or have ended a relationship with sb （使用）完成，结束；（关系）了结，断绝\n- Are you through with that newspaper? 你看完那份报纸了吗\n- Todd and I are through. 托德和我吹了",
     "label": "slow down; ep2"
   },
   {
@@ -338,32 +368,32 @@
   {
     "question": "**Monica:**  抱歉，各位，我只是不想，让他们有藉题发挥的机会",
     "translation": "Look , I'm sorry, guys, I just don't wanna give them any more ammunition [ˌæmjəˈnɪʃ(ə)n] than they already have.",
-    "knowledge_point": "ammunition [ˌæmjəˈnɪʃ(ə)n] （批评或辩论中攻击他人的）把柄，证据",
-    "label": "ammunition; ep2"
+    "knowledge_point": "ammunition [ˌæmjəˈnɪʃ(ə)n] n. 弹药，军火；常被用来比喻（批评或辩论中攻击他人的）把柄，证据",
+    "label": "ammunition; 比较状语从句; ep2"
   },
   {
-    "question": "**Phoebe:** 莫妮卡——嗨！呃，莫妮卡，你有点吓到我了。我的意思是，你现在整个人慌慌张张、手忙脚乱的。状态不好",
-    "translation": "Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.",
-    "knowledge_point": "- **\"chaotic and twirly\"**：这是菲比独创的、非常形象的表达。`chaotic`意为“混乱的”，`twirly`本意是“旋转的”，这里生动地描绘了莫妮卡像无头苍蝇一样忙乱、团团转的样子。翻译成“慌慌张张、手忙脚乱”或“忙乱慌张的”非常贴切",
+    "question": "**Phoebe:** 嗨！呃，莫妮卡，你有点吓到我了。我的意思是，你现在整个人慌慌张张、手忙脚乱的。状态不好",
+    "translation": "Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic [keɪˈɑːtɪk] and twirly['twə:li]. And not-not in a good way.",
+    "knowledge_point": "- chaotic [keɪˈɑːtɪk] adj. 混乱的，无秩序的；\n- twirly ['twə:li] adj. 卷曲的，弯曲的\n- **\"chaotic and twirly\"**：这是菲比独创的、非常形象的表达。`chaotic`意为“混乱的”，`twirly`本意是“旋转的”，这里生动地描绘了莫妮卡像无头苍蝇一样忙乱、团团转的样子。翻译成“慌慌张张、手忙脚乱”或“忙乱慌张的”非常贴切",
     "label": "ep2"
   },
   {
     "question": "**Monica:** 那是因为在我父母看来，罗斯是不会犯错的。你看，他是王子。显然他们在我出生前举行了盛大的仪式。",
-    "translation": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
-    "knowledge_point": "- do no wrong.不会犯错的",
+    "translation": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently [əˈpærəntli] they had some big ceremony[ˈserəmoʊni] before I was born.",
+    "knowledge_point": "- are concerned about/with sth 感兴趣的；关切的；关注的\n- do no wrong.不会犯错的",
     "label": "as far as; ep2"
   },
   {
     "question": "**Rachel:**  哦，好像我还不够害怕明天把它还给他……“嗨,巴里!还记得我吗?我就是那个在你全家面前践踏你的心的戴面纱的女孩！”哦，天哪，现在我要把戒指还回去了，没有戒指，这就更难了……",
-    "translation": "Oh, like I wasn't dreading  [ˈdredɪŋ]  tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
-    "knowledge_point": "- dread [dred] 畏惧，害怕\n- veil [veɪl] 面纱\n- stomp[stɑːmp] （尤指生气时）跺脚，重踩；跳顿足舞",
-    "label": "dread; ep2"
+    "translation": "Oh, like I wasn't dreading [ˈdredɪŋ]  tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil[veɪl] who stomped[stɑːmp] on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
+    "knowledge_point": "- dread [dred] 畏惧，害怕\n- veil [veɪl] 面纱\n- stomp[stɑːmp] （尤指生气时）跺脚，重踩；跳顿足舞\n- having to give it back to him.分词作原因状语",
+    "label": "dread; 分词作原因状语; ep2"
   },
   {
     "question": "**Chandler:** 莫妮卡，你知道在千层面里找订婚戒指可不是这样的…",
-    "translation": "Now, Monica, you know that's not how you look for an engagement ring in a lasagne...",
-    "knowledge_point": "engagement 订婚戒指",
-    "label": "engagement; ep2"
+    "translation": "Now, Monica, you know that's not how you look for an engagement ring in a lasagne[ləˈzɑːnjə]...",
+    "knowledge_point": "engagement ring 订婚戒指",
+    "label": "ep2"
   },
   {
     "question": "**Ross:** 是的。这样做两个小时，你可能就和我现在一样了。",
@@ -373,15 +403,15 @@
   },
   {
     "question": "**Chandler: 跟罗斯这事儿一比，枕头那点烦恼是不是就显得微不足道了？**",
-    "translation": "Kinda puts that whole pillow thing in perspective, huh, Mon?",
-    "knowledge_point": "- `put something in perspective`：正确看待某事，认清其相对重要性\n- 钱德勒这句是典型的美式讽刺幽默，核心意思是：**“跟罗斯这事儿一比，枕头那点烦恼是不是就显得微不足道了？”**",
+    "translation": "Kinda puts that whole pillow thing in perspective [pərˈspektɪv]?",
+    "knowledge_point": "- perspective  [pərˈspektɪv]\n- 1）观点：a global perspective 全面的看法；Try to see the issue from a different perspective . 试以不同的角度看待这件事。\n-\n- put something in perspective：正确看待某事，认清其相对重要性\n- 钱德勒这句是典型的美式讽刺幽默，核心意思是：**“跟罗斯这事儿一比，枕头那点烦恼是不是就显得微不足道了？”**",
     "label": "perspective; ep2"
   },
   {
-    "question": "**Rachel:**",
-    "translation": "Well now, how-how do you fit into this whole thing?",
-    "knowledge_point": "",
-    "label": "ep2"
+    "question": "**Rachel:** 你如何适应对待（适应）这个事情呢（如何自处呢，如何对待前妻怀孕的事呢）",
+    "translation": "Well now, how do you fit into this whole thing?",
+    "knowledge_point": "- fit into 适应，fit into the society 适应社会",
+    "label": "fit into; ep2"
   },
   {
     "question": "**Ross:** 卡罗尔说她和苏珊想让我参与进来，但如果我觉得不舒服，我就不必参与了，基本上完全由我来决定。",
@@ -391,32 +421,296 @@
   },
   {
     "question": "**Chandler:** 我的意思是，你的大部分工作已经完成了。",
+    "translation": "I mean presumably[prɪˈzuːməbli], the biggest part of your job is done.",
+    "knowledge_point": "presumably[prɪˈzuːməbli]adv. 大概，可能",
+    "label": "presumably; ep2"
+  },
+  {
+    "question": "**Mr. Geller:** (To Ross) 你还记得Ludwins吗，大女儿当初对你特别喜爱，是吧？**Mrs. Geller:** 他们当时都特别喜爱他",
     "translation": "**Mr. Geller:** (To Ross) Do you remember the Ludwins? The big one had a thing",
-    "knowledge_point": "",
-    "label": "ep2; ep2"
+    "knowledge_point": "- have the thing for 喜爱",
+    "label": "have a thing for; ep2"
   },
   {
     "question": "**Monica:**我知道这听起来很自私，但是，你打算提起孩子和拉拉的事吗？因为我觉得这样可以减轻我的压力。",
     "translation": "I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
-    "knowledge_point": "",
-    "label": "ep2"
+    "knowledge_point": "- bring up 提及\n- take some of the heat off  减轻压力",
+    "label": "bring up; ep2"
   },
   {
-    "question": "Mr. Geller: …我读到这些女人试图拥有一切，我感谢上帝，《我们的小口琴》似乎没有这个问题。Monica：（拼命想转移话题）那么，罗斯，你怎么了？什么故事吗?（把胳膊肘伸进他手里。）没有新闻，没有趣闻轶事跟大家分享吗？",
-    "translation": "...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem. **Monica:** (trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?",
-    "knowledge_point": "",
+    "question": "Mr. Geller: …我读到这些女人试图拥有一切，我感谢上帝，《我们的小口琴》似乎没有这个问题。Monica：（拼命想转移话题）那么，罗斯，你怎么了？什么故事吗?没有新闻，没有趣闻轶事跟大家分享吗？",
+    "translation": "**Mr. Geller:** …...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem. **Monica:** (trying desperately to change the subject) So, Ross, what's going on with you? Any stories?  No news, no little anecdotes to share with the folks?",
+    "knowledge_point": "- read about 读道\n- Harmonica 口琴",
     "label": "ep2"
   },
   {
     "question": "**Phoebe:** 是的。我们不说话。她是那种精力充沛，有事业心的人。",
-    "translation": "Yeah. We don't speak. She's like this high-powered, driven career type.",
-    "knowledge_point": "",
-    "label": "ep2"
+    "translation": "Yeah. We don't speak. She's like this high-powered, driven-career type.",
+    "knowledge_point": "- high-powered 形容词+名词ed 分词形容词,  类似的bad-tempered; narrow-minded\n- driven-career = career-driven 事业驱动的，奋发努力的",
+    "label": "high-powered; ep2"
   },
   {
     "question": "**Ross:** 嗯，你可能想要避开“被甩”这个词。很有可能他会变成这样，一个支离破碎的人，所以你应该尽量不要看起来太棒，我知道这很难。",
-    "translation": "",
+    "translation": "Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard.",
+    "knowledge_point": "-  steer clear of 避开，小心\n- dump 丢弃,甩了\n- terrific adj.光彩照人\n- Chances are that 可能: Chances are she's already heard the news",
+    "label": "steer clear of; ep2"
+  },
+  {
+    "question": "你明天要去见卡罗尔。什么时候变得这么复杂了？；难道我了",
+    "translation": "***\\*Rachel:\\**** Oh, you've got Carol tomorrow. When did it get so complicated?",
+    "knowledge_point": "- have got 不是现在完成时。这里的 **have got** 是口语中相当于 **have**（有）的固定搭配，表示“有”某个安排或责任，**不表示完成时态**。\n- **类似表达**：你可以把“You've got + [某事]”理解为一个非常有用的口语套件，意思是“你有个...事要处理”。例如：“You've got a dentist appointment at 3.”（你3点有个牙医预约。）“We've got a test next Monday.”（我们下周一有个测验。）\n- **与明确计划的区别**：如果想强调这是**一个已经制定好的计划或意图**，可能会用“be going to”结构，比如“You're going to see Carol tomorrow.”。而“You've got...”更侧重于陈述一个既定事实或责任。\n- got me 难道我了，**表示“理解”或“抓住”**：在对方解释清楚某事后，你说“You got me.”，意思是“你把我说明白了”或“你说服我了”。当然，它字面意思就是“你抓住我了”。这里表示我也回答你这个问题。",
+    "label": "got me; ep2"
+  },
+  {
+    "question": "Ross：真有趣，我们说好要共度余生的。世事无常，顺势而为。我相信茱莉亚是备选名字了",
+    "translation": "So funny, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table?",
+    "knowledge_point": "- punch n.打击的意思\n- roll with the punches<俚> when things dont go your way and you adapt to the changes and keep moving ahead instead of flipin out\n- on the table adv.在桌面上 在讨论的范围",
+    "label": "ep2"
+  },
+  {
+    "question": "Barry:我们现在算是在一起了。",
+    "translation": "Yeah, well, we're kind of a thing now.",
+    "knowledge_point": "be a thing 在一起了",
+    "label": "be a thing; ep2"
+  },
+  {
+    "question": "Carol: 我认为这是虐待儿童。",
+    "translation": "I think that borders on child abuse.",
+    "knowledge_point": "- borders on 表示某种行为或情况虽然不完全等同于，但已经**非常接近**一个（通常是负面的）极限了，有“…之嫌”的意思。\n- This soup borders on being sea water!\n- China borders on India in the southwest.\n- child abuse：虐待儿童",
+    "label": "ep2"
+  },
+  {
+    "question": "Susan: 他们最后会叫她（ross's baby) 盖勒，然后他就得逞了",
+    "translation": "they'll wind up calling her Geller, then he gets his way!",
+    "knowledge_point": "- wind up doing=end up doing最终...\n- get his way他就得逞 随心所欲\n- A: George is so stubborn.B: I know. He always gets his way in the end]",
+    "label": "get one's way; ep2"
+  },
+  {
+    "question": "Ross: 你在流泪。你就要当阿姨了。",
+    "translation": "Ross: You are welling up. You're gonna be an aunt.",
+    "knowledge_point": "well up 流泪了",
+    "label": "well up; ep2"
+  },
+  {
+    "question": "好吧，我知道这很卑鄙，但我现在感觉好多了。",
+    "translation": "Rachel:Okay, I know it was a cheap shot, but I feel so much better now.",
+    "knowledge_point": "- a cheap shot n.贱招",
+    "label": "ep2"
+  },
+  {
+    "question": "Phoebe: 嗯，不太好。他陪我走到地铁站，说：“我们应该再来一次！”",
+    "translation": "***\\*Phoebe:\\**** Um, not so good. He walked me to the subway and said 'We should do this again!'",
+    "knowledge_point": "- do this again 我们应该再约\n- walk sb to someplace 陪某人走到。。",
+    "label": "do this again; ep3"
+  },
+  {
+    "question": "Chandler：“You're such a nice guy”的意思是“我要和穿着皮衣的酒鬼约会，然后向你抱怨他们”。",
+    "translation": "**Chandler:**  'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics[ˌælkəˈhɑːlɪk] and complaining about them to you'.",
+    "knowledge_point": "- gonna be dating :**在可预见的未来，我将会处于一种“正在约会”的持续状态中**。它描述的不是一个短暂的瞬间动作，而是一个阶段性的情况\n- **与“will be dating”的细微差别**:“I will be dating...”也能表示将来进行，但使用“gonna”(be going to) 更侧重于表达一种**事先已有的意图或根据当前情况推断即将发生的事**。而“will”则更多表示说话时才做的决定或单纯的预测",
+    "label": "leather-wearing; 将来进行时; ep3"
+  },
+  {
+    "question": "Joey：善意的谎言",
+    "translation": "***\\*Joey:\\**** Yeah. Cushions the blow.",
+    "knowledge_point": "- Cushions v. 缓冲\n- Cushions the blow. 缓冲打击\n- cushion the blow <俚>to do something that reduces harm善意的谎言\n- [eg:The way to cushion the blow is to raise prices slowly, not all at once]",
+    "label": "cushions the blow; ep3"
+  },
+  {
+    "question": "Chandler：是啊，就像你小时候，你的父母把你的狗狗送去安乐死，然后告诉你它跑去农场生活了。",
+    "translation": "**Chandler:** Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.",
+    "knowledge_point": "- go off 离开",
+    "label": "go off; ep3"
+  },
+  {
+    "question": "Joey：“狱长，五分钟后我的痛苦就结束了。但是你得一辈子收到良心谴责，知道自己送一个诚实的人去死。”",
+    "translation": "***\\*Joey:\\**** \"Warden [ˈwɔːrdn], in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die.\"",
     "knowledge_point": "",
-    "label": "ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2; ep2"
+    "label": "live with; ep3"
+  },
+  {
+    "question": "Chandler：哦，撒旦的仆从又在工作了……",
+    "translation": "***\\*Chandler:\\**** Oh, Satan's minion's at work again...",
+    "knowledge_point": "- minion [ˈmɪnjən]奴才\n- 这种省略掉系动词（如 is, are）的结构在口语和非正式文体中极其常见，尤其是在表达感叹或快速评论时，这种用法符合英语的“经济原则”，即在意义明确的前提下，尽量简化表达\n- 类似的还有：\n- Problem solved\n- You happy now? （完整句：Are you happy now?）这下你满意了吧？",
+    "label": "ep3"
+  },
+  {
+    "question": "Monica：我们支持你。我们知道了。",
+    "translation": "***\\*Monica:\\**** We're with you. We got it.",
+    "knowledge_point": "- be with you 和你在一起，支持你",
+    "label": "be with you; ep3"
+  },
+  {
+    "question": "Ross：这三年你一直都很乖！",
+    "translation": "Ross：You've been so good for three years!",
+    "knowledge_point": "",
+    "label": "ep3"
+  },
+  {
+    "question": "Monica：我是说，我为什么要让他们见他？我带一个人回家，不到五分钟他们就会围着他转。我是说，他们就像土狼一样，会把兽群中弱小的成员都干掉。",
+    "translation": "Monica: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like coyotes [kaɪˈoʊti], picking off the weak members of the herd [hɜːrd].",
+    "knowledge_point": "- all over sb1.  围绕着转，这里就是这个意思。\n- all over sb2.  非常喜欢...，着迷，因为喜欢得不得了，所以恨不得扑上去贴着 eg:I'm all over you.我對你非常地著迷.= I have a crush on you. 这二句都是表达很喜欢某人的意思.\n- All over somebody 3. 還有一個很常用的用法, 我把他翻成 \"三貼\" 比如說你去舞廳跳舞, 看到有一對男女跳到三點都貼在一起了, 你就可以跟你的同伴說, Hey, look, the guy is dancing all over the girl.\n- 一字之差但是意思完全不同喔. 你要是說 I'm over you, 就是說我跟你之間完了, 我不想再和你有任何的瓜葛\n- coyotes[kaɪˈoʊti]郊狼\n- herd [hɜːrd] 兽群",
+    "label": "all over; ep3"
+  },
+  {
+    "question": "***\\*Paula\\****听着，作为一个见识过很多的人，我要告诉你：这并不是一件可怕的事情。他们是你的朋友，他们只是在照顾你。",
+    "translation": "Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.",
+    "knowledge_point": "- 直白翻译：作为一个见过过坏牛肉比她应该的合理的份额还要多的人，表示见识过多的坏牛肉，比喻见过过多的这种。表示以更年长、更有经验的过来人身份说话。\n- 这里的beef 只是个比喻，类似中文的，我吃的盐比你吃的大米都多\n- 同样的例子：\n- Listen, as someone who's been in a few bad relationships, I think you should give him a chance. He seems genuine.听着，作为一个经历过几段糟糕恋情的人，我觉得你应该给他个机会。他看起来挺真诚的。\n- As a team that's handled more than its fair share of tough projects, we can definitely do this. We're just being extra careful because it's important.作为一个处理过远超其份内艰难项目的团队，我们肯定能行。我们只是因为它重要而格外小心",
+    "label": "ep3"
+  },
+  {
+    "question": "***\\*Paula\\****：你应该意识到，如果她们从未见过那个人，这种情况发生的几率就会小一些。（如果他们永远看不到，就永远不会喜欢他）",
+    "translation": "you do realise the odds of that happening are a little slimmer if they never get to meet the guy.",
+    "knowledge_point": "slim [slɪm] 1. 数字微小的2. 苗条的",
+    "label": "slim; ep3"
+  },
+  {
+    "question": "Joey：你可以进来，但是你的过滤嘴小伙伴必须呆在外面！",
+    "translation": "***\\*Joey:\\**** You can come in, but your filter-tipped little buddy has to stay outside!",
+    "knowledge_point": "filter-tipped adj.有过滤嘴的",
+    "label": "filter-tipped; ep3"
+  },
+  {
+    "question": "Phoebe：“感谢您指出我们的错误。我们已将500美元记入你的账户。很抱歉给您带来不便，希望您能接受”",
+    "translation": "Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this.",
+    "knowledge_point": "credit 把钱存入账户",
+    "label": "credit; ep3"
+  },
+  {
+    "question": "Monica：好了，我们开始抨击艾伦吧。谁先开第一枪，嗯？",
+    "translation": "Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?",
+    "knowledge_point": "- bash [ VN ] to criticize sb/sth strongly 严厉批评\n- a liberal-bashing administration [ədˌmɪnɪˈstreɪʃn] 打击自由主义的一届政府",
+    "label": "bash; ep3"
+  },
+  {
+    "question": "Ross：我来吧，让我们从他一直¬…------不，对不起，我不能这么做。我们爱他。",
+    "translation": "***\\*Ross:\\**** ...I'll go. Let's start with the way he kept...------ no, I'm sorry, can't do this. We loved him.",
+    "knowledge_point": "",
+    "label": "ep3"
+  },
+  {
+    "question": "Joey：知道什么是最棒的吗？他的笑容有点坏坏的",
+    "translation": "***\\*Joey\\****Know what was great? The way his smile was kinda crooked.",
+    "knowledge_point": "crooked[ˈkrʊkɪd] adj. 弯曲的，不直的；歪的；不诚实的，狡诈的；<澳新，非正式>生气的",
+    "label": "ep3"
+  },
+  {
+    "question": "所以我认为艾伦会成为衡量所有未来男友的标准。",
+    "translation": "***\\*Ross:\\**** ...So I think Alan will become the yardstick[ˈjɑːrdstɪk] against which all future boyfriends will be measured.",
+    "knowledge_point": "- against which。。定语从句， which 代替yardstick\n- eg: She has become the yardstick against which all future hires in our team will be measured.",
+    "label": "yardstick; ep3"
+  },
+  {
+    "question": "Ross: 他让我对我自己的那种感觉。（指感觉良好）",
+    "translation": "The way he makes me feel about myself.（the way 指感觉良好）",
+    "knowledge_point": "- 这实际上是在说，和艾伦在一起时，罗斯感到**非常舒服、被尊重、被认可**，以至于提升了他的自我认同感。对于刚刚经历婚姻破裂（前妻卡罗尔是女同性恋）且自尊心受挫的罗斯来说，这种“感觉”尤为珍贵\n- I'm so grateful for my mentor. **The way she believes in me makes me feel** capable and confident **about myself**.\"（我非常感激我的导师。她信任我的那种方式，让我自我感觉充满能力和信心。）\n- That toxic[ˈtɑːksɪk] relationship was exhausting. **The way he constantly criticized me made me feel** terrible **about myself**.  toxic有毒的。（那段糟糕的关系令人精疲力尽。他不断批评我的那种方式让我自我感觉非常差。）",
+    "label": "feel about myself.; ep3"
+  },
+  {
+    "question": "Ross：我们如此喜爱的，正是他与生俱来的那种‘艾伦特质’",
+    "translation": "It's his innate Alan-ness that we adore.",
+    "knowledge_point": "- innate [ɪˈneɪt]\n- It's her innate Sarah-ness that I adore – her quirky humor and boundless energy.\"我爱的就是她那种天生的“莎拉特质”——她古怪的幽默感和无限的活力。",
+    "label": "innate; ep3"
+  },
+  {
+    "question": "Chandler：所以我有缺点！大不了的!比如乔伊不停地掰指关节就不烦人吗？还有罗斯，他每个字都过度发音？还有莫妮卡，她笑的时候会哼一声？",
+    "translation": "Chandler：So I have a flaw! Big deal! Like Joey's constant knuckle-cracking[ˈnʌkl ˈkrækɪŋ] isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort [snɔːrt] when she laughs?",
+    "knowledge_point": "- Big deal：n. 重要的事或人；（讽刺）没什么大不了的\n- knuckle-cracking[ˈnʌkl ˈkrækɪŋ] ：指关节爆裂声\n- snort [snɔːrt] n. 喷鼻息；",
+    "label": "Big deal; ep3"
+  },
+  {
+    "question": "Rachel：没有他（关节爆裂声）我挺好的",
+    "translation": "I could live without it.",
+    "knowledge_point": "",
+    "label": "ep3"
+  },
+  {
+    "question": "Phoebe：是啊，不然别人可能会得到他们点的东西（讽刺）。",
+    "translation": "Phoebe:Yeah, 'cause otherwise someone might get what they actually ordered.",
+    "knowledge_point": "",
+    "label": "ep3"
+  },
+  {
+    "question": "我只是感觉不到（喜欢他alen）。我是说，他们有感觉（喜欢alen)，我没有",
+    "translation": "I just don't feel the thing. I mean, they feel the thing, I don't feel the thing",
+    "knowledge_point": "",
+    "label": "feel the thing; ep3"
+  },
+  {
+    "question": "Paula：亲爱的..你应该一直对他有感觉（比喻，暗指）。听着，如果这就是你对他的感觉，莫妮卡，甩了他！",
+    "translation": "Honey.. you should always feel the thing. Listen, if that's how you feel about the guy, Monica, dump him!",
+    "knowledge_point": "",
+    "label": "dump sb; ep3"
+  },
+  {
+    "question": "Chandler: 我受够你们了，你们的癌症、肺气肿和心脏病。但是，真相是吸烟很酷，你知道的。",
+    "translation": "Hey, y'know, I have had it with you guys and your cancer and your emphysema[,emfi'si:mə] and your heart disease. The bottom line is, smoking is cool, and you know it.",
+    "knowledge_point": "",
+    "label": "bottom line; ep3"
+  },
+  {
+    "question": "Chandler：那只袜子有多久了？如果我手上有一只袜子30年，它也会说话",
+    "translation": "How old is that sock? If I had a sock on my hand for thirty years it'd be talking too",
+    "knowledge_point": "",
+    "label": "ep3"
+  },
+  {
+    "question": "Rachel：我想他在走廊对面。",
+    "translation": "I think he's across the hall.",
+    "knowledge_point": "- across :2.on the other side of sth 在…对面；在…对过\n- There's a bank right across the street. 街对面就有一家银行。",
+    "label": "across; ep3"
+  },
+  {
+    "question": "Joey：如果大家都能穿内裤就更好了。（Joey 没有穿内裤）",
+    "translation": "Even nicer when everyone gets to wear their underwear.",
+    "knowledge_point": "- 要习惯这种表达Even nicer when 那就更好了。。",
+    "label": "Even nicer when; ep3"
+  },
+  {
+    "question": "Monica：是关于艾伦的。有些事你应该知道。我的意思是，真的不容易说出口……呃. .我决定和艾伦分手了。",
+    "translation": "It's about Alan. There's something that you should know. I mean, there's really no easy way to say this..  I've decided to break up with Alan.",
+    "knowledge_point": "",
+    "label": "there's really no easy way to do sth; todo做同位语; ep3"
+  },
+  {
+    "question": "Phoebe：你放下戒备，开始真正在乎一个人，",
+    "translation": "you let your guard down, you start to really care about someone,",
+    "knowledge_point": "- let your guard down 放下戒备",
+    "label": "let your guard down; ep3"
+  },
+  {
+    "question": "Ross：谁想要公平？我只是想回到过去。他们过去的样子。",
+    "translation": "Who wants fair? I just want things back. Y'know, the way they were.",
+    "knowledge_point": "-  I just want things back， back 作补语\n- the way they were 过去的样子，这里的they 指things, 这里省略了关系词that 或者in which, ，它代替先行词 `the way`，同时在定语从句 `they were ...`中充当**表语**,\n- **`the way`** 是**先行词**，意思是“方式、样子、状态”，整个从句的含义是“他们过去所处的状态或样子”。\n- `I miss the way things were when we were kids.`（我怀念我们小时候的样子。）\n- `You have to accept people the way they are.`（你必须接受人们本来的样子。）",
+    "label": "the way they were; want things back; 宾补; ep3"
+  },
+  {
+    "question": "Alan：但是，我得告诉你，我有一点解放了。",
+    "translation": "But, I gotta tell you, I am a little relieved.",
+    "knowledge_point": "",
+    "label": "relieved; ep3"
+  },
+  {
+    "question": "Paula：他能像维京人一样划船",
+    "translation": "He could row like a viking",
+    "knowledge_point": "",
+    "label": "row; ep3"
+  },
+  {
+    "question": "Ross：（那个事情处理的）怎么样了（注意缩写）",
+    "translation": "Ross：how'd it go",
+    "knowledge_point": "- 注意how did it go 发音比较冗余，所以发音改成how'd it go",
+    "label": "ep3"
+  },
+  {
+    "question": "Ross：你今天过得很不顺",
+    "translation": "",
+    "knowledge_point": "- rough 不顺利的",
+    "label": "rough; ep3"
+  },
+  {
+    "question": "Monica：你难以想象",
+    "translation": "You have no idea.",
+    "knowledge_point": "",
+    "label": "have no idea; ep3"
   }
 ]

@@ -46,7 +46,7 @@ const CONFIG = {
         friends_part1   : {   
             name: '老朋友1-词汇语法篇-顺序模式', 
             url: 'assets/data/old_friends_part1.json',
-            outline: 'assets/data/grammarpoint_all_box_outline.md',
+            outline: 'assets/data/old_friends_outline.md',
             labelSortOrder: 'default'  
         }
     },
