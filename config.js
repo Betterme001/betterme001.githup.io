@@ -22,7 +22,7 @@ const CONFIG = {
     // 存储配置（多题库隔离：方案A）
     STORAGE_KEY_PREFIX: 'grammar_review_multi', // localStorage 前缀
     DEFAULT_BANK_ID: 'grammarpoint1_order',
-    STATS_INIT_FILE: '', // 学习统计初始化文件路径（JSON格式），如果为空则不自动初始化
+    STATS_INIT_FILE: 'assets/css/study_record_20251203.json', // 学习统计初始化文件路径（JSON格式），如果为空则不自动初始化
     BANKS: {
         grammarpoint1_order: { 
             name: '语法题库1-句子成分篇-顺序模式', 
