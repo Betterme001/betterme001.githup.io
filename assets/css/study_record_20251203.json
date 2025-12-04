@@ -64,15 +64,15 @@
     "questionCount": 92,
     "timestamp": 1759544951222
   },
-  "2025-10-05": {
-    "studyTime": 1364,
-    "questionCount": 55,
-    "timestamp": 1760718309980
-  },
   "2025-10-04": {
     "studyTime": 0,
     "questionCount": 0,
     "timestamp": 1760147556439
+  },
+  "2025-10-05": {
+    "studyTime": 1364,
+    "questionCount": 55,
+    "timestamp": 1760718309980
   },
   "2025-10-06": {
     "studyTime": 1364,
@@ -113,6 +113,36 @@
     "studyTime": 2020,
     "questionCount": 97,
     "timestamp": 1761061221160
+  },
+  "2025-10-15": {
+    "studyTime": 1604,
+    "questionCount": 56,
+    "timestamp": 1760574891193
+  },
+  "2025-10-16": {
+    "studyTime": 1065,
+    "questionCount": 26,
+    "timestamp": 1760665422758
+  },
+  "2025-10-17": {
+    "studyTime": 1364,
+    "questionCount": 55,
+    "timestamp": 1760718309980
+  },
+  "2025-10-18": {
+    "studyTime": 4840,
+    "questionCount": 172,
+    "timestamp": 1760833719648
+  },
+  "2025-10-19": {
+    "studyTime": 2740,
+    "questionCount": 69,
+    "timestamp": 1760933676482
+  },
+  "2025-10-20": {
+    "studyTime": 3176,
+    "questionCount": 159,
+    "timestamp": 1761006211445
   },
   "2025-10-21": {
     "studyTime": 2601,
@@ -194,6 +224,11 @@
     "questionCount": 110,
     "timestamp": 1762495099172
   },
+  "2025-11-06": {
+    "studyTime": 2492,
+    "questionCount": 93,
+    "timestamp": 1762444962494
+  },
   "2025-11-07": {
     "studyTime": 4307,
     "questionCount": 160,
@@ -213,6 +248,16 @@
     "studyTime": 3921,
     "questionCount": 145,
     "timestamp": 1763012680032
+  },
+  "2025-11-11": {
+    "studyTime": 3169,
+    "questionCount": 104,
+    "timestamp": 1762910646291
+  },
+  "2025-11-12": {
+    "studyTime": 3762,
+    "questionCount": 134,
+    "timestamp": 1762996893006
   },
   "2025-11-13": {
     "studyTime": 4234,
@@ -284,36 +329,6 @@
     "questionCount": 31,
     "timestamp": 1764550820173
   },
-  "2025-10-15": {
-    "studyTime": 1604,
-    "questionCount": 56,
-    "timestamp": 1760574891193
-  },
-  "2025-10-16": {
-    "studyTime": 1065,
-    "questionCount": 26,
-    "timestamp": 1760665422758
-  },
-  "2025-10-17": {
-    "studyTime": 1364,
-    "questionCount": 55,
-    "timestamp": 1760718309980
-  },
-  "2025-10-18": {
-    "studyTime": 4840,
-    "questionCount": 172,
-    "timestamp": 1760833719648
-  },
-  "2025-10-19": {
-    "studyTime": 2740,
-    "questionCount": 69,
-    "timestamp": 1760933676482
-  },
-  "2025-10-20": {
-    "studyTime": 3176,
-    "questionCount": 159,
-    "timestamp": 1761006211445
-  },
   "2025-11-27": {
     "studyTime": 1206,
     "questionCount": 31,
@@ -343,20 +358,5 @@
     "studyTime": 2465,
     "questionCount": 120,
     "timestamp": 1764721856440
-  },
-  "2025-11-06": {
-    "studyTime": 2492,
-    "questionCount": 93,
-    "timestamp": 1762444962494
-  },
-  "2025-11-11": {
-    "studyTime": 3169,
-    "questionCount": 104,
-    "timestamp": 1762910646291
-  },
-  "2025-11-12": {
-    "studyTime": 3762,
-    "questionCount": 134,
-    "timestamp": 1762996893006
   }
 }

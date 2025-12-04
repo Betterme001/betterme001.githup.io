@@ -49,9 +49,19 @@ window.saveStore = function saveStore(bankId) {
 window.checkAndResetDailyStats = function checkAndResetDailyStats() {
     const today = new Date();
     const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+    const lastStudyDate = window.reviewStore.meta.lastStudyDate || '';
+    
+    // 如果 lastStudyDate 是空字符串，说明是第一次使用或刚清除进度，只更新日期，不重置今日数据
+    if (lastStudyDate === '') {
+        console.log(`首次使用或刚清除进度：更新 lastStudyDate 为 ${todayStr}，保留今日数据`);
+        window.reviewStore.meta.lastStudyDate = todayStr;
+        // 不重置今日数据，保留已有的学习记录
+        window.saveStore();
+        return;
+    }
     
     // 如果今天不是最后学习日期，说明是新的一天，需要重置今日数据
-    if (window.reviewStore.meta.lastStudyDate !== todayStr) {
+    if (lastStudyDate !== todayStr) {
         console.log(`新的一天开始：${todayStr}，重置今日学习数据`);
         
         // 保存昨天的学习数量（在重置 todayQuestionCount 之前）
@@ -60,12 +70,10 @@ window.checkAndResetDailyStats = function checkAndResetDailyStats() {
         console.log(`昨天学习了 ${yesterdayCount} 道题目`);
         
         // 记录昨天的数据（用于历史统计）
-        if (window.reviewStore.meta.lastStudyDate) {
-            window.recordDailyStats(window.reviewStore.meta.lastStudyDate, {
-                studyTime: window.reviewStore.meta.todayStudyTime || 0,
-                questionCount: yesterdayCount
-            });
-        }
+        window.recordDailyStats(lastStudyDate, {
+            studyTime: window.reviewStore.meta.todayStudyTime || 0,
+            questionCount: yesterdayCount
+        });
         
         // 重置今日数据
         window.reviewStore.meta.todayStudyTime = 0;
@@ -179,9 +187,38 @@ window.saveGlobalStats = function saveGlobalStats() {
 
 // 合并所有题库的统计数据
 window.mergeAllBankStats = function mergeAllBankStats() {
+    // 获取文件数据（优先从全局变量，如果没有则从localStorage读取）
+    let fileData = window.statsInitFileData || null;
+    let lastFileDate = window.statsInitFileLastDate || null;
+    
+    if (!fileData) {
+        try {
+            const fileDataStr = localStorage.getItem('stats_init_file_data');
+            if (fileDataStr) {
+                fileData = JSON.parse(fileDataStr);
+                lastFileDate = localStorage.getItem('stats_init_file_last_date');
+            }
+        } catch (e) {
+            console.warn('读取文件数据失败:', e);
+        }
+    }
+    
     const mergedStats = {};
     
-    // 遍历所有题库
+    // 如果有文件数据，先使用文件数据（文件中的日期使用文件数据，不累加localStorage）
+    if (fileData && lastFileDate) {
+        const fileDates = Object.keys(fileData);
+        console.log('[mergeAllBankStats] 使用文件数据，文件中的日期数量:', fileDates.length, '最后一个日期:', lastFileDate);
+        Object.keys(fileData).forEach(date => {
+            mergedStats[date] = {
+                studyTime: fileData[date].studyTime || 0,
+                questionCount: fileData[date].questionCount || 0,
+                timestamp: fileData[date].timestamp || 0
+            };
+        });
+    }
+    
+    // 遍历所有题库，合并localStorage中的数据
     Object.keys(CONFIG.BANKS).forEach(bankId => {
         try {
             const key = getStorageKey(bankId);
@@ -191,21 +228,56 @@ window.mergeAllBankStats = function mergeAllBankStats() {
                 const bankStats = bankData.meta?.dailyStats || {};
                 
                 // 合并每日数据
+                let skippedFromFile = 0;
+                let addedFromStorage = 0;
                 Object.keys(bankStats).forEach(date => {
-                    if (!mergedStats[date]) {
-                        mergedStats[date] = {
-                            studyTime: 0,
-                            questionCount: 0,
-                            timestamp: 0
-                        };
+                    // 如果有文件数据
+                    if (fileData && lastFileDate) {
+                        // 如果日期在文件中（包括等于最后一个日期），则完全跳过，不累加localStorage的数据
+                        // 因为文件数据已经在上面的代码中使用了
+                        if (date in fileData) {
+                            // 日期在文件中，跳过，使用文件数据
+                            skippedFromFile++;
+                            return;
+                        }
+                        
+                        // 如果日期在文件最后一个日期之后，才使用localStorage的数据（累加所有题库）
+                        if (date > lastFileDate) {
+                            if (!mergedStats[date]) {
+                                mergedStats[date] = {
+                                    studyTime: 0,
+                                    questionCount: 0,
+                                    timestamp: 0
+                                };
+                            }
+                            mergedStats[date].studyTime += bankStats[date].studyTime || 0;
+                            mergedStats[date].questionCount += bankStats[date].questionCount || 0;
+                            mergedStats[date].timestamp = Math.max(
+                                mergedStats[date].timestamp, 
+                                bankStats[date].timestamp || 0
+                            );
+                            addedFromStorage++;
+                        }
+                    } else {
+                        // 如果没有文件数据，则使用原来的逻辑（累加所有题库）
+                        if (!mergedStats[date]) {
+                            mergedStats[date] = {
+                                studyTime: 0,
+                                questionCount: 0,
+                                timestamp: 0
+                            };
+                        }
+                        mergedStats[date].studyTime += bankStats[date].studyTime || 0;
+                        mergedStats[date].questionCount += bankStats[date].questionCount || 0;
+                        mergedStats[date].timestamp = Math.max(
+                            mergedStats[date].timestamp, 
+                            bankStats[date].timestamp || 0
+                        );
                     }
-                    mergedStats[date].studyTime += bankStats[date].studyTime || 0;
-                    mergedStats[date].questionCount += bankStats[date].questionCount || 0;
-                    mergedStats[date].timestamp = Math.max(
-                        mergedStats[date].timestamp, 
-                        bankStats[date].timestamp || 0
-                    );
                 });
+                if (fileData && lastFileDate && (skippedFromFile > 0 || addedFromStorage > 0)) {
+                    console.log(`[mergeAllBankStats] 题库 ${bankId}: 跳过文件中的日期 ${skippedFromFile} 个，添加localStorage日期 ${addedFromStorage} 个`);
+                }
             }
         } catch (e) {
             console.warn(`读取题库 ${bankId} 统计数据失败:`, e);
