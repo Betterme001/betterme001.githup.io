@@ -23,6 +23,8 @@
             window.reviewStore.meta.todayQuestionCount = 0;
             window.reviewStore.meta.todayQuestionIds = [];
             window.reviewStore.meta.lastStudyDate = todayStr;
+            // 立即保存，确保 lastStudyDate 被正确设置
+            window.saveStore();
         }
 
         // 如果题目ID不在今日列表中，则添加

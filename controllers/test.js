@@ -437,6 +437,13 @@
 
     // 更新会话进度（测试模式和复习模式通用）
     function updateSessionProgress() {
+        // 确保 lastStudyDate 被正确设置（防止刷新后数据丢失）
+        const today = new Date();
+        const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+        if (!window.reviewStore.meta.lastStudyDate || window.reviewStore.meta.lastStudyDate !== todayStr) {
+            window.reviewStore.meta.lastStudyDate = todayStr;
+        }
+        
         if (window.isReviewSession) {
             // 复习模式：更新复习进度（基于本次复习的题目数量）
             if (window.reviewSessionQuestions.length > 0) {
