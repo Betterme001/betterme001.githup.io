@@ -24,9 +24,9 @@
     "label": "cafeteria; ep1"
   },
   {
-    "question": "Ross: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...",
+    "question": "Ross: 我只是觉得有人把手伸进我的喉咙，抓住我的小肠，从我嘴里拉出来，绑在我脖子上……",
     "translation": "Ross: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...",
-    "knowledge_point": "intestine",
+    "knowledge_point": "intestine [ɪnˈtestɪn]",
     "label": "intestine; ep1"
   },
   {
@@ -712,5 +712,473 @@
     "translation": "You have no idea.",
     "knowledge_point": "",
     "label": "have no idea; ep3"
+  },
+  {
+    "question": "Phoebe：如果有一天我无所不能，我希望世界和平，不再有饥饿，热带雨林受到保护……还有大胸",
+    "translation": "If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs",
+    "knowledge_point": "",
+    "label": "boobs; omnipotent; ep4"
+  },
+  {
+    "question": "Ross：你刚才又打瞌睡了",
+    "translation": "you just nodded off again",
+    "knowledge_point": "",
+    "label": "nod off; ep4"
+  },
+  {
+    "question": "Chandler：你的空闲时间太多了",
+    "translation": "You got way too much free time",
+    "knowledge_point": "",
+    "label": "way; ep4"
+  },
+  {
+    "question": "Joey：罗斯，看，曲棍球票，我们要带你去。",
+    "translation": "Joey: (to Ross) ! Ross, check it out: hockey tickets, and we're taking you.",
+    "knowledge_point": "",
+    "label": "ep4"
+  },
+  {
+    "question": "Ross：我猜你有一张多余的票，不能决定你们谁带个女伴去？",
+    "translation": "I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?",
+    "knowledge_point": "",
+    "label": "bring a date; ep4"
+  },
+  {
+    "question": "Chandler： 对于悲观主义者来说，玻璃杯是半空的：",
+    "translation": "To the pessimist, the glass is half empty.",
+    "knowledge_point": "",
+    "label": "pessimist; ep4"
+  },
+  {
+    "question": "Ross：今天是卡罗尔和我第一次实现肉体关系的日子。你知道吗，我还是不玩了",
+    "translation": "Today's the day Carol and I first consummated our physical relationship.You know what, I'd better pass on the game",
+    "knowledge_point": "",
+    "label": "ep4"
+  },
+  {
+    "question": "Rachel:这是我应得的。我为它擦桌子，蒸牛奶",
+    "translation": "I earned this. I wiped tables for it, I steamed milk for it",
+    "knowledge_point": "",
+    "label": "ep4; steam"
+  },
+  {
+    "question": "Ross：好吧，也许这能让我忘记这件事。",
+    "translation": "Alright, maybe it'll take my mind off it.",
+    "knowledge_point": "",
+    "label": "take mind off; ep4"
+  },
+  {
+    "question": "Rachel's friend: 看看你系着围裙。你看起来像是在演戏。",
+    "translation": "Look at you in the apron. You look like you're in a play.",
+    "knowledge_point": "",
+    "label": "apron; ep4"
+  },
+  {
+    "question": "Rachel's friend：我时双胞胎（怀孕母亲说）",
+    "translation": "I'm a duplex['dju:pleks].",
+    "knowledge_point": "",
+    "label": "duplex; ep4"
+  },
+  {
+    "question": "Rachel's friend：既然我们说到八卦了…",
+    "translation": "And while we're on the subject of news..",
+    "knowledge_point": "",
+    "label": "on the subject of; ep4"
+  },
+  {
+    "question": "Joey：-利奇在球门区处发现了梅西耶-传球！",
+    "translation": "Leetch spots Messier in the crease\\- there's the pass!",
+    "knowledge_point": "",
+    "label": "spot; ep4"
+  },
+  {
+    "question": "Chandler:我们休息一会儿, 梅西耶停下来看几双女鞋-",
+    "translation": "We'll take a brief time out while Messier stops to look at some women's shoes.",
+    "knowledge_point": "",
+    "label": "ep4"
+  },
+  {
+    "question": "Rachel: 来吧，伙计们，告诉我所有的内幕！",
+    "translation": "So c'mon, you guys, tell me all the dirt!",
+    "knowledge_point": "",
+    "label": "dirt; ep4"
+  },
+  {
+    "question": "Rachel's friend:最大的新闻还是你在婚礼上甩了巴瑞！",
+    "translation": "Well, the biggest news is still you dumping Barry at the altar!",
+    "knowledge_point": "",
+    "label": "dump; ep4"
+  },
+  {
+    "question": "Rachel's friend: 好吧。让我们谈一谈现实吧。",
+    "translation": "Alright. Let's talk reality[riˈæləti] for a second.",
+    "knowledge_point": "",
+    "label": "ep4"
+  },
+  {
+    "question": "Rachel：我把特色菜写在特色菜板上，然后把枯萎的花从花瓶里拿出来……有时候Artura还会让我在饼干上涂些小巧克力。",
+    "translation": "I write the specials on the specials board, and I take the dead flowers out of the vase... Oh, and sometimes Artura lets me put the little chocolate blobbies on the cookies.",
+    "knowledge_point": "",
+    "label": "specials; ep4"
+  },
+  {
+    "question": "Monica：我们想既然菲比今晚来过夜，我们就开个睡衣派对吧。我们有八卦杂志，曲奇饼，扭扭乐",
+    "translation": "We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing. We got some trashy magazines, we got cookie dough, we got Twister",
+    "knowledge_point": "- slumber[ˈslʌmbər] party 睡衣派对，Slumber party:是女孩子们聚在其中一人家里，大家穿着睡衣，通宵聊天，吃点心的轻松派对。这种派对在美国的少女中相当常见，好友们可以借对增进感情\n- slumber n.v.睡眠\n- trashy magazine八卦杂志\n- cookie dough 一种饼干",
+    "label": "slumber party; ep4"
+  },
+  {
+    "question": "Monica：（在电话中）你能告诉我有什么事吗",
+    "translation": "(on phone) Could you please tell me what this is in reference to",
+    "knowledge_point": "- in reference to 关于",
+    "label": "in reference to; ep4"
+  },
+  {
+    "question": "Monica：那又怎样，你不是唯一一个。我是说，有一半的时间我们不知道我们要去哪里。你必须明白，在某个时刻，一切都会好起来",
+    "translation": "So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together",
+    "knowledge_point": "",
+    "label": "come together; ep4"
+  },
+  {
+    "question": "接待员：上面说如果你对这个糖果不满意可以打这个电话。嗯，我并不完全满意。",
+    "translation": "receptionist ：It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.",
+    "knowledge_point": "",
+    "label": "receptionist; ep4"
+  },
+  {
+    "question": "Chandler:听着，情况有点紧急。我想你是知道的，不然我们现在就在“尴尬病房”了",
+    "translation": "Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room",
+    "knowledge_point": "",
+    "label": "predicament; ep4"
+  },
+  {
+    "question": "Ross:听着，我不想惹麻烦，但我现在很痛苦，好吗？我的脸凹陷了",
+    "translation": "Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented",
+    "knowledge_point": "",
+    "label": "make trouble; ep4"
+  },
+  {
+    "question": "Chandler：不好意思，我们已经在这里待了一个多小时了，好多没我朋友病得重的人都进去了。",
+    "translation": "Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in.",
+    "knowledge_point": "",
+    "label": "形容词作定语; ep4："
+  },
+  {
+    "question": "Monica：灯还没亮？",
+    "translation": "Wait, was this a small mediterranean guy with curiously intelligent good looks?",
+    "knowledge_point": "",
+    "label": "mediterranean; ep4"
+  },
+  {
+    "question": "Monica：灯还没亮？",
+    "translation": "Light still out?",
+    "knowledge_point": "",
+    "label": "out; ep4"
+  },
+  {
+    "question": "Monica：灯还没亮？",
+    "translation": "Do you remember that vegetarian paté that I made that you loved so much?",
+    "knowledge_point": "",
+    "label": "out; ep4"
+  },
+  {
+    "question": "Chandler：哦，得了吧，承认吧！总的来说，你今晚玩得很开心。",
+    "translation": "Oh come on, admit it! All things considered, you had fun tonight.",
+    "knowledge_point": "",
+    "label": "All things considered; ep4"
+  },
+  {
+    "question": "Kid：捡到的归谁，输了的哭",
+    "translation": "Finders keepers, losers weepers",
+    "knowledge_point": "",
+    "label": "weep; ep4"
+  },
+  {
+    "question": "Ross：我是橡皮，你是胶水，无论你说什么，都会从我身上反弹回来，粘在你身上。",
+    "translation": "I’m rubber，you’re glue，whatever you say bounces[ˈbaʊnsɪz] off me and stick to you",
+    "knowledge_point": "",
+    "label": "bounces off; ep4"
+  },
+  {
+    "question": "Ross：没什么大不了的？令人惊奇的。你把手伸进去，做个小动作，砰的一声，胸罩就从袖子里出来了。好吧，在我看来，一个男人所能做的一切都无法与之相比。我说的对吗？",
+    "translation": "***\\*Ross:\\**** Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Joey：你知道什么让我大吃一惊吗？女人可以随时看到乳房。我不知道你是怎么完成工作的。",
+    "translation": "Ok, you know what blows my mind? Women can see breasts any time they want. How you get any work done is beyond me.",
+    "knowledge_point": "",
+    "label": "anytime; blows my mind; ep5"
+  },
+  {
+    "question": "Chandler：我觉得她会觉得我们联合起来对付她",
+    "translation": "I think she'd feel like we're ganging [ˈɡæŋɪŋ] up on her",
+    "knowledge_point": "",
+    "label": "gang up on sb; ep5"
+  },
+  {
+    "question": "Phoebe：（对瑞秋）怎么了？为什么这么闷闷不乐？",
+    "translation": "***\\*Phoebe:\\**** (to Rachel) What's the matter? Why so scrunchy [ˈskrʌntʃi]?",
+    "knowledge_point": "",
+    "label": "scrunchy; ep5"
+  },
+  {
+    "question": "Rachel：是我爸爸。他想送我一辆奔驰敞篷车。",
+    "translation": "***\\*Rachel:\\**** It's my father. He wants to give me a Mercedes convertible[kənˈvɜːrtəb(ə)l].",
+    "knowledge_point": "",
+    "label": "convertible; ep5"
+  },
+  {
+    "question": "Ross：那家伙真让我火冒三丈。",
+    "translation": "***\\*Ross:\\**** That guy, he burns me up.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Rachel：哦，是的，是的。实际上，我要的是迪斯科加长版，里面有三声合唱“你永远不会靠自己成功”。",
+    "translation": "***\\*Rachel:\\**** Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\".",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Monica：哇，被你甩了显然对她来说很合适。",
+    "translation": "***\\*Monica:\\**** Wow, being dumped by you obviously agrees with her.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Rachel：哦，魅力之夜。我和莫妮卡在自助洗衣店。",
+    "translation": "***\\*Rachel:\\**** Oh, big glamour night. Me and Monica at laundromat [ˈlɔːndrəmæt].",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Ross：-你想听一个奇怪的巧合吗？猜猜谁也在那儿洗衣服？",
+    "translation": "***\\*Ross:\\**** Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Ross: 是的，我的楼里确实有一间洗衣房，但是有老鼠的问题。显然它们被烘干机的床单吸引了，它们进去的时候很好，出来的时候却毛茸茸的。不管怎样，七点怎么样？",
+    "translation": "***\\*Ross:\\**** Yes, I do have a laundry room in my building, um, but there's a rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all fluffy. Anyway, say sevenish?",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Angela：鲍勃很棒。他很聪明，很老练，而且他有份正经工作。你一个月试镜三次，还自称是演员，",
+    "translation": "***\\*Angela:\\**** Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions[ɔːˈdɪʃ(ə)n] a month and you call yourself an actor,",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Monica：算了吧。尤其是你那个会打嗝的表弟",
+    "translation": "***\\*Monica:\\**** Forget it. Not after your cousin who could belch [beltʃ] the alphabet [ˈælfəbet].",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Chandler：哦。等等，露营者，你确定你想清楚了吗？",
+    "translation": "Oh. Well, hold on camper, are you sure you've thought this thing through?",
+    "knowledge_point": "",
+    "label": "figure of speech; ep5"
+  },
+  {
+    "question": "Janice：天啊，真高兴你打电话给我。我度过了最糟糕的一天",
+    "translation": "Oh, my god, I am so glad you called me. I had the most supremely awful day.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Janice：我们拿到了那张照片的校样，你知道的，有小蔬菜的那张。不管怎么说，它们都很糟糕，所以，我把那天剩下的时间都打发掉了，我去购物了……（翻看她的包）……我找到你了，我在找，我在找，我在找，我找到你了……",
+    "translation": "We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...(looks through her bags)... and I got you, I'm looking, I'm looking, I'm looking, I got you...",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Janice：你可以混搭（袜子），驼鹿和松鼠。你要什么都行",
+    "translation": "you can mix and match, moose [muːs] and squirrel[ˈskwɜːrəl]. Whatever you want.",
+    "knowledge_point": "",
+    "label": "mix and match; ep5"
+  },
+  {
+    "question": "Phoebe：好吧，你不在场。（站着说话不腰疼）",
+    "translation": "***\\*Phoebe:\\**** Ok, you weren't there.",
+    "knowledge_point": "",
+    "label": "figure of speech; ep5"
+  },
+  {
+    "question": "Rachel：太神奇了。我连汤都送不回去。",
+    "translation": "***\\*Rachel:\\**** That was amazing. I can't even send back soup.",
+    "knowledge_point": "",
+    "label": "figure of speech; ep5"
+  },
+  {
+    "question": "Ross：（洗衣液）它是新的，德国产的，非常结实。",
+    "translation": "***\\*Ross:\\****It's new, it's German, it's extra-tough.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Rachel:我是不是像个洗衣笨蛋",
+    "translation": "Oh, am I being like a total laundry spaz",
+    "knowledge_point": "",
+    "label": "spaz; ep5"
+  },
+  {
+    "question": "Ross：那就见仁见智了",
+    "translation": "***\\*Ross:\\**** (visibly nervous) Uh, that, that, that would be a judgment call.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Monica: 能遇到一个聪明又有趣的人真是太好了，而且情感年龄超过了八岁。",
+    "translation": "***\\*Monica:\\**** It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Monica：我哥哥甚至都没告诉我他什么时候失去了第一次",
+    "translation": "Wow. My brother never even told me when he lost his virginity.",
+    "knowledge_point": "",
+    "label": "ep5; virginity"
+  },
+  {
+    "question": "Phoebe：你可以的。就像撕掉创可贴一样。动作要非常快，然后伤口就露出来了，开始！",
+    "translation": "You can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.Go-go!",
+    "knowledge_point": "",
+    "label": "pull off; ep5"
+  },
+  {
+    "question": "Rachel：但事实并非如此。这发生在我身上。天啊，我看起来会像个大棉花糖。我父亲说得对。我一个人活不下去！我甚至不会洗衣服",
+    "translation": "***\\*Rachel:\\**** Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. My father's right. I can't live on my own! I can't even do laundry!",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Joey：我在想，如果我们齐心协力，凭我们两人之力，就能拆散他们",
+    "translation": "***\\*Joey:\\**** Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.",
+    "knowledge_point": "",
+    "label": "between; figure of speech; ep5"
+  },
+  {
+    "question": "Phoebe：放松，放松，想想你的快乐时光",
+    "translation": "***\\*Phoebe:\\**** Chandler, easy, easy. Go to your happy place",
+    "knowledge_point": "",
+    "label": "ep5; figure of speech"
+  },
+  {
+    "question": "Ross：你太棒了！全新的女人，女士们先生们，",
+    "translation": "***\\*Ross:\\**** You were incredible! Brand new woman, ladies and gentlemen.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Phoebe：多好的主意啊。你所有的衣服都很相配。我要这么做。",
+    "translation": "***\\*Phoebe:\\**** (seeing Rachel's clothes) What a neat idea. All your clothes match. I'm gonna do this.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Monica: 我们拆散了那对情侣，然后各自保留一半",
+    "translation": "We ripped that couple apart, and kept the pieces for ourselves.",
+    "knowledge_point": "",
+    "label": "figure of speech; ep5"
+  },
+  {
+    "question": "Chandler:我自由了，自由了，Phoebe：看来应该能搞定(解决问题了)",
+    "translation": "**Chandler**: I'm free! I'm free!  **Phoebe**:That oughta do it.",
+    "knowledge_point": "",
+    "label": "ep5"
+  },
+  {
+    "question": "Chandler：你总能发现一些以前从未看过他的戏剧的人。注意，没有恐惧，没有末日来临的感觉",
+    "translation": "***\\*Chandler:\\**** You can always spot someone who's never seen one of his plays before. Notice, no fear, no sense of impending doom...",
+    "knowledge_point": "",
+    "label": "impending; ep6"
+  },
+  {
+    "question": "Phoebe：标题里的感叹号吓到我了",
+    "translation": "***\\*Phoebe:\\**** The exclamation point in the title scares me",
+    "knowledge_point": "",
+    "label": "ep6; exclamation"
+  },
+  {
+    "question": "有没有人觉得他们只是想剥掉自己身上皮，只为了找点别的事做？",
+    "translation": "***\\*Monica:\\**** Did anybody else feel they just wanted to peel the skin off their body, to have something else to do?",
+    "knowledge_point": "",
+    "label": "figure of speech; ep6"
+  },
+  {
+    "question": "Chandler：我的开场白是什么？",
+    "translation": "what would my opening line be?",
+    "knowledge_point": "",
+    "label": "opening line; ep6"
+  },
+  {
+    "question": "Chandler：拜托，他是不是让我有点配不上？罗斯，帮我一下。",
+    "translation": "Oh please, could she be more out of my league? Ross, back me up here.",
+    "knowledge_point": "",
+    "label": "be more out of my league; ep6"
+  },
+  {
+    "question": "Ross：他一辈子也找不到那样的女人。",
+    "translation": "***\\*Ross:\\**** He could never get a woman like that in a million years.",
+    "knowledge_point": "",
+    "label": "figure of speech; ep6"
+  },
+  {
+    "question": "Phoebe：哦，哦，但是你知道，你总是看到这些非常漂亮的女人和这些非常一无是处的男人在一起，你也可以成为他们中的一员。",
+    "translation": "Phoebe: Oh, but y'know, you always see these really beautiful women with these really nothing guys, you could be one of those guys.",
+    "knowledge_point": "",
+    "label": "nothing guys; ep6"
+  },
+  {
+    "question": "Chandler:天啊，我真不敢相信我会考虑这个…我向来谨慎行事……",
+    "translation": "Chandler: Oh God, I can't believe I'm even considering this... I'm very very aware of my tongue...",
+    "knowledge_point": "",
+    "label": "ep6"
+  },
+  {
+    "question": "Chandler：真不敢相信我都来了快七秒钟了你还没问我约会怎么样。",
+    "translation": "***\\*Chandler:\\**** Well, I can't believe I've been here almost seven seconds and you haven't asked me how my date went.",
+    "knowledge_point": "",
+    "label": "how my date went; ep6"
+  },
+  {
+    "question": "Aurora：幸运的是，没有子弹击中发动机。所以，我们勉强到达了边境，我…我整晚都在说我自己，对不起。你呢？给我讲一个你的故事。",
+    "translation": "Aurora: ...Luckily none of the bullets hit the engine block. So, we made it to the border, but just barely, and I've been talking about myself all night long, I'm sorry. What about you? Tell me one of your stories.",
+    "knowledge_point": "",
+    "label": "barely; ep6"
+  },
+  {
+    "question": "Chandler:好吧。有一次我坐地铁，对，那是在晚上，我一路坐地铁去了布鲁克林……只是为了好玩。",
+    "translation": "Chandler: Alright. Once I got on the subway, right, and it was at night, and I rode it all the way to Brooklyn... just for the hell of it.",
+    "knowledge_point": "",
+    "label": "for the hell of it.; ep6"
+  },
+  {
+    "question": "Chandler：告诉我，你觉得你丈夫看到你和我坐在一起会怎么想？把你的脚伸到我裤腿上你都能数出我口袋里的零钱了？",
+    "translation": "***\\*Chandler:\\**** So tell me, how do you think your husband would feel about you sitting here with me?...Sliding your foot so far up my pant leg you can count the change in my pocket?",
+    "knowledge_point": "",
+    "label": "how do you think; figure of speech; ep6"
+  },
+  {
+    "question": "Aurora：我想主要是性",
+    "translation": "***\\*Aurora:\\**** I suppose mainly sexual.",
+    "knowledge_point": "",
+    "label": "sexual; ep6"
+  },
+  {
+    "question": "，Monica： 很遗憾（约会）进展不顺利",
+    "translation": "***\\*Monica:\\**** Oh. I'm sorry it didn't work out.",
+    "knowledge_point": "- 莫妮卡认为钱德勒的约会失败了（“it didn't work out”），即约会**未按预期顺利发展**或**关系未成功建立**。此处“work out”取“进展顺利”或“有满意结果”之意\n- 莫妮卡误判约会失败，钱德勒纠正并暗示关系持续\n- eg:*“The deal just isn't working out the way we were promised.”*",
+    "label": "work out; ep6"
+  },
+  {
+    "question": "Rachel：看！我打扫!我擦窗户，擦地板……我甚至用了吸尘器上所有的附件，除了那个有刷毛的小圆的，我不知道那是干什么用的。",
+    "translation": "",
+    "knowledge_point": "",
+    "label": "vacuum; what is that for; ep6; ep6; ep6; ep6; ep6"
   }
 ]
