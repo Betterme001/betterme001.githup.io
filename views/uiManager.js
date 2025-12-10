@@ -265,7 +265,14 @@
             return;
         }
 
-        fetch(fileUrl)
+        // 添加时间戳参数避免缓存，同时使用 cache: 'no-cache' 确保获取最新数据
+        const urlWithTimestamp = `${fileUrl}?t=${Date.now()}`;
+        fetch(urlWithTimestamp, {
+            cache: 'no-cache',
+            headers: {
+                'Cache-Control': 'no-cache'
+            }
+        })
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`加载文件失败: ${response.status} ${response.statusText}`);

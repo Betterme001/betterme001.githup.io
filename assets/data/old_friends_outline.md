@@ -53,6 +53,8 @@ a Dear Diary moment***\*:\**** when Americans keep the diary(n.日记), normally
 
 ## 5. 名词性从句
 
+### 5.1 what 引导的名词性从句作宾语
+
 **例句：**
 - **Phoebe:** "I don't want her to go through **what I went through with Carl**." (我只是不想你重蹈我和卡尔的覆辙)
   - "what I went through with Carl" 是名词性从句，作 "go through" 的宾语
@@ -60,6 +62,16 @@ a Dear Diary moment***\*:\**** when Americans keep the diary(n.日记), normally
 **语法要点：**
 - what 引导的名词性从句可以作主语、宾语、表语等
 - 这里 what = the thing that，指代"经历的事情"
+
+### 5.2 名词性从句作表语
+
+**例句：**
+- **Chandler:** "Now, Monica, you know **that's not how you look for an engagement ring in a lasagne**..." (莫妮卡，你知道在千层面里找订婚戒指可不是这样的…)
+  - "that's not how you look for..." 中，"how you look for..." 是名词性从句作表语
+
+**语法要点：**
+- how 引导的名词性从句可以作表语
+- 表示"方式、方法"
 
 ---
 
@@ -203,4 +215,258 @@ a Dear Diary moment***\*:\**** when Americans keep the diary(n.日记), normally
 **语法要点：**
 - 形容词可以作定语，修饰名词
 - 当形容词带有比较结构或修饰语时，通常后置
-- 常见结构：adj. + than..., adj. enough, too adj. 等 
+- 常见结构：adj. + than..., adj. enough, too adj. 等
+
+---
+
+## 13. where 作状语
+
+**例句：**
+- **Ross:** "Yeah. Do that for another two hours, you might be **where I am right about now**." (是的。这样做两个小时，你可能就和我现在一样了。)
+  - "where I am" 中，where 作状语，类似于 "I am here"
+
+**语法要点：**
+- where 可以引导地点状语从句或表语从句
+- 在表语从句中，where 表示"在...的地方"或"处于...的状态"
+
+---
+
+## 14. have got 的用法
+
+**例句：**
+- **Rachel:** "Oh, **you've got Carol tomorrow**." (你明天要去见卡罗尔。)
+  - **Ross:** "**Got me**." (难道我了)
+
+**语法要点：**
+- **have got** 不是现在完成时，而是口语中相当于 **have**（有）的固定搭配
+- 表示"有"某个安排或责任，不表示完成时态
+- **类似表达**：
+  - "You've got a dentist appointment at 3." (你3点有个牙医预约。)
+  - "We've got a test next Monday." (我们下周一有个测验。)
+- **got me** 表示"理解"或"抓住"，也可以表示"我也回答不了这个问题"
+
+---
+
+## 15. 口语缩略形式
+
+### 15.1 gotta = got to / have got to
+
+**例句：**
+- **Joey:** "There's **gotta** be something wrong with him!" (那男人一定有问题！)
+  - gotta = got to / have got to，表示"不得不，一定"
+  - "There's gotta" = "There has got to"，相当于 "There must be"
+
+**语法要点：**
+- gotta 是口语缩略形式，表示"必须"或"一定"
+- 常用于非正式场合
+
+### 15.2 kinda = kind of
+
+**例句：**
+- **Rachel:** "I know that you and I have **kinda** drifted apart..." (我知道咱俩有点疏远了...)
+  - kinda = kind of，意思是"有点儿"、"有几分"
+  - 作为副词，用来修饰后面的动词短语，使语气更委婉
+
+**语法要点：**
+- kinda 是口语化缩写，使语气更委婉、不那么绝对
+- 常见用法：It's kinda cold today. / I kinda like this movie.
+
+### 15.3 outta = out of
+
+**例句：**
+- **Joey:** "If you're gonna start with that stuff we're **outta** here." (如果你再这样，我们就走了。)
+  - outta = out of
+  - "I'm outta here!" = "I'm leaving now!" (我要走了！)
+
+### 15.4 gonna = going to
+
+**例句：**
+- **Monica:** "**You gonna** crash on the couch?" (你要睡在沙发上吗？)
+  - gonna = are going to / going to
+  - "You gonna...?" 是口语缩略形式，完整句为 "Are you going to...?"
+
+### 15.5 oughta = ought to
+
+**例句：**
+- **Phoebe:** "**That oughta do it**." (看来应该能搞定)
+  - oughta = ought to，表示"应该"或"理应"
+  - "do it" 指代解决当前问题或达成目标
+
+---
+
+## 16. 常用短语和习语
+
+### 16.1 动词短语
+
+- **go through** - 经历，遭受
+- **go out with** - <俚>约会
+- **move out** - 搬走
+- **drift apart** - 逐渐疏远
+- **come over** - （尤指到某人家中）短暂造访
+- **hang out** - 呆在这儿，朋友之间相处
+- **catch on** - 理解
+- **catch** - 听清楚；领会
+- **go for** - 选择（sth）/ 袭击（sb）
+- **steer clear of** - 避开，小心
+- **rip out** - 扯掉
+- **walk out on** - 遗弃，抛弃
+- **be headed for** - 朝……前进/移动
+- **take credit for** - （因为某事）居功
+- **bring up** - 提及
+- **fit into** - 适应
+- **wind up doing** = **end up doing** - 最终...
+- **get one's way** - 得逞，随心所欲
+- **well up** - 流泪
+- **work out** - 进展顺利，有满意结果
+- **take one's mind off** - 让某人忘记某事
+- **blow one's mind** - 使某人感到兴奋
+- **be beyond sb** - 某件事使某人难以理解
+- **gang up on sb** - 联合反对
+- **dump sb** - 甩了某人
+- **let one's guard down** - 放下戒备
+- **put one's heads together** - 集思广益
+- **break sb up** - 拆散某人
+
+### 16.2 介词短语和固定搭配
+
+- **for the best** - 这样也许是最好的（良药虽苦，其利于病）
+- **on a roll** - 连续成功、势头正旺
+- **all over sb** - 1. 围绕着转 2. 非常喜欢，着迷 3. 三贴（跳舞时）
+- **on the subject of** - 关于
+- **in reference to** - 关于
+- **come together** - 一切都会好起来
+- **All things considered** - 总的来说
+- **as far as I'm concerned** - 就我而言
+- **borders on** - 非常接近（负面极限），有"...之嫌"
+- **on the table** - 在讨论的范围
+- **roll with the punches** - <俚>顺势而为，适应变化
+- **be a thing** - 在一起了
+- **have a thing for** - 喜爱
+- **be with you** - 和你在一起，支持你
+- **for the hell of it** - 为了好玩
+
+### 16.3 常用表达
+
+- **what's with you** = **what's the deal** - 你怎么了？
+- **have no idea** - 你难以想象...
+- **You have no idea.** - 你难以想象…
+- **Even nicer when...** - 那就更好了...
+- **there's really no easy way to do sth** - 做...不容易
+- **how'd it go** - 怎么样了（how did it go 的缩略）
+- **how my date went** - 约会进展如何（go 表示进展）
+- **a judgment call** - 见仁见智，需要自己判断决定
+- **Big deal** - n. 重要的事或人；（讽刺）没什么大不了的
+- **a cheap shot** - 贱招
+- **a big break** - 大突破
+- **bottom line** - 真相是，关键是
+
+---
+
+## 17. 修辞手法和习语
+
+### 17.1 比喻和隐喻
+
+- **Dear Diary moment** - 当美国人写日记时，通常第一句话是"Dear Diary"，这里钱德勒用讽刺的语气嘲笑莫妮卡对保罗的迷恋
+- **"no snap in his turtle"** - 美式俚语，带有性暗示的比喻，指性无能
+- **"peel the skin off"** - 比喻极度尴尬或痛苦，火山级
+- **"Go to your happy place"** - 心理安抚技巧，指通过想象令人愉悦的场景来缓解焦虑
+
+### 17.2 文化引用
+
+- **"barn raising scene in Witness"** - 引用1985年电影《证人》中的经典片段，代表社区的温暖和协作的成就感
+- **"Finders keepers, losers weepers"** - 童谣，捡到的归谁，输了的哭
+- **"I'm rubber, you're glue"** - 童谣，儿童吵架的话语
+
+### 17.3 口语省略
+
+- **"Satan's minion's at work again"** - 省略系动词 is，口语中常见
+- **"Problem solved"** - 省略主语和系动词
+- **"You happy now?"** - 省略系动词 Are
+
+---
+
+## 18. 重要词汇
+
+### 18.1 情感和状态
+
+- **aura** [ˈɔːrə] - 灵光，灵气
+- **murky** [ˈmɜːrki] - 昏暗的；阴暗的；朦胧的
+- **fixate** [ˈfɪkset] - 关注
+- **freaked out** - 吓了一跳
+- **familiar** - 眼熟的
+- **horny** ['hɔ:ni] - <非正式>（引起）性冲动的
+- **vulnerability** [ˌvʌlnərəˈbɪləti] - 弱点
+- **upbeat** [ˈʌpbiːt] - 乐观的，积极向上的
+- **rough** - 不顺利的
+- **relieved** - 解放的，松了一口气的
+- **crooked** [ˈkrʊkɪd] - 弯曲的；不诚实的；狡诈的
+- **scrunchy** [ˈskrʌntʃi] - <俚>愁眉苦脸的
+
+### 18.2 动作和行为
+
+- **screwed** [skruːd] - 喝醉了
+- **spoil** - 破坏
+- **establish** - 确立，确定，建立
+- **accidentally** [ˌæksɪˈdentəli] - 意外地，偶然地
+- **shred** - 撕碎
+- **revelation** [ˌrevəˈleɪʃ(ə)n] - 揭露秘密，坦白隐私
+- **perform sexually** - 做爱
+- **abuse** - 辱骂，虐待
+- **well up** - 流泪
+- **nod off** - 打盹
+- **steam** - 蒸
+- **spot** - 突然看见
+- **bash** - 严厉批评
+- **row** - 划船
+- **pull off** - 撕掉
+
+### 18.3 名词
+
+- **cafeteria** [ˌkæfəˈtɪriə] - 自助餐厅
+- **intestine** [ɪnˈtestɪn] - 小肠
+- **lesbian** [ˈlezbiən] - 女同性恋
+- **gravy boat** - 调味汁碗
+- **parachute** [ˈpærəʃuːt] - 跳伞
+- **symbolic gesture** - 象征性的姿态
+- **beacon** [ˈbiːkən] - 灯塔
+- **ammunition** [ˌæmjəˈnɪʃ(ə)n] - 弹药；把柄，证据
+- **chaotic** [keɪˈɑːtɪk] - 混乱的
+- **twirly** ['twə:li] - 卷曲的，弯曲的
+- **veil** [veɪl] - 面纱
+- **stomp** [stɑːmp] - 跺脚，重踩
+- **perspective** [pərˈspektɪv] - 观点；客观判断力
+- **presumably** [prɪˈzuːməbli] - 大概，可能
+- **paranoid** [ˈpærənɔɪd] - 妄想症的
+- **predicament** [pri'dikəmənt] - 尴尬的处境，困境
+- **mediterranean** [ˌmedɪtəˈreɪniən] - 地中海的
+- **apron** [ˈeɪprən] - 围裙
+- **duplex** ['dju:pleks] - 双胞胎（比喻）
+- **slumber party** - 睡衣派对
+- **receptionist** [rɪˈsepʃənɪst] - 接待员
+- **convertible** [kənˈvɜːrtəb(ə)l] - 活动顶篷式汽车
+- **laundromat** [ˈlɔːndrəmæt] - 自助洗衣店
+- **fluffy** - 绒毛(状)的，毛茸茸的
+- **audition** [ɔːˈdɪʃ(ə)n] - 试镜
+- **belch** [beltʃ] - 打嗝
+- **moose** [muːs] - 驼鹿
+- **squirrel** [ˈskwɜːrəl] - 松鼠
+- **spaz** [spæz] - 笨家伙，怪人
+- **virginity** [vərˈdʒɪnəti] - 童贞
+- **omnipotent** [ɑːmˈnɪpətənt] - 全能的，无所不能的
+- **impotent** [ˈɪmpətənt] - 阳痿的
+- **boob** - <俚>breast
+- **hockey** - <美>冰球
+- **pessimist** [ˈpesɪmɪst] - 悲观主义者
+- **impending** [im'pendiŋ] - 即将发生的
+- **doom** - 毁灭，死亡
+- **exclamation** [ˌekskləˈmeɪʃn] - 惊叫，感叹
+- **opening line** - 开场白
+- **lead** - 主角
+- **barely** - 勉强才能
+- **engine block** - 发动机组
+- **vacuum** [ˈvækjuːm] - 真空吸尘器
+- **bristle** [ˈbrɪs(ə)l] - 刚毛；刷子毛
+- **casually** [ˈkæʒuəli] - 随意地
+- **strewn** [struːn] - 撒；散播（strew 的过去分词）
+- **reckless** [ˈrekləs] - 鲁莽的
+- **haphazard** [hæpˈhæzərd] - 无计划的
