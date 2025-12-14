@@ -2928,15 +2928,735 @@
     "label": "unfocused"
   },
   {
-    "question": "这一次的研究太零散，难以发挥重大的作用",
-    "translation": "The research is too unfocused to have any significant impact",
-    "knowledge_point": "- unfocused: ( of plans, work, etc. 计划、工作等 ) not having a clear aim or purpose; not well organized or clear 目的不明确的；组织不严密的；松散",
-    "label": "unfocused"
+    "question": "只有很有钱的人才在这里买得起东西",
+    "translation": "Only people with plenty of money can afford to shop here",
+    "knowledge_point": "- only 副词作状语\n- 副词可以修饰名词，如 The building here\n- only adv: nobody or nothing except 只；只有；仅",
+    "label": "only; afford"
   },
   {
-    "question": "这一次的研究太零散，难以发挥重大的作用",
-    "translation": "The research is too unfocused to have any significant impact",
-    "knowledge_point": "- unfocused: ( of plans, work, etc. 计划、工作等 ) not having a clear aim or purpose; not well organized or clear 目的不明确的；组织不严密的；松散",
-    "label": "unfocused"
+    "question": "只来了五个人",
+    "translation": "Only five people turned up",
+    "knowledge_point": "- only adv: nobody or nothing except 只；只有；仅",
+    "label": "only"
+  },
+  {
+    "question": "这间酒吧只对会员开放",
+    "translation": "The bar is for members only",
+    "knowledge_point": "- only adv: nobody or nothing except 只；只有；仅",
+    "label": "only"
+  },
+  {
+    "question": "此处禁止停车，后果自负",
+    "translation": "Persons parking here do so at their own risk",
+    "knowledge_point": "- 句子成分：主 定 谓 状\n- persons的用法变得更加有限，只在个别短语中使用，通常是法律法规的条文中\n- 如果你想表达的是一个较小的、具体的数字，比如三个银行劫匪或者两个走丢的孩子，你可以说persons of interest (嫌疑犯)，或者missing persons(走丢人口)",
+    "label": "persons/at one's own risk"
+  },
+  {
+    "question": "夕阳的光辉是灿烂的；很遗憾，黄昏很快就要来临了",
+    "translation": "The glow of the setting sun is splendid; it is a pity that dusk is fast approaching",
+    "knowledge_point": "- 落日的（of)光辉\n- fast 这里是副词，表示\"很快，立即\"\n- fast adv: quickly 快；快速；迅速\n- fast adv: in a short time; without delay 不久；立即",
+    "label": "fast/glow"
+  },
+  {
+    "question": "别把车开得这么快",
+    "translation": "Don't drive so fast",
+    "knowledge_point": "- fast adv: quickly 快；快速；迅速",
+    "label": "fast"
+  },
+  {
+    "question": "我不能走得更快了",
+    "translation": "I can't go any faster",
+    "knowledge_point": "- fast adv: quickly 快；快速；迅速",
+    "label": "fast"
+  },
+  {
+    "question": "如今孩子们长得真快",
+    "translation": "Children grow up so fast these days",
+    "knowledge_point": "- fast adv: in a short time; without delay 不久；立即",
+    "label": "fast"
+  },
+  {
+    "question": "英国不久就要变成一个胖子国了",
+    "translation": "Britain is fast becoming a nation of fatties",
+    "knowledge_point": "- fast adv: in a short time; without delay 不久；立即",
+    "label": "fast"
+  },
+  {
+    "question": "警方说他们已尽快作出了反应",
+    "translation": "The police said that they had reacted as fast as they could",
+    "knowledge_point": "- fast adv: in a short time; without delay 不久；立即",
+    "label": "fast"
+  },
+  {
+    "question": "几分钟后她就沉睡了",
+    "translation": "Within a few minutes she was fast asleep",
+    "knowledge_point": "- fast: firmly; completely 牢固地；完全地\n- fast asleep = sleeping deeply",
+    "label": "fast"
+  },
+  {
+    "question": "船深陷在淤泥里动弹不得",
+    "translation": "The boat was stuck fast in the mud",
+    "knowledge_point": "- fast: firmly; completely 牢固地；完全地\n- stuck fast = unable to move",
+    "label": "fast"
+  },
+  {
+    "question": "我永远不会忘记我们见面的那一天",
+    "translation": "I will never forget the day on which/when I met you",
+    "knowledge_point": "- 用一般现在时没有问题，表示贯穿时空的状态，从以前到现在到以后\n- 答案这里用的一般将来时，因为\"永远\"更多针对的是将来的时空\n- 比如\"我会永远爱你\"，强调的是从此往生，我会永远爱你，是一种对未来的承诺\n- 类似的，我永远支持你，也可以对应将来的时空，用一般将来时",
+    "label": "定语从句-关系副词when/on which"
+  },
+  {
+    "question": "我的童年就是在这座小城里度过的",
+    "translation": "This is the small town in which/where I spent my childhood",
+    "knowledge_point": "- 定语从句修饰 the small town\n- where/in which 都可以使用",
+    "label": "定语从句-关系副词where/in which"
+  },
+  {
+    "question": "懂得越多的人就越清楚自己知道的太少",
+    "translation": "He who knows most knows best how little he knows",
+    "knowledge_point": "- 比较级，最高级，在英语里有时是通用的，都是强调比较的意思\n- He who believes is strong, he who doubts is weak",
+    "label": "定语从句"
+  },
+  {
+    "question": "谁笑到最后，谁笑得最好",
+    "translation": "He who laughs last laughs best",
+    "knowledge_point": "- 比较级，最高级，在英语里有时是通用的，都是强调比较的意思",
+    "label": "定语从句"
+  },
+  {
+    "question": "他们当时站的那座桥塌了",
+    "translation": "The bridge on which/where they were standing collapsed",
+    "knowledge_point": "- 解析用的过去进行时，因为题意里有\"当时\"，这里是指，桥塌时，他们正在桥上\n- collapse: [ V ] to fall down or fall in suddenly, often after breaking apart （突然）倒塌，坍塌",
+    "label": "定语从句-关系副词where/on which/过去进行时/collapse"
+  },
+  {
+    "question": "房顶在雪的重压下突然坍塌下来",
+    "translation": "The roof collapsed under the weight of snow",
+    "knowledge_point": "- collapse: [ V ] to fall down or fall in suddenly, often after breaking apart （突然）倒塌，坍塌",
+    "label": "collapse"
+  },
+  {
+    "question": "小轿车被卡车压得完全变形了",
+    "translation": "The car was completely crushed under the truck",
+    "knowledge_point": "- crush: to press or squeeze sth so hard that it is damaged or injured, or loses its shape 压坏；压伤；挤压变形",
+    "label": "crush"
+  },
+  {
+    "question": "电话系统瘫痪了",
+    "translation": "The telephone system has broken down",
+    "knowledge_point": "- break down: ( of a machine or vehicle 机器或车辆 ) to stop working because of a fault 出故障；坏掉",
+    "label": "break down"
+  },
+  {
+    "question": "我们的车在高速公路上抛锚了",
+    "translation": "We broke down on the freeway",
+    "knowledge_point": "- break down: ( of a machine or vehicle 机器或车辆 ) to stop working because of a fault 出故障；坏掉",
+    "label": "break down"
+  },
+  {
+    "question": "双方谈判失败了",
+    "translation": "Negotiations between the two sides have broken down",
+    "knowledge_point": "- break down: to fail 失败",
+    "label": "break down"
+  },
+  {
+    "question": "她因工作压力身体垮掉了",
+    "translation": "Her health broke down under the pressure of work",
+    "knowledge_point": "- break down: to become very bad 被搞垮；垮掉",
+    "label": "break down"
+  },
+  {
+    "question": "听到这个消息，他不禁失声痛哭",
+    "translation": "He broke down and wept when he heard the news",
+    "knowledge_point": "- break down: to lose control of your feelings and start crying 情不自禁地哭起来",
+    "label": "break down"
+  },
+  {
+    "question": "这项工程的支出费用分项列明如下：工资1 000万元，设备400万元，原料500万元",
+    "translation": "Expenditure on the project breaks down as follows: wages $10m, plant $4m, raw materials $5m",
+    "knowledge_point": "- break down: to divide into parts to be analysed 划成部分（以便分析）",
+    "label": "break down"
+  },
+  {
+    "question": "船触礁撞碎了",
+    "translation": "The ship broke up on the rocks",
+    "knowledge_point": "- break up: to separate into smaller pieces 粉碎；破碎",
+    "label": "break up"
+  },
+  {
+    "question": "他们的婚姻已经破裂",
+    "translation": "Their marriage has broken up",
+    "knowledge_point": "- break up: to come to an end 结束",
+    "label": "break up"
+  },
+  {
+    "question": "会议在十一点散会",
+    "translation": "The meeting broke up at eleven o'clock",
+    "knowledge_point": "- break up: to go away in different directions 散开；解散",
+    "label": "break up"
+  },
+  {
+    "question": "你们什么时候放假过圣诞节",
+    "translation": "When do you break up for Christmas",
+    "knowledge_point": "- break up: ( especially BrE ) to begin the holidays when school closes at the end of a term （学校）期终放假",
+    "label": "break up"
+  },
+  {
+    "question": "过度的劳累使他快要垮了",
+    "translation": "He was breaking up under the strain",
+    "knowledge_point": "- break up: ( BrE ) to become very weak 变得虚弱；垮掉",
+    "label": "break up"
+  },
+  {
+    "question": "她刚刚和男朋友分手",
+    "translation": "She's just broken up with her boyfriend",
+    "knowledge_point": "- break up (with sb): to end a relationship with sb （同某人）绝交",
+    "label": "break up"
+  },
+  {
+    "question": "他们于1993年破产",
+    "translation": "They went bankrupt in 1993",
+    "knowledge_point": "- bankrupt['bæŋkrʌpt]: without enough money to pay what you owe 破产；倒闭",
+    "label": "go bankrupt"
+  },
+  {
+    "question": "道德沦丧的社会",
+    "translation": "a society that is morally bankrupt",
+    "knowledge_point": "- bankrupt: ( formal , disapproving ) completely lacking in anything that has value 完全缺乏（有价值的东西）",
+    "label": "bankrupt"
+  },
+  {
+    "question": "这家公司为律师费用所累几乎破产",
+    "translation": "The company was almost bankrupted by legal costs",
+    "knowledge_point": "- bankrupt: [ VN ] to make sb bankrupt 使破产",
+    "label": "bankrupt"
+  },
+  {
+    "question": "你知道我在什么地方可以买到苹果吗",
+    "translation": "Do you know any place(s) where I can buy apples",
+    "knowledge_point": "- 要习惯用any，用apples 不用the apple/the apples，没有特指的意思\n- 特指一般是指对方知道的某种",
+    "label": "定语从句"
+  },
+  {
+    "question": "把你知道的都告诉我们",
+    "translation": "Tell us all the things (that) you know",
+    "knowledge_point": "- 这里用all（代词）, all（限定词）the things都可以\n- all 后面的定语从句要用that\n- 例如：All that glitters is not gold\n- 例如：All that matters",
+    "label": "定语从句"
+  },
+  {
+    "question": "我们所生活的世界由物质组成",
+    "translation": "The world where/in which we live is made up of matter",
+    "knowledge_point": "- consists of = be made up of\n- matter: [ U ] ( technical 术语 ) physical substance in general that everything in the world consists of; not mind or spirit （统称）物质\n- material: [ C ] [ usually pl. U ] things that are needed in order to do a particular activity （某一活动所需的）材料",
+    "label": "定语从句/matter"
+  },
+  {
+    "question": "研究物质的属性",
+    "translation": "to study the properties of matter",
+    "knowledge_point": "- matter: [ U ] ( technical 术语 ) physical substance in general that everything in the world consists of; not mind or spirit （统称）物质",
+    "label": "matter"
+  },
+  {
+    "question": "教材",
+    "translation": "teaching materials",
+    "knowledge_point": "- material: [ C ] [ usually pl. U ] things that are needed in order to do a particular activity （某一活动所需的）材料",
+    "label": "material"
+  },
+  {
+    "question": "你去过那家新开的饭店吗",
+    "translation": "Have you been to the restaurant that/which has just opened",
+    "knowledge_point": "- open: ( of a shop/store, business, etc. 商店、企业等 ) to start business for the day; to start business for the first time 开始营业；开业；开门\n- 也可以用opening recently\n- 这里不能用newly，应该用just, just通常用于现在完成时，比newly更近，newly则通常用于过去时",
+    "label": "定语从句/现在完成时/open/just/newly"
+  },
+  {
+    "question": "这家银行什么时候开门",
+    "translation": "What time does the bank open",
+    "knowledge_point": "- open: ( of a shop/store, business, etc. 商店、企业等 ) to start business for the day; to start business for the first time 开始营业；开业；开门",
+    "label": "open"
+  },
+  {
+    "question": "该公司一个月前开业",
+    "translation": "The company opened its doors for business a month ago",
+    "knowledge_point": "- open: ( of a shop/store, business, etc. 商店、企业等 ) to start business for the day; to start business for the first time 开始营业；开业；开门",
+    "label": "open"
+  },
+  {
+    "question": "新近获得行医许可的医生",
+    "translation": "a newly qualified doctor",
+    "knowledge_point": "- newly: ( usually before a past participle 通常用于过去分词前 ) recently 最近；新近",
+    "label": "newly"
+  },
+  {
+    "question": "新设置的岗位",
+    "translation": "a newly created job",
+    "knowledge_point": "- newly: ( usually before a past participle 通常用于过去分词前 ) recently 最近；新近",
+    "label": "newly"
+  },
+  {
+    "question": "刚独立的共和国",
+    "translation": "a newly independent republic",
+    "knowledge_point": "- newly: ( usually before a past participle 通常用于过去分词前 ) recently 最近；新近",
+    "label": "newly"
+  },
+  {
+    "question": "正如我所料，他破产了",
+    "translation": "He went bankrupt, as I predicted",
+    "knowledge_point": "- go bankrupt 破产\n- as 引导定语从句，指代整个主句",
+    "label": "定语从句/go bankrupt/predict/anticipate"
+  },
+  {
+    "question": "我们预料不会发生什么大问题",
+    "translation": "We don't anticipate any major problems",
+    "knowledge_point": "- anticipate: to expect sth 预料；预期",
+    "label": "anticipate"
+  },
+  {
+    "question": "尽量设想面试主持者会提出什么问题",
+    "translation": "Try and anticipate what the interviewers will ask",
+    "knowledge_point": "- anticipate: to see what might happen in the future and take action to prepare for it 预见，预计（并做准备）",
+    "label": "anticipate"
+  },
+  {
+    "question": "我们迫切地期盼着毕业离校的那一天",
+    "translation": "We eagerly anticipated the day we would leave school",
+    "knowledge_point": "- anticipate: to think with pleasure and excitement about sth that is going to happen 期盼；期望",
+    "label": "anticipate"
+  },
+  {
+    "question": "预报地震的可靠方法",
+    "translation": "a reliable method of predicting earthquakes",
+    "knowledge_point": "- predict: to say that sth will happen in the future 预言；预告；预报 SYNC forecast",
+    "label": "predict"
+  },
+  {
+    "question": "预知未来的事是不可能的",
+    "translation": "It is impossible to predict what will happen",
+    "knowledge_point": "- predict: to say that sth will happen in the future 预言；预告；预报 SYNC forecast",
+    "label": "predict"
+  },
+  {
+    "question": "他已不再是五年前那个头脑简单的他了",
+    "translation": "He is no longer the simple-minded man that he was five years ago",
+    "knowledge_point": "- simple-minded 分词形容词\n- 这里that 作表语，不能用who,whom ,who/whom只能用作主语或者宾语\n- no longer 不再\n- 这里定语从句修饰的 simple-minded man ,先行词是一个带定语的先行词",
+    "label": "定语从句/simple-minded"
+  },
+  {
+    "question": "她午饭后通常小睡一会儿，这是她的习惯",
+    "translation": "She usually takes a nap after lunch, as is her habit",
+    "knowledge_point": "- take a nap = sleep for a while\n- always 比usually 频率更高，通常usually, 总是always\n- 这个定语从句如果是放在后面的，用as和which都可以；如果定语从句放在前面，就只能用as",
+    "label": "定语从句-as的用法/take a nap"
+  },
+  {
+    "question": "可以想象，筹备一整场婚礼绝不是件轻而易举的事",
+    "translation": "As may be imagined, planning an entire wedding is no easy task",
+    "knowledge_point": "- 事：这里脱壳是 任务\n- 筹备：准备，计划，planning\n- 一整场： entire\n- no 限定词，表示反面\n- no 在这里表示情况的反面，意思是\"不是，并不\"：It was no easy task. = It was difficult. 这件事并不容易\n- 用not来表达也可以，It is not an easy task，需要有冠词",
+    "label": "定语从句-as的用法/no"
+  },
+  {
+    "question": "下一条要修的是哪条地铁",
+    "translation": "Which is the next subway that will be built",
+    "knowledge_point": "- 也可以说：Which subway line is the next one to be built\n- 也可以说：Which is the subway that is going to be built next\n- 也可以说：Which subway is the one that will be built next\n- 也可以说：Which subway line is next one that is going to be built\n- 其中，is going to和will的作用是相同的，表示将来；next可以作为副词修饰动词build",
+    "label": "定语从句"
+  },
+  {
+    "question": "这所学校是在曾经的影院上建立起来的",
+    "translation": "The school was built where there had been a movie theater",
+    "knowledge_point": "- 这里是过去的过去，所以从句用了there had been a movie theater\n- cinema: ( BrE ) ( NAmE also movie theater ) [ C ] a building in which films/movies are shown 电影院\n- theater: a building where theatrical performances or motion-picture shows can be presented\n- 话剧和电影院，美国都用theater，英国看电影用cinema，话剧用theater",
+    "label": "地点状语从句/cinema/theater"
+  },
+  {
+    "question": "当地的电影院",
+    "translation": "the local cinema",
+    "knowledge_point": "- cinema: ( BrE ) ( NAmE also movie theater ) [ C ] a building in which films/movies are shown 电影院",
+    "label": "cinema"
+  },
+  {
+    "question": "她今天落到这个地步都怪你",
+    "translation": "It is your fault that she is where she is",
+    "knowledge_point": "- where 在状语从句中，除了表示地点（地理概念，物理概念）外，还可以表示抽象概念的处境\n- 所以where she is 是地方，而she is where she is，他在（落到）所在的地方（地步），是一件事\n- 不能说地方你是的错，应该说\"这件事\"是你的错\n- 破解都怪你，可以说It is your fault",
+    "label": "名词性从句; 地点状语从句"
+  },
+  {
+    "question": "留得青山在，不怕没柴烧",
+    "translation": "Where there is life, there is hope",
+    "knowledge_point": "- 地点状语从句there be 句型表存在或发生\n- life [ U ] the ability to breathe, grow, reproduce, etc. which people, animals and plants have before they die and which objects do not have 生命\n- the living and the dead 生者与死者\n- life and death 生与死",
+    "label": "地点状语从句; life"
+  },
+  {
+    "question": "生者与死者",
+    "translation": "the living and the dead",
+    "knowledge_point": "- living: adj. alive now 活着的；活的\n- living: n. ( the living ) [ pl. ] people who are alive now 活着的人",
+    "label": "living"
+  },
+  {
+    "question": "所有生物",
+    "translation": "all living things",
+    "knowledge_point": "- living: adj. alive now 活着的；活的",
+    "label": "living"
+  },
+  {
+    "question": "现用语言",
+    "translation": "living languages",
+    "knowledge_point": "- living: adj. [ only before noun ] used or practised now 在使用的；在实施的",
+    "label": "living"
+  },
+  {
+    "question": "她靠做自由撰稿记者来维持生计",
+    "translation": "She earns her living as a freelance journalist",
+    "knowledge_point": "- living: n. [ C usually sing. ] money to buy the things that you need in life 生计；谋生；收入",
+    "label": "living"
+  },
+  {
+    "question": "日常生活",
+    "translation": "everyday living",
+    "knowledge_point": "- living: n. [ U ] a way or style of life 生活方式",
+    "label": "living"
+  },
+  {
+    "question": "善良的地方就有美德，有美德的地方就有奇迹",
+    "translation": "Where there is kindness, there is goodness. Where there is goodness, there is magic",
+    "knowledge_point": "- where... there .. 有什么，就有什么\n- kindness: 善良，goodness: 美德\n- kindness: being kind\n- kind: caring about others; gentle, friendly and generous 体贴的；慈祥的；友好的；宽容的\n- goodness: being good\n- good: morally right; behaving in a way that is morally right 符合道德的；正派的；高尚的\n- magic: a special quality or ability that sb/sth has, that seems too wonderful to be real 魔力；魅力；神奇\n- magic 不可数名词。there is magic\n- 这里可以用miracle，但因为是《灰姑娘》童话，结合原台词的语境、画面效果，就用magic了",
+    "label": "地点状语从句/kindness/goodness/magic/miracle"
+  },
+  {
+    "question": "他是个非常高尚的人",
+    "translation": "He is a very good man",
+    "knowledge_point": "- good: morally right; behaving in a way that is morally right 符合道德的；正派的；高尚的",
+    "label": "good"
+  },
+  {
+    "question": "待人体贴周到",
+    "translation": "to treat sb with kindness and consideration",
+    "knowledge_point": "- kindness: [ U ] the quality of being kind 仁慈；善良；体贴；宽容",
+    "label": "kindness"
+  },
+  {
+    "question": "我无法报答你对我无微不至的关怀",
+    "translation": "I can never repay your many kindnesses to me",
+    "knowledge_point": "- kindness: [ C ] a kind act 友好（或仁慈、体贴）的举动",
+    "label": "kindness"
+  },
+  {
+    "question": "人性善良的本质",
+    "translation": "the essential goodness of human nature",
+    "knowledge_point": "- goodness: [ U ] the quality of being good 善良；优良；美德",
+    "label": "goodness"
+  },
+  {
+    "question": "这些蔬菜的营养都被煮掉了",
+    "translation": "These vegetables have had all the goodness boiled out of them",
+    "knowledge_point": "- goodness: [ U ] the part of sth that has a useful effect on sb/sth, especially sb's health （尤指有益健康的）精华，营养，养分",
+    "label": "goodness"
+  },
+  {
+    "question": "撞车事故中竟然没有一人丧生，这真是奇迹",
+    "translation": "It's a miracle (that) nobody was killed in the crash",
+    "knowledge_point": "- miracle: [ sing. ] ( informal ) a lucky thing that happens that you did not expect or think was possible 奇迹；不平凡的事",
+    "label": "miracle"
+  },
+  {
+    "question": "具有印度独特魅力的舞蹈和音乐",
+    "translation": "dance and music which capture the magic of India",
+    "knowledge_point": "- magic: a special quality or ability that sb/sth has, that seems too wonderful to be real 魔力；魅力；神奇",
+    "label": "magic"
+  },
+  {
+    "question": "为了和老外说话时不再发窘，所以我努力学英语",
+    "translation": "I study English hard in order to avoid being embarrassed when talking with foreigners",
+    "knowledge_point": "- 有些词有否定意义，要学会使用，例如never, no, hardly, avoid\n- 可以用 in order not to be，而不是in order to be not",
+    "label": "in order to"
+  },
+  {
+    "question": "风太大了，我都走不动",
+    "translation": "The wind was so strong that I could hardly move forward",
+    "knowledge_point": "- wind 作为动词不表示刮风\n- wind [ usually passive ] to make sb unable to breathe easily for a short time 使喘不过气来；使喘大气",
+    "label": "结果状语从句"
+  },
+  {
+    "question": "他的肚子上挨了一击，一时喘不过气来",
+    "translation": "He was momentarily winded by the blow to his stomach",
+    "knowledge_point": "- wind [ usually passive ] to make sb unable to breathe easily for a short time 使喘不过气来；使喘大气",
+    "label": "wind"
+  },
+  {
+    "question": "当时那个场景太感人了，她哭了出来",
+    "translation": "She was so moved by the sight that she began to cry",
+    "knowledge_point": "- 注意这里的begin to cry 表示不哭到哭的过程\n- burst into tears 突然哭了",
+    "label": "结果状语从句"
+  },
+  {
+    "question": "没人比我更了解你",
+    "translation": "Nobody understands you as I do",
+    "knowledge_point": "- 也可以说 Nobody knows you more/better than me/I do\n- 两句都对，但是状语类型不一样\n- Nobody knows you as I do. 没人像我这样了解你。（方式状语）\n- Nobody knows you as well as I do. 没人和我一样了解你。（比较状语）\n- 方式状语中as相当于\"就像…；按照…\"\n- 比较状语中as相当于\"和…一样\"，通常是as (adj/adv.) as…",
+    "label": "方式状语从句-as/比较状语从句"
+  },
+  {
+    "question": "他们密切监视她，就像猫盯着老鼠",
+    "translation": "They watched her closely as a cat watches a rat",
+    "knowledge_point": "- 方式状语中as相当于\"就像…；按照…\"",
+    "label": "方式状语从句-as"
+  },
+  {
+    "question": "她的舞姿和她妹妹一样优雅",
+    "translation": "She dances as gracefully as her sister",
+    "knowledge_point": "- 比较状语中as相当于\"和…一样\"，通常是as (adj/adv.) as…",
+    "label": "比较状语从句-as...as"
+  },
+  {
+    "question": "我关掉了电视，好让我的室友安静地学习",
+    "translation": "I turned off the TV in order that my roommate could study in peace and quiet",
+    "knowledge_point": "- 彼时彼刻，用过去时。主句用过去时，从句也要保持时态一致\n- in peace and quiet 平静地",
+    "label": "目的状语从句-in order that/in peace and quiet/时态一致"
+  },
+  {
+    "question": "村民们平静地生活",
+    "translation": "The villagers live in peace and quiet",
+    "knowledge_point": "- in peace and quiet 平静地",
+    "label": "in peace and quiet"
+  },
+  {
+    "question": "请让我平静地工作",
+    "translation": "Please let me get on with my work in peace and quiet",
+    "knowledge_point": "- in peace and quiet 平静地",
+    "label": "in peace and quiet"
+  },
+  {
+    "question": "我们希望你能平静地休息",
+    "translation": "We hope you can rest in peace and quiet. Don't worry about anything",
+    "knowledge_point": "- in peace and quiet 平静地",
+    "label": "in peace and quiet"
+  },
+  {
+    "question": "你看，我就说了吧，她把钥匙丢了",
+    "translation": "She lost the key, just as I said she would",
+    "knowledge_point": "- 句子成分：主谓宾，方式状语从句\n- 这里would,是过去将来时（因为有个said)\n- 正式的句子，as 后面可以加句子。like 不可以句子\n- 但是informal 的口语，like可以引导句子\n- 可以不加would, 加would,就有预测的含义",
+    "label": "方式状语从句"
+  },
+  {
+    "question": "我必须承认，我之前学习没你用功",
+    "translation": "I have to admit that I didn't study as hard as you (did)",
+    "knowledge_point": "- as .. as 两个as\n- 比较状语从句三种结构：2 times as big as/2 times bigger than/2 times size of\n- have to ( also have got to ) used to show that you must do sth 必须；不得不\n- have to 和must 都可以",
+    "label": "比较状语从句; have to"
+  },
+  {
+    "question": "这跟我想得一样简单",
+    "translation": "It's as easy as I think(it is)",
+    "knowledge_point": "- 这里I think 和I thought 都可以，I think 强调现在也是这么觉得的",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "生活并不像它看上去那么顺风顺水，但也不会像我们想象得那么难",
+    "translation": "Life isn't as easy as it seems, but it's not so difficult as we think(it is)",
+    "knowledge_point": "- 句子成分：主系表 比较状语从句， 主系表 比较状语从句\n- 时态不一致，现在一般时，表示客观道理，一直这样\n- 解析用的主系表，我用的动状",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "进展顺利",
+    "translation": "go well",
+    "knowledge_point": "- go well: 进展顺利，再见",
+    "label": "go well"
+  },
+  {
+    "question": "进展不顺利",
+    "translation": "go badly",
+    "knowledge_point": "- go badly: 进展不顺利",
+    "label": "go badly"
+  },
+  {
+    "question": "变酸，变化",
+    "translation": "go bad",
+    "knowledge_point": "- go bad: 变酸，变化",
+    "label": "go bad"
+  },
+  {
+    "question": "你比去年高多了",
+    "translation": "You are much taller than you were last year",
+    "knowledge_point": "- you were可以省略",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "你关心你的工作胜过关心我",
+    "translation": "You care more about your work than you do about me",
+    "knowledge_point": "- than me 也可以\n- 在不引起歧义的情况下，口语中通常把句子结尾的主格换成宾格\n- 这句话最严谨的表述是：You care more about your work than you do it about me，但口语中你用You care more about your job than me也可以接受\n- 如果两个比较的对象作用到宾语时，可以替换成than me，如果作用到主语，则不能替换成than me，否则会有歧义",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "你比我有事业心",
+    "translation": "You care more about your work than I do",
+    "knowledge_point": "- 这里如果改成than me则会有歧义\n- 如果两个比较的对象作用到宾语时，可以替换成than me，如果作用到主语，则不能替换成than me，否则会有歧义",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "我了解你多于了解他",
+    "translation": "I know you better than him",
+    "knowledge_point": "- 这里than him不会产生歧义，因为比较的对象作用到宾语",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "他英语说得不如你流利",
+    "translation": "He doesn't speak English as/so fluently as you(do)",
+    "knowledge_point": "- 这里涉及一个否定转移的问题，中文\"英语说的没你流利\"，否定的是【状语】\"流利\"\n- 翻译为英文后，否定语气转移到了【谓语】\"说\"上\n- 即由否定【中文状语】转而否定【英文谓语】，是一种常见的否定转移\n- 所以解析用的是doesn't speak",
+    "label": "比较状语从句"
+  },
+  {
+    "question": "新建的广场是以前的四倍大",
+    "translation": "The newly-built square is four times the size of the previous one",
+    "knowledge_point": "- 也可以说：four times as large as the previous one\n- 也可以说：four times larger than previous one\n- newly-built\n- large 更正式，在描述占地面积的话，用large才对，不能用big\n- large较big正式，通常用于正式文体。large的常用搭配里有area，也就是说在描述占地面积时，large更常用",
+    "label": "比较状语从句; newly-built; large"
+  },
+  {
+    "question": "我比他更了解你",
+    "translation": "I know you better than he does",
+    "knowledge_point": "- 字典：我理解这里better more可以互换的\n- better: adv: more; to a greater degree 更；较大程度地\n- more: adv: to a greater degree than sth else; to a greater degree than usual （程度上）更强，更多\n- 不能是better than him，我了解你多于了解他",
+    "label": "比较状语从句; better; more"
+  },
+  {
+    "question": "你对她了解得多一点就会喜欢她",
+    "translation": "You'll like her when you know her better",
+    "knowledge_point": "- better: adv: more; to a greater degree 更；较大程度地",
+    "label": "better"
+  },
+  {
+    "question": "我喜欢她多于喜欢她丈夫",
+    "translation": "I like her more than her husband",
+    "knowledge_point": "- more: adv: to a greater degree than sth else; to a greater degree than usual （程度上）更强，更多",
+    "label": "more"
+  },
+  {
+    "question": "无论发生什么，我们都不能失去信心",
+    "translation": "Whatever (No matter what) happens, we should never lose hope.",
+    "knowledge_point": "- 句子成分：让步状语从句（主谓），主谓宾\n- 这里用hope比较合适\n- 语言的理解和运用都是很灵活的，\"不能失去信心\"，如果理解为\"不能失去（对自己）的信心\"，用confidence没有问题；如果理解为\"不能失去（对事情、对未来）的信心\"，这个信心其实就等同于\"希望\"\n- confidence: [ U ] a belief in your own ability to do things and be successful 自信心；把握",
+    "label": "让步状语从句; whatever; hope"
+  },
+  {
+    "question": "不管你是谁，都不能酒驾",
+    "translation": "Whoever(No matter who) you are, you mustn't drink and drive.",
+    "knowledge_point": "- mustn't: 切不可\n- can't 本色，表示没有能力做某事\n- You mustn't aim too high 你不可好高骛远\n- You must not agree to do it. Don't weaken.\n- Judges must not be gagged. 法官绝不能被压制言论自由\n- 酒驾也可以是 drive after drinking",
+    "label": "让步状语从句; whoever; mustn't"
+  },
+  {
+    "question": "不管你到哪，我都会陪着你",
+    "translation": "Wherever you go, I will keep you company.",
+    "knowledge_point": "- company: [ U ] the fact of being with sb else and not alone 陪伴；做伴\n- keep sb company: 习语，整体构成一个意思，不进一步拆分\n- company是名词不是动词。查词典会看到keep sb company是company词条中的习语idiom，整体构成一个意思，不进一步拆分\n- 如果理解成宾补，you are company你是陪伴，和整体表达的意思（陪你）不符\n- 这里整体理解就好，了解用法和含义，不纠结成分。keep sb+名词这种用法，在词典里是没有单列出来的。keep sb company是一个常用搭配，有些常见搭配里的词的用法，可能并不一定符合它的常规用法，作整体理解就好\n- 让步状语从句很多人只知道even though/ although, 过度依赖标志词，不要注意形，而是重视意义",
+    "label": "让步状语从句; wherever; keep sb company"
+  },
+  {
+    "question": "不管下不下雨，我都会准时出发",
+    "translation": "Whether it rains or not，I will set out on time.",
+    "knowledge_point": "- set out: to leave a place and begin a journey 出发；动身；启程",
+    "label": "让步状语从句; whether; set out"
+  },
+  {
+    "question": "不论是闲是忙，她每天都要学一小时英语",
+    "translation": "She studies English for one hour every day, whether she is free or busy.",
+    "knowledge_point": "- 引导让步状语从句的连词有：",
+    "label": "让步状语从句; whether"
+  },
+  {
+    "question": "虽然她说过要打电话，可还没打",
+    "translation": "She hasn't called, even though she said she would",
+    "knowledge_point": "- even though 也有虽然的意思，只不过比Although语气更强一些\n- Even though 偏向于虽然的意思，语气更强烈，even if 是即使\n- 在口语中 even though 和even if 通常可以互换，但是even if 可以用虚拟\n- still 副词，应该是but she still hasn't",
+    "label": "让步状语从句; even though"
+  },
+  {
+    "question": "纤细的手",
+    "translation": "delicate hands",
+    "knowledge_point": "- delicate: small and having a beautiful shape or appearance 纤细的；微小的；精美的；小巧玲珑的\n- delicate feelings: delicate本来是用来实际物体的，这里修饰情感，是用了修辞手法",
+    "label": "delicate"
+  },
+  {
+    "question": "不是所有放光的都是金子",
+    "translation": "All that glitters is not gold / Not all that glitters is gold",
+    "knowledge_point": "- 把not放到all前面，Not all that glitters is gold. 感觉这么说更顺口\n- not all可以表示部分否定",
+    "label": "部分否定; glitter"
+  },
+  {
+    "question": "这可能是我们最后一次出去玩了",
+    "translation": "This may be the last time we hang out together",
+    "knowledge_point": "- 语法书里可以看到：that 有时也可以代替关系副词 when, where, how 或 why 引导定语从句,表示时间、地点或原因, that 也可以省去\n- Do you still remember the day that(when) he arrived? 你还记得他到达的那一天吗?\n- The night that (when)she left was rainy. 她离开的那天晚上下着雨。\n- She knows the place that (where) he stays. 她知道他呆在哪里。",
+    "label": "定语从句; that"
+  },
+  {
+    "question": "俗话说，省一分钱就是赚一分钱",
+    "translation": "As the saying goes, a penny saved is a penny earned",
+    "knowledge_point": "- as: conj. used to make a comment or to add information about what you have just said 正如；如同",
+    "label": "as; go"
+  },
+  {
+    "question": "看那些乌云。随时都可能开始下雨",
+    "translation": "Look at those dark clouds. It can/could start raining at any minutes. / Look at those dark clouds. It is going to start raining at any minutes.",
+    "knowledge_point": "- be going to这种结构表示\"决定、打算要做什么事, 或有迹象表明即将发生、可能会出现什么情况\"\n- 比如Look at the cloud! It's going to rain. 瞧那乌云,天要下雨了。\n- The ice is going to break! 冰就要破了!\n- The car is going to turn over. 车要翻了。\n- There is going to be a thunder-storm. 将有一场雷暴雨。\n- 情态动词表推测是对未来可能性的一种推测，从用法上来说，两者都可以",
+    "label": "be going to; can/could"
+  },
+  {
+    "question": "even if和even though带有强调的意味，语气较强",
+    "translation": "even if和even though带有强调的意味，语气较强，though和although语气较弱",
+    "knowledge_point": "- even if和even though带有强调的意味，语气较强\n- though和although语气较弱",
+    "label": "让步状语从句; even if; even though"
+  },
+  {
+    "question": "even though引导的从句往往是真实的，相当于汉语的\"虽然\"",
+    "translation": "even though引导的从句往往是真实的，相当于汉语的\"虽然\"，这时even though和though或although是可以互换使用的",
+    "knowledge_point": "- even though引导的从句往往是真实的，相当于汉语的\"虽然\"\n- 这时even though和though或although是可以互换使用的",
+    "label": "让步状语从句; even though"
+  },
+  {
+    "question": "even if 引导的从句是往往是假设性的，相当于汉语的\"即使\"\"纵然\"\"就算\"\"哪怕\"",
+    "translation": "Even if it rains tomorrow, we won't change our plan. 即使明天下雨，我们也决不改变计划。",
+    "knowledge_point": "- even if 引导的从句是往往是假设性的，相当于汉语的\"即使\"\"纵然\"\"就算\"\"哪怕\"\n- 正因为even if从句的内容通常是假设性的，所以有时还可用于虚拟语气；这样用的even if 与单独使用的if比较接近",
+    "label": "让步状语从句; even if"
+  },
+  {
+    "question": "even if 用于虚拟语气",
+    "translation": "Even if he had the money, he wouldn't buy it. （虚拟语气）他即使有钱也不会买它。",
+    "knowledge_point": "- even if 用于虚拟语气\n- 这样用的even if 与单独使用的if比较接近",
+    "label": "让步状语从句; even if; 虚拟语气"
+  },
+  {
+    "question": "even if与even though有时也可不加区别地混用",
+    "translation": "Even if [Even though] she laughs at him, he likes her. 尽管她嘲笑他，他还是很喜欢她。",
+    "knowledge_point": "- 在实际语言运用中，even if与even though有时也可不加区别地混用",
+    "label": "让步状语从句; even if; even though"
+  },
+  {
+    "question": "though比although通俗，但不如although正式",
+    "translation": "though比although通俗，但不如although正式，这两个词都可以用于表示真实的情况",
+    "knowledge_point": "- though比although通俗，但不如although正式\n- 这两个词都可以用于表示真实的情况\n- though引导的让步状语从句可以用倒装语序，但although引导的从句不到装",
+    "label": "让步状语从句; though; although"
+  },
+  {
+    "question": "though作为连词表示\"虽然；尽管；即使\"",
+    "translation": "Anne was fond of Tim, though he often annoyed her. 安妮喜欢蒂姆，虽然他经常使她心烦。",
+    "knowledge_point": "- though: conj. despite the fact that 虽然；尽管；即使",
+    "label": "让步状语从句; though"
+  },
+  {
+    "question": "though用于主句后，引出补充说明，使语气变弱",
+    "translation": "They're very different, though they did seem to get on well when they met. 他们大不相同，可是见面后好像还确实相处得不错。",
+    "knowledge_point": "- though: conj. used to add a fact or an opinion that makes the previous statement less strong or less important （用于主句后，引出补充说明，使语气变弱）不过，可是，然而",
+    "label": "让步状语从句; though"
+  },
+  {
+    "question": "though作为副词，用于句末补充说明，使语气减弱",
+    "translation": "Our team lost. It was a good game though. 我们队输了，可是这也不失为一场好球。",
+    "knowledge_point": "- though: adv. used especially at the end of a sentence to add a fact or an opinion that makes the previous statement less strong or less important （尤用于句末补充说明，使语气减弱）不过，可是，然而",
+    "label": "though"
+  },
+  {
+    "question": "while和whereas引导让步状语从句，突出对比主句和从句所表示的两种差异的情况",
+    "translation": "He is experienced while/whereas he is young.",
+    "knowledge_point": "- while，whereas引导让步状语从句\n- 突出对比主句和从句所表示的两种差异的情况",
+    "label": "让步状语从句; while; whereas"
+  },
+  {
+    "question": "whether…or (not)引导让步状语从句，提供两个对比情况",
+    "translation": "whether…or (not)提供两个对比情况，\"不管……\"",
+    "knowledge_point": "- whether…or (not)引导让步状语从句\n- 提供两个对比情况，\"不管……\"",
+    "label": "让步状语从句; whether"
+  },
+  {
+    "question": "whatever，whenever，wherever，whoever引导让步状语从句",
+    "translation": "whatever，whenever，wherever，whoever…\"无论什么，无论何时，无论何处，无论谁……\"",
+    "knowledge_point": "- whatever，whenever，wherever，whoever…引导让步状语从句\n- \"无论什么，无论何时，无论何处，无论谁……\"\n- 表示不论在什么条件下进行随意的选择",
+    "label": "让步状语从句; whatever; whenever; wherever; whoever"
   }
 ]

@@ -14,7 +14,7 @@
   {
     "question": "Monica: ok, 大家放松些，这甚至不是一个约会，这仅仅是两个人一起出去吃顿饭但不发生关系",
     "translation": "Okay, everybody relax. This is not even a date. It's just two people going out to dinner and not having sex.",
-    "knowledge_point": "- 一种解释是动名词作表语，动名词的逻辑主语\n- 我倾向于另外一种解释，表语是two people, 后面是分词作定语，going out to dinner and not having sex.\n- 即“**It is just two people**”（这只不过是两个人）。这里的“It”是形式主语，指代前面提到的“两个人约会”这件事\n- 类似的有the girl living next door， I have a business deal coming up",
+    "knowledge_point": "- 一种解释是动名词作表语，动名词的逻辑主语\n- 另外一种解释，表语是two people, 后面是分词作定语，going out to dinner and not having sex.\n- 类似的有the girl living next door， I have a business deal coming up\n- 我更倾向于前者，指代前面提到的“两个人约会”这件事，约会就是两个人的吃饭而已，没有发生性行为。（约会就是逛街而已）",
     "label": "分词作定语; ep1"
   },
   {
@@ -456,7 +456,7 @@
     "label": "steer clear of; ep2"
   },
   {
-    "question": "你明天要去见卡罗尔。什么时候变得这么复杂了？；难道我了",
+    "question": "rachel: 你明天要去见卡罗尔。什么时候变得这么复杂了？；ross: 难道我了",
     "translation": "***\\*Rachel:\\**** Oh, you've got Carol tomorrow. When did it get so complicated?",
     "knowledge_point": "- have got 不是现在完成时。这里的 **have got** 是口语中相当于 **have**（有）的固定搭配，表示“有”某个安排或责任，**不表示完成时态**。\n- **类似表达**：你可以把“You've got + [某事]”理解为一个非常有用的口语套件，意思是“你有个...事要处理”。例如：“You've got a dentist appointment at 3.”（你3点有个牙医预约。）“We've got a test next Monday.”（我们下周一有个测验。）\n- **与明确计划的区别**：如果想强调这是**一个已经制定好的计划或意图**，可能会用“be going to”结构，比如“You're going to see Carol tomorrow.”。而“You've got...”更侧重于陈述一个既定事实或责任。\n- got me 难道我了，**表示“理解”或“抓住”**：在对方解释清楚某事后，你说“You got me.”，意思是“你把我说明白了”或“你说服我了”。当然，它字面意思就是“你抓住我了”。这里表示我也回答你这个问题。",
     "label": "got me; ep2"
@@ -499,13 +499,13 @@
   },
   {
     "question": "Phoebe: 嗯，不太好。他陪我走到地铁站，说：“我们应该再来一次！”",
-    "translation": "***\\*Phoebe:\\**** Um, not so good. He walked me to the subway and said 'We should do this again!'",
+    "translation": "Um, not so good. He walked me to the subway and said 'We should do this again!'",
     "knowledge_point": "- do this again 我们应该再约\n- walk sb to someplace 陪某人走到。。",
     "label": "do this again; ep3"
   },
   {
     "question": "Chandler：“You're such a nice guy”的意思是“我要和穿着皮衣的酒鬼约会，然后向你抱怨他们”。",
-    "translation": "**Chandler:**  'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics[ˌælkəˈhɑːlɪk] and complaining about them to you'.",
+    "translation": "You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics[ˌælkəˈhɑːlɪk] and complaining about them to you'.",
     "knowledge_point": "- gonna be dating :**在可预见的未来，我将会处于一种“正在约会”的持续状态中**。它描述的不是一个短暂的瞬间动作，而是一个阶段性的情况\n- **与“will be dating”的细微差别**:“I will be dating...”也能表示将来进行，但使用“gonna”(be going to) 更侧重于表达一种**事先已有的意图或根据当前情况推断即将发生的事**。而“will”则更多表示说话时才做的决定或单纯的预测",
     "label": "leather-wearing; 将来进行时; ep3"
   },
@@ -513,7 +513,7 @@
     "question": "Joey：善意的谎言",
     "translation": "***\\*Joey:\\**** Yeah. Cushions the blow.",
     "knowledge_point": "- Cushions v. 缓冲\n- Cushions the blow. 缓冲打击\n- cushion the blow <俚>to do something that reduces harm善意的谎言\n- [eg:The way to cushion the blow is to raise prices slowly, not all at once]",
-    "label": "cushions the blow; ep3"
+    "label": "cushions the blow; blow; ep3"
   },
   {
     "question": "Chandler：是啊，就像你小时候，你的父母把你的狗狗送去安乐死，然后告诉你它跑去农场生活了。",
@@ -535,19 +535,19 @@
   },
   {
     "question": "Monica：我们支持你。我们知道了。",
-    "translation": "***\\*Monica:\\**** We're with you. We got it.",
+    "translation": "We're with you. We got it.",
     "knowledge_point": "- be with you 和你在一起，支持你\n- what's with you 你怎么了？",
     "label": "be with you; ep3"
   },
   {
     "question": "Ross：这三年你一直都很乖！",
-    "translation": "Ross：You've been so good for three years!",
+    "translation": "You've been so good for three years!",
     "knowledge_point": "",
     "label": "现在完成时; ep3"
   },
   {
     "question": "Monica：我是说，我为什么要让他们见他？我带一个人回家，不到五分钟他们就会围着他转。我是说，他们就像土狼一样，会把兽群中弱小的成员都干掉。",
-    "translation": "Monica: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like coyotes [kaɪˈoʊti], picking off the weak members of the herd [hɜːrd].",
+    "translation": "mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like coyotes [kaɪˈoʊti], picking off the weak members of the herd [hɜːrd].",
     "knowledge_point": "- all over sb1.  围绕着转，这里就是这个意思。\n- all over sb2.  非常喜欢...，着迷，因为喜欢得不得了，所以恨不得扑上去贴着 eg:I'm all over you.我對你非常地著迷.= I have a crush on you. 这二句都是表达很喜欢某人的意思.\n- All over somebody 3. 還有一個很常用的用法, 我把他翻成 \"三貼\" 比如說你去舞廳跳舞, 看到有一對男女跳到三點都貼在一起了, 你就可以跟你的同伴說, Hey, look, the guy is dancing all over the girl.\n- 一字之差但是意思完全不同喔. 你要是說 I'm over you, 就是說我跟你之間完了, 我不想再和你有任何的瓜葛\n- coyotes[kaɪˈoʊti]郊狼\n- herd [hɜːrd] 兽群",
     "label": "all over sb; ep3"
   },
@@ -782,8 +782,8 @@
   {
     "question": "Rachel's friend：既然我们说到八卦了…",
     "translation": "And while we're on the subject of news..",
-    "knowledge_point": "",
-    "label": "on the subject of; ep4"
+    "knowledge_point": "- while：used to suggest that sb could do sth while they are doing sth else 趁做某事的时候；顺便；顺带\n- ‘I'm just going to buy some postcards.’ ‘Can you get me some stamps while you're at it?’ “我正想去买明信片。”“你能顺便给我买些邮票吗？”",
+    "label": "on the subject of; while; ep4"
   },
   {
     "question": "Joey：-利奇在球门区处发现了梅西耶-传球！",
@@ -794,8 +794,8 @@
   {
     "question": "Chandler:我们休息一会儿, 梅西耶停下来看几双女鞋-",
     "translation": "We'll take a brief time out while Messier stops to look at some women's shoes.",
-    "knowledge_point": "",
-    "label": "ep4"
+    "knowledge_point": "- time out 暂停；超时",
+    "label": "time out; ep4"
   },
   {
     "question": "Rachel: 来吧，伙计们，告诉我所有的内幕！",
@@ -806,8 +806,8 @@
   {
     "question": "Rachel's friend:最大的新闻还是你在婚礼上甩了巴瑞！",
     "translation": "Well, the biggest news is still you dumping Barry at the altar [ˈɔːltər]!",
-    "knowledge_point": "- dump\n- altar[ˈɔːltər]教堂",
-    "label": "dump; ep4"
+    "knowledge_point": "- dump\n- altar[ˈɔːltər]教堂\n- 这里可以理解为动名词复合结构，也可以理解外分词作定语。我更倾向于前者。因为主语是news, 新闻你甩了barry这件事。",
+    "label": "dump; 动名词的复合结构; ep4"
   },
   {
     "question": "Rachel's friend: 好吧。让我们谈一谈现实吧。",
@@ -895,26 +895,26 @@
   },
   {
     "question": "Ross：我是橡皮，你是胶水，无论你说什么，都会从我身上反弹回来，粘在你身上。",
-    "translation": "I’m rubber，you’re glue，whatever you say bounces[ˈbaʊnsɪz] off me and stick to you",
+    "translation": "I’m rubber，you’re glue，whatever you say bounces[ˈbaʊnsɪz] off me and sticks to you",
     "knowledge_point": "- 童谣，儿童吵架的话语",
     "label": "bounces off; ep4"
   },
   {
     "question": "Ross：没什么大不了的？令人惊奇的。你把手伸进去，做个小动作，砰的一声，胸罩就从袖子里出来了。好吧，在我看来，一个男人所能做的一切都无法与之相比。我说的对吗？",
-    "translation": "Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?",
-    "knowledge_point": "- maneuver n.<法>策略 谋略 花招[eg:The prime minister thwarted(vt.反对) the opposition's maneuver to gain control of the government]\n- bam int.突然一下子\n- sleeve n.袖子\n- as far as I'm concerned adv.就我而言",
+    "translation": "Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver[məˈnuːvər], and bam[bæm, a bra right out the sleeve [sliːv]. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?",
+    "knowledge_point": "- maneuver n.<法>策略 谋略 花招[eg:The prime minister thwarted(vt.反对) the opposition's maneuver to gain control of the government]\n- bam  int.突然一下子\n- sleeve n.袖子\n- as far as I'm concerned adv.就我而言\n- come close: 指与某物相似或达到预期的程度",
     "label": "ep5"
   },
   {
     "question": "Joey：你知道什么让我大吃一惊吗？女人可以随时看到乳房。我不知道你是怎么完成工作的。",
     "translation": "Ok, you know what blows my mind? Women can see breasts any time they want. How you get any work done is beyond me.",
-    "knowledge_point": "- blow one's mind使某人感到兴奋\n- be beyond sb某件事使某人难以理解",
-    "label": "anytime; blows my mind; ep5"
+    "knowledge_point": "- blow one's mind使某人感到兴奋和吃惊\n- ( *informal* ) to produce a very strong pleasant or shocking feeling 使某人兴奋（或吃惊）\n- eg: Wait till you hear this. It'll blow your mind. 等着听听这个吧。它会让你大感意外的。\n- mind-blowing:( *informal* ) very exciting, impressive or surprising 非常令人兴奋的；给人印象极深的；非常令人吃惊的\n- Watching your baby being born is a mind-blowing experience. 看你的孩子出生是一次非常难忘的经历\n- be beyond sb某件事使某人难以理解",
+    "label": "anytime; blow my mind; ep5"
   },
   {
     "question": "Chandler：我觉得她会觉得我们联合起来对付她",
     "translation": "I think she'd feel like we're ganging [ˈɡæŋɪŋ] up on her",
-    "knowledge_point": "- gang up on sb v.联合反对",
+    "knowledge_point": "- gang up on sb v.联合反对\n- she'd feel like 是show would feel like, 这里诸句是对将来的虚拟（从句是If we gang up on her)",
     "label": "gang up on sb; ep5"
   },
   {
@@ -925,7 +925,7 @@
   },
   {
     "question": "Rachel：是我爸爸。他想送我一辆奔驰敞篷车。",
-    "translation": "It's my father. He wants to give me a Mercedes convertible[kənˈvɜːrtəb(ə)l].",
+    "translation": "It's my father. He wants to give me a Mercedes [məˈsɪdiz] convertible[kənˈvɜːrtəb(ə)l].",
     "knowledge_point": "- convertible 1. adj. 可转换的，可兑换的\n- convertible 1. adj. 活动顶篷式汽车",
     "label": "convertible; ep5"
   },
@@ -933,49 +933,49 @@
     "question": "Ross：那家伙真让我火冒三丈。",
     "translation": "That guy, he burns me up.",
     "knowledge_point": "",
-    "label": "ep5"
+    "label": "burn up; ep5"
   },
   {
     "question": "Rachel：哦，是的，是的。实际上，我要的是迪斯科加长版，里面有三声合唱“你永远不会靠自己成功”。",
-    "translation": "***\\*Rachel:\\**** Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\".",
-    "knowledge_point": "",
-    "label": "ep5"
+    "translation": "Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses [ˈkɔːrəs] of \"You'll never make it on your own\".",
+    "knowledge_point": "- chorus [ˈkɔːrəs]  副歌",
+    "label": "chorus; ep5"
   },
   {
     "question": "Monica：哇，被你甩了显然对她来说很合适。",
-    "translation": "***\\*Monica:\\**** Wow, being dumped by you obviously agrees with her.",
+    "translation": "Wow, being dumped by you obviously agrees with her.",
     "knowledge_point": "- “Agrees with her”本指“适合某人”，此处暗指“分手反而让我容光焕发”",
     "label": "ep5"
   },
   {
     "question": "Rachel：哦，魅力之夜。我和莫妮卡在自助洗衣店。",
-    "translation": "***\\*Rachel:\\**** Oh, big glamour night. Me and Monica at laundromat [ˈlɔːndrəmæt].",
+    "translation": "Oh, big glamour[ˈɡlæmər] night. Me and Monica at laundromat [ˈlɔːndrəmæt].",
     "knowledge_point": "- glamour n.魅力 诱惑力[eg:The moonlight cast a glamour over the scene]",
     "label": "ep5"
   },
   {
     "question": "Ross：-你想听一个奇怪的巧合吗？猜猜谁也在那儿洗衣服？",
-    "translation": "***\\*Ross:\\**** Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+    "translation": "Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
     "knowledge_point": "",
     "label": "ep5"
   },
   {
     "question": "Ross: 是的，我的楼里确实有一间洗衣房，但是有老鼠的问题。显然它们被烘干机的床单吸引了，它们进去的时候很好，出来的时候却毛茸茸的。不管怎样，七点怎么样？",
-    "translation": "***\\*Ross:\\**** Yes, I do have a laundry room in my building, um, but there's a rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all fluffy. Anyway, say sevenish?",
+    "translation": "Yes, I do have a laundry room in my building, um, but there's a rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all fluffy. Anyway, say sevenish?",
     "knowledge_point": "- A be attracted to B A对B有兴趣\n- dryer n.干燥剂\n- fluffy adj.绒毛(状)的 毛茸茸的[eg:Newly hatched chicks are like fluffy balls]\n- sevenish<俚>七点左右的样子",
     "label": "ep5"
   },
   {
     "question": "Angela：鲍勃很棒。他很聪明，很老练，而且他有份正经工作。你一个月试镜三次，还自称是演员，",
-    "translation": "***\\*Angela:\\**** Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions[ɔːˈdɪʃ(ə)n] a month and you call yourself an actor,",
+    "translation": "Bob is great. He's smart, he's sophisticated[səˈfɪstɪkeɪtɪd], and he has a real job. You, you go on three auditions[ɔːˈdɪʃ(ə)n] a month and you call yourself an actor,",
     "knowledge_point": "",
-    "label": "ep5"
+    "label": "sophisticated; ep5"
   },
   {
     "question": "Monica：算了吧。尤其是你那个会打嗝的表弟",
-    "translation": "***\\*Monica:\\**** Forget it. Not after your cousin who could belch [beltʃ] the alphabet [ˈælfəbet].",
+    "translation": "Forget it. Not after your cousin who could belch [beltʃ] the alphabet [ˈælfəbet].",
     "knowledge_point": "",
-    "label": "ep5"
+    "label": "belch; alphabet; ep5"
   },
   {
     "question": "Chandler：哦。等等，露营者，你确定你想清楚了吗？",
@@ -985,37 +985,37 @@
   },
   {
     "question": "Janice：天啊，真高兴你打电话给我。我度过了最糟糕的一天",
-    "translation": "Oh, my god, I am so glad you called me. I had the most supremely awful day.",
-    "knowledge_point": "",
-    "label": "ep5"
+    "translation": "Oh, my god, I am so glad you called me. I had the most supremely[suːˈpriːmli] awful day.",
+    "knowledge_point": "- supremely[suːˈpriːmli] extremely 极其；极为\n- supremely confident 信心十足",
+    "label": "supremely; ep5"
   },
   {
-    "question": "Janice：我们拿到了那张照片的校样，你知道的，有小蔬菜的那张。不管怎么说，它们都很糟糕，所以，我把那天剩下的时间都打发掉了，我去购物了……（翻看她的包）……我找到你了，我在找，我在找，我在找，我找到你了……",
-    "translation": "We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...(looks through her bags)... and I got you, I'm looking, I'm looking, I'm looking, I got you...",
-    "knowledge_point": "",
+    "question": "Janice：我们拿到了那张照片的校样，你知道的，有小蔬菜的那张。不管怎么说，它们都很糟糕，所以，我把那天剩下的时间都打发掉了，我去购物了……（翻看她的包）……我给你买了.....",
+    "translation": "We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... and I got you..",
+    "knowledge_point": "- photo shoot 摄影活动\n- proof 证据，校样\n- suck [sʌk] 糟糕\n- blow off 理睬，忽视：拒绝注意、尊重或处理某事物；打发",
     "label": "ep5"
   },
   {
     "question": "Janice：你可以混搭（袜子），驼鹿和松鼠。你要什么都行",
     "translation": "you can mix and match, moose [muːs] and squirrel[ˈskwɜːrəl]. Whatever you want.",
-    "knowledge_point": "",
+    "knowledge_point": "- mix and match混搭",
     "label": "mix and match; ep5"
   },
   {
     "question": "Phoebe：好吧，你不在场。（站着说话不腰疼）",
-    "translation": "***\\*Phoebe:\\**** Ok, you weren't there.",
+    "translation": "Ok, you weren't there.",
     "knowledge_point": "",
     "label": "figure of speech; ep5"
   },
   {
     "question": "Rachel：太神奇了。我连汤都送不回去。",
-    "translation": "***\\*Rachel:\\**** That was amazing. I can't even send back soup.",
+    "translation": "That was amazing. I can't even send back soup.",
     "knowledge_point": "- 直译为“退回汤”，指在餐厅因对菜品不满（如汤太咸或冷掉）而要求退换的行为。\n- **文化映射**：在美式消费文化中，退菜是消费者基本权利，但性格怯懦者常因怕冲突而不敢行使",
     "label": "figure of speech; ep5"
   },
   {
     "question": "Ross：（洗衣液）它是新的，德国产的，非常结实。",
-    "translation": "***\\*Ross:\\****It's new, it's German, it's extra-tough.",
+    "translation": "It's new, it's German, it's extra-tough.",
     "knowledge_point": "",
     "label": "ep5"
   },
@@ -1028,18 +1028,18 @@
   {
     "question": "Ross：那就见仁见智了",
     "translation": "(visibly nervous) Uh, that, that, that would be a judgment call.",
-    "knowledge_point": "- visibly[ˈvɪzəbli] adv.显然地\n- a judgment call:他意思是内衣算白的，还是算精细衣物，就要看你自己的标准，自己判断作决定了",
+    "knowledge_point": "- visibly[ˈvɪzəbli] adv.显然地\n- a judgment call:他意思是内衣算白的，还是算精细衣物，就要看你自己的标准，自己判断作决定了\n- call：[ C ] ( *informal* ) a decision 决定\n- a good/bad call 正确的╱不恰当的决定\n- It's your call! 那是你的决定！\n- That's a tough call. 那是个艰难的决定。",
     "label": "ep5"
   },
   {
     "question": "Monica: 能遇到一个聪明又有趣的人真是太好了，而且情感年龄超过了八岁。",
     "translation": "It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.",
-    "knowledge_point": "",
-    "label": "ep5"
+    "knowledge_point": "- 剧中Monica用“**beyond, like eight**”（超过8岁）调侃男性普遍情感幼稚的现象，暗示Bob的心理年龄“超过8岁”已属难得",
+    "label": "emotional age beyond eight.; 形容词作定语; ep5"
   },
   {
     "question": "Monica：我哥哥甚至都没告诉我他什么时候失去了第一次",
-    "translation": "Wow. My brother never even told me when he lost his virginity.",
+    "translation": "Wow. My brother never even told me when he lost his virginity[vərˈdʒɪnəti].",
     "knowledge_point": "- virginity [vərˈdʒɪnəti]",
     "label": "ep5; virginity"
   },
@@ -1052,7 +1052,7 @@
   {
     "question": "Rachel：但事实并非如此。这发生在我身上。天啊，我看起来会像个大棉花糖。我父亲说得对。我一个人活不下去！我甚至不会洗衣服",
     "translation": "Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. My father's right. I can't live on my own! I can't even do laundry!",
-    "knowledge_point": "- “**Except it didn't. It happened to me.**”（只是它没发生在别人身上，而是发生在我身上）。\n- “Except”在此作连词，表**排除性转折**，意为“除了…之外”，实际暗含“**但事实并非如此**”的否定意味。\n- “didn't”为省略结构，完整句为“**except it didn't happen to anyone else**”，通过省略强化了反驳的尖锐感。\n- “Except it didn't”是典型口语化反驳，类似“**But in reality...**”。相比正式否定（如“That's not true”），这种结构更突出**情感代入**与**主观视角**，贴合Rachel当时情绪化状态。",
+    "knowledge_point": "- “**Except it didn't. It happened to me.**”（只是它没发生在别人身上，而是发生在我身上）。\n- “Except”在此作连词，表**排除性转折**，意为“除了…之外”，实际暗含“**但事实并非如此**”的否定意味。\n- “didn't”为省略结构，完整句为“**except it didn't happen to anyone else**”，通过省略强化了反驳的尖锐感。\n- “Except it didn't”是典型口语化反驳，类似“**But in reality...**”。相比正式否定（如“That's not true”），这种结构更突出**情感代入**与**主观视角**，贴合Rachel当时情绪化状态。\n- 这句话的核心意象 **“Marshmallow Peep”** 是一种在美国非常流行的复活节糖果。通常是小鸡或小兔子造型，颜色鲜艳（如粉色、黄色），外表撒有糖粒，质地蓬松\n- **夸张的自嘲**：Peep 棉花糖，糖果本身造型就有点傻乎乎的，加上“big”这个前缀，更放大了这种滑稽感，突出她觉得自己样子会非常可笑、很丢脸。",
     "label": "ep5"
   },
   {
@@ -1170,7 +1170,7 @@
     "label": "how do you think; figure of speech; ep6"
   },
   {
-    "question": "Chandler：",
+    "question": "Chandler：跟我解释一下，如果你已经有了丈夫和男朋友你觉得我们的关系会是怎样的？",
     "translation": "So explain something to me here, uh, what kind of a relationship do you imagine us having if you already have a husband and a boyfriend?",
     "knowledge_point": "",
     "label": "sexual; ep6"
@@ -1197,23 +1197,23 @@
     "question": "Monica：我是说，这太扭曲了！你怎么能和这样的女人在一起？",
     "translation": "I mean, this is twisted! How could you get involved with a woman like this?",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "get involved with; ep6"
   },
   {
     "question": "Chandler：嗯，你知道，一开始我也有一些困扰，但我现在的看法是，我得到了所有好的东西：所有的乐趣，所有的谈话，所有的性；而没有责任。我是说，这是每个男人的梦想！",
     "translation": "Well, y'know, I had some trouble with it at first too, but the way I look at,it is I get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility. I mean, this is every guy's fantasy!",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "the way I look at; fantasy; ep6"
   },
   {
     "question": "Monica：是的，这很有趣……但是你知道吗？为了好玩，让我们看看它在原来的位置是什么样子。（她移动了它。）好吧，比较一下。让我们看看。嗯，那里看起来也不错。我们先把它放一段时间。",
     "translation": "Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. (She moves it.) Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "spot; ep6"
   },
   {
     "question": "Rachel：好吧，你让我去杂货店买东西，我买了洗衣粉，但不是那种容易倒的。",
-    "translation": "Okay, uh, you let me go grocery shopping, and I buy laundry detergent, but it's not the one with the easy-pour spout.",
+    "translation": "Okay, uh, you let me go grocery[ˈɡroʊsəri] shopping, and I buy laundry detergent[dɪˈtɜːrdʒənt], but it's not the one with the easy-pour[pɔːr] spout [spaʊt].",
     "knowledge_point": "",
     "label": "ep6"
   },
@@ -1221,42 +1221,42 @@
     "question": "Monica：为什么会有人这么做？！…有人可能会问。",
     "translation": "Why would someone do that?! ...One might wonder.",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "One might wonder; ep6"
   },
   {
     "question": "Chandler：有人把杯子落在咖啡桌上了。没有杯垫。这是冷饮，天气又热。凝结的小珠子慢慢地靠近木头的表面。",
     "translation": "Someone's left a glass on the coffee table. There's no coaster. It's a cold drink, it's a hot day. Little beads of condensation are inching their way closer and closer to the surface of the wood..",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "inch; ep6"
   },
   {
     "question": "Phoebe：说真的，演什么角色？",
     "translation": "Seriously, what's the part?",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "part; ep6"
   },
   {
     "question": "Joey：好吧!开玩笑吧，我不在乎！这对我来说是个大突破！",
     "translation": "Fine! Make jokes, I don't care! This is a big break for me!",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "a big break for sb; ep6"
   },
   {
     "question": "Chandler：我知道在未来的岁月里，我会后悔问过以下问题：但是……安德鲁是谁？",
-    "translation": "I know there'll be many moments in the years to come when I'll regret asking the following question: but... and Andrew is?",
+    "translation": "I know there'll be many moments in the years to come when I'll regret asking the following question: but... Andrew is?",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "定语从句; ep6"
   },
   {
     "question": "Aurora：为什么我们不能保持现在的状态呢？为什么我们就不能聊天、欢笑、做爱，而不觉得对彼此负有义务呢？直到今晚我还以为那也是你想要的",
-    "translation": "Why can't we just have what we have now? Why can't we just talk, and laugh, and make love, without feeling obligated to one another... and up until tonight I thought that's what you wanted too.",
+    "translation": "Why can't we just have what we have now? Why can't we just talk, and laugh, and make love, without feeling obligated['ɔbligeitid] to one another... and up until tonight I thought that's what you wanted too.",
     "knowledge_point": "",
-    "label": "ep6"
+    "label": "obligated; ep6"
   },
   {
     "question": "Rachel：真的吗?就这么随意地乱扔吗？",
     "translation": "",
     "knowledge_point": "",
-    "label": "ep6; ep6; ep6; ep6; ep6; ep6"
+    "label": "strew; ep6; ep6; ep6; ep6; ep6; ep6"
   }
 ]

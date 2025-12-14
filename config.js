@@ -32,7 +32,7 @@ const CONFIG = {
         },
         // 可追加更多题库：
         grammarpoint2_order: { 
-            name: '语法题库3-时态篇-顺序模式', 
+            name: '语法题库2-时态篇-顺序模式', 
             url: 'assets/data/grammarpoint_lowerpart_order.json',
             outline: 'assets/data/grammarpoint_all_box_outline.md',
             labelSortOrder: 'default'
